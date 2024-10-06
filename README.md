@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Supabase (YC S20) Is Hiring a Product Marketer (Remote)](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16)
-- Oct 06 - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
-- Oct 06 - [Satoshi Nakamoto identity revealed? HBO claims it](https://twitter.com/WatcherGuru/status/1841901176562094484)
-- Oct 06 - [Musician Charged with $10M Music Streaming Fraud Aided by AI](https://www.justice.gov/usao-sdny/pr/north-carolina-musician-charged-music-streaming-fraud-aided-artificial-intelligence)
-- Oct 06 - [Mathematical Writing Style Guide for Stanford EE 364B [pdf] (2014)](https://web.stanford.edu/class/ee364b/latex_templates/template_notes.pdf)
+- Oct 06 - [The Medieval Masterpiece, the Book of Kells, Now Digitized and Available Online](https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html)
+- Oct 06 - [Meta Is Probably Training AI on Images Taken by Meta Ray-Bans](https://www.macrumors.com/2024/10/01/meta-ray-bans-ai-training/)
+- Oct 06 - [Fluoride in Our Drinking Water May Not Be as Useful as It Used to Be](https://gizmodo.com/fluoride-in-our-drinking-water-may-not-be-as-useful-as-it-used-to-be-2000507454)
+- Oct 06 - ['Students who use AI as a crutch don't learn anything'](https://english.elpais.com/technology/2024-10-03/ethan-mollick-analyst-students-who-use-ai-as-a-crutch-dont-learn-anything.html)
+- Oct 06 - [WiFi4EU initiative provides free Wi-Fi in public spaces across Europe](https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en)
 <!--END_SECTION:hn-->
 
 <!--
