@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/)
+- Oct 07 - [Bringing Back the Turboc Colorscheme](https://github.com/ikouchiha47/turboc.nvim)
+- Oct 07 - [Show HN: Instant HTML Preview Bookmarklet](https://gist.github.com/rmtbb/e42d870a59a7f98091e734674831072b)
+- Oct 07 - [How do HTTP servers figure out Content-Length?](https://aarol.dev/posts/go-contentlength/)
 - Oct 07 - [Nintendo isn't just attacking emulators [video]](https://www.youtube.com/watch?v=sk6MK5Wpx4o)
 - Oct 07 - [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
-- Oct 07 - [Smolderingly Fast B-Trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
-- Oct 07 - [Octothorpes: Hashtags for the Open Internet](https://octothorp.es/docs)
 <!--END_SECTION:hn-->
 
 <!--
