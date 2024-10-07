@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Oct 07 - [The new CSS property that boosts your rendering performance](https://web.dev/articles/content-visibility)
-- Oct 07 - [ByteDance’s Bytespider is scraping at much higher rates than other platforms](https://fortune.com/2024/10/03/bytedance-tiktok-bytespider-scraper-bot/)
-- Oct 07 - [Show HN: Visualization of website accessibility tree](https://chromewebstore.google.com/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck)
-- Oct 07 - [The Nobel Prize in Physiology or Medicine 2024](https://www.nobelprize.org/prizes/medicine/2024/summary/)
+- Oct 07 - [Every change breaks someone's workflow](https://xkcd.com/1172/)
+- Oct 07 - [Building a Single-Page App with Htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
+- Oct 07 - [Geico car insurance may no longer cover Tesla Cybertrucks](https://tribune.com.pk/story/2501263/geico-car-insurance-may-no-longer-cover-tesla-cybertrucks)
+- Oct 07 - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
+- Oct 07 - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 <!--END_SECTION:hn-->
 
 <!--
