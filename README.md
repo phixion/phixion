@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Every change breaks someone's workflow](https://xkcd.com/1172/)
-- Oct 07 - [Building a Single-Page App with Htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
-- Oct 07 - [Geico car insurance may no longer cover Tesla Cybertrucks](https://tribune.com.pk/story/2501263/geico-car-insurance-may-no-longer-cover-tesla-cybertrucks)
-- Oct 07 - [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
-- Oct 07 - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
+- Oct 07 - [Sam Altman Goes Full Emperor](https://nonzero.substack.com/p/sam-altman-goes-full-emperor)
+- Oct 07 - [Is AWS S3 having an outage?](https://news.ycombinator.com/item?id=41770111)
+- Oct 07 - [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores)
+- Oct 07 - [Wigle.net: All the Networks. Found by Everyone](https://wigle.net/)
+- Oct 07 - [US antitrust case against Amazon to move forward](https://www.reuters.com/technology/us-antitrust-case-against-amazon-move-forward-2024-10-07/)
 <!--END_SECTION:hn-->
 
 <!--
