@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Taiwan Makes the World's Computer Chips. Now It's Running Out of Electricity](https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/)
-- Oct 06 - [The X-Files Game](https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/)
-- Oct 06 - [How to Stop Advertisers from Tracking Your Teen Across the Internet](https://www.eff.org/deeplinks/2024/09/how-stop-advertisers-tracking-your-teen-across-internet)
-- Oct 06 - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
-- Oct 06 - [Gleam Is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
+- Oct 06 - [Stop Gaslighting Me: AI Won't Replace Human Devs Anytime Soon](https://twitter.com/skeptrune/status/1843060221494895058)
+- Oct 06 - [Sq.io: jq for databases and more](https://sq.io)
+- Oct 06 - [Hyprland 0.44](https://hyprland.org/news/update44/)
+- Oct 06 - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
+- Oct 06 - [UpCodes (YC S17) is hiring recruiters to build out remote team](https://up.codes/careers?utm_source=HN)
 <!--END_SECTION:hn-->
 
 <!--
