@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Witches Around the World](https://aeon.co/essays/the-universal-belief-in-witches-reveals-our-deepest-fears)
-- Oct 07 - [uBlock Origin supports filtering CNAME cloaking sites on Firefox now](https://github.com/gorhill/uBlock/commit/6acf97bf51)
+- Oct 08 - [You're holding your AI wrong](https://cdibona.substack.com/p/youre-holding-your-ai-wrong)
+- Oct 08 - [FTX creditors will make money on bankruptcy](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
+- Oct 08 - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- Oct 08 - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
 - Oct 07 - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
-- Oct 07 - [Gunter's Space Page](https://space.skyrocket.de/index.html)
-- Oct 07 - [Who's a Good Boy? A Puppy Linux Mini-Review](https://bbbhltz.codeberg.page/blog/2024/09/puppylinux/)
 <!--END_SECTION:hn-->
 
 <!--
