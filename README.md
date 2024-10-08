@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote)](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
-- Oct 08 - [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
+- Oct 08 - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
+- Oct 08 - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
 - Oct 08 - [Engineering Geology of the BART System (2000)](http://sonic.net/~mly/www.geolith.com/bart/)
-- Oct 08 - [Mexico revives century-old railway in $2.8B bid to rival Panama Canal (2023)](https://www.ft.com/content/bbe8e851-e9f2-4ed1-a4a7-051a670b40e0)
-- Oct 08 - [Show HN: Running Game Boy ROMs on the STM32 ARM Cortex Microcontroller](https://github.com/jnz/stm32boy)
+- Oct 08 - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
+- Oct 08 - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 <!--END_SECTION:hn-->
 
 <!--
