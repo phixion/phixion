@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
+- Oct 08 - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
 - Oct 08 - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
+- Oct 08 - [Differential Transformer](https://arxiv.org/abs/2410.05258)
 - Oct 08 - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
-- Oct 08 - [Engineering Geology of the BART System (2000)](http://sonic.net/~mly/www.geolith.com/bart/)
-- Oct 08 - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
-- Oct 08 - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 <!--END_SECTION:hn-->
 
 <!--
