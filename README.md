@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
-- Oct 08 - [The Nazi of Oak Park](https://www.chicagomag.com/chicago-magazine/september-2024/the-nazi-of-oak-park/)
-- Oct 08 - [Roame (YC S23) Is Hiring](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer)
-- Oct 08 - [Differential Transformer](https://arxiv.org/abs/2410.05258)
-- Oct 08 - [Nobel Prize in Physics Awarded for Machine Learning and Neural Networks](https://www.nobelprize.org/prizes/physics/2024/summary/)
+- Oct 08 - [End of the Road for Google Drive in Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
+- Oct 08 - [How to Delete Your 23andMe Data Amid the Company's Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
+- Oct 08 - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
+- Oct 08 - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
+- Oct 08 - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
 <!--END_SECTION:hn-->
 
 <!--
