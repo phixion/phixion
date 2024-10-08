@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [You're holding your AI wrong](https://cdibona.substack.com/p/youre-holding-your-ai-wrong)
-- Oct 08 - [FTX creditors will make money on bankruptcy](https://www.cnbc.com/2024/10/07/ftx-bankruptcy-judge-approves-more-than-14-billion-payback-plan.html)
-- Oct 08 - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-- Oct 08 - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
-- Oct 07 - [Is the attack helicopter dead?](https://hushkit.net/2024/10/07/is-the-attack-helicopter-dead/)
+- Oct 08 - [SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote)](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu)
+- Oct 08 - [Ask HN: Good Online Maths Communities?](https://news.ycombinator.com/item?id=41774252)
+- Oct 08 - [Engineering Geology of the BART System (2000)](http://sonic.net/~mly/www.geolith.com/bart/)
+- Oct 08 - [Mexico revives century-old railway in $2.8B bid to rival Panama Canal (2023)](https://www.ft.com/content/bbe8e851-e9f2-4ed1-a4a7-051a670b40e0)
+- Oct 08 - [Show HN: Running Game Boy ROMs on the STM32 ARM Cortex Microcontroller](https://github.com/jnz/stm32boy)
 <!--END_SECTION:hn-->
 
 <!--
