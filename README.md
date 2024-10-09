@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
-- Oct 09 - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
-- Oct 09 - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
-- Oct 09 - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
-- Oct 09 - [What Is LibreDrive](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
+- Oct 09 - [3Blue1Brown: Animated Math](https://www.3blue1brown.com/)
+- Oct 09 - [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
+- Oct 09 - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
+- Oct 09 - [A free and open internet shouldn't come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
+- Oct 09 - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
 <!--END_SECTION:hn-->
 
 <!--
