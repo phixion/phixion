@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 08 - [Muah.AI - 1,910,261 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Muah)
 - Oct 05 - [Switch - 5,397 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Switch)
 - Oct 01 - [BudTrader - 2,721,185 breached accounts](https://haveibeenpwned.com/PwnedWebsites#BudTrader)
 - Sep 30 - [Central Tickets - 722,860 breached accounts](https://haveibeenpwned.com/PwnedWebsites#CentralTickets)
 - Sep 23 - [GameVN - 1,369,485 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GameVN)
-- Sep 19 - [HuntStand - 2,795,947 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HuntStand)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [End of the Road for Google Drive in Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
-- Oct 08 - [How to Delete Your 23andMe Data Amid the Company's Turmoil](https://lifehacker.com/health/how-to-delete-23andme-data)
-- Oct 08 - [Lead Drinking-Water Pipes Must Be Replaced Nationwide, EPA Says](https://www.nytimes.com/2024/10/08/climate/biden-epa-lead-pipes.html)
-- Oct 08 - [Show HN: Winamp and other media players, rebuilt for the web with Web Components](https://player.style)
-- Oct 08 - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
+- Oct 08 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
+- Oct 08 - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
+- Oct 08 - [Instant (YC S22) is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
+- Oct 08 - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
+- Oct 08 - [Lunar Lake's iGPU: Debut of Intel's Xe2 Architecture](https://chipsandcheese.com/p/lunar-lakes-igpu-debut-of-intels)
 <!--END_SECTION:hn-->
 
 <!--
