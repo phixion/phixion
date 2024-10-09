@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [3Blue1Brown: Animated Math](https://www.3blue1brown.com/)
-- Oct 09 - [Ask HN: What is your opinion on Open BSD?](https://news.ycombinator.com/item?id=41786146)
-- Oct 09 - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
-- Oct 09 - [A free and open internet shouldn't come at the expense of privacy](https://blog.mozilla.org/en/mozilla/digital-advertising-privacy/)
-- Oct 09 - [Show HN: I made an SSH tunnel manager to learn Go](https://github.com/alebeck/boring)
+- Oct 09 - [An n-ball Between n-balls](https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls)
+- Oct 09 - [Future of .io domains uncertain as UK hands over Chagos islands](https://domainincite.com/30395-future-of-io-domains-uncertain-as-uk-hands-over-chagos-islands)
+- Oct 09 - [Show HN: Itineraries.io – I built a joint trip planner in between surgeries](https://itineraries.io)
+- Oct 09 - [PEP 760: No more bare excepts](https://discuss.python.org/t/pep-760-no-more-bare-excepts/67182)
+- Oct 09 - [For ranchers in Costa Rica, jaguars and pumas become unexpected allies](https://news.mongabay.com/2024/10/for-ranchers-in-costa-rica-jaguars-and-pumas-become-unexpected-allies/)
 <!--END_SECTION:hn-->
 
 <!--
