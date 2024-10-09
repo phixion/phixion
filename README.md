@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Emoji as a Favicon Using SVG](https://css-tricks.com/emoji-as-a-favicon/)
-- Oct 08 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/)
-- Oct 08 - [Don't let dicts spoil your code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/)
-- Oct 08 - [Practices of Reliable Software Design](https://entropicthoughts.com/practices-of-reliable-software-design)
-- Oct 08 - [Instant (YC S22) is hiring a founding engineer to help build a modern Firebase](https://news.ycombinator.com/item?id=41781768)
+- Oct 09 - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
+- Oct 09 - [Why the ISO format has to die](https://easyos.org/about/why-the-iso-format-has-to-die.html)
+- Oct 09 - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
+- Oct 09 - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
+- Oct 09 - [What Is LibreDrive](https://forum.makemkv.com/forum/viewtopic.php?t=18856)
 <!--END_SECTION:hn-->
 
 <!--
