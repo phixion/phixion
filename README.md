@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Author and Aviator](https://literaryreview.co.uk/author-aviator)
-- Oct 10 - [The path to GM: some thoughts on becoming a general manager](https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager)
-- Oct 10 - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
-- Oct 10 - [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
-- Oct 10 - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
+- Oct 10 - [Unity Editor Software Terms Update: Runtime Fee Cancellation Follow-up](https://unity.com/blog/terms-update-runtime-fee-cancellation)
+- Oct 10 - [Five days a week in the office? Forget it](https://www.computerworld.com/article/3552604/five-days-a-week-in-the-office-forget-it.html)
+- Oct 10 - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
+- Oct 10 - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
+- Oct 10 - [G4 (Severe) Geomagnetic Storming Observed](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed-0)
 <!--END_SECTION:hn-->
 
 <!--
