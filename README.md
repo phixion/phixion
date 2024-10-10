@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [The Case for Web Components: A Simpler, Framework-Free Future for the Web](https://blog.lnear.dev/the-case-for-web-components/)
-- Oct 09 - [You Don't Know Jack about Bandwidth](https://cacm.acm.org/practice/you-dont-know-jack-about-bandwidth/)
-- Oct 09 - [Why Gov.uk's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
-- Oct 09 - [Upgrading Homebrew and avoiding the "failed to verify attestation" error](https://til.simonwillison.net/homebrew/no-verify-attestations)
-- Oct 09 - [Internet Archive: Security breach alert](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+- Oct 10 - [Bankrupt Fisker says it can't migrate its EVs to a new owner's server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
+- Oct 10 - [Electric vehicle safety via crash test](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
+- Oct 10 - [Being generous, thoughtful, and kind is a sign of high intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
+- Oct 10 - [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
+- Oct 10 - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 <!--END_SECTION:hn-->
 
 <!--
