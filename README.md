@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
-- Oct 10 - [Nixiesearch: Running Lucene over S3, and why we're building a new search engine](https://nixiesearch.substack.com/p/nixiesearch-running-lucene-over-s3)
-- Oct 10 - [Scrum's "Product Owner" Problem – By Adam Ard](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
-- Oct 10 - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
-- Oct 10 - [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
+- Oct 10 - [Author and Aviator](https://literaryreview.co.uk/author-aviator)
+- Oct 10 - [The path to GM: some thoughts on becoming a general manager](https://learn.microsoft.com/en-us/archive/blogs/techtalk/the-path-to-gm-some-thoughts-on-becoming-a-general-manager)
+- Oct 10 - [The science behind on-the-wrist blood pressure tracking](https://www.empirical.health/blog/apple-watch-blood-pressure/)
+- Oct 10 - [South Korean Author Han Kang Wins Nobel Prize](https://www.aljazeera.com/news/2024/10/10/south-koreas-han-kang-wins-2024-nobel-prize-in-literature)
+- Oct 10 - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 <!--END_SECTION:hn-->
 
 <!--
