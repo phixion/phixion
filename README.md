@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Bankrupt Fisker says it can't migrate its EVs to a new owner's server](https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/)
-- Oct 10 - [Electric vehicle safety via crash test](https://www.kbtx.com/2024/10/09/texas-am-tti-researches-electric-vehicle-safety-via-crash-test-jaws-hit-ground/)
-- Oct 10 - [Being generous, thoughtful, and kind is a sign of high intelligence](https://www.inc.com/jeff-haden/science-says-being-generous-thoughtful-and-kind-is-a-sign-of-high-intelligence-organizational-psychologist-adam-grant-agrees/90985740)
-- Oct 10 - [Valproate reopens critical-period learning of absolute pitch (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848041/)
-- Oct 10 - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
+- Oct 10 - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
+- Oct 10 - [OS/2 TCPBEUI Name Resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
+- Oct 10 - [WASM Is the New CGI](https://roborooter.com/post/wasm-is-the-new-cgi/)
+- Oct 10 - [Indian entrepreneur, industrialist, and philanthropist, Ratan Tata, dead at 86](https://en.wikipedia.org/wiki/Ratan_Tata)
+- Oct 10 - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 <!--END_SECTION:hn-->
 
 <!--
