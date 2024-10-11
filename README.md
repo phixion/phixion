@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Is Population Density the Reason Americans Can't Discuss Politics?](https://www.georgesaines.com/blog/2024/10/10/is-population-density-the-reason-americans-cant-discuss-politics)
-- Oct 10 - [AMD EPYC Turin delivers better performance/power efficiency than AmpereOne](https://www.phoronix.com/review/amd-epyc-9965-ampereone/3)
-- Oct 10 - [Geothermal Power in the North Bay](https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/)
-- Oct 10 - [Hurricane Milton's Impact: 70 Florida Cities See 50%+ Drop in Internet Traffic](https://twitter.com/CloudflareRadar/status/1844444286911381980)
-- Oct 10 - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
+- Oct 11 - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
+- Oct 11 - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
+- Oct 11 - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
+- Oct 11 - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
+- Oct 11 - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
 <!--END_SECTION:hn-->
 
 <!--
