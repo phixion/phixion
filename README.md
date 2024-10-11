@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
+- Oct 11 - [Elle's Homepage](https://ellesho.me/page/)
+- Oct 11 - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
+- Oct 11 - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 - Oct 11 - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
-- Oct 11 - [AMD Instinct MI325X to Feature 256GB HBM3E Memory, CDNA4-Based MI355X with 288GB](https://videocardz.com/newz/amd-instinct-mi325x-to-feature-256gb-hbm3e-memory-cdna4-based-mi355x-with-288gb)
-- Oct 11 - [Nobel Peace Prize for 2024 awarded to Nihon Hidankyo](https://www.nobelprize.org/press-release-peace-2024/)
-- Oct 11 - [Nurdle Patrol](https://www.nurdlepatrol.org/app/)
-- Oct 11 - [AP5 -  Declarative Programming Library For Common Lisp (1995)](https://oceanpark.com/ap5.html)
 <!--END_SECTION:hn-->
 
 <!--
