@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 11 - [Show HN: I made a football/soccer formation and squad app](https://apps.apple.com/au/app/football-formation/id6683308607)
+- Oct 11 - [Georgia county official dies after testifying about BioLab chemical plant fire](https://www.wabe.org/georgia-county-official-dies-after-testifying-about-conyers-biolab-chemical-plant-fire/)
+- Oct 11 - [Tesla Robotaxi](https://www.tesla.com/we-robot)
 - Oct 11 - [$2 H100s: How the GPU Rental Bubble Burst](https://www.latent.space/p/gpu-bubble)
 - Oct 11 - [WordPress Alternatives](https://darn.es/wordpress-alternatives/)
-- Oct 11 - [An Update on Gccrs Development](https://lwn.net/Articles/991199/)
-- Oct 11 - [BigSearch Browser Extension](https://github.com/garywill/BigSearch)
-- Oct 11 - [ARIA: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
 <!--END_SECTION:hn-->
 
 <!--
