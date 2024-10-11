@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Show HN: Dead man's switch without reliance on your infra](https://github.com/adamdecaf/deadcheck)
-- Oct 11 - [Elle's Homepage](https://ellesho.me/page/)
-- Oct 11 - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
-- Oct 11 - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
-- Oct 11 - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
+- Oct 11 - [In SSRI Withdrawal, Brain Zaps Go from Overlooked Symptom to Center Stage](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
+- Oct 11 - [Valve says Steam users don't own a thing, GOG says its games can't be taken away](https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/)
+- Oct 11 - [LLMs don't do formal reasoning – and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
+- Oct 11 - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
+- Oct 11 - [Regular expression search with suffix arrays (2015)](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
 <!--END_SECTION:hn-->
 
 <!--
