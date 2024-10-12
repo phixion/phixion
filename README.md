@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Spotify Will Keep Remote Working – EDMTunes](https://www.edmtunes.com/2024/10/spotify-keep-remote-work/)
+- Oct 12 - [Are retrocomputers best left on or off?](https://retrocomputing.stackexchange.com/questions/30736/are-retrocomputers-best-left-on-or-off)
+- Oct 12 - [AMD's Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
 - Oct 11 - [An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
-- Oct 11 - [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
+- Oct 11 - [Terraform Provider for Dominos Pizza](https://registry.terraform.io/providers/MNThomson/dominos/latest/docs)
 - Oct 11 - [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
-- Oct 11 - [Machines of loving grace: How AI could transform the world for the better](https://darioamodei.com/machines-of-loving-grace)
 <!--END_SECTION:hn-->
 
 <!--
