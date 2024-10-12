@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [In SSRI Withdrawal, Brain Zaps Go from Overlooked Symptom to Center Stage](https://www.psychiatrist.com/news/brain-zaps-go-from-overlooked-symptom-to-center-stage-in-ssri-withdrawal/)
-- Oct 11 - [Valve says Steam users don't own a thing, GOG says its games can't be taken away](https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/)
-- Oct 11 - [LLMs don't do formal reasoning – and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
-- Oct 11 - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
-- Oct 11 - [Regular expression search with suffix arrays (2015)](https://blog.nelhage.com/2015/02/regular-expression-search-with-suffix-arrays/)
+- Oct 11 - [Spotify Will Keep Remote Working – EDMTunes](https://www.edmtunes.com/2024/10/spotify-keep-remote-work/)
+- Oct 11 - [An exoskeleton let a paralyzed man walk, then its maker refused repairs](https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/)
+- Oct 11 - [Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html)
+- Oct 11 - [Working from home is powering productivity](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom)
+- Oct 11 - [Machines of loving grace: How AI could transform the world for the better](https://darioamodei.com/machines-of-loving-grace)
 <!--END_SECTION:hn-->
 
 <!--
