@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Stop Ignoring Your High Performers](https://hbr.org/2024/10/stop-ignoring-your-high-performers)
-- Oct 13 - [Turn your old laptop into low-end gaming machine](https://circuitshelter.com/posts/turn-your-old-laptop-into-low-end-gaming-machine/)
-- Oct 13 - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
-- Oct 13 - [Playable Counter-Strike Diffusion World Model (trained on 2x4090, 5M frames)](https://diamond-wm.github.io/)
-- Oct 13 - [Wim Taymans: PipeWire Inventor](https://en.wikipedia.org/wiki/Wim_Taymans)
+- Oct 13 - [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
+- Oct 13 - [Laugh Along with GNU](https://www.gnu.org/fun/humor.html)
+- Oct 13 - [The Quiet Art of Attention](https://billwear.github.io/art-of-attention.html)
+- Oct 13 - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
+- Oct 13 - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
 <!--END_SECTION:hn-->
 
 <!--
