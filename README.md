@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
-- Oct 13 - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
-- Oct 13 - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
-- Oct 13 - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
-- Oct 13 - [Gödel Agent: A self-referential agent framework for recursive self-improvement](https://arxiv.org/abs/2410.04444)
+- Oct 13 - [Stop Ignoring Your High Performers](https://hbr.org/2024/10/stop-ignoring-your-high-performers)
+- Oct 13 - [Turn your old laptop into low-end gaming machine](https://circuitshelter.com/posts/turn-your-old-laptop-into-low-end-gaming-machine/)
+- Oct 13 - [Eating less can lead to a longer life: study in mice shows why](https://www.nature.com/articles/d41586-024-03277-6)
+- Oct 13 - [Playable Counter-Strike Diffusion World Model (trained on 2x4090, 5M frames)](https://diamond-wm.github.io/)
+- Oct 13 - [Wim Taymans: PipeWire Inventor](https://en.wikipedia.org/wiki/Wim_Taymans)
 <!--END_SECTION:hn-->
 
 <!--
