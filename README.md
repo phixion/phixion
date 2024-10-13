@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [The ACF plugin on the WordPress directory has been taken over by WordPress.org](https://twitter.com/wp_acf/status/1845169499064107049)
-- Oct 12 - [Nvidia Stock Rises. AMD's New AI Chip Is Not Competitive](https://www.barrons.com/articles/nvidia-stock-price-amd-ai-chips-b6c42016)
-- Oct 12 - [Machine learning and information theory concepts towards an AI Mathematician](https://arxiv.org/abs/2403.04571)
-- Oct 12 - [Using drones to terrorize a city [video]](https://www.youtube.com/watch?v=InGah1DF2Cc)
-- Oct 12 - [Tiny Drones Do Distributed Mapping](https://hackaday.com/2024/10/11/tiny-drones-do-distributed-mapping/)
+- Oct 12 - [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
+- Oct 12 - [Columbus' DNA suggests he was a Sephardic Jew from the western Mediterranean](https://www.abc.es/cultura/adn-colon-apunta-judio-sefardi-mediterraneo-occidental-20241012233342-nt.html)
+- Oct 12 - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
+- Oct 12 - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
+- Oct 12 - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 <!--END_SECTION:hn-->
 
 <!--
