@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Hammer Looking for a Nail, AI Drone Looking for Business Case](https://news.ycombinator.com/item?id=41825473)
 - Oct 13 - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
 - Oct 13 - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
 - Oct 13 - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
 - Oct 13 - [Gödel Agent: A self-referential agent framework for recursive self-improvement](https://arxiv.org/abs/2410.04444)
-- Oct 12 - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 <!--END_SECTION:hn-->
 
 <!--
