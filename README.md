@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Google Ads announces 11-year data retention policy](https://searchengineland.com/google-ads-11-year-data-retention-policy-447465)
-- Oct 12 - [Columbus' DNA suggests he was a Sephardic Jew from the western Mediterranean](https://www.abc.es/cultura/adn-colon-apunta-judio-sefardi-mediterraneo-occidental-20241012233342-nt.html)
-- Oct 12 - [FAA grants SpaceX Starship Flight 5 license](https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001)
+- Oct 13 - [FLUX is fast and it's open source](https://replicate.com/blog/flux-is-fast-and-open-source)
+- Oct 13 - [Omni SenseVoice: High-Speed Speech Recognition with Words Timestamps](https://github.com/lifeiteng/OmniSenseVoice)
+- Oct 13 - [The 1/8th Sleep](https://near.blog/the-1-8th-sleep/)
+- Oct 13 - [Gödel Agent: A self-referential agent framework for recursive self-improvement](https://arxiv.org/abs/2410.04444)
 - Oct 12 - [First Greenhouse Gas Plumes Detected with NASA-Designed Instrument](https://www.jpl.nasa.gov/news/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
-- Oct 12 - [Show HN: AOO – C++ library for real-time audio streaming and messaging](https://aoo.iem.sh/)
 <!--END_SECTION:hn-->
 
 <!--
