@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [The New Culture War Is Real vs. Bogus](https://www.honest-broker.com/p/the-new-culture-war-is-real-vs-bogus)
-- Oct 13 - [Laugh Along with GNU](https://www.gnu.org/fun/humor.html)
-- Oct 13 - [The Quiet Art of Attention](https://billwear.github.io/art-of-attention.html)
-- Oct 13 - [A Novel Channel Contention Mechanism for Improving Wi-Fi's Reliability](https://arxiv.org/abs/2410.07874)
-- Oct 13 - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth)
+- Oct 13 - [Fish Out of Water: The Military Is an Impossible Place for Hackers, What to Do](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
+- Oct 13 - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
+- Oct 13 - [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
+- Oct 13 - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
+- Oct 13 - [Restic: Backups done right](https://restic.net/)
 <!--END_SECTION:hn-->
 
 <!--
