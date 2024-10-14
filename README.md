@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Notes on Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
-- Oct 13 - [Why does FM sound better than AM?](https://www.johndcook.com/blog/2024/10/13/why-does-fm-sound-better-than-am/)
-- Oct 13 - [Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
-- Oct 13 - [Show HN: I built Bazaari.io to make launching online stores simple and fast](https://bazaari.io/)
-- Oct 13 - [Counterintuitive Properties of High Dimensional Space](https://people.eecs.berkeley.edu/~jrs/highd/)
+- Oct 14 - [RedCap, the 5G for IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)
+- Oct 14 - [Huly – Open-Source All-in-One Project Management Platform](https://github.com/hcengineering/platform)
+- Oct 14 - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
+- Oct 14 - [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
+- Oct 14 - [Honeybee: Calling via XMPP](https://momi.ca/posts/2024-10-09-honeybee.html)
 <!--END_SECTION:hn-->
 
 <!--
