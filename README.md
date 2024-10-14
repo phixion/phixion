@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Fish Out of Water: The Military Is an Impossible Place for Hackers, What to Do](https://warontherocks.com/2018/07/fish-out-of-water-how-the-military-is-an-impossible-place-for-hackers-and-what-to-do-about-it/)
-- Oct 13 - [CRLF is obsolete and should be abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
-- Oct 13 - [Interview with Yann LeCun on AI](https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5)
-- Oct 13 - [Making the Tibetan language a first-class citizen in the digital world](https://www.bdrc.io/blog/2024/10/10/tech-innovations-to-make-the-tibetan-language-a-first-class-citizen-in-the-digital-world/)
-- Oct 13 - [Restic: Backups done right](https://restic.net/)
+- Oct 13 - [Notes on Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
+- Oct 13 - [Why does FM sound better than AM?](https://www.johndcook.com/blog/2024/10/13/why-does-fm-sound-better-than-am/)
+- Oct 13 - [Introducing Our New Name](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
+- Oct 13 - [Show HN: I built Bazaari.io to make launching online stores simple and fast](https://bazaari.io/)
+- Oct 13 - [Counterintuitive Properties of High Dimensional Space](https://people.eecs.berkeley.edu/~jrs/highd/)
 <!--END_SECTION:hn-->
 
 <!--
