@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Matt Mullenweg's Bull(enweg)](https://bullenweg.com/)
-- Oct 14 - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
-- Oct 14 - [Exploring 120 Years of Timezones (2021)](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
-- Oct 14 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
-- Oct 14 - [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
+- Oct 14 - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
+- Oct 14 - [NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
+- Oct 14 - [Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
+- Oct 14 - [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
+- Oct 14 - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 <!--END_SECTION:hn-->
 
 <!--
