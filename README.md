@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
+- Oct 14 - [Matt Mullenweg's Bull(enweg)](https://bullenweg.com/)
 - Oct 14 - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
-- Oct 14 - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
-- Oct 14 - [The Age of PageRank Is Over (2022)](https://blog.kagi.com/age-pagerank-over)
+- Oct 14 - [Exploring 120 Years of Timezones (2021)](https://blog.scottlogic.com/2021/09/14/120-years-timezone.html)
 - Oct 14 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
+- Oct 14 - [C++ String Conversion: Exploring std:from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
 <!--END_SECTION:hn-->
 
 <!--
