@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [RedCap, the 5G for IoT, will get its first devices soon](https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon)
-- Oct 14 - [Huly – Open-Source All-in-One Project Management Platform](https://github.com/hcengineering/platform)
-- Oct 14 - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/colmi_r02_client.html)
-- Oct 14 - [Show HN: A VSCode Extension to edit HTML visually in real-time](https://github.com/urin/vscode-web-visual-editor)
-- Oct 14 - [Honeybee: Calling via XMPP](https://momi.ca/posts/2024-10-09-honeybee.html)
+- Oct 14 - [Graph Databases for Crime-Fighting: How Memgraph Maps and Analyzes Criminal](https://memgraph.com/blog/graph-databases-crime-fighting-memgraph-criminal-networks)
+- Oct 14 - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
+- Oct 14 - [A FLOSS platform for data analysis pipelines that you probably haven't heard of](https://arvados.org/technology/)
+- Oct 14 - [The Age of PageRank Is Over (2022)](https://blog.kagi.com/age-pagerank-over)
+- Oct 14 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 <!--END_SECTION:hn-->
 
 <!--
