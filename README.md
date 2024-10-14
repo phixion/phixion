@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Magnetically regulated gene therapy offers precise brain-circuit control](https://news.weill.cornell.edu/news/2024/10/magnetically-regulated-gene-therapy-tech-offers-precise-brain-circuit-control)
-- Oct 14 - [NASA's Europa Clipper Launch](https://www.youtube.com/watch?v=lQToTWKwtuw)
-- Oct 14 - [Busy Status Bar from Flipper Devices](https://busy.bar/?hn)
-- Oct 14 - [Scientists successfully breed corals to improve their heat tolerance](https://phys.org/news/2024-10-scientists-successfully-corals-tolerance.html)
-- Oct 14 - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
+- Oct 14 - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
+- Oct 14 - [How I Experience Web Today](https://how-i-experience-web-today.com)
+- Oct 14 - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
+- Oct 14 - [Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
+- Oct 14 - [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
 <!--END_SECTION:hn-->
 
 <!--
