@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
+- Oct 15 - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
+- Oct 15 - [Lillian Schwartz, Pioneer in Computer-Generated Art, Dies at 97](https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html)
+- Oct 15 - [How to fork: Best practices and guide](https://joaquimrocha.com/2024/09/22/how-to-fork/)
 - Oct 14 - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
-- Oct 14 - [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] (2021)](https://mattferraro.dev/posts/caustics-engineering)
-- Oct 14 - [Tesla Optimus Bots Were Remotely Operated at Cybercab Event](https://www.bloomberg.com/news/articles/2024-10-14/tesla-s-optimus-robots-were-remotely-operated-at-cybercab-event)
-- Oct 14 - [Project Euler](https://projecteuler.net/problem=912)
-- Oct 14 - [How I Experience Web Today (2021)](https://how-i-experience-web-today.com)
 <!--END_SECTION:hn-->
 
 <!--
