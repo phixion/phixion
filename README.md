@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Invisible text that AI chatbots understand and humans can't?](https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/)
-- Oct 15 - [Mothbox 4.0](https://digital-naturalism-laboratories.github.io/Mothbox/)
-- Oct 15 - [Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
-- Oct 15 - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
-- Oct 15 - [Show HN: Mermaid ASCII Diagrams](https://mermaid-ascii.art/)
+- Oct 15 - [All possible plots by major authors (2020)](https://www.the-fence.com/plots-major-authors/)
+- Oct 15 - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
+- Oct 15 - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
+- Oct 15 - [Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
+- Oct 15 - [Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
 <!--END_SECTION:hn-->
 
 <!--
