@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Zapata AI Ceases Operations](https://quantumcomputingreport.com/zapata-ai-ceases-operations/)
+- Oct 15 - [SSL certificate lifetimes are going down. Dates proposed. 45 days by 2027](https://github.com/cabforum/servercert/pull/553)
+- Oct 15 - [The Retreat to Muskworld](https://niedermeyer.io/2024/10/11/the-retreat-to-muskworld/)
+- Oct 15 - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
 - Oct 15 - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
-- Oct 15 - [Lillian Schwartz, Pioneer in Computer-Generated Art, Dies at 97](https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html)
-- Oct 15 - [How to fork: Best practices and guide](https://joaquimrocha.com/2024/09/22/how-to-fork/)
-- Oct 14 - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
+- Oct 15 - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
 <!--END_SECTION:hn-->
 
 <!--
