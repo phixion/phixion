@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [SSL certificate lifetimes are going down. Dates proposed. 45 days by 2027](https://github.com/cabforum/servercert/pull/553)
-- Oct 15 - [The Retreat to Muskworld](https://niedermeyer.io/2024/10/11/the-retreat-to-muskworld/)
-- Oct 15 - [Superstitious Users and the FreeBSD Logo](https://lists.freebsd.org/pipermail/freebsd-chat/2011-November/006642.html)
+- Oct 15 - [Short films by Lillian F. Schwartz (1927-2024)](http://lillian.com/films/)
+- Oct 15 - [The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)
+- Oct 15 - [Web Browser Engineering](https://browser.engineering/index.html)
+- Oct 15 - [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api)
 - Oct 15 - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
-- Oct 15 - [Local TypeScript Super SDK to Call 200 LLMs](https://github.com/adaline/gateway)
 <!--END_SECTION:hn-->
 
 <!--
