@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Bike Manufacturers Are Making Bikes Less Repairable](https://www.ifixit.com/News/101675/bike-manufacturers-are-making-bikes-less-repairable)
-- Oct 14 - [How I Experience Web Today](https://how-i-experience-web-today.com)
-- Oct 14 - [Play 3.0 mini – A lightweight, reliable, cost-efficient Multilingual TTS model](https://play.ht/news/introducing-play-3-0-mini/)
-- Oct 14 - [Google Funding Construction of Seven U.S. Nuclear Reactors](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624)
-- Oct 14 - [Adobe starts roll-out of AI video tools, challenging OpenAI and Meta](https://www.reuters.com/technology/artificial-intelligence/adobe-starts-roll-out-ai-video-tools-challenging-openai-meta-2024-10-14/)
+- Oct 14 - [Zamba2-7B](https://www.zyphra.com/post/zamba2-7b)
+- Oct 14 - [Hiding Images in Plain Sight: The Physics of Magic Windows [Using Caustics] (2021)](https://mattferraro.dev/posts/caustics-engineering)
+- Oct 14 - [Tesla Optimus Bots Were Remotely Operated at Cybercab Event](https://www.bloomberg.com/news/articles/2024-10-14/tesla-s-optimus-robots-were-remotely-operated-at-cybercab-event)
+- Oct 14 - [Project Euler](https://projecteuler.net/problem=912)
+- Oct 14 - [How I Experience Web Today (2021)](https://how-i-experience-web-today.com)
 <!--END_SECTION:hn-->
 
 <!--
