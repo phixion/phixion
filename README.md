@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
-- Oct 16 - [All software in EU under product liability from 2026](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/eu-brings-product-liability-rules-in-line-with-digital-age-and-circular-economy/)
-- Oct 16 - [Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer](https://nvlabs.github.io/Sana/)
-- Oct 16 - [Un Ministral, Des Ministraux](https://mistral.ai/news/ministraux/)
-- Oct 16 - [Amazon refreshes its monochrome Kindle lineup, including a bigger Paperwhite](https://arstechnica.com/gadgets/2024/10/amazon-refreshes-its-monochrome-kindle-lineup-including-a-bigger-paperwhite/)
+- Oct 16 - [AI PCs Aren't Good at AI: The CPU Beats the NPU](https://petewarden.com/2024/10/16/ai-pcs-arent-very-good-at-ai/)
+- Oct 16 - [Citizen: A server-side Node.js web app framework for fans of classic app servers](https://github.com/jaysylvester/citizen)
+- Oct 16 - [Mt Rainier Elevation Survey](https://www.countryhighpoints.com/mt-rainier-elevation-survey/)
+- Oct 16 - [We Outsmarted CSGO Cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
+- Oct 16 - [The Sound of the Dialup, Pictured](https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
 <!--END_SECTION:hn-->
 
 <!--
