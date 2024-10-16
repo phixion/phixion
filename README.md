@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [National Archives Pushes Google Gemini AI on Employees](https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/)
-- Oct 16 - [Plutocrat Archipelagos](https://www.macguffinmagazine.com/stories/macguffin-plutocrat-archipelagos)
-- Oct 16 - [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
-- Oct 16 - [Internet Archive Services are "temporarily offline"](https://archive.org/)
+- Oct 16 - [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
+- Oct 16 - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
+- Oct 16 - [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
+- Oct 16 - [The richest people borrow against their stock (2021)](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
 - Oct 16 - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
 <!--END_SECTION:hn-->
 
