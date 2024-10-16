@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [All possible plots by major authors (2020)](https://www.the-fence.com/plots-major-authors/)
-- Oct 15 - [Dbt – Incremental but Incomplete](https://tobikodata.com/dbt-incremental-but-incomplete.html)
-- Oct 15 - [The Sundial Cannon of Åtvidaberg (2017)](https://www.amusingplanet.com/2017/02/the-sundial-cannon-of-atvidaberg.html)
-- Oct 15 - [Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
-- Oct 15 - [Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates](https://www.ycombinator.com/companies/zep-ai/jobs)
+- Oct 15 - [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
+- Oct 15 - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
+- Oct 15 - [Why Don't We Use Awnings Anymore](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
+- Oct 15 - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
+- Oct 15 - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 <!--END_SECTION:hn-->
 
 <!--
