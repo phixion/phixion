@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
-- Oct 16 - [Medical student's apparent celiac disease responded to giardiasis treatment](https://www.backpacker.com/skills/outdoor-first-aid/are-those-stomach-troubles-celiac-or-giardia/)
-- Oct 16 - [Eye Contact Correction: Redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
-- Oct 16 - [The richest people borrow against their stock (2021)](https://www.forbes.com/sites/johnhyatt/2021/11/11/how-americas-richest-people-larry-ellison-elon-musk-can-access-billions-without-selling-their-stock/)
-- Oct 16 - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
+- Oct 16 - [Israel's bulky pager fooled Hezbollah](https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/HEZBOLLAH-PAGERS/mopawkkwjpa/)
+- Oct 16 - [The Internet Archive and its 916B saved web pages are back online](https://arstechnica.com/tech-policy/2024/10/the-internet-archive-and-its-916-billion-saved-webpages-are-back-online/)
+- Oct 16 - [Commission concludes that X should not be designated under the DMA](https://ec.europa.eu/commission/presscorner/detail/en/mex_24_5324)
+- Oct 16 - [Floss/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
+- Oct 16 - [Mullvad VPN: macOS sometimes leaks traffic after system updates](https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates)
 <!--END_SECTION:hn-->
 
 <!--
