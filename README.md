@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [FreeBSD/EC2 boot performance over time](https://www.daemonology.net/freebsd-ec2-boot-performance/)
-- Oct 15 - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
-- Oct 15 - [Why Don't We Use Awnings Anymore](https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/)
-- Oct 15 - [Beyond Dune: Accelerating with EVM Query Language](https://www.eql.sh/blog/how-is-it-different-from-dune)
-- Oct 15 - [Try to fix it one level deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
+- Oct 16 - [National Archives Pushes Google Gemini AI on Employees](https://www.404media.co/ai-mazing-tech-venture-national-archives-pushes-google-gemini-ai-on-employees/)
+- Oct 16 - [Plutocrat Archipelagos](https://www.macguffinmagazine.com/stories/macguffin-plutocrat-archipelagos)
+- Oct 16 - [Correct eye contact in videos by redirecting the eyes to look at the camera](https://www.sievedata.com/functions/sieve/eye-contact-correction)
+- Oct 16 - [Internet Archive Services are "temporarily offline"](https://archive.org/)
+- Oct 16 - [Redbox left PII on decommissioned machines](https://digipres.club/@foone/113313955144323780)
 <!--END_SECTION:hn-->
 
 <!--
