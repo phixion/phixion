@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
+- Oct 17 - [Meta fires staff for 'using free meal vouchers to buy household goods'](https://www.theguardian.com/technology/2024/oct/17/meta-fires-staff-free-meal-vouchers-buy-household-goods)
+- Oct 17 - [Raspberry Pi 3 fastboot in less than 2 seconds](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
+- Oct 17 - [Show HN: I'm building a Product Hunt alternative, it's 4 days old](https://www.launching.today/)
 - Oct 17 - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
-- Oct 17 - [Easily Self-Host Next.js](https://quicky.dev)
-- Oct 17 - [Possible futures for the Ethereum protocol, part 2: The Surge](https://vitalik.eth.limo/general/2024/10/17/futures2.html)
-- Oct 16 - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
-- Oct 16 - [Lotus: Diffusion-Based Visual Foundation Model for High-Quality Dense Prediction](https://lotus3d.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
