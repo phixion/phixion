@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Adobe's new image rotation tool is one of the most impressive AI tools seen](https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen)
-- Oct 17 - [UEVR: An Exploration of Advanced Game Hacking Techniques (2023)](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
-- Oct 17 - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
-- Oct 17 - [Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js)](https://www.ycombinator.com/companies/optery/jobs)
-- Oct 17 - [Study: Cats Are Almost Liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
+- Oct 17 - [Louis Rossmann on Ethical Data](https://futo.org/blog/telemetry-position/)
+- Oct 17 - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
+- Oct 17 - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
+- Oct 17 - [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
+- Oct 17 - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
 <!--END_SECTION:hn-->
 
 <!--
