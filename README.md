@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Open-source, uncensored alternative to CharacterAI](https://opencharacter.org)
-- Oct 18 - [US startup charging couples to 'screen embryos for IQ'](https://www.theguardian.com/science/2024/oct/18/us-startup-charging-couples-to-screen-embryos-for-iq)
-- Oct 18 - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
-- Oct 18 - [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
-- Oct 18 - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
+- Oct 18 - [Forgetting Taylor Swift](https://thelampmagazine.com/issues/issue-25/forgetting-taylor-swift)
+- Oct 18 - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
+- Oct 18 - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
+- Oct 18 - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
+- Oct 18 - [Subvert – Collectively owned music marketplace](https://subvert.fm/)
 <!--END_SECTION:hn-->
 
 <!--
