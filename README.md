@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Louis Rossmann on Ethical Data](https://futo.org/blog/telemetry-position/)
-- Oct 17 - [Employees Describe an Environment of Paranoia and Fear Inside Automattic](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)
-- Oct 17 - [Qualcomm cancels Snapdragon Dev Kit, refunds all orders](https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders)
-- Oct 17 - [Tubeworms live beneath the planetary crust around deep-sea vents](https://www.economist.com/science-and-technology/2024/10/16/tubeworms-live-beneath-the-planetary-crust-around-deep-sea-vents)
-- Oct 17 - [Industrious Dice](https://mathenchant.wordpress.com/2024/10/17/industrious-dice/)
+- Oct 17 - [Wayland Apps in WireGuard Docker Containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
+- Oct 17 - [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
+- Oct 17 - [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
+- Oct 17 - [Why Does Everyone Run Ancient Postgres Versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
+- Oct 17 - [The Prompt() Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
 <!--END_SECTION:hn-->
 
 <!--
