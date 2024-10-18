@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)
-- Oct 18 - [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
-- Oct 18 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
-- Oct 18 - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
-- Oct 18 - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+- Oct 18 - [Ricky Mondello » Apple Passwords' Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
+- Oct 18 - [Microsoft and OpenAI's Close Partnership Shows Signs of Fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
+- Oct 18 - [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
+- Oct 18 - [Impact of Early Life Adversity on Reward Processing in Young Adults (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185)
+- Oct 18 - [Net 9.0 LINQ Performance Improvements](https://blog.ndepend.com/net-9-0-linq-performance-improvements/)
 <!--END_SECTION:hn-->
 
 <!--
