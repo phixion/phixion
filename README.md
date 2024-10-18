@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Kennedy, Merkley introduce bill to end TSA facial recognition (2023)](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy)
+- Oct 18 - [Life is not a story: why narrative thinking holds you back](https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back)
+- Oct 18 - [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
+- Oct 18 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
+- Oct 18 - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 - Oct 18 - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
-- Oct 18 - [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
-- Oct 18 - [DHL Pioneered the Sharing Economy](https://www.flexport.com/blog/dhl-bills-of-lading/)
-- Oct 18 - [SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
 <!--END_SECTION:hn-->
 
 <!--
