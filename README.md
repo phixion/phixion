@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Wayland Apps in WireGuard Docker Containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
-- Oct 17 - [C++ proposal: There are 8 bits in a byte](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3477r0.html)
-- Oct 17 - [The Fifth Generation Project in Japan](https://www.sjsu.edu/faculty/watkins/5thgen.htm)
-- Oct 17 - [Why Does Everyone Run Ancient Postgres Versions?](https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions)
-- Oct 17 - [The Prompt() Function: Use the Power of LLMs with SQL](https://motherduck.com/blog/sql-llm-prompt-function-gpt-models/)
+- Oct 18 - [Kennedy, Merkley introduce bill to end TSA facial recognition (2023)](https://www.kennedy.senate.gov/public/2023/11/kennedy-merkley-introduce-bill-to-end-involuntary-facial-recognition-screenings-protect-americans-privacy)
+- Oct 18 - [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+- Oct 18 - [Show HN: I wrote an autodiff in C++ and implemented LeNet with it](https://gitlab.com/mebassett/quixotic-learning/-/tree/master)
+- Oct 18 - [DHL Pioneered the Sharing Economy](https://www.flexport.com/blog/dhl-bills-of-lading/)
+- Oct 18 - [SOFA - Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
 <!--END_SECTION:hn-->
 
 <!--
