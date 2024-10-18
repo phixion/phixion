@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Ricky Mondello » Apple Passwords' Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
-- Oct 18 - [Microsoft and OpenAI's Close Partnership Shows Signs of Fraying](https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html)
-- Oct 18 - [Fixed Timestep Without Interpolation](https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/)
-- Oct 18 - [Impact of Early Life Adversity on Reward Processing in Young Adults (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104185)
-- Oct 18 - [Net 9.0 LINQ Performance Improvements](https://blog.ndepend.com/net-9-0-linq-performance-improvements/)
+- Oct 18 - [Open-source, uncensored alternative to CharacterAI](https://opencharacter.org)
+- Oct 18 - [US startup charging couples to 'screen embryos for IQ'](https://www.theguardian.com/science/2024/oct/18/us-startup-charging-couples-to-screen-embryos-for-iq)
+- Oct 18 - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
+- Oct 18 - [Running an open source app: Usage, costs and community donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
+- Oct 18 - [Show HN: What happens if you make a crossword out of Reddit r/gaming](https://news.ycombinator.com/item?id=41879754)
 <!--END_SECTION:hn-->
 
 <!--
