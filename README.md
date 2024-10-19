@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
-- Oct 19 - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
-- Oct 19 - [ChatGPT's Name Bias and Apple's Findings on AI's Lack of Reasoning](https://medium.com/@researchgraph/chatgpts-name-bias-and-apple-s-findings-on-ai-s-lack-of-reasoning-major-flaws-revealed-b4a44c27fd75)
-- Oct 19 - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
-- Oct 19 - [Show HN: TCP "slow-start" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
+- Oct 19 - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
+- Oct 19 - [Dwarf Fortress – Boatmurdered Part #1 – Intro](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/)
+- Oct 19 - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
+- Oct 19 - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
+- Oct 19 - [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176)
 <!--END_SECTION:hn-->
 
 <!--
