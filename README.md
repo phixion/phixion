@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
-- Oct 18 - [Canada finds some euthanasia deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
-- Oct 18 - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
-- Oct 18 - [TCAS averts possible head-on collision in Austin](https://www.flightradar24.com/blog/tcas-averts-possible-collision-austin/)
-- Oct 18 - [Beflix (Bell Labs Flicks)](https://en.wikipedia.org/wiki/BEFLIX)
+- Oct 19 - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
+- Oct 19 - [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
+- Oct 19 - [Rekhta](https://en.wikipedia.org/wiki/Rekhta)
+- Oct 19 - [Strep A kills half a million per year; why don't we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
+- Oct 19 - [Jury awards American Airline $9.4M from website behind 'skiplagging' hack](https://www.courthousenews.com/jury-awards-american-airlines-9-4-million-from-website-behind-skiplagging-hack/)
 <!--END_SECTION:hn-->
 
 <!--
