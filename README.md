@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 19 - ['They refused to let me go': Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
+- Oct 19 - [I Hate the Letter F](https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu)
 - Oct 19 - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
-- Oct 19 - [Promising new form of antibiotic that makes bacterial cells self-destruct](https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html)
-- Oct 19 - [Rekhta](https://en.wikipedia.org/wiki/Rekhta)
-- Oct 19 - [Strep A kills half a million per year; why don't we have a vaccine?](https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine)
-- Oct 19 - [Jury awards American Airline $9.4M from website behind 'skiplagging' hack](https://www.courthousenews.com/jury-awards-american-airlines-9-4-million-from-website-behind-skiplagging-hack/)
+- Oct 19 - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
+- Oct 19 - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
 <!--END_SECTION:hn-->
 
 <!--
