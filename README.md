@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
-- Oct 19 - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
-- Oct 19 - [Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
-- Oct 19 - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
-- Oct 18 - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
+- Oct 19 - [Boeing, Union reach wage deal to end strike](https://www.wsj.com/business/airlines/boeing-union-reach-wage-deal-to-end-strike-b9804268)
+- Oct 19 - [Have McKinsey and its consulting rivals got too big?](https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big)
+- Oct 19 - [ChatGPT's Name Bias and Apple's Findings on AI's Lack of Reasoning](https://medium.com/@researchgraph/chatgpts-name-bias-and-apple-s-findings-on-ai-s-lack-of-reasoning-major-flaws-revealed-b4a44c27fd75)
+- Oct 19 - [Send: Open-source fork of Firefox Send](https://send.vis.ee/)
+- Oct 19 - [Show HN: TCP "slow-start" simulation in Go](https://github.com/ritiksahni/cwnd-demo)
 <!--END_SECTION:hn-->
 
 <!--
