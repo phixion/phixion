@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - ['They refused to let me go': Japanese turn to resignation agencies to quit jobs](https://www.theguardian.com/world/2024/oct/19/japan-workers-resignation-agencies-quit-job-work-life)
-- Oct 19 - [I Hate the Letter F](https://old.reddit.com/comments/1g6uc7x/comment/lsmpeeu)
-- Oct 19 - [Cuba's grid goes offline with blackout after a major power plant fails](https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b)
-- Oct 19 - [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff)
+- Oct 19 - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
+- Oct 19 - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
+- Oct 19 - [Charles Darwin and Associates, Ghostbusters (1996)](https://www.scientificamerican.com/article/charles-darwin-and-assoc/)
 - Oct 19 - [Show HN: How to leverage Claude's capabilities with interactive visualization](https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst)
+- Oct 18 - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 <!--END_SECTION:hn-->
 
 <!--
