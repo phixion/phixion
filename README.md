@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Forgetting Taylor Swift](https://thelampmagazine.com/issues/issue-25/forgetting-taylor-swift)
-- Oct 18 - [Show HN: I made this tool to re-design your room in one click](https://home-imagine.com)
-- Oct 18 - [Distro (YC S24) Is Hiring a Tech Lead](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead)
-- Oct 18 - [The Feds Are Coming for John Deere over the Right to Repair](https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521)
-- Oct 18 - [Subvert – Collectively owned music marketplace](https://subvert.fm/)
+- Oct 18 - [Stark et al. vs. Patreon, Inc. Class Action Settlement](https://www.patreonsettlement.com/)
+- Oct 18 - [Canada finds some euthanasia deaths driven by homelessness fears, isolation](https://apnews.com/article/canada-euthanasia-deaths-doctors-nonterminal-nonfatal-cases-cd7ff24c57c15a404347df289788ef6d)
+- Oct 18 - [Express v5](https://expressjs.com/2024/10/15/v5-release.html)
+- Oct 18 - [TCAS averts possible head-on collision in Austin](https://www.flightradar24.com/blog/tcas-averts-possible-collision-austin/)
+- Oct 18 - [Beflix (Bell Labs Flicks)](https://en.wikipedia.org/wiki/BEFLIX)
 <!--END_SECTION:hn-->
 
 <!--
