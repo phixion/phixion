@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
-- Oct 20 - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- Oct 20 - [Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
-- Oct 20 - [Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
-- Oct 20 - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
+- Oct 20 - [The World’s $100T Fiscal Timebomb Keeps Ticking](https://www.bloomberg.com/news/articles/2024-10-19/the-world-s-100-trillion-fiscal-timebomb-keeps-ticking)
+- Oct 20 - [World Conker Championships men's winner cleared of cheating](https://news.sky.com/story/world-conker-championships-mens-winner-cleared-of-cheating-13237587)
+- Oct 20 - [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
+- Oct 20 - [The AI Investment Boom](https://www.apricitas.io/p/the-ai-investment-boom)
+- Oct 20 - [Syncthing Android App Discontinued](https://old.reddit.com/r/Syncthing/comments/1g7zpvm/syncthing_android_app_discontinued/)
 <!--END_SECTION:hn-->
 
 <!--
