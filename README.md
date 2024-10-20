@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
-- Oct 20 - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
-- Oct 20 - [Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
-- Oct 20 - [Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
-- Oct 20 - [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
+- Oct 20 - [What Docs-as-Code Means](https://passo.uno/what-docs-as-code-means/)
+- Oct 20 - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- Oct 20 - [Using Euro coins as weights (2004)](https://www.rubinghscience.org/surv/euroweights1.html)
+- Oct 20 - [Machine conquest: Jules Verne's technocratic worldmaking](https://www.cambridge.org/core/journals/review-of-international-studies/article/machine-conquest-jules-vernes-technocratic-worldmaking/E5897EB8F3FB9A8F0142075EE38D69BC)
+- Oct 20 - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
 <!--END_SECTION:hn-->
 
 <!--
