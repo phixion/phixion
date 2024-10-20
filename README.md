@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 20 - [Microsoft is basically discontinuing Windows. What will happen, then?](https://azhdarchid.com/microsoft-is-basically-discontinuing-windows-what-will-happen-then/)
+- Oct 20 - [Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
+- Oct 20 - [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
+- Oct 19 - [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 - Oct 19 - [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
-- Oct 19 - [QUIC Is Not Quick Enough over Fast Internet](https://arxiv.org/abs/2310.09423)
-- Oct 19 - [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
-- Oct 19 - [It's time for operating systems to rediscover hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
-- Oct 19 - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 <!--END_SECTION:hn-->
 
 <!--
