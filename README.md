@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Svelte 5 Released](https://www.npmjs.com/package/svelte)
-- Oct 19 - [Dwarf Fortress – Boatmurdered Part #1 – Intro](https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/)
-- Oct 19 - [AI engineers claim new algorithm reduces AI power consumption by 95%](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition)
-- Oct 19 - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
-- Oct 19 - [Love being interrupted when my monitor asks me to accept user agreements](https://twitter.com/snwy_me/status/1847396175961641176)
+- Oct 19 - [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
+- Oct 19 - [QUIC Is Not Quick Enough over Fast Internet](https://arxiv.org/abs/2310.09423)
+- Oct 19 - [Show HN: I made a site to quick identify any plant and learn how to care for it](https://frondly.app/)
+- Oct 19 - [It's time for operating systems to rediscover hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote)
+- Oct 19 - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 <!--END_SECTION:hn-->
 
 <!--
