@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Microsoft is basically discontinuing Windows. What will happen, then?](https://azhdarchid.com/microsoft-is-basically-discontinuing-windows-what-will-happen-then/)
+- Oct 20 - [A recent surge in global warming is not detectable yet](https://www.nature.com/articles/s43247-024-01711-1)
+- Oct 20 - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 - Oct 20 - [Poor Perception of Friendship Ties Limits the Ability to Promote Change (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151588)
+- Oct 20 - [Origin of 'Daemon' in Computing](https://www.takeourword.com/TOW146/page4.html)
 - Oct 20 - [Regarding our Cease and Desist letter to Automattic](https://wpfusion.com/business/regarding-our-cease-and-desist-letter-to-automattic/)
-- Oct 19 - [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
-- Oct 19 - [Booting Sun Sparc Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
 <!--END_SECTION:hn-->
 
 <!--
