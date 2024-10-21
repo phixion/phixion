@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [All-optical switch device paves way for faster fiber-optic communication](https://phys.org/news/2024-10-optical-device-paves-faster-fiber.html)
-- Oct 20 - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
-- Oct 20 - [C-Motive's electrostatic motors use printed circuit boards instead of magnets](https://www.c-motive.com/technology/)
-- Oct 20 - [Kurt Vonnegut's lost board game published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
-- Oct 20 - [Phenomenal consciousness is alien to us: SETI and the Fermi paradox](https://www.sciencedirect.com/science/article/pii/S0094576524005976)
+- Oct 20 - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
+- Oct 20 - [Helping to build the open social web](https://werd.io/2024/helping-to-build-the-open-social-web)
+- Oct 20 - [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
+- Oct 20 - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
+- Oct 20 - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 <!--END_SECTION:hn-->
 
 <!--
