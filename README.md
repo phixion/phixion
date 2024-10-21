@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
-- Oct 21 - [Rip2 – A safer, rust-based rm](https://github.com/MilesCranmer/rip2)
-- Oct 21 - [A simple C unit test framework](https://mattiasgustavsson.com/a-simple-c-unit-test-framework/)
-- Oct 21 - [Show HN: Erin – open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
-- Oct 21 - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
+- Oct 21 - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
+- Oct 21 - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
+- Oct 21 - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
+- Oct 21 - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
+- Oct 21 - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
 <!--END_SECTION:hn-->
 
 <!--
