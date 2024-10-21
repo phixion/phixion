@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [A Console-Friendly Pastebin with binary support](https://paste.c-net.org/)
-- Oct 20 - [Helping to build the open social web](https://werd.io/2024/helping-to-build-the-open-social-web)
-- Oct 20 - [Show HN: Semantic Macros Text Editor](https://samtxt.samrawal.com/)
-- Oct 20 - [Today is Ubuntu's 20th Anniversary](https://lists.ubuntu.com/archives/ubuntu-announce/2004-October/000003.html)
-- Oct 20 - [Microsoft said it lost weeks of security logs for its customers' cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
+- Oct 21 - [Mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
+- Oct 21 - [Software Engineer Titles Have Almost Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
+- Oct 21 - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
+- Oct 21 - [Android "Password Store" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
+- Oct 21 - [Concerns Raised over Bitwarden Moving Further Away from Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns#google_vignette)
 <!--END_SECTION:hn-->
 
 <!--
