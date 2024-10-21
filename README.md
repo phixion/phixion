@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Waking up science's sleeping beauties (2023)](https://worksinprogress.co/issue/waking-up-sciences-sleeping-beauties/)
-- Oct 21 - [Intelsat 33e breaks up in geostationary orbit](https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/)
-- Oct 21 - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
-- Oct 21 - [Egypt declared malaria-free after 100-year effort](https://www.bbc.com/news/articles/cm2yl8pjgn2o)
-- Oct 21 - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
+- Oct 21 - [Software Engineering Body of Knowledge (SWEBOK) v4.0 is out [pdf]](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
+- Oct 21 - [Overengineering a way to know if people are in my university's CS lab](https://www.amoses.dev/blog/upl-people-counter/)
+- Oct 21 - [Microsoft is introducing hidden APIs to VS Code only enabled for Copilot](https://old.reddit.com/r/ChatGPTCoding/comments/1g8xrub/microsoft_is_introducing_hidden_apis_to_vs_code/)
+- Oct 21 - [Please do not write below the line](http://www.bbctvlicence.com/Please%20do%20not%20write%20below%20the%20line.htm)
+- Oct 21 - [ByteDance intern fired for planting malicious code in AI models](https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/)
 <!--END_SECTION:hn-->
 
 <!--
