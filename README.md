@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Cat without cat on the commandline](https://jarv.org/posts/cat-without-cat/)
-- Oct 21 - [Six top Alzheimer's researchers accused of fraud](https://threadreaderapp.com/thread/1848020706082050500.html)
-- Oct 21 - [TikTok owner sacks intern for sabotaging AI project](https://www.bbc.com/news/articles/c7v62gg49zro)
-- Oct 21 - [Android "Password Store" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
-- Oct 21 - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
+- Oct 21 - [Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node)](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
+- Oct 21 - [Rip2 – A safer, rust-based rm](https://github.com/MilesCranmer/rip2)
+- Oct 21 - [A simple C unit test framework](https://mattiasgustavsson.com/a-simple-c-unit-test-framework/)
+- Oct 21 - [Show HN: Erin – open-source and self-hosted TikTok feed for your own videos](https://github.com/will-moss/erin)
+- Oct 21 - [AWS and Azure Are at Least 4x–10x More Expensive Than Hetzner](https://learn.umh.app/course/aws-and-azure-are-at-least-4x-10x-more-expensive-than-hetzner/)
 <!--END_SECTION:hn-->
 
 <!--
