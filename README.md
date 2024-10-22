@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [MixRank (YC S11) Is Hiring Software Engineers and Ex-Founders Globally](https://news.ycombinator.com/item?id=41913403)
-- Oct 22 - [Colorful cars are becoming a thing of the past](https://www.businessinsider.com/why-car-colors-boring-black-white-gray-cost-cutting-2024-10)
-- Oct 22 - [MQTT turns 25](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
-- Oct 22 - [Understanding Gaussians](https://gestalt.ink/gaussians)
-- Oct 22 - [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
+- Oct 22 - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
+- Oct 22 - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
+- Oct 22 - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
+- Oct 22 - [Show HN: AI Image Upscaler and Photo Enhancer with up to 10x resolution boost](https://imageupscaler.io/)
+- Oct 22 - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
 <!--END_SECTION:hn-->
 
 <!--
