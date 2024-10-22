@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [FTC's rule banning fake online reviews goes into effect](https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298)
-- Oct 22 - [Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)
-- Oct 22 - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
-- Oct 22 - [Show HN: AI Image Upscaler and Photo Enhancer with up to 10x resolution boost](https://imageupscaler.io/)
-- Oct 22 - [Against /Tmp](https://dotat.at/@/2024-10-22-tmp.html)
+- Oct 22 - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
+- Oct 22 - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
+- Oct 22 - [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
+- Oct 22 - [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
+- Oct 22 - [Show HN: Open-source Counter-Strike-like game](https://github.com/solcloud/Counter-Strike)
 <!--END_SECTION:hn-->
 
 <!--
