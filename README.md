@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Good money, no team tactics and cute dogs: the rise of pro cycling freelancers](https://www.theguardian.com/sport/2024/oct/17/good-money-no-team-tactics-and-cute-dogs-the-rise-of-pro-cycling-freelancers)
-- Oct 22 - [World-first therapy using donor cells sends autoimmune diseases into remission](https://www.nature.com/articles/d41586-024-03209-4I)
-- Oct 22 - [Study offers clues into when and why mosquitoes bite](https://news.yale.edu/2024/10/16/are-you-tasty-mosquitoes-study-offers-clues-when-and-why-they-bite)
-- Oct 22 - [LTESniffer: An Open-Source LTE Downlink/Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
-- Oct 22 - [Apple's AirPods Pro hearing health features](https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview)
+- Oct 22 - [Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts)
+- Oct 22 - [Tesla delays Cybertruck's range extender, reduces its range](https://electrek.co/2024/10/21/tesla-delays-cybertrucks-range-extender-reduces-its-range/)
+- Oct 22 - [Fine-Tuning LLMs: A Review of Technologies, Research, Best Practices, Challenges](https://arxiv.org/abs/2408.13296)
+- Oct 22 - [Firefox-Passwords-Decryptor: Extracts and decrypts passwords saved in Firefox](https://github.com/Sohimaster/Firefox-Passwords-Decryptor)
+- Oct 22 - [A Controversial Rare-Book Dealer Tries to Rewrite His Own Ending](https://www.newyorker.com/magazine/2024/10/28/a-controversial-rare-book-dealer-tries-to-rewrite-his-own-ending)
 <!--END_SECTION:hn-->
 
 <!--
