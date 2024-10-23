@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Show HN: I built a tool that helps people scan and clean any repo for secrets](https://securelog.com/)
-- Oct 22 - [The Tragedy of Google Books (2017)](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
-- Oct 22 - [USGS uses machine learning to show large lithium potential in Arkansas](https://www.usgs.gov/news/national-news-release/unlocking-arkansas-hidden-treasure-usgs-uses-machine-learning-show-large)
-- Oct 22 - [SEC Charges Four Companies with Misleading Cyber Disclosures](https://www.sec.gov/newsroom/press-releases/2024-174)
-- Oct 22 - [Show HN: Open-source Counter-Strike-like game](https://github.com/solcloud/Counter-Strike)
+- Oct 22 - [How the Unchecked Power of Companies Is Destabilizing Governance](https://hai.stanford.edu/news/tech-coup-new-book-shows-how-unchecked-power-companies-destabilizing-governance)
+- Oct 22 - [Amazon Says It Has a First Amendment Right to Union Bust](https://www.404media.co/amazon-says-it-has-a-first-amendment-right-to-union-bust/)
+- Oct 22 - [Simone Giertz talks about invention](https://spectrum.ieee.org/simone-giertz)
+- Oct 22 - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
+- Oct 22 - [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
 <!--END_SECTION:hn-->
 
 <!--
