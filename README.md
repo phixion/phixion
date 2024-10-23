@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Boeing CEO says the company must fundamentally change as losses surge](https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html)
-- Oct 23 - [I Had $100k in Debt So I Moved into My Car](https://macleans.ca/society/i-had-100000-in-debt-so-i-moved-into-my-car/)
-- Oct 23 - [Raspberry Pi announces branded range of NVMe SSDs and SSD kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-announce-branded-range-of-nvme-ssds-and-ssd-kit)
-- Oct 23 - [Walking in short bursts consume 20-60% more energy than walking continuously](https://phys.org/news/2024-10-short-consume-energy-distance.html)
-- Oct 23 - [IPv6 may already be irrelevant – but so is moving off IPv4](https://www.theregister.com/2024/10/23/ipv6_relevance/)
+- Oct 23 - [Don't use "click here" for link text](https://www.dont-click-here.com/)
+- Oct 23 - [BazelCon 2024 Recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
+- Oct 23 - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
+- Oct 23 - [Users say T-Mobile must pay for killing "lifetime" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
+- Oct 23 - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
 <!--END_SECTION:hn-->
 
 <!--
