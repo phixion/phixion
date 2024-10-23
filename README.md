@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
-- Oct 23 - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
-- Oct 23 - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
-- Oct 23 - [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
-- Oct 23 - [The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers](https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/)
+- Oct 23 - [Scientists Say Our Water Cycle Has Started Breaking Down](https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/)
+- Oct 23 - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
+- Oct 23 - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
+- Oct 23 - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
+- Oct 23 - [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
 <!--END_SECTION:hn-->
 
 <!--
