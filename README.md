@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Don't use "click here" for link text](https://www.dont-click-here.com/)
-- Oct 23 - [BazelCon 2024 Recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
-- Oct 23 - [SuperHTML is here to rescue you from syntax errors, and it's FOSS](https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/)
-- Oct 23 - [Users say T-Mobile must pay for killing "lifetime" price lock](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/)
-- Oct 23 - [Carbon Sequestration by Recycling Cement, Aggregates, and Concrete](https://www.mdpi.com/1996-1944/17/20/5020)
+- Oct 23 - [Bail Bond Insurers Are Lobbying to Keep People in Jail](https://jacobin.com/2024/10/bail-bonds-lobbyists-insurers-reform/)
+- Oct 23 - [OpenObserve: Observability platform for logs, metrics, traces, analytics](https://github.com/openobserve/openobserve)
+- Oct 23 - [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
+- Oct 23 - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
+- Oct 23 - [Goldman and Apple 'illegally sidestepped' obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
 <!--END_SECTION:hn-->
 
 <!--
