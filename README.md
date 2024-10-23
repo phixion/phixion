@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [How the Unchecked Power of Companies Is Destabilizing Governance](https://hai.stanford.edu/news/tech-coup-new-book-shows-how-unchecked-power-companies-destabilizing-governance)
-- Oct 22 - [Amazon Says It Has a First Amendment Right to Union Bust](https://www.404media.co/amazon-says-it-has-a-first-amendment-right-to-union-bust/)
-- Oct 22 - [Simone Giertz talks about invention](https://spectrum.ieee.org/simone-giertz)
-- Oct 22 - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
-- Oct 22 - [How DRAM changed the world](https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world)
+- Oct 23 - [A Stacktrace Puzzle](https://www.bugsink.com/blog/chained-stacktraces-puzzle/)
+- Oct 23 - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
+- Oct 23 - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai)
+- Oct 23 - [Arm is canceling Qualcomm's chip design license](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud)
+- Oct 23 - [The Forest Service Is Losing 2,400 Jobs–Including Most of Its Trail Workers](https://www.backpacker.com/news-and-events/news/us-forest-service-job-eliminations-trail-workers/)
 <!--END_SECTION:hn-->
 
 <!--
