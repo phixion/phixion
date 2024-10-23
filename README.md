@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Scientists Say Our Water Cycle Has Started Breaking Down](https://www.popularmechanics.com/science/environment/a62642208/water-cycle-malfunction/)
-- Oct 23 - [NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer)
-- Oct 23 - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
-- Oct 23 - [The backlash against the world's most hated font may be ending](https://www.theatlantic.com/technology/archive/2024/10/comic-sans-debate/680319/)
-- Oct 23 - [Paper finds provably minimal counterfactual explanations](https://ojs.aaai.org/index.php/AIES/article/view/31742)
+- Oct 23 - [Boeing CEO says the company must fundamentally change as losses surge](https://www.cnn.com/2024/10/23/investing/boeing-losses/index.html)
+- Oct 23 - [I Had $100k in Debt So I Moved into My Car](https://macleans.ca/society/i-had-100000-in-debt-so-i-moved-into-my-car/)
+- Oct 23 - [Raspberry Pi announces branded range of NVMe SSDs and SSD kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-announce-branded-range-of-nvme-ssds-and-ssd-kit)
+- Oct 23 - [Walking in short bursts consume 20-60% more energy than walking continuously](https://phys.org/news/2024-10-short-consume-energy-distance.html)
+- Oct 23 - [IPv6 may already be irrelevant – but so is moving off IPv4](https://www.theregister.com/2024/10/23/ipv6_relevance/)
 <!--END_SECTION:hn-->
 
 <!--
