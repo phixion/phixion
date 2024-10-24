@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Oct 24 - [AWS data center latencies, visualized](https://benjdd.com/aws/)
-- Oct 24 - [TSMC Cuts Off Client After Discovering Chips Sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
-- Oct 24 - [How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
+- Oct 24 - [Pretty.c](https://github.com/aartaka/pretty.c)
+- Oct 24 - [TSMC cuts off client after discovering chips sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
+- Oct 24 - [How do merging supermassive black holes pass the final parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
 - Oct 24 - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
-- Oct 24 - [Chromium uses web search for .internal TLD instead of opening URL](https://issues.chromium.org/issues/375219954)
 <!--END_SECTION:hn-->
 
 <!--
