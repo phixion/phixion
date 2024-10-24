@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [Bail Bond Insurers Are Lobbying to Keep People in Jail](https://jacobin.com/2024/10/bail-bonds-lobbyists-insurers-reform/)
-- Oct 23 - [OpenObserve: Observability platform for logs, metrics, traces, analytics](https://github.com/openobserve/openobserve)
-- Oct 23 - [Show HN: A macOS Client for HuggingFace Chat](https://github.com/huggingface/chat-macOS)
-- Oct 23 - [My NumPy year: Creating a DType for the next generation of scientific computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
-- Oct 23 - [Goldman and Apple 'illegally sidestepped' obligations to credit-card customers](https://finance.yahoo.com/news/goldman-and-apple-illegally-sidestepped-obligations-to-credit-card-customers-cfpb-161226158.html)
+- Oct 24 - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
+- Oct 23 - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
+- Oct 23 - [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
+- Oct 23 - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
+- Oct 23 - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
 <!--END_SECTION:hn-->
 
 <!--
