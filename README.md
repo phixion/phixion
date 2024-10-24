@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Tesla has been testing a robotaxi service in the Bay Area for most of the year](https://www.theverge.com/2024/10/23/24278056/tesla-robotaxi-ride-hailing-test-employees)
-- Oct 23 - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
-- Oct 23 - [It has been [33] days since the last Hubris kernel bug](https://hubris.oxide.computer/bugs/)
-- Oct 23 - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
-- Oct 23 - [Post-postal: What did we lose when we stopped writing letters?](https://resobscura.substack.com/p/post-postal)
+- Oct 24 - [AWS data center latencies, visualized](https://benjdd.com/aws/)
+- Oct 24 - [TSMC Cuts Off Client After Discovering Chips Sent to Huawei](https://www.bloomberg.com/news/articles/2024-10-23/tsmc-cuts-off-client-after-discovering-chips-diverted-to-huawei)
+- Oct 24 - [How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
+- Oct 24 - [NetGuard – rootless Android outbound per-app OSS firewall, like LittleSnitch](https://netguard.me/)
+- Oct 24 - [Chromium uses web search for .internal TLD instead of opening URL](https://issues.chromium.org/issues/375219954)
 <!--END_SECTION:hn-->
 
 <!--
