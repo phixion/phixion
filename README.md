@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Lost Silk Road Cities Discovered High in the Mountains of Central Asia](https://www.scientificamerican.com/article/lost-silk-road-cities-discovered-high-in-the-mountains-of-central-asia/)
+- Oct 24 - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
+- Oct 24 - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
+- Oct 24 - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 - Oct 24 - [CodeCrafters (YC S22) is hiring a full-stack engineer](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product)
-- Oct 24 - [How one engineer beat the ban on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia)
-- Oct 24 - [Get any AI to generate an image of a glass of wine that is full to the brim](https://old.reddit.com/r/ChatGPT/comments/1gas25l/your_mission_should_you_choose_to_accept_it_is_to/)
-- Oct 24 - [A field guide to the central, creeping section of the San Andreas Fault (2006)](https://www.researchgate.net/publication/262263511_A_field_guide_to_the_central_creeping_section_of_the_San_Andreas_Fault_and_the_San_Andreas_Fault_Observatory_at_Depth)
-- Oct 24 - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 <!--END_SECTION:hn-->
 
 <!--
