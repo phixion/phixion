@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
-- Oct 25 - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
-- Oct 25 - [Ironclad link between red meat and cancer identified](https://newatlas.com/medical/red-meat-iron-colorectal-cancer-mechanism/)
-- Oct 25 - [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
-- Oct 25 - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
+- Oct 25 - [Tesla's Cybertruck is outselling almost every other EV in the U](https://www.businessinsider.com/tesla-cybertruck-outselling-almost-every-other-ev-in-us-2024-10)
+- Oct 25 - [OmniParser for Pure Vision Based GUI Agent](https://microsoft.github.io/OmniParser/)
+- Oct 25 - [Electro-agriculture: Revolutionizing farming for a sustainable future](https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X)
+- Oct 25 - [Hacker attack causes log-in problems for Swiss media](https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html)
+- Oct 25 - [The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf]](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf)
 <!--END_SECTION:hn-->
 
 <!--
