@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [U.S. Study on Puberty Blockers Goes Unpublished Because of Politics, Doctor Says](https://www.nytimes.com/2024/10/23/science/puberty-blockers-olson-kennedy.html)
-- Oct 25 - [Show HN: I made a Bluesky video downloader that can download videos from Bluesky](https://blueskyvideodownloader.org/)
-- Oct 25 - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
-- Oct 25 - [Smarter Than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
-- Oct 25 - [Law Enforcement Undermines Tor](https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/)
+- Oct 25 - [Smartphone buyers meh on AI, care much more about battery life](https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/)
+- Oct 25 - [Battleships Logic Puzzle](https://lukerissacher.com/battleships)
+- Oct 25 - [Ironclad link between red meat and cancer identified](https://newatlas.com/medical/red-meat-iron-colorectal-cancer-mechanism/)
+- Oct 25 - [Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds](https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html)
+- Oct 25 - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 <!--END_SECTION:hn-->
 
 <!--
