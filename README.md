@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 25 - [UnitedHealth says data of 100M stolen in Change Healthcare hack](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/)
+- Oct 25 - [The brain's waste clearing lymphatic system shown in people for first time](https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time)
+- Oct 25 - [Florida Eases Licensing Requirements for Foreign Trained Doctors](https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/)
 - Oct 25 - [Vapi (YC W21) is hiring a founding infra engineer to handle scale](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure)
-- Oct 25 - [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
-- Oct 25 - [Rsbuild – A Better Vite?](https://rsbuild.dev/)
-- Oct 25 - [Show HN: Rust based AWS Lambda Logs Viewer (TUI)](https://github.com/resola-ai/rust-aws-tui)
-- Oct 25 - [U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers](https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3)
+- Oct 25 - [Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s](https://cerebras.ai/blog/cerebras-inference-3x-faster)
 <!--END_SECTION:hn-->
 
 <!--
