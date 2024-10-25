@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Show HN: TypeSchema – A JSON specification to describe data models](https://typeschema.org/)
-- Oct 24 - [Show HN: Desktop Sandbox for Secure Cloud Computer Use](https://github.com/e2b-dev/desktop)
-- Oct 24 - [Brush – a new super compatible Gaussian splatting engine in Rust](https://github.com/ArthurBrussee/brush)
-- Oct 24 - [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
-- Oct 24 - [BYD EV Teardown in Japan Reveals the Secret to Its Affordability](https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/)
+- Oct 24 - [Show HN: Pneumatic – free open-source workflow software](https://github.com/pneumaticapp/pneumaticworkflow)
+- Oct 24 - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
+- Oct 24 - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+- Oct 24 - [Working with Igalia to Improve RISC-V LLVM Continuous Integration](https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/)
+- Oct 24 - [Viva Labs (YC W22) is hiring a video/image AI research lead](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead)
 <!--END_SECTION:hn-->
 
 <!--
