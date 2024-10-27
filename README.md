@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Ion engines could take us to the solar gravitational lens in less than 13 years](https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html)
-- Oct 26 - [Sudha Car Museum](https://twitter.com/anandmahindra/status/1850005999811174634)
-- Oct 26 - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
-- Oct 26 - [Apple wins $250 US jury verdict in patent case over Masimo smartwatches](https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/)
-- Oct 26 - [Identifying Factors Contributing to "Bad Days" for Software Developers](https://arxiv.org/abs/2410.18379)
+- Oct 26 - [Google preps 'Jarvis' AI agent that works in Chrome](https://9to5google.com/2024/10/26/google-jarvis-agent-chrome/)
+- Oct 26 - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
+- Oct 26 - [Building a more robust Wikipedia interface by spotting the differences (2023)](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
+- Oct 26 - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
+- Oct 26 - [Reducing salt 1g daily in China could prevent ~9M cardiovascular events by 2030](https://nutrition.bmj.com/content/5/2/164)
 <!--END_SECTION:hn-->
 
 <!--
