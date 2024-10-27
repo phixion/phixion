@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
-- Oct 27 - [Crossing the USA by Train](https://blinry.org/coast-to-coast/)
-- Oct 27 - [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
-- Oct 27 - [Stunning fossil trapped in amber reveals previously unknown species](https://www.cnn.com/2024/10/24/science/firefly-fossil-mesozoic-bioluminescence-evolution/index.html)
-- Oct 27 - [Are Rotary Mixers Better?](https://djmag.com/features/are-rotary-mixers-actually-better)
+- Oct 27 - [School is Not Enough: Learning is a consequence of doing](https://map.simonsarris.com/p/school-is-not-enough)
+- Oct 27 - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
+- Oct 27 - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
+- Oct 27 - [50 Years Ago, Sugar Industry Paid Scientists to Point Blame at Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+- Oct 27 - [Show HN: Decentralized Twitter clone built on Ethereum blockchain](https://github.com/Dyslex7c/Decentralized-Twitter)
 <!--END_SECTION:hn-->
 
 <!--
