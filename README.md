@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [A brief history of Mac firmware](https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/)
-- Oct 27 - [I discovered mysterious hidden signals on a public radio channel (2013) [video]](https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen)
-- Oct 26 - [The weak science behind psychedelics](https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/)
-- Oct 26 - [Building a more robust Wikipedia interface by spotting the differences (2023)](https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/)
-- Oct 26 - [ZombAIs: From Prompt Injection to C2 with Claude Computer Use](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/)
+- Oct 27 - [Open Source on its own is no alternative to Big Tech](https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/)
+- Oct 27 - [Stunning fossil trapped in amber reveals previously unknown species](https://www.cnn.com/2024/10/24/science/firefly-fossil-mesozoic-bioluminescence-evolution/index.html)
+- Oct 27 - [Are Rotary Mixers Better?](https://djmag.com/features/are-rotary-mixers-actually-better)
+- Oct 27 - [Moonshine, the new state of the art for speech to text](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
+- Oct 27 - [Codeberg Reconsidering OSI License Approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
 <!--END_SECTION:hn-->
 
 <!--
