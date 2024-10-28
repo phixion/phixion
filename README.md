@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
-- Oct 27 - [NotebookLlama: An open source version of NotebookLM](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
-- Oct 27 - [RP FLIP escapes wrecker's claws](https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/)
-- Oct 27 - [Up to $41B in World Bank climate finance unaccounted for, Oxfam finds](https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds)
-- Oct 27 - [The MIPS ThinkPad, kind of (2022)](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
+- Oct 28 - [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
+- Oct 28 - [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
+- Oct 28 - [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)
+- Oct 28 - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
+- Oct 27 - [TLS Callbacks (2012)](https://legend.octopuslabs.io/archives/2418/2418.htm)
 <!--END_SECTION:hn-->
 
 <!--
