@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
-- Oct 28 - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- Oct 28 - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
-- Oct 28 - [Nested Loops Revisited Again (2023)](https://ieeexplore.ieee.org/abstract/document/10184629/)
-- Oct 28 - [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)
+- Oct 28 - [Psychological Safety vs. High Standards: A Misunderstood Dynamic](https://www.leadingsapiens.com/psychological-safety-vs-high-standards/)
+- Oct 28 - [Apple Intelligence is available today on iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
+- Oct 28 - [New iMac with M4](https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/)
+- Oct 28 - [The Use of Knowledge in Society (1945) [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
+- Oct 28 - [How Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 <!--END_SECTION:hn-->
 
 <!--
