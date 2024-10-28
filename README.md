@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Japan's Jimi 'Mundane' Halloween Costumes of 2024](https://www.spoon-tamago.com/jimi-mundane-halloween-2024/)
+- Oct 28 - [SQLite Rsync: Database Remote-Copy Tool for SQLite](https://sqlite.org/rsync.html)
+- Oct 28 - [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+- Oct 28 - [Show HN: Finstruments - Financial instrument library built with Python](https://github.com/kyleloomis/finstruments)
+- Oct 28 - [418 I'm a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 - Oct 28 - [Could you pass this 8th grade test from 1912?](https://onepercentrule.substack.com/p/could-you-pass-this-8th-grade-test)
-- Oct 28 - [The Coming Technological Singularity (1993)](https://mindstalk.net/vinge/vinge-sing.html)
-- Oct 28 - [ATL: A layer to run Android apps on Linux](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
-- Oct 27 - [TLS Callbacks (2012)](https://legend.octopuslabs.io/archives/2418/2418.htm)
 <!--END_SECTION:hn-->
 
 <!--
