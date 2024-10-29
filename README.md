@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 29 - [The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)
+- Oct 29 - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
+- Oct 29 - [Swift – A great language strangled by governance?](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 - Oct 29 - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
 - Oct 29 - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
-- Oct 29 - [Ask HN: Can Calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
-- Oct 28 - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
-- Oct 28 - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 <!--END_SECTION:hn-->
 
 <!--
