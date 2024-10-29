@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [We're forking Flutter](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
-- Oct 28 - [Tesla introduces new standard electrical connector](https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity)
-- Oct 28 - [Millions may rely on groundwater contaminated with PFAS for drinking water](https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html)
-- Oct 28 - [Why Are ML Compilers So Hard? « Pete Warden's Blog](https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/)
-- Oct 28 - [So long WordPress](https://chriswiegman.com/2024/10/so-long-wordpress/)
+- Oct 28 - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- Oct 28 - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
+- Oct 28 - [HTML Form Validation is heavily underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
+- Oct 28 - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
+- Oct 28 - [Why so few Matt Levines?](https://gwern.net/matt-levine)
 <!--END_SECTION:hn-->
 
 <!--
