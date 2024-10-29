@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF)](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer)
-- Oct 29 - [What happens when people with acute psychosis meet the voices in their heads?](https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry)
-- Oct 29 - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
-- Oct 29 - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
-- Oct 29 - [The secret electrostatic world of insects](https://www.wired.com/story/the-secret-electrostatic-world-of-insects/)
+- Oct 29 - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
+- Oct 29 - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
+- Oct 29 - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
+- Oct 29 - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
+- Oct 29 - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
 <!--END_SECTION:hn-->
 
 <!--
