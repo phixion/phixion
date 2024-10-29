@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [When are two proofs essentially the same? (2007)](https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/)
-- Oct 29 - [New Mac Mini with M4](https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/)
-- Oct 29 - [Show HN: Latex.to – LaTeX to image converter running in the browser](https://latex.to)
-- Oct 29 - [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
-- Oct 29 - [Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry](https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry)
+- Oct 29 - [GLP-1 for Everything](https://www.science.org/content/blog-post/glp-1-everything)
+- Oct 29 - [PhD student finds lost city in Mexico jungle by accident](https://www.bbc.com/news/articles/crmznzkly3go)
+- Oct 29 - [Teri Garr, Star of 'Young Frankenstein' and 'Tootsie,' Dies at 79](https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/)
+- Oct 29 - [Much of Ireland Is an Ecological Desert. Meet the Man Who Wants to Rewild It](https://www.nytimes.com/2024/10/18/climate/ireland-ecological-desert-rewilding.html)
+- Oct 29 - [Digging into PlantStudio, a Bit Late](https://pketh.org/plantstudio.html)
 <!--END_SECTION:hn-->
 
 <!--
