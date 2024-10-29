@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 29 - [Rescue Party (1946)](https://www.baen.com/Chapters/0743498747/0743498747___1.htm)
+- Oct 29 - [An indie studio created a game based on Stanislaw Lem's novel](https://invinciblethegame.com/?hn)
+- Oct 29 - [Ask HN: Can Calculus be taught without differentiating or integrating by hand?](https://news.ycombinator.com/item?id=41978235)
+- Oct 28 - [Steve Ballmer was an underrated CEO](https://danluu.com/ballmer/)
 - Oct 28 - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- Oct 28 - [Show HN: Marmite: Zero Config Static Site Generator written in Rust](https://github.com/rochacbruno/marmite)
-- Oct 28 - [HTML Form Validation is heavily underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
-- Oct 28 - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
-- Oct 28 - [Why so few Matt Levines?](https://gwern.net/matt-levine)
 <!--END_SECTION:hn-->
 
 <!--
