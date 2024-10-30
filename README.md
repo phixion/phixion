@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 30 - [VimeWorld - 3,118,964 breached accounts](https://haveibeenpwned.com/PwnedWebsites#VimeWorld)
 - Oct 27 - [StreamCraft - 1,772,620 breached accounts](https://haveibeenpwned.com/PwnedWebsites#StreamCraft)
 - Oct 26 - [The Club Penguin Experience - 6,342 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TheClubPenguinExperience)
 - Oct 25 - [digiDirect - 304,337 breached accounts](https://haveibeenpwned.com/PwnedWebsites#digiDirect)
 - Oct 21 - [Fair Vote Canada - 134,336 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FairVoteCanada)
-- Oct 17 - [AlpineReplay - 898,681 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AlpineReplay)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets](https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-to-be-circulating-in-nature-anymore/)
-- Oct 30 - [Apple stuck the Mac mini power button on the bottom](https://appleinsider.com/articles/24/10/29/apple-stuck-the-mac-mini-power-button-on-the-bottom)
-- Oct 30 - [Google CEO says more than a quarter of the company's new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10)
-- Oct 29 - [Wasmer 5.0](https://wasmer.io/posts/introducing-wasmer-v5)
-- Oct 29 - [SmartTube – an advanced player for set-top boxes and TVs running Android OS](https://github.com/yuliskov/SmartTube)
+- Oct 30 - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
+- Oct 30 - [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
+- Oct 30 - [15 Billion Miles Away, NASA's Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
+- Oct 30 - [BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival](https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/)
+- Oct 30 - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 <!--END_SECTION:hn-->
 
 <!--
