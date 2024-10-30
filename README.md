@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote)](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
-- Oct 30 - [Jaywalking Legalized in New York City](https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal)
-- Oct 30 - [15 Billion Miles Away, NASA's Voyager 1 Breaks Its Silence](https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/)
-- Oct 30 - [BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival](https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/)
-- Oct 30 - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
+- Oct 30 - [Math and Puzzle Fans Find Magic in Martin Gardner's Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
+- Oct 30 - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
+- Oct 30 - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
+- Oct 30 - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
+- Oct 30 - [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
 <!--END_SECTION:hn-->
 
 <!--
