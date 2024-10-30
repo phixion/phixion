@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Cheap Solar Panels Are Changing the World](https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/)
-- Oct 30 - [Pushing the Frontiers of Audio Generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
-- Oct 30 - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
-- Oct 30 - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
-- Oct 30 - [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
+- Oct 30 - [What scripts have you built to stand up a new server?](https://news.ycombinator.com/item?id=41999462)
+- Oct 30 - [DeepSeek v2.5 – open-source LLM comparable to GPT-4o, but 95% less expensive](https://www.deepseek.com/)
+- Oct 30 - [Sketchy financials send Supermicro auditors running for the hills](https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/)
+- Oct 30 - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
+- Oct 30 - [Benchmarks of Google's Axion Arm-Based CPU](https://www.phoronix.com/review/google-axion-c4a)
 <!--END_SECTION:hn-->
 
 <!--
