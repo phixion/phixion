@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Math and Puzzle Fans Find Magic in Martin Gardner's Legacy](https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/)
-- Oct 30 - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
-- Oct 30 - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
-- Oct 30 - [Eighteen Years of ABI Stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
-- Oct 30 - [INNER JOIN ON vs WHERE clause](https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause)
+- Oct 30 - [Cheap Solar Panels Are Changing the World](https://www.theatlantic.com/science/archive/2024/10/solar-power-energy-revolution-global-south/680351/)
+- Oct 30 - [Pushing the Frontiers of Audio Generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
+- Oct 30 - [M4 MacBook Pro](https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/)
+- Oct 30 - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
+- Oct 30 - [Thunderbird for Android Now Available](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
 <!--END_SECTION:hn-->
 
 <!--
