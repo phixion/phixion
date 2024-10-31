@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
-- Oct 31 - [Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote)](https://www.clipboardhealth.com/engineering)
-- Oct 31 - [How React, Vue, and Angular Work – Core Principles in One File](https://gist.github.com/faustinoaq/b19da758fc45155a0b3b10d9f578c5ce)
-- Oct 31 - [The history of Monokai](https://monokai.pro/history)
+- Oct 31 - [Lago (Open-Source Usage Based Billing) Is Hiring for Post-Sales Roles (EU)](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales)
+- Oct 31 - [Moving to a World Beyond "p < 0.05" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 - Oct 30 - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+- Oct 30 - [It might be possible to detect gravitons after all](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
+- Oct 30 - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 <!--END_SECTION:hn-->
 
 <!--
