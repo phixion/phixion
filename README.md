@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [What scripts have you built to stand up a new server?](https://news.ycombinator.com/item?id=41999462)
-- Oct 30 - [DeepSeek v2.5 – open-source LLM comparable to GPT-4o, but 95% less expensive](https://www.deepseek.com/)
-- Oct 30 - [Sketchy financials send Supermicro auditors running for the hills](https://www.theregister.com/2024/10/30/supermicro_audit_ey_quit/)
-- Oct 30 - [Google's TOS doesn't eliminate a user's Fourth Amendment rights, judge rules [pdf]](https://ww3.ca2.uscourts.gov/decisions/isysquery/0814a460-fe8f-42ef-9e82-cf94f952eb28/1/doc/23-6181_opn.pdf)
-- Oct 30 - [Benchmarks of Google's Axion Arm-Based CPU](https://www.phoronix.com/review/google-axion-c4a)
+- Oct 30 - [Wonder Animation – Video to 3D Animation](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+- Oct 30 - [It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
+- Oct 30 - [SaaS that analyses and monitors your tests (similar tool used daily at Meta)](https://www.testpulse.io)
+- Oct 30 - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
+- Oct 30 - [Hi Google, please stop pooping the bed: a desperate plea from the indie web](https://build.shepherd.com/p/hi-google-please-stop-the-bed-a-desperate)
 <!--END_SECTION:hn-->
 
 <!--
