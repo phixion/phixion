@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Humane Recalls Charge Case for AI Pin Due to Lithium Battery Fire Hazard](https://www.cpsc.gov/Recalls/2025/Humane-Recalls-Charge-Case-Accessory-for-Ai-Pin-Due-to-Lithium-Battery-Fire-Hazard)
-- Oct 31 - [MikroTik and Ampere co-developing a product line with server-class CPUs](https://help.mikrotik.com/docs/spaces/ROS/blog/2024/09/24/271974440/MikroTik+and+Ampere+co-developing+a+groundbreaking+product+line+with+server-class+CPUs)
-- Oct 31 - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
-- Oct 31 - [Sorry, Gas Companies – Parody Isn't Infringement (Even If It Creeps You Out)](https://www.eff.org/deeplinks/2024/10/sorry-gas-companies-parody-isnt-infringement-even-if-it-creeps-you-out)
-- Oct 31 - [Moving to a World Beyond "p < 0.05" (2019)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
+- Oct 31 - [Ghost jobs are wreaking havoc on tech workers](https://www.sfgate.com/tech/article/ghost-jobs-california-tech-industry-19871249.php)
+- Oct 31 - [Support for Claude Sonnet 3.5, OpenAI O1 and Gemini 1.5 Pro](https://www.qodo.ai/blog/announcing-support-for-claude-sonnet-3-5-openai-o1-and-gemini-1-5-pro/)
+- Oct 31 - [Cancer's Magic Bullet: An In-Depth Review of Antibody Drug Conjugates (ADCs)](https://www.sagelyhealth.com/blog-posts/cancers-magic-bullet-antibody-drug-conjugates)
+- Oct 31 - [Launch HN: Patched (YC S24) – AI workflows for post-code tasks](https://news.ycombinator.com/item?id=42009089)
+- Oct 31 - [Show HN: Shimmer – ADHD-adapted body doubling](https://www.tella.tv/video/cm2xgdn2m000803l48ovf8b1c/view)
 <!--END_SECTION:hn-->
 
 <!--
