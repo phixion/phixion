@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 02 - [The International Space Station Has Been Leaking for Five Years](https://www.scientificamerican.com/article/the-international-space-station-has-been-leaking-for-five-years/)
+- Nov 02 - [Weird Lexical Syntax](https://justine.lol/lex/)
 - Nov 02 - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
-- Nov 02 - [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
-- Nov 02 - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
-- Nov 02 - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
-- Nov 01 - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
+- Nov 02 - [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
+- Nov 02 - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 <!--END_SECTION:hn-->
 
 <!--
