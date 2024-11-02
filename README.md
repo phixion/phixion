@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [The International Space Station Has Been Leaking for Five Years](https://www.scientificamerican.com/article/the-international-space-station-has-been-leaking-for-five-years/)
+- Nov 02 - [Berkshire's cash soars to $325B, Buffett sells Apple, Bank of America](https://www.reuters.com/markets/us/berkshires-cash-sets-record-buffett-sells-apple-bofa-operating-profit-falls-2024-11-02/)
+- Nov 02 - [Cash: An absurdly small jQuery alternative for modern browsers](https://github.com/fabiospampinato/cash)
 - Nov 02 - [Weird Lexical Syntax](https://justine.lol/lex/)
 - Nov 02 - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
 - Nov 02 - [Breaking the image: a 12th-century AI Weiwei?](https://keithamcgowan.blogspot.com/2024/11/breaking-image-12th-century-ai-weiwei.html)
-- Nov 02 - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 <!--END_SECTION:hn-->
 
 <!--
