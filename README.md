@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Okta – Username Above 52 Characters Security Advisory](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
+- Nov 02 - [Tabular (YC S24) Is Hiring](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai)
+- Nov 02 - [Rewrite It in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
+- Nov 02 - [October 30 – Reflections on the Day the Earth Moved for H5N1](https://hogvet51.substack.com/p/october-30-reflections-on-the-day)
+- Nov 02 - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
 - Nov 01 - [Direct Sockets API in Chrome 131](https://chromestatus.com/feature/6398297361088512)
-- Nov 01 - [AMD Open-Source 1B OLMo Language Models](https://www.amd.com/en/developer/resources/technical-articles/introducing-the-first-amd-1b-language-model.html)
-- Nov 01 - [Nvidia to join Dow Jones Industrial Average, replacing Intel](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html)
-- Nov 01 - [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 <!--END_SECTION:hn-->
 
 <!--
