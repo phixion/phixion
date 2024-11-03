@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
+- Nov 03 - [Understanding pain, mental illness, and grief](https://dhruvmethi.substack.com/p/understanding-pain-mental-illness)
+- Nov 03 - [Large meltwater accumulation revealed inside Greenland Ice Sheet](https://phys.org/news/2024-10-large-meltwater-accumulation-revealed-greenland.html)
+- Nov 03 - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 - Nov 02 - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 - Nov 02 - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)
-- Nov 02 - [Next Generation Out of Band Garbage Collection](https://railsatscale.com/2024-10-23-next-generation-oob-gc/)
-- Nov 02 - [The Language of Faces](https://domofutu.substack.com/p/the-language-of-faces)
 <!--END_SECTION:hn-->
 
 <!--
