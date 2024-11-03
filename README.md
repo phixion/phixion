@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Auth Wiki](https://auth.wiki/)
-- Nov 03 - [Touchscreens Are Out, and Tactile Controls Are Back](https://spectrum.ieee.org/touchscreens)
-- Nov 03 - [If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
-- Nov 03 - [Matrix 2.0 Is Here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit)
-- Nov 03 - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
+- Nov 03 - [Future Music magazine is closing after 32 years](https://musictech.com/news/industry/future-music-magazine-is-closing-32-years/)
+- Nov 03 - [Project Sid: Many-agent simulations toward AI civilization](https://github.com/altera-al/project-sid)
+- Nov 03 - [Coordinated Community Response Mitigates Fediverse Spam Attack](https://about.iftas.org/2024/10/21/coordinated-community-response-mitigates-fediverse-spam-attack/)
+- Nov 03 - [gptel: a simple LLM client for Emacs](https://github.com/karthink/gptel)
+- Nov 03 - [ToolGit: A collection of scripts that extend Git with various sub-commands](https://github.com/ahmetsait/toolgit)
 <!--END_SECTION:hn-->
 
 <!--
