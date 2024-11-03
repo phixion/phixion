@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Understanding pain, mental illness, and grief](https://dhruvmethi.substack.com/p/understanding-pain-mental-illness)
-- Nov 03 - [Large meltwater accumulation revealed inside Greenland Ice Sheet](https://phys.org/news/2024-10-large-meltwater-accumulation-revealed-greenland.html)
+- Nov 03 - [Speed, scale and reliability: 25 years of Google datacenter networking evolution](https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking)
+- Nov 03 - [Toyota to buy clean power from a $1.1B solar farm in Texas](https://electrek.co/2024/11/01/toyota-solar-farm-texas/)
+- Nov 03 - [Ractor – a Rust Actor Framework](https://slawlor.github.io/ractor/quickstart/)
 - Nov 03 - [Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP](https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html)
 - Nov 02 - [Sortledton: A Universal, Transactional Graph Data Structure [pdf]](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
-- Nov 02 - [Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)](https://arxiv.org/abs/2111.08566)
 <!--END_SECTION:hn-->
 
 <!--
