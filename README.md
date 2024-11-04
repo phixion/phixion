@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [PropelAuth (YC W22) is hiring Fullstack and Rust engineers](https://www.ycombinator.com/companies/propelauth/jobs)
-- Nov 04 - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
-- Nov 04 - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
-- Nov 04 - [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
-- Nov 04 - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
+- Nov 04 - [What should a logo for NeXT look like?](https://www.paulrand.design/work/NeXT-Computers.html)
+- Nov 04 - [Getting lost and found in the Bob Dylan archives](https://www.bookforum.com/print/3102/the-lines-they-are-a-changin-61287)
+- Nov 04 - [One Company A/B Tested Hybrid Work. Here's What They Found](https://hbr.org/2024/10/one-company-a-b-tested-hybrid-work-heres-what-they-found)
+- Nov 04 - [New York Times Tech Workers Strike Ahead of Election](https://www.wsj.com/business/media/threat-of-new-york-times-tech-worker-strike-on-election-day-grows-174b1912)
+- Nov 04 - [Alonzo Church: The Forgotten Architect of Computer Intelligence](https://onepercentrule.substack.com/p/alonzo-church-the-forgotten-architect)
 <!--END_SECTION:hn-->
 
 <!--
