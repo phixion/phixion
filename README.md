@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD](https://hardenedbsd.org/content/easy-feature-comparison)
-- Nov 03 - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
-- Nov 03 - [Do you need Redis? PostgreSQL does queuing, locking, and pub/sub](https://spin.atomicobject.com/redis-postgresql/)
-- Nov 03 - [Bill Atkinson doxxed Douglas Adams in 1987](https://not.withoutdistractions.com/blog/2024/11/03/bill-atkinson-doxxed-douglas-adams-in-1987)
-- Nov 03 - [Moving Off Heroku, Slowly](https://jamie.ideasasylum.com/2024/10/30/moving-off-heroku-slowly)
+- Nov 04 - [Please just stop saying "just" (2019)](https://sgringwe.com/2019/10/10/Please-just-stop-saying-just.html)
+- Nov 04 - [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
+- Nov 04 - [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
+- Nov 04 - [Reasonable Person Principle](https://www.cs.cmu.edu/~weigand/staff/)
+- Nov 03 - [Building My Resume in HTML Using Eleventy](https://michaelengen.com/posts/my-eleventy-resume/)
 <!--END_SECTION:hn-->
 
 <!--
