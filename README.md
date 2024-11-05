@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Google Asked to Remove 10B "Pirate" Search Results](https://torrentfreak.com/google-asked-to-remove-10-billion-pirate-search-results-241105/)
-- Nov 05 - [Boeing Ends Crippling Strike as Workers Accept Latest Offer](https://www.bloomberg.com/news/articles/2024-11-05/boeing-ends-crippling-strike-after-workers-accept-latest-offer)
-- Nov 05 - [The future belongs to those who prepare like Dwarkesh Patel](https://meridian.mercury.com/dwarkesh-patel)
-- Nov 05 - [Hacking 700M Electronic Arts Accounts](https://battleda.sh/blog/ea-account-takeover)
-- Nov 05 - [New documentary reveals that 21,000 laborers have died working Saudi Vision 2030](https://www.archpaper.com/2024/10/documentary-reveals-21000-workers-killed-saudi-vision-2030-neom/)
+- Nov 05 - [Tencent drops a 389B MoE model(Open-source and free for commercial use))](https://github.com/Tencent/Tencent-Hunyuan-Large)
+- Nov 05 - [A List of Ternary Operators](https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/)
+- Nov 05 - [Minnesota map to find out if your home's drinking water comes through lead pipe](https://www.startribune.com/check-this-minnesota-map-to-find-out-if-your-homes-drinking-water-comes-through-a-lead-pipe/601174459)
+- Nov 05 - [Show HN: Whirlwind – Async concurrent hashmap for Rust](https://github.com/fortress-build/whirlwind)
+- Nov 05 - [Soft matter mechanics of baseball's Rubbing Mud](https://www.pnas.org/doi/10.1073/pnas.2413514121)
 <!--END_SECTION:hn-->
 
 <!--
