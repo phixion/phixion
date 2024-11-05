@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [FFmpeg up to 94x performance boost after implementing handwritten assembly code](https://www.tomshardware.com/pc-components/cpus/ffmpeg-devs-boast-of-up-to-94x-performance-boost-after-implementing-handwritten-avx-512-assembly-code)
-- Nov 04 - [A Bad Year for Catherines](https://www.techdirt.com/2024/11/04/a-bad-year-for-catherines/)
-- Nov 04 - [Nutrient Levels in Retail Grocery Stores](https://altered.substack.com/p/walmart)
-- Nov 04 - [404 Media Is Partnering with Wired](https://www.404media.co/404-media-is-partnering-with-wired/)
-- Nov 04 - [Ralph Abraham was always looking for the big picture](https://lookout.co/ralph-abraham-chaos-theory-counterculture-uc-santa-cruz-from-math-to-mushrooms-intellectual-explorer-was-always-looking-for-the-big-picture/)
+- Nov 04 - [Aldebaran 1959 Spacecraft Concept](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
+- Nov 04 - [US Forest Service Decision to Halt Prescribed Burns in CA Is History Repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
+- Nov 04 - [Local Peer-to-Peer API Draft Community Group Report](https://WICG.github.io/local-peer-to-peer/)
+- Nov 04 - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
+- Nov 04 - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
 <!--END_SECTION:hn-->
 
 <!--
