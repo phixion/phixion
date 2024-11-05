@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Aldebaran 1959 Spacecraft Concept](https://armaghplanet.com/the-amazing-aldebaran-spacecraft.html)
-- Nov 04 - [US Forest Service Decision to Halt Prescribed Burns in CA Is History Repeating](https://cepr.net/us-forest-service-decision-to-halt-prescribed-burns-in-california-is-history-repeating/)
-- Nov 04 - [Local Peer-to-Peer API Draft Community Group Report](https://WICG.github.io/local-peer-to-peer/)
-- Nov 04 - [Albertsons kills rural grocers with land use restrictions](https://www.thebignewsletter.com/p/how-albertsons-kills-rural-grocers)
-- Nov 04 - [Machines of Loving Grace](https://www.clunyjournal.com/p/machines-of-loving-grace)
+- Nov 05 - [How the British Airways' breach kickstarted today's web security challenge](https://baways.com/)
+- Nov 05 - [Nvidia and its partners built a system to bypass U.S. export restrictions](https://twitter.com/kakashiii111/status/1853433531260649532)
+- Nov 05 - [Netnews: The Origin Story [pdf]](https://www.cs.columbia.edu/~smb/papers/netnews-hist.pdf)
+- Nov 05 - [Meta Permits Its A.I. Models to Be Used for U.S. Military Purposes](https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html)
+- Nov 05 - [Pagination widows, or, Why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
 <!--END_SECTION:hn-->
 
 <!--
