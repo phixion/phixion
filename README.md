@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Show HN: Aide, an open-source AI native IDE](https://aide.dev/)
-- Nov 06 - [AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux)
-- Nov 06 - [Switch 2 will be backwards compatible with Switch, Nintendo confirms](https://www.videogameschronicle.com/news/nintendo-switchs-successor-will-be-backwards-compatible-with-switch-nintendo-confirms/)
-- Nov 06 - [It's raining PFAS in South Florida – study](https://www.sciencedirect.com/science/article/abs/pii/S1309104224002678)
-- Nov 06 - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
+- Nov 06 - [Japan's declining births on track to fall below 700k](https://www.asahi.com/ajw/articles/15497062)
+- Nov 06 - [The truth about latchkey kids](https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids)
+- Nov 06 - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
+- Nov 06 - [Starship's Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
+- Nov 06 - [Launch HN: Midship (YC S24) – Turn PDFs and Images into usable data](https://news.ycombinator.com/item?id=42066500)
 <!--END_SECTION:hn-->
 
 <!--
