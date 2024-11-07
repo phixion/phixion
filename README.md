@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Japan's declining births on track to fall below 700k](https://www.asahi.com/ajw/articles/15497062)
-- Nov 06 - [The truth about latchkey kids](https://nevermindgenx.substack.com/p/the-truth-about-latchkey-kids)
-- Nov 06 - [WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
-- Nov 06 - [Starship's Sixth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-6)
-- Nov 06 - [Launch HN: Midship (YC S24) – Turn PDFs and Images into usable data](https://news.ycombinator.com/item?id=42066500)
+- Nov 06 - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
+- Nov 06 - [Sysadmin shock as Windows Server 2025 installs itself after labeling error](https://www.theregister.com/2024/11/06/windows_server_2025_surprise/)
+- Nov 06 - [Visualizing binary files with ImHex's DSL, the "pattern language"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
+- Nov 06 - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
+- Nov 06 - [Ollama 0.4 is released with support for Meta's Llama 3.2 Vision models locally](https://ollama.com/blog/llama3.2-vision)
 <!--END_SECTION:hn-->
 
 <!--
