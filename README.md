@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 07 - [Earth 2 - 420,961 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Earth2)
 - Nov 05 - [Dennis Kirk - 1,356,026 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DennisKirk)
 - Nov 05 - [Altenen - 1,267,701 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Altenen)
 - Nov 04 - [Z-lib - 9,737,374 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ZLib)
 - Oct 31 - [Stalker Online - 1,385,472 breached accounts](https://haveibeenpwned.com/PwnedWebsites#StalkerOnline)
-- Oct 30 - [TNAFlix - 1,374,344 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TNAFlix)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 07 - [Even Microsoft Notepad is getting AI text editing now](https://www.theverge.com/2024/11/6/24289707/microsoft-notepad-ai-text-editing-rewrite)
+- Nov 07 - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
+- Nov 07 - [Steam releases new built-in recording feature](https://store.steampowered.com/gamerecording)
 - Nov 07 - [Nvidia Rides AI Wave to Pass Apple as Largest Company](https://www.bloomberg.com/news/articles/2024-11-05/nvidia-rides-ai-wave-to-pass-apple-as-world-s-largest-company)
-- Nov 07 - [The English Paradox: Four Decades of Life and Language in Japan](https://www.tokyodev.com/articles/the-english-paradox-four-decades-of-life-and-language-in-japan)
-- Nov 06 - [Australia proposes ban on social media for those under 16](https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/)
-- Nov 06 - [Trudeau government bans TikTok from operating in Canada](https://www.cbc.ca/news/politics/tiktok-canada-review-1.7375965)
-- Nov 06 - [Visualizing binary files with ImHex's DSL, the "pattern language"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
+- Nov 07 - [Bringing Faster Exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 <!--END_SECTION:hn-->
 
 <!--
