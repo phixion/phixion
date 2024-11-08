@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Thunderbird Turns 20 Years Old](https://updates.thunderbird.net/en-US/thunderbird/128.0/nov24/)
-- Nov 08 - [Man sick of crashes sues Intel for allegedly hiding CPU defects](https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/)
-- Nov 08 - [TSMC will stop making 7 nm chips for Chinese customers](https://arstechnica.com/tech-policy/2024/11/tsmc-will-stop-making-7-nm-chips-for-chinese-customers/)
-- Nov 08 - [Fedora KDE Desktop Spin Promoted to Same Tier as Gnome-Based Fedora Workstation](https://www.phoronix.com/news/Fedora-KDE-Desktop-Promoted)
-- Nov 08 - [Ease of maintenance is a feature](https://ronakgothi.com/p/ease-of-maintenance-is-a-feature/)
+- Nov 08 - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
+- Nov 08 - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
+- Nov 08 - [Pirating "The Pirate Bay" TV Series Is Ironically Difficult](https://torrentfreak.com/pirating-the-pirate-bay-tv-series-is-ironically-difficult-241108/)
+- Nov 08 - [Genetic repair via CRISPR can inadvertently introduce other defects](https://phys.org/news/2024-11-genetic-crispr-inadvertently-defects.html)
+- Nov 08 - [Aviator (YC S21) Is hiring engineers to build a DevEx platform](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack)
 <!--END_SECTION:hn-->
 
 <!--
