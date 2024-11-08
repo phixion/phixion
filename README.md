@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [DNA from Pompeii Victims Reveals Surprising Relationships Amidst the Chaos](https://gizmodo.com/dna-from-pompeii-victims-reveals-surprising-relationships-amidst-the-chaos-2000520264)
-- Nov 07 - [Kagi Translate](https://blog.kagi.com/kagi-translate)
-- Nov 07 - [Ask HN: Life-changing purchases since 2020? (Under $100 and under $1000)](https://news.ycombinator.com/item?id=42079768)
-- Nov 07 - [QNX is now free for anything non-commercial, plus there's an RPi image](https://blackberry.qnx.com/en/products/qnx-everywhere)
-- Nov 07 - [Stop Analyzing Your Gut Feelings: A Counter-Intuitive Guide to Better Leadership](https://sudarkoff.com/blog/stop-analyzing-your-gut-feelings-a-counter-intuitive-guide-to-better-leadership)
+- Nov 07 - [Cops Suspect iOS 18 iPhones Are Communicating to Force Reboots](https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/)
+- Nov 07 - [Ambulance hits cyclist, rushes him to hospital, then sticks him with $1,800 bill](https://www.oregonlive.com/pacific-northwest-news/2024/11/ambulance-hits-oregon-cyclist-rushes-him-to-hospital-then-sticks-him-with-1800-bill-lawsuit-says.html)
+- Nov 07 - [Sega is delisting 60 classic games from Steam, so now's the time to grab them](https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/)
+- Nov 07 - [Toronto crypto company CEO kidnapped, held for $1M ransom before being released](https://www.cbc.ca/news/canada/toronto/kidnapping-toronto-businessman-cryptocurrency-1.7376679)
+- Nov 07 - [Five minutes of exercise a day could lower blood pressure](https://www.sydney.edu.au/news-opinion/news/2024/11/07/five-minutes-of-exercise-a-day-could-lower-blood-pressure.html)
 <!--END_SECTION:hn-->
 
 <!--
