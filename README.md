@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
-- Nov 09 - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
-- Nov 09 - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
-- Nov 09 - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
-- Nov 09 - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
+- Nov 09 - [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
+- Nov 09 - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
+- Nov 09 - [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
+- Nov 09 - [There aren't enough smart people in biology doing something boring](https://www.owlposting.com/p/there-arent-enough-smart-people-in)
+- Nov 09 - [Trellis (YC W24) is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 <!--END_SECTION:hn-->
 
 <!--
