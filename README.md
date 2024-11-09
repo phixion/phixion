@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 09 - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
+- Nov 09 - [Scientist treated her own cancer with viruses she grew in the lab](https://www.nature.com/articles/d41586-024-03647-0)
+- Nov 09 - [Memories are not only in the brain, human cell study finds](https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html)
+- Nov 09 - [Money was never the end goal – mrdoob – threejs creator](https://twitter.com/mrdoob/status/1854662365163536613)
 - Nov 09 - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
-- Nov 09 - [Astronauts tight-lipped about reason for hospital visit after 235 days in space](https://www.theguardian.com/science/2024/nov/08/astronauts-hospital-nasa-international-space-station)
-- Nov 09 - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
-- Nov 09 - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
-- Nov 09 - [Texture-Less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 <!--END_SECTION:hn-->
 
 <!--
