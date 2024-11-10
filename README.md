@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)
-- Nov 10 - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
-- Nov 10 - [ASCII Delimited Text – Not CSV or Tab Delimited Text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/)
-- Nov 10 - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
-- Nov 10 - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
+- Nov 10 - [A life that added up to something (Obituary of Paul Erdòs)](https://people.math.osu.edu/nevai.1/AT/ERDOS/erdos_washington_post.html)
+- Nov 10 - [Pi Chess Board](https://readymag.website/u2481798807/5057562/)
+- Nov 10 - [Algorithms We Develop Software By](https://grantslatton.com/software-pathfinding#algorithms-we-develop-software-by)
+- Nov 10 - [Rust Trademark Policy Updates](https://foundation.rust-lang.org/news/rust-trademark-policy-updates/)
+- Nov 10 - [Web Locks API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API)
 <!--END_SECTION:hn-->
 
 <!--
