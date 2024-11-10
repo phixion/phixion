@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Andrej Karpathy on learning(should never be fun)](https://twitter.com/karpathy/status/1756380066580455557)
-- Nov 10 - [Ousterhout's Dichotomy](https://en.wikipedia.org/wiki/Ousterhout%27s_dichotomy)
-- Nov 10 - [Story Structure 101: Super Basic Shit](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
-- Nov 10 - [Audio Decomposition – open-source seperation of music to constituent instruments](https://matthew-bird.com/blogs/Audio-Decomposition.html)
-- Nov 10 - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
+- Nov 10 - [ReiserFS and the Art and Artist Problem](https://corecursive.com/reiserfs/)
+- Nov 10 - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
+- Nov 10 - [ASCII Delimited Text – Not CSV or Tab Delimited Text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/)
+- Nov 10 - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
+- Nov 10 - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 <!--END_SECTION:hn-->
 
 <!--
