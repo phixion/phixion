@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Jaws – a JavaScript to WASM ahead of time compiler](https://github.com/drogus/jaws)
-- Nov 09 - [Windows Process Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
-- Nov 09 - [OpenCoder: Open-Source LLM for Coding](https://arxiv.org/abs/2411.04905)
-- Nov 09 - [There aren't enough smart people in biology doing something boring](https://www.owlposting.com/p/there-arent-enough-smart-people-in)
-- Nov 09 - [Trellis (YC W24) is hiring eng to turn documents into database](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+- Nov 09 - [Grim Fandango](https://www.filfre.net/2024/11/grim-fandango/)
+- Nov 09 - [With AI, the future of augmented reality is in your ears](https://crazystupidtech.com/archive/with-ai-the-future-of-augmented-reality-is-in/)
+- Nov 09 - [You too can write a book](https://parentheticallyspeaking.org/articles/write-a-book/)
+- Nov 09 - [Show HN: Visprex – Open-source, in-browser data visualisation tool for CSV files](https://docs.visprex.com/)
+- Nov 09 - [NYC Subway Station Layouts](http://www.projectsubwaynyc.com/gallery)
 <!--END_SECTION:hn-->
 
 <!--
