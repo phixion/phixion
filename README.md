@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 12 - [TaxGPT (YC S24) Is Hiring Staff Software Engineer](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused)
+- Nov 12 - [AWS BuilderCards](https://aws.amazon.com/gametech/buildercards/)
+- Nov 12 - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 - Nov 12 - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
-- Nov 12 - [Horse – The Organized Browser](https://browser.horse)
-- Nov 12 - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
-- Nov 12 - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
-- Nov 11 - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
+- Nov 12 - [Blame the Gerbils](https://www.lrb.co.uk/the-paper/v46/n21/tom-shippey/blame-the-gerbils)
 <!--END_SECTION:hn-->
 
 <!--
