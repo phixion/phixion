@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Every Arthouse Buff You Know Is Pirating Films](https://i-d.co/article/streaming-arthouse-movies-john-waters-netflix-2024/)
-- Nov 11 - [Show HN: Flash Kitty – Archive of Adobe/Macromedia Flash Movies from Flash Kit](https://flashkitty.gzalo.com/)
-- Nov 11 - [Making a trading Gameboy: A pocket exchange and algo trading platform](https://questdb.io/blog/making-a-trading-gameboy/)
-- Nov 11 - [Optimizing a WebGPU Matmul Kernel for 1 TFLOP](https://zanussbaum.substack.com/p/optimizing-a-webgpu-matmul-kernel)
-- Nov 11 - [Nango (YC W23) is hiring remotely for open-source product integrations](https://nango.dev/jobs)
+- Nov 11 - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
+- Nov 11 - [Converted a MacBook into a PC](https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063)
+- Nov 11 - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
+- Nov 11 - [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify)
+- Nov 11 - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 <!--END_SECTION:hn-->
 
 <!--
