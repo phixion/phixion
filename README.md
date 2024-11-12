@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [The Wired Guide to Protecting Yourself from Government Surveillance](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
-- Nov 12 - [A stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
-- Nov 12 - [YouTube in Android introduces UI bugs](https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en)
-- Nov 12 - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
-- Nov 12 - [The EdTech Revolution Has Failed](https://www.afterbabel.com/p/the-edtech-revolution-has-failed)
+- Nov 12 - [Mom jailed for letting 10-year-old walk alone to town](https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/)
+- Nov 12 - [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
+- Nov 12 - [Visualizing 13M Bluesky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
+- Nov 12 - [Large language models in national security applications](https://arxiv.org/abs/2407.03453)
+- Nov 12 - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
 <!--END_SECTION:hn-->
 
 <!--
