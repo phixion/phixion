@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 12 - [The transition from GIMP 2.x to GIMP 3.0 took two decades](https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades)
+- Nov 12 - [Bluesky adds 700k new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
+- Nov 12 - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
+- Nov 12 - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 - Nov 11 - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
-- Nov 11 - [Converted a MacBook into a PC](https://community.frame.work/t/i-converted-a-macbook-into-a-pc/60063)
-- Nov 11 - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
-- Nov 11 - [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify)
-- Nov 11 - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 <!--END_SECTION:hn-->
 
 <!--
