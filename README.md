@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [The transition from GIMP 2.x to GIMP 3.0 took two decades](https://www.tomshardware.com/software/free-open-source-photoshop-alternative-finally-enters-release-candidate-testing-after-20-years-the-transition-from-gimp-2-x-to-gimp-3-0-took-two-decades)
-- Nov 12 - [Bluesky adds 700k new users in a week](https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads)
+- Nov 12 - [Leaving and Waving](https://deannadikeman.com/leaving-and-waving)
+- Nov 12 - [Horse – The Organized Browser](https://browser.horse)
 - Nov 12 - [This morning for no obvious reason, I remembered the Fuel Rats](https://hachyderm.io/@danderson/113465421567555186)
 - Nov 12 - [Git and Jujutsu: In Miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 - Nov 11 - [Bus Number – The GitHub plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
