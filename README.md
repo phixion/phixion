@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
-- Nov 13 - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
-- Nov 13 - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
-- Nov 13 - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
-- Nov 13 - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
+- Nov 13 - [Porygon Was Innocent: An epileptic perspective on the infamous Pokémon episode](https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/)
+- Nov 13 - [Play Dialog: A contextual turn-taking TTS model like NotebookLM Playground](https://play.ai/playground)
+- Nov 13 - [A Student's Guide to Writing with ChatGPT](https://openai.com/chatgpt/use-cases/student-writing-guide/)
+- Nov 13 - [Wonder Announces Acquisition of Grubhub](https://about.grubhub.com/news/wonder-announces-acquisition-of-grubhub/)
+- Nov 13 - [Teens learn a new conspiracy theory every week on social media](https://www.fastcompany.com/91224580/teens-are-discovering-conspiracy-theories-on-social-media)
 <!--END_SECTION:hn-->
 
 <!--
