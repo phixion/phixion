@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Mom jailed for letting 10-year-old walk alone to town](https://reason.com/2024/11/11/mom-jailed-for-letting-10-year-old-walk-alone-to-town/)
-- Nov 12 - [Bypassing regulatory locks, hacking AirPods and Faraday cages](https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking)
-- Nov 12 - [Visualizing 13M Bluesky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
-- Nov 12 - [Large language models in national security applications](https://arxiv.org/abs/2407.03453)
-- Nov 12 - [Instant (YC S22) Is Hiring a Founding Engineer to Help Build a Modern Firebase](https://news.ycombinator.com/item?id=42117277)
+- Nov 12 - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
+- Nov 12 - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
+- Nov 12 - [M4 Mac mini's efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
+- Nov 12 - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
+- Nov 12 - [Spotify's Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
 <!--END_SECTION:hn-->
 
 <!--
