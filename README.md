@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [3600 MHz Raspberry Pi 5 with Liquid Nitrogen](https://skatterbencher.com/2024/11/11/3600-mhz-raspberry-pi-5-with-liquid-nitrogen/)
-- Nov 12 - [Carving your space](https://heather-buchel.com/blog/2024/11/carving-space/)
-- Nov 12 - [M4 Mac mini's efficiency](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)
-- Nov 12 - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
-- Nov 12 - [Spotify's Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
+- Nov 13 - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
+- Nov 13 - [Micron launches 60TB PCIe gen5 SSD with 12GB/s read speeds](https://www.micron.com/products/storage/ssd/data-center-ssd/6550-ion)
+- Nov 13 - [Why you're bad at giving feedback](https://posthog.com/newsletter/how-to-give-feedback)
+- Nov 13 - [Spirit Airlines is filing for bankruptcy](https://www.wsj.com/business/airlines/spirit-airlines-moves-toward-bankruptcy-filing-after-frontier-drops-merger-bid-5d492e80)
+- Nov 13 - [Manjaro is experimenting with **opt-out telemetry](https://discuss.privacyguides.net/t/manjaro-is-experimenting-with-opt-out-telemetry/22305)
 <!--END_SECTION:hn-->
 
 <!--
