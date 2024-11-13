@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer)
-- Nov 13 - [Forth May Be the Answer](https://forth.org/lost-at-c.html)
-- Nov 13 - [An unearthly spectacle – The untold story of the biggest nuclear bomb (2021)](https://thebulletin.org/2021/11/the-untold-story-of-the-worlds-biggest-nuclear-bomb/)
-- Nov 13 - [OpenAI and others seek new path to smarter AI as current methods hit limitations](https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/)
-- Nov 13 - [80286 ATX mainboard based on the IBM 5170 AT PC](https://github.com/rodneyknaap/atx-286at-v1-mainboard)
+- Nov 13 - [Fault Injection – Down the Rabbit Hole](https://security.humanativaspa.it/fault-injection-down-the-rabbit-hole/)
+- Nov 13 - [Show HN: A simple image puzzle generator](https://puzzlip.com/)
+- Nov 13 - [Elsevier may wish they had checked the revision a bit more carefully](https://community.nodebb.org/topic/254c582c-b8f0-4fef-a746-b7a012e4dad5/elsevier-may-wish-they-had-checked-the-revision-a-bit-more-carefully.)
+- Nov 13 - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
+- Nov 13 - [Grab built its own map in Southeast Asia, and is now going after Google](https://restofworld.org/2024/grab-google-maps-southeast-asia/)
 <!--END_SECTION:hn-->
 
 <!--
