@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [14yo suicides after Santa Clara schoolmates bully him about being homeless](https://www.ktvu.com/news/14-year-old-dies-suicide-after-santa-clara-schoolmates-bully-him-about-being-homeless-father)
+- Nov 14 - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
+- Nov 14 - [GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
+- Nov 14 - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 - Nov 14 - [Go-Safeweb](https://github.com/google/go-safeweb)
-- Nov 14 - [JSON for Classic C++](https://github.com/jart/json.cpp)
-- Nov 14 - [Windows Kills SMB Speeds When Using Tailscale](https://danthesalmon.com/windows-smb-tailscale/#)
 - Nov 14 - [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure)
 <!--END_SECTION:hn-->
 
