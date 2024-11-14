@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
-- Nov 14 - [Gwern Branwen – How an Anonymous Researcher Predicted AI's Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
-- Nov 14 - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
-- Nov 14 - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
-- Nov 14 - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
+- Nov 14 - [Boston Dynamics Spot Robot Watches Its Step [video]](https://www.youtube.com/watch?v=YD9EaS3VRbc)
+- Nov 14 - [Meta Fined $843M by EU over Marketplace Ads](https://www.wsj.com/tech/eu-fines-meta-843-million-over-marketplace-classified-ads-b28ddb38)
+- Nov 14 - [We can all be AI engineers – and we can do it with open source models](https://blog.helix.ml/p/we-can-all-be-ai-engineers)
+- Nov 14 - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
+- Nov 14 - [PyPI now supports digital attestations](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/)
 <!--END_SECTION:hn-->
 
 <!--
