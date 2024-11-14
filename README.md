@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
-- Nov 14 - [GOG's Preservation Program Is the DRM-Free Store Refocusing on the Classics](https://arstechnica.com/gaming/2024/11/gogs-preservation-program-is-the-drm-free-store-refocusing-on-the-classics/)
-- Nov 14 - [Smaller Than Pixel Art: Sub-Pixel Art [video]](https://www.youtube.com/watch?v=SlS3FOmKUbE)
-- Nov 14 - [Go-Safeweb](https://github.com/google/go-safeweb)
-- Nov 14 - [PRC Targeting of Commercial Telecommunications Infrastructure](https://www.fbi.gov/news/press-releases/joint-statement-from-fbi-and-cisa-on-the-peoples-republic-of-china-targeting-of-commercial-telecommunications-infrastructure)
+- Nov 14 - [DeepL Voice: Real-time voice translations for global collaboration](https://www.deepl.com/en/products/voice)
+- Nov 14 - [Gwern Branwen – How an Anonymous Researcher Predicted AI's Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
+- Nov 14 - [BERTs Are Generative In-Context Learners](https://arxiv.org/abs/2406.04823)
+- Nov 14 - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://labs.leaningtech.com/blog/webvm-20)
+- Nov 14 - [Lessons from My First Exit](https://mtlynch.io/lessons-from-my-first-exit/)
 <!--END_SECTION:hn-->
 
 <!--
