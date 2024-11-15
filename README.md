@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 15 - [Reducing the cost of a single Google Cloud Dataflow Pipeline by Over 60%](https://blog.allegro.tech/2024/06/cost-optimization-data-pipeline-gcp.html)
 - Nov 15 - [Mayor Adams' office directs NYC agencies to launch Bluesky accounts amid growth](https://www.nydailynews.com/2024/11/14/mayor-adams-office-directs-nyc-agencies-to-launch-bluesky-accounts-amid-growth-on-new-platform/)
-- Nov 15 - [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
 - Nov 15 - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 - Nov 15 - [New Apple security feature reboots iPhones after 3 days, researchers confirm](https://techcrunch.com/2024/11/14/new-apple-security-feature-reboots-iphones-after-3-days-researchers-confirm/)
-- Nov 15 - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
+- Nov 15 - [Are We PEP740 Yet?](https://trailofbits.github.io/are-we-pep740-yet/)
 <!--END_SECTION:hn-->
 
 <!--
