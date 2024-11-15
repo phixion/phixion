@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Please, Stop the Coding Challenges](https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/)
-- Nov 15 - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
-- Nov 15 - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
-- Nov 15 - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
-- Nov 15 - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
+- Nov 15 - [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
+- Nov 15 - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
+- Nov 15 - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
+- Nov 15 - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
+- Nov 15 - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
