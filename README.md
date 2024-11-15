@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 15 - [Please, Stop the Coding Challenges](https://blackentropy.bearblog.dev/please-stop-the-absurd-coding-challenges/)
+- Nov 15 - [Norwegian Fishermen Hunting for Halibut Caught a US Nuclear Sub](https://www.vice.com/en/article/fishermen-hunting-for-halibut-caught-a-us-nuclear-sub/)
+- Nov 15 - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
+- Nov 15 - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 - Nov 15 - [Modern Treasury (YC S18) Is Hiring a Product Designer](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd)
-- Nov 15 - [I want my deaf daughter to have the best of both worlds](https://aeon.co/essays/why-i-want-my-deaf-daughter-to-have-the-best-of-both-worlds)
-- Nov 15 - [Europe's flying taxi dreams falter as cash runs short](https://www.bbc.com/news/articles/c33em6jrx1go)
-- Nov 15 - [Omnivision-968M: Vision Language Model with 9x Tokens Reduction for Edge Devices](https://nexa.ai/blogs/omni-vision)
-- Nov 15 - [Relativty: An open-source VR headset for $200](https://www.relativty.com/)
 <!--END_SECTION:hn-->
 
 <!--
