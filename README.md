@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
-- Nov 15 - [What would it cost to kill coal](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
-- Nov 15 - [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
-- Nov 15 - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
-- Nov 15 - [Jawboning in Plain Sight: The Unconstitutional Censorship Tolerated by the DMCA](https://www.rstreet.org/research/jawboning-in-plain-sight-the-unconstitutional-censorship-tolerated-by-the-dmca/)
+- Nov 16 - [Netflix buffering issues: Boxing fans complain about Jake Paul vs. Mike Tyson](https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461)
+- Nov 16 - [How public key cryptography works, using only simple math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+- Nov 16 - [Tsugaru OS – A New Free FM-Towns OS](https://github.com/captainys/FreeTOWNSOS)
+- Nov 16 - [M4 MacBook Pros use a quantum dot (QD) film rather than a red KSF phosphor film](https://twitter.com/DSCCRoss/status/1857208745014776215)
+- Nov 15 - [The price of shutting down coal power, and what would be gained](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
 <!--END_SECTION:hn-->
 
 <!--
