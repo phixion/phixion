@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Netflix streaming issues leaving Mike Tyson-Jake Paul viewers livid](https://nypost.com/2024/11/15/sports/netflix-streaming-issues-leaving-mike-tyson-jake-paul-viewers-livid/)
-- Nov 16 - [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
-- Nov 16 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Nov 16 - [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
-- Nov 16 - [Yggdrasil Network](https://yggdrasil-network.github.io/)
+- Nov 16 - [Logica – Declarative logic programming language for data](https://logica.dev/)
+- Nov 16 - [Four dead in fire as Tesla doors fail to open after crash](https://myelectricsparks.com/four-dead-tesla-doors-fail-open-crash-fire/)
+- Nov 16 - [James Webb Space Telescope finds evidence for alternate theory of gravity](https://thedebrief.org/james-webb-space-telescope-finds-stunning-evidence-for-alternate-theory-of-gravity/)
+- Nov 16 - [Military's UFO-hunting aerial surveillance system detailed in report](https://www.twz.com/air/militarys-recently-deployed-ufo-hunting-aerial-surveillance-system-detailed-in-report)
+- Nov 16 - [Statistical Rethinking (2024 Edition)](https://github.com/rmcelreath/stat_rethinking_2024)
 <!--END_SECTION:hn-->
 
 <!--
