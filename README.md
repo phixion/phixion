@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 16 - [Netflix streaming issues leaving Mike Tyson-Jake Paul viewers livid](https://nypost.com/2024/11/15/sports/netflix-streaming-issues-leaving-mike-tyson-jake-paul-viewers-livid/)
+- Nov 16 - [Show HN: Android Dev Quest – A puzzle game solvable only using developer tools](https://www.androiddev.quest/)
 - Nov 16 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Nov 16 - [Uno Platform Studio: GUI Designer for Cross-Platform .NET Applications](https://platform.uno/blog/uno-platform-studio-featuring-hot-design/)
-- Nov 16 - [The Structure of a Worldview](https://www.allcatsarefemale.com/p/the-structure-of-a-worldview)
-- Nov 16 - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
-- Nov 16 - [Llama-OCR: Document to Markdown](https://llamaocr.com/)
+- Nov 16 - [Artificial Intelligence for Quantum Computing](https://arxiv.org/abs/2411.09131)
+- Nov 16 - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
