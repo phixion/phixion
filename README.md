@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Ask HN: How do you communicate in a remote startup?](https://news.ycombinator.com/item?id=42149938)
-- Nov 15 - [Chemist Identifies Mystery 'Blobs' Washing Up in Newfoundland](https://www.nytimes.com/2024/11/14/world/canada/blobs-canada-newfoundland.html)
-- Nov 15 - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
-- Nov 15 - [Show HN: Free mortgage analysis tool to avoid getting screwed by closing costs](https://closingwtf.com)
-- Nov 15 - [Gliimly is a programming language for web services](https://gliimly.github.io/)
+- Nov 15 - [Consuming the Bluesky firehose for less than $2.50/mo](https://bsky.bad-example.com/consuming-the-firehose-cheaply/)
+- Nov 15 - [What would it cost to kill coal](https://www.economist.com/interactive/the-economist-explains/2024/11/15/what-would-it-cost-to-kill-coal)
+- Nov 15 - [The Polars vs. Pandas difference nobody is talking about – Labs](https://labs.quansight.org/blog/dataframe-group-by)
+- Nov 15 - [FTC to launch investigation into Microsoft's cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
+- Nov 15 - [Jawboning in Plain Sight: The Unconstitutional Censorship Tolerated by the DMCA](https://www.rstreet.org/research/jawboning-in-plain-sight-the-unconstitutional-censorship-tolerated-by-the-dmca/)
 <!--END_SECTION:hn-->
 
 <!--
