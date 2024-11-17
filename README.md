@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](https://www.technologyreview.com/2024/09/25/1104475/nobel-prize-winners-cancel-crispr-patents-europe/)
-- Nov 17 - [IPv6 networks do apparently get probed](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6NetworksGetProbed)
-- Nov 17 - [How AI Could Break the Career Ladder](https://www.bloomberg.com/news/articles/2024-11-15/ai-replacing-entry-level-jobs-could-break-the-career-ladder)
-- Nov 17 - [Xogot – Godot for iPad](https://xogot.com/)
-- Nov 17 - [Safety in an Unsafe World](https://lwn.net/Articles/995814/)
+- Nov 17 - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
+- Nov 17 - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
+- Nov 17 - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
+- Nov 17 - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
+- Nov 17 - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 <!--END_SECTION:hn-->
 
 <!--
