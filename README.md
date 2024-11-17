@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 17 - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
+- Nov 17 - [Constraints in Go](https://bitfieldconsulting.com/posts/constraints)
 - Nov 17 - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
-- Nov 17 - [The decline and fall of the British economy](https://worksinprogress.co/issue/the-decline-and-fall-of-britain/)
 - Nov 17 - [King Arthur's ancient trail across Britain](https://www.cnn.com/travel/king-arthur-tintagel-wales-cornwall-celtic-britain/index.html)
-- Nov 17 - [Discord API Errors](https://discordstatus.com/incidents/5dthvyhbs866)
 - Nov 17 - [Appreciation of the mark-all-as-read button](https://manuelmoreale.com/an-appreciation-of-the-mark-all-as-read-button)
 <!--END_SECTION:hn-->
 
