@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 18 - [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
+- Nov 18 - [How Japanese Black Companies Oppress Workers and Ruin Lives[2014]](https://www.tofugu.com/japan/japanese-black-companies/)
+- Nov 18 - [Linux kernel 6.12 has been released](https://lwn.net/Articles/997958/)
 - Nov 18 - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
 - Nov 18 - [It's Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
-- Nov 18 - [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
-- Nov 18 - [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
-- Nov 17 - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
 <!--END_SECTION:hn-->
 
 <!--
