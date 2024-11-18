@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Ask HN: Is there any license that is designed to exclude LLMs?](https://news.ycombinator.com/item?id=42170746)
-- Nov 18 - [Reactive HTML Notebooks](https://maxbo.me/a-html-file-is-all-you-need.html)
-- Nov 18 - [Against Best Practices](https://www.arp242.net/best-practices.html)
-- Nov 18 - [We are shutting down Ondsel](https://ondsel.com/blog/goodbye/)
-- Nov 18 - [It's Time to Replace TCP in the Datacenter (2023)](https://arxiv.org/abs/2210.00714)
+- Nov 18 - [November 1861: Chalmers' under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
+- Nov 18 - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
+- Nov 18 - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
+- Nov 18 - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
+- Nov 18 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
 <!--END_SECTION:hn-->
 
 <!--
