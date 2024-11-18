@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [The Withering Dream of a Cheap American Electric Car](https://www.wsj.com/business/autos/the-withering-dream-of-a-cheap-american-electric-car-ad7e1113)
+- Nov 18 - [1 in 5 Japanese Workers in Their 20s Turn to Resignation Agencies](https://metropolisjapan.com/resignation-agencies/)
+- Nov 18 - [It's Time to Replace TCP in the Datacenter](https://arxiv.org/abs/2210.00714)
+- Nov 18 - [Teen serial swatter-for-hire busted, pleads guilty, could face 20 years](https://www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/)
+- Nov 18 - [Show HN: The App I Built to Help Manage My Diabetes, Powered by GPT-4o-Mini](https://apps.apple.com/gb/app/islet-diabetes/id6453168642)
 - Nov 17 - [Drinking water systems for 26M Americans face high cybersecurity risks](https://www.scworld.com/news/drinking-water-systems-for-26m-americans-face-high-cybersecurity-risks)
-- Nov 17 - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
-- Nov 17 - [You could have designed state of the art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
-- Nov 17 - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 <!--END_SECTION:hn-->
 
 <!--
