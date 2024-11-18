@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [November 1861: Chalmers' under Channel railway](https://www.theengineer.co.uk/content/archive/november-1861-chalmers-under-channel-railway/)
-- Nov 18 - [Bhutan, after prioritizing happiness, now faces an existential crisis](https://www.cbsnews.com/news/bhutan-emigration-crisis-60-minutes/)
-- Nov 18 - [Show HN: Documind – Open-source AI tool to turn documents into structured data](https://github.com/DocumindHQ/documind)
-- Nov 18 - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
-- Nov 18 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://nirvanalan.github.io/projects/GA/)
+- Nov 18 - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
+- Nov 18 - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
+- Nov 18 - [Fun facts about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
+- Nov 18 - [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
+- Nov 18 - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
 <!--END_SECTION:hn-->
 
 <!--
