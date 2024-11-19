@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Finland and Lithuania Report Severed Undersea Data Cables](https://www.bloomberg.com/news/articles/2024-11-18/finland-says-subsea-germany-link-serving-data-centers-is-severed)
-- Nov 18 - [The tragedy of running an old Node project](https://abdisalan.com/posts/tragedy-running-old-node-project/)
-- Nov 18 - [Fun facts about Google Scholar](https://blog.google/outreach-initiatives/education/google-scholar-20-years/)
-- Nov 18 - [Unreal 5.5 is a big deal [video]](https://www.youtube.com/watch?v=BcmUZpdChhA)
-- Nov 18 - [Show HN: FastGraphRAG – Better RAG using good old PageRank](https://github.com/circlemind-ai/fast-graphrag)
+- Nov 18 - [Show HN: Nosia – Privacy-Focused AI to Run Models on Your Own Data and Device](https://github.com/nosia-ai/nosia)
+- Nov 18 - [Scientific American's departing editor and the politicization of science](https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/)
+- Nov 18 - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
+- Nov 18 - [Microsoft starts boiling the Copilot frog: It's not a soup you want to drink](https://www.theregister.com/2024/11/18/opinion_piece_ai_tools/)
+- Nov 18 - [DNA testing company vanishes along with its customers' genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
 <!--END_SECTION:hn-->
 
 <!--
