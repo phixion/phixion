@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 19 - [Finsure - 296,124 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Finsure)
 - Nov 13 - [DemandScience by Pure Incubation - 121,796,165 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DemandScience)
 - Nov 11 - [Hot Topic - 56,904,909 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HotTopic)
 - Nov 07 - [Earth 2 - 420,961 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Earth2)
 - Nov 05 - [Dennis Kirk - 1,356,026 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DennisKirk)
-- Nov 05 - [Altenen - 1,267,701 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Altenen)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Show HN: Nosia – Privacy-Focused AI to Run Models on Your Own Data and Device](https://github.com/nosia-ai/nosia)
-- Nov 18 - [Scientific American's departing editor and the politicization of science](https://reason.com/2024/11/18/how-scientific-americans-departing-editor-helped-degrade-science/)
-- Nov 18 - [Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling)
-- Nov 18 - [Microsoft starts boiling the Copilot frog: It's not a soup you want to drink](https://www.theregister.com/2024/11/18/opinion_piece_ai_tools/)
-- Nov 18 - [DNA testing company vanishes along with its customers' genetic data](https://www.malwarebytes.com/blog/news/2024/11/dna-testing-company-vanishes-along-with-its-customers-genetic-data)
+- Nov 19 - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
+- Nov 19 - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
+- Nov 19 - [Retro beige PC case goes from April Fools' joke to retail](https://www.tomshardware.com/pc-components/pc-cases/retro-beige-pc-case-goes-from-april-fools-joke-to-retail-silverstones-sleeper-pc-with-modern-internals-ships-in-q1-2025)
+- Nov 19 - [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
+- Nov 19 - [Rats Learned to Drive–and They Love It](https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029)
 <!--END_SECTION:hn-->
 
 <!--
