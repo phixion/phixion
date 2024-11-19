@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 19 - [Shift Left Is the Tip of the Iceberg](https://semiengineering.com/shift-left-is-the-tip-of-the-iceberg/)
+- Nov 19 - [Austen and Darwin converged on the question of beauty](https://aeon.co/essays/how-austen-and-darwin-converged-on-the-question-of-beauty)
+- Nov 19 - [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
+- Nov 19 - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 - Nov 19 - [Expand.ai (YC S24) Is Hiring a Founding Engineer to Turn the Web into an API](https://news.ycombinator.com/item?id=42182503)
-- Nov 19 - [Listen to what gets lost when an MP3 is made (2015)](https://www.vox.com/2015/3/4/8147377/mp3-compressed-ghosts)
-- Nov 19 - [PyTorch 101: Understanding Graphs, Automatic Differentiation and Autograd](https://www.digitalocean.com/community/tutorials/pytorch-101-understanding-graphs-and-automatic-differentiation)
-- Nov 19 - [Batched reward model inference and Best-of-N sampling](https://raw.sh/posts/easy_reward_model_inference)
-- Nov 19 - [Iumenta: A generic framework for animal digital twins](https://arxiv.org/abs/2411.10466)
 <!--END_SECTION:hn-->
 
 <!--
