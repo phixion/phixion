@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Hand Tracking for Mouse Input](https://chernando.com/blog/2023/07/23/hand-tracking-for-mouse-input.html)
-- Nov 19 - [The Analog Thing: Analog Computing for the Future](https://the-analog-thing.org/)
-- Nov 19 - [Show HN: Physically accurate black hole simulation using your iPhone camera](https://apps.apple.com/us/app/black-hole-vision/id6737292448)
-- Nov 19 - [A Man of Parts and Learning Fara Dabhoiwala on the Portrait of Francis Williams](https://www.lrb.co.uk/the-paper/v46/n22/fara-dabhoiwala/a-man-of-parts-and-learning)
-- Nov 19 - [Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley](https://www.justpaid.ai/careers#roles)
+- Nov 19 - [We assume damage to Baltic Sea cables was sabotage, German Defence minister](https://www.theguardian.com/world/2024/nov/19/baltic-sea-cables-damage-sabotage-german-minister)
+- Nov 19 - [Important information to all residents of Sweden – In case of crisis or war [pdf]](https://rib.msb.se/filer/pdf/30874.pdf)
+- Nov 19 - [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
+- Nov 19 - [Why is Apple Rosetta 2 fast? (2022)](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
+- Nov 19 - [Starship IFT-6 Livestream (liftoff at 4pm CT)](https://www.spacex.com/launches/mission/?missionId=starship-flight-6#1)
 <!--END_SECTION:hn-->
 
 <!--
