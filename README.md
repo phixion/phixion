@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
-- Nov 20 - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
-- Nov 20 - [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
-- Nov 20 - [Jaguar Cars rebranding without any cars](https://www.jaguarusa.com/copy-nothing/index.html)
-- Nov 20 - [Blender 4.3](https://www.blender.org/download/releases/4-3/)
+- Nov 20 - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
+- Nov 20 - [Danish Navy Stopped a Chinese Ship Suspected of Damaging Undersea Cables](https://defence24.com/armed-forces/danish-navy-stopped-a-chinese-ship-suspected-of-damaging-undersea-cables)
+- Nov 20 - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
+- Nov 20 - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
+- Nov 20 - [Trivial REST server in various languages to compare](https://github.com/begoon/http-server)
 <!--END_SECTION:hn-->
 
 <!--
