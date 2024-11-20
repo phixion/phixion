@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
-- Nov 20 - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
-- Nov 20 - [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
-- Nov 20 - [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
-- Nov 20 - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
+- Nov 20 - [Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer)
+- Nov 20 - [Yi Peng 3 crossed both cables C-Lion 1 and BSC at times matching when they broke](https://bsky.app/profile/auonsson.bsky.social/post/3lbc5va7f722p)
+- Nov 20 - [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
+- Nov 20 - [Jaguar Cars rebranding without any cars](https://www.jaguarusa.com/copy-nothing/index.html)
+- Nov 20 - [Blender 4.3](https://www.blender.org/download/releases/4-3/)
 <!--END_SECTION:hn-->
 
 <!--
