@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [We assume damage to Baltic Sea cables was sabotage, German Defence minister](https://www.theguardian.com/world/2024/nov/19/baltic-sea-cables-damage-sabotage-german-minister)
-- Nov 19 - [Important information to all residents of Sweden – In case of crisis or war [pdf]](https://rib.msb.se/filer/pdf/30874.pdf)
-- Nov 19 - [Using uv with PyTorch](https://docs.astral.sh/uv/guides/integration/pytorch/)
-- Nov 19 - [Why is Apple Rosetta 2 fast? (2022)](https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/)
-- Nov 19 - [Starship IFT-6 Livestream (liftoff at 4pm CT)](https://www.spacex.com/launches/mission/?missionId=starship-flight-6#1)
+- Nov 20 - [Epic Allows Internet Archive to Distribute Unreal and Unreal Tournament Forever](https://www.techdirt.com/2024/11/18/epic-allows-internet-archive-to-distribute-for-free-unreal-unreal-tournament-forever/)
+- Nov 20 - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
+- Nov 20 - [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
+- Nov 20 - [Call for Developer Projects](https://github.com/bluesky-social/atproto/discussions/3049)
+- Nov 20 - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
 <!--END_SECTION:hn-->
 
 <!--
