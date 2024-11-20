@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Clearest Health (YC S23) is hiring a full-stack engineer in NY](https://news.ycombinator.com/item?id=42193089)
-- Nov 20 - [Danish Navy Stopped a Chinese Ship Suspected of Damaging Undersea Cables](https://defence24.com/armed-forces/danish-navy-stopped-a-chinese-ship-suspected-of-damaging-undersea-cables)
-- Nov 20 - [Discarded delights: The joy of ex-library books](https://www.abebooks.com/books/ex-library-books)
-- Nov 20 - [Foursquare Open Source Places: A new foundational dataset](https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/)
-- Nov 20 - [Trivial REST server in various languages to compare](https://github.com/begoon/http-server)
+- Nov 20 - [Singularity Missed](https://blog.piekniewski.info/2024/11/13/singularity-missed/)
+- Nov 20 - [3 years ago, VCs in Bay Area tech were thriving. Now, they're 'bleeding cash.'](https://www.sfgate.com/tech/article/bay-area-venture-capital-bleeding-cash-laffont-19929955.php)
+- Nov 20 - [My Resignation from Emacs Development](https://lists.gnu.org/archive/html/emacs-devel/2024-11/msg00534.html)
+- Nov 20 - [Automatic braking systems save lives. Now they'll need to work at 62 MPH](https://www.wired.com/story/automatic-emergency-braking-systems-62-mph/)
+- Nov 20 - [Musi fans refuse to update iPhones until Apple unblocks controversial app](https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/)
 <!--END_SECTION:hn-->
 
 <!--
