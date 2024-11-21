@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Mathematical Thinking Isn't What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
-- Nov 21 - [Show HN: We Open-Sourced Our Compost Monitoring Tech – Use It for Your Projects](https://github.com/gtls64/MontyHome-Hackers-Guide)
-- Nov 21 - [Building Databases over a Weekend](https://www.denormalized.io/blog/building-databases)
-- Nov 21 - [Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End)](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b)
-- Nov 21 - [Apple fights to keep DOJ antitrust suit from reaching trial](https://www.theverge.com/2024/11/20/24301660/apple-doj-motion-dismiss-antitrust-lawsuit)
+- Nov 21 - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
+- Nov 21 - [DOJ filed paperwork to US District Court to force Google to spin off Chrome [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.0.pdf)
+- Nov 21 - [The Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://thematrix1999.github.io/)
+- Nov 21 - [Boeing overcharged the U.S. Air Force 8,000% above market for soap dispensers](https://www.reuters.com/business/aerospace-defense/boeing-overcharged-air-force-nearly-8000-soap-dispensers-watchdog-alleges-2024-10-29/)
+- Nov 21 - [Why one would use Qubes OS? (2023)](https://dataswamp.org/~solene/2023-06-17-qubes-os-why.html)
 <!--END_SECTION:hn-->
 
 <!--
