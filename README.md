@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [What's Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
-- Nov 21 - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
-- Nov 21 - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
-- Nov 21 - [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
-- Nov 21 - [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
+- Nov 22 - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
+- Nov 22 - [What Is Your RAM Usage on macOS? Share Your Workflow and Use Case](https://news.ycombinator.com/item?id=42210563)
+- Nov 22 - [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
+- Nov 22 - [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
+- Nov 22 - [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
 <!--END_SECTION:hn-->
 
 <!--
