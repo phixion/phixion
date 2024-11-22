@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Fern Is Hiring Software Engineers in Brooklyn](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer)
-- Nov 22 - [A Camera the Size of a Grain of Salt Could Change Imaging as We Know It](https://cacm.acm.org/news/a-camera-the-size-of-a-grain-of-salt-could-change-imaging-as-we-know-it/)
-- Nov 22 - [Mastodon's weaknesses and how to fix them](https://2ality.com/2024/11/mastodon-weaknesses.html)
-- Nov 22 - [The Tao of Topic Maps (2000)](https://ontopia.net/topicmaps/materials/tao.html)
-- Nov 22 - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
+- Nov 22 - [What Made Dostoevsky's Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
+- Nov 22 - [Why so many families are "drowning in toys"](https://www.vox.com/money/382217/too-many-toys-kids-amazon-consumerism)
+- Nov 22 - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
+- Nov 22 - [Do Large Language Models learn world models or just surface statistics? (2023)](https://thegradient.pub/othello/)
+- Nov 22 - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
 <!--END_SECTION:hn-->
 
 <!--
