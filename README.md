@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
-- Nov 22 - [What Is Your RAM Usage on macOS? Share Your Workflow and Use Case](https://news.ycombinator.com/item?id=42210563)
-- Nov 22 - [DOJ proposal would require Google to divest from AI partnerships with Anthropic](https://www.bloomberg.com/news/articles/2024-11-21/us-justice-department-seeks-to-unwind-google-s-anthropic-deal)
-- Nov 22 - [Tailwind CSS v4.0 Beta 1](https://tailwindcss.com/blog/tailwindcss-v4-beta)
-- Nov 22 - [Broadcastarr: Stream web content through your Jellyfin instance](https://github.com/Billos/Broadcastarr)
+- Nov 22 - [Windmill Hiring Senior Front End (Svelte) Engineer in Paris](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer)
+- Nov 22 - [Apple will now be treated like a bank](https://9to5mac.com/2024/11/21/apple-will-now-be-treated-like-a-bank-says-us-consumer-financial-protection-bureau/)
+- Nov 22 - [Oppose the Patent-Troll-Friendly Prevail Act](https://www.eff.org/deeplinks/2024/11/prevail-act-would-wreck-us-patent-review-system)
+- Nov 22 - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
+- Nov 22 - [Amazon S3 now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object/)
 <!--END_SECTION:hn-->
 
 <!--
