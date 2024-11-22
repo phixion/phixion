@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [What Made Dostoevsky's Work Immortal](https://thoughts.wyounas.com/p/what-made-dostoevsky-immortal)
-- Nov 22 - [Why so many families are "drowning in toys"](https://www.vox.com/money/382217/too-many-toys-kids-amazon-consumerism)
-- Nov 22 - [Salmon return to lay eggs in historic habitat after dam removal project](https://www.opb.org/article/2024/11/17/salmon-return-to-lay-eggs-in-historic-habitat-after-largest-dam-removal-project-in-us-history/)
-- Nov 22 - [Do Large Language Models learn world models or just surface statistics? (2023)](https://thegradient.pub/othello/)
-- Nov 22 - [From string to AST: parsing](https://kubuszok.com/2019/from-string-to-ast-parsing/)
+- Nov 22 - [Translating My Grandfather's Biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
+- Nov 22 - [Understanding Google's Quantum Error Correction Breakthrough](https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/)
+- Nov 22 - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
+- Nov 22 - [Wasp (YC W21) is hiring a framework engineer to build Laravel for JavaScript](https://news.ycombinator.com/item?id=42215453)
+- Nov 22 - [Rendering "modern" Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 <!--END_SECTION:hn-->
 
 <!--
