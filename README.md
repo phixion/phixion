@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Could Humans Hibernate?](https://aeon.co/essays/how-animals-learned-to-hibernate-and-why-we-cant-do-it-yet)
-- Nov 21 - [The FORTH code for Chipwits is released in the game's 40th anniversary](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
-- Nov 21 - [Emacs Code Conversion Language](https://emacsninja.com/posts/code-conversion-language.html)
-- Nov 21 - [14-Year-Old Casper Wind Farm Has Not Turned a Blade in at Least 3 Years](https://cowboystatedaily.com/2024/11/20/14-year-old-casper-wind-farm-has-not-turned-a-blade-in-at-least-3-years/)
-- Nov 21 - [Oxide Cuts Data Center Power Consumption in Half](https://oxide.computer/blog/how-oxide-cuts-data-center-power-consumption-in-half)
+- Nov 21 - [What's Next for WebGPU](https://developer.chrome.com/blog/next-for-webgpu)
+- Nov 21 - [Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+- Nov 21 - [WhisperNER: Unified Open Named Entity and Speech Recognition](https://arxiv.org/abs/2409.08107)
+- Nov 21 - [A Study of Malware Prevention in Linux Distributions](https://arxiv.org/abs/2411.11017)
+- Nov 21 - [Autopoietic Networks](https://gbragafibra.github.io/2024/10/08/autopoietic_nets.html)
 <!--END_SECTION:hn-->
 
 <!--
