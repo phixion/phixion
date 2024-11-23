@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [I Stopped Using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
-- Nov 23 - [Researchers spot black hole feeding at 40x its theoretical limit](https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/)
-- Nov 23 - [Futel](https://futel.net/)
-- Nov 23 - [Alloy Automation (YC W20) Is Hiring](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager)
-- Nov 23 - [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
+- Nov 23 - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
+- Nov 23 - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
+- Nov 23 - [Marshall Brain has passed away](https://www.wral.com/video/nc-state-faculty-member-found-dead-in-office/21735146/)
+- Nov 23 - [Reverse engineers bust sleazy gig work platform](https://pluralistic.net/2024/11/23/hack-the-class-war/)
+- Nov 23 - [The tech utopia fantasy is over](https://blog.avas.space/tech-utopia-fantasy/)
 <!--END_SECTION:hn-->
 
 <!--
