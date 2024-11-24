@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [9elements Takes over Intel 1st Gen Xeon Scalable Skylake Support Within Coreboot](https://www.phoronix.com/news/9elements-SkylakeX-Coreboot)
-- Nov 23 - [Time-series forecasting through recurrent topology](https://www.nature.com/articles/s44172-023-00142-8)
-- Nov 23 - [Marshall Brain has passed away](https://www.wral.com/video/nc-state-faculty-member-found-dead-in-office/21735146/)
-- Nov 23 - [Reverse engineers bust sleazy gig work platform](https://pluralistic.net/2024/11/23/hack-the-class-war/)
-- Nov 23 - [The tech utopia fantasy is over](https://blog.avas.space/tech-utopia-fantasy/)
+- Nov 23 - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
+- Nov 23 - [CDC Confirms H5N1 Bird Flu Infection in California Child: First Child Case in US](https://www.cdc.gov/media/releases/2024/p1122-h5n1-bird-flu.html)
+- Nov 23 - [Wordpress.org released Secure Custom Fields "PRO" version with ACF pro features](https://old.reddit.com/r/Wordpress/comments/1gy8bud/wordpressorg_has_apparently_released_secure/)
+- Nov 23 - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
+- Nov 23 - [Establishing an etiquette for LLM use on Libera.Chat](https://libera.chat/news/llm-etiquette)
 <!--END_SECTION:hn-->
 
 <!--
