@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [2007 Boston Mooninite Panic](https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic)
-- Nov 24 - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
-- Nov 24 - [The biggest blocker to LibreOffice adoption? LibreOffice](https://www.dedoimedo.com/computers/libreoffice-adoption.html)
-- Nov 24 - [32k context length text embedding models](https://blog.voyageai.com/2024/09/18/voyage-3/)
-- Nov 23 - [Ice base melt revealed by multibeam imagery of an Antarctic ice shelf](https://www.science.org/doi/10.1126/sciadv.adn9188)
+- Nov 24 - [Denmark will plant 1B trees and convert 10% of farmland into forest](https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908)
+- Nov 24 - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
+- Nov 24 - [Hundreds More Nazca Lines Emerge in Peru's Desert](https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html)
+- Nov 24 - [Ahmed Mohamed Clock Incident](https://en.wikipedia.org/wiki/Ahmed_Mohamed_clock_incident)
+- Nov 24 - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
 <!--END_SECTION:hn-->
 
 <!--
