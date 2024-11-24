@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 24 - [The 'giant' river crabs that live beneath Rome's ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
+- Nov 24 - [Php.net Is Down](https://www.php.net/)
+- Nov 24 - [How to Make an STM (Scanning Tunneling Microscope) [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
 - Nov 24 - [Jiga (YC W21) Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
-- Nov 24 - [Homeless people to be given cash in first major UK trial to reduce poverty](https://www.theguardian.com/society/2024/nov/24/homeless-people-to-be-given-cash-in-first-major-uk-trial-to-reduce-poverty)
-- Nov 24 - [Supreme Court allows multibillion-dollar class action to proceed against Meta](https://apnews.com/article/supreme-court-meta-facebook-lawsuit-9173ad92e11df4b2a565418e419dfb88)
-- Nov 24 - [Robot Jailbreak: Researchers Trick Bots into Dangerous Tasks](https://spectrum.ieee.org/jailbreak-llm)
-- Nov 24 - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
+- Nov 24 - [Deegen: A JIT-Capable VM Generator for Dynamic Languages](https://arxiv.org/abs/2411.11469)
 <!--END_SECTION:hn-->
 
 <!--
