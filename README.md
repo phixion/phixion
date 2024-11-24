@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [The 'giant' river crabs that live beneath Rome's ancient ruins](https://www.nationalgeographic.com/animals/article/river-crab-ancient-rome)
-- Nov 24 - [Php.net Is Down](https://www.php.net/)
-- Nov 24 - [How to Make an STM (Scanning Tunneling Microscope) [video]](https://www.youtube.com/watch?v=aQaRXdabug0)
-- Nov 24 - [Jiga (YC W21) Is Hiring Operations Coordinator](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator)
-- Nov 24 - [Deegen: A JIT-Capable VM Generator for Dynamic Languages](https://arxiv.org/abs/2411.11469)
+- Nov 24 - [Ubitium is developing 'universal' processor combining CPU, GPU, DSP, and FPGA](https://www.tomshardware.com/pc-components/cpus/ubitium-announces-development-of-universal-processor-that-combines-cpu-gpu-dsp-and-fpga-functionalities-risc-v-powered-chip-slated-to-arrive-in-two-years)
+- Nov 24 - [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
+- Nov 24 - [Judge Rules in Favor of School That Gave Student a Bad Grade for Using AI](https://gizmodo.com/judge-rules-in-favor-of-school-that-gave-student-a-bad-grade-for-using-ai-2000528368)
+- Nov 24 - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
+- Nov 24 - [I made an ls alternative for my personal use it turned out to be amazing](https://github.com/triyanox/lla)
 <!--END_SECTION:hn-->
 
 <!--
