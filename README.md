@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
-- Nov 25 - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
-- Nov 25 - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
-- Nov 25 - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
-- Nov 25 - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
+- Nov 25 - [Microsoft Outlook, Exchange and Teams calendar are down worldwide](https://www.euronews.com/next/2024/11/25/microsoft-outlook-exchange-and-teams-calendar-are-down-worldwide)
+- Nov 25 - [Contentlesshtml – An HTML page served entire in HTTP headers](https://www.5snb.club/pages/contentlesshtml/)
+- Nov 25 - [Declassified Pentagon F-35 Study Details Reliability, Security Woes](https://www.bloomberg.com/news/articles/2024-11-21/declassified-pentagon-f-35-report-details-reliability-and-security-woes)
+- Nov 25 - [Lonely individuals tend to think and talk in an unusual way, study finds](https://www.psypost.org/lonely-individuals-tend-to-think-and-talk-in-an-unusual-way-study-finds/)
+- Nov 25 - [Judge's Investigation into Patent Troll Results in Criminal Referrals](https://www.eff.org/deeplinks/2024/11/judges-investigation-patent-troll-ip-edge-results-criminal-referrals)
 <!--END_SECTION:hn-->
 
 <!--
