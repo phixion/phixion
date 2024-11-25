@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Ubitium is developing 'universal' processor combining CPU, GPU, DSP, and FPGA](https://www.tomshardware.com/pc-components/cpus/ubitium-announces-development-of-universal-processor-that-combines-cpu-gpu-dsp-and-fpga-functionalities-risc-v-powered-chip-slated-to-arrive-in-two-years)
-- Nov 24 - [WireGuard: Beyond the Most Basic Configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
-- Nov 24 - [Judge Rules in Favor of School That Gave Student a Bad Grade for Using AI](https://gizmodo.com/judge-rules-in-favor-of-school-that-gave-student-a-bad-grade-for-using-ai-2000528368)
-- Nov 24 - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
-- Nov 24 - [I made an ls alternative for my personal use it turned out to be amazing](https://github.com/triyanox/lla)
+- Nov 24 - [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
+- Nov 24 - [Bluesky is on the verge of overtaking Threads in all the ways that matter](https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads)
+- Nov 24 - [No More Storage Limits: M.2 Adapter for Apple's M1 MacBooks [video]](https://www.youtube.com/watch?v=E3N-z-Y8cuw)
+- Nov 24 - [Build network societies, not network states](https://www.combinationsmag.com/build-network-societies-not-network-states/)
+- Nov 24 - [C99 doesn't need function bodies: VLAs are Turing complete](https://lemon.rip/w/c99-vla-tricks/)
 <!--END_SECTION:hn-->
 
 <!--
