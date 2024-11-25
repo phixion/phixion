@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Show HN: Rill – Composable concurrency toolkit for Go](https://github.com/destel/rill)
-- Nov 25 - [Hey, wait – is employee performance Gaussian distributed?](https://timdellinger.substack.com/p/hey-wait-is-employee-performance)
-- Nov 25 - [Focaccia: A Neolithic culinary tradition dating back 9k years ago](https://phys.org/news/2024-11-focaccia-neolithic-culinary-tradition-dating.html)
-- Nov 25 - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
-- Nov 25 - [What happened when a city started accepting - not evicting - homeless camps](https://www.bbc.com/news/articles/c3wq7l1lnqpo)
+- Nov 25 - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
+- Nov 25 - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
+- Nov 25 - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
+- Nov 25 - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
+- Nov 25 - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
