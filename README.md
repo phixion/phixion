@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 25 - [How the Ivy League Broke America](https://www.theatlantic.com/magazine/archive/2024/12/meritocracy-college-admissions-social-economic-segregation/680392/)
+- Nov 25 - [A Day in the Life: The Global BGP Table](https://articles.foletta.org/post/2024-01-08-a-day-in-the-life-the-bgp-table/)
+- Nov 25 - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 - Nov 25 - [It's a bird, it's a plane, it's Super Cassette Vision](https://nicole.express/2024/its-a-bird-its-a-plane-its-super-cassette-vision.html)
-- Nov 25 - [Making Your Connection Bad](https://www.5snb.club/posts/2024/making-your-connection-bad/)
-- Nov 25 - [Semantic Transpiler Agent](https://github.com/cyyeh/sta)
-- Nov 25 - [Reweb: Visual website builder for Next.js and Tailwind](https://www.reweb.so/)
-- Nov 25 - [Wildlife monitoring technologies used to intimidate and spy on women](https://www.cam.ac.uk/research/news/wildlife-monitoring-technologies-used-to-intimidate-and-spy-on-women-study-finds)
+- Nov 25 - [Monitor replacement – using a projector for a home office setup](https://sofiapandelea.medium.com/monitor-replacement-using-a-projector-for-a-home-office-setup-231d2891b3ae)
 <!--END_SECTION:hn-->
 
 <!--
