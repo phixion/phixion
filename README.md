@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Fly.io is having a complete outage](https://status.flyio.net)
-- Nov 26 - [Premature Graying of Hair: Review with Updates](https://pmc.ncbi.nlm.nih.gov/articles/PMC6290285/)
-- Nov 25 - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
-- Nov 25 - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
-- Nov 25 - [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
+- Nov 26 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- Nov 26 - [Tesla appears to be building a teleoperations team for its robotaxi service](https://techcrunch.com/2024/11/25/tesla-appears-to-be-building-a-teleoperations-team-for-its-robotaxi-service/)
+- Nov 26 - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
+- Nov 26 - [Northvolt goes from Europe battery promise to crisis](https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21/)
+- Nov 26 - [Nvidia Fugatto: "World's Most Flexible Sound Machine"](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
 <!--END_SECTION:hn-->
 
 <!--
