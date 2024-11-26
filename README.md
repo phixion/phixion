@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
-- Nov 25 - [Show HN: Gemini LLM corrects ASR YouTube transcripts](https://ldenoue.github.io/readabletranscripts/)
-- Nov 25 - [Show HN: I am Building a Producthunt alternative](https://huntlie.com)
-- Nov 25 - [Fleng 22 (concurrent logic programming)](http://www.call-with-current-continuation.org/fleng/fleng.html)
-- Nov 25 - [Replit (YC W18) Is Hiring Software Engineers in the Bay Area](https://replit.com/careers)
+- Nov 25 - [Amazon S3 Adds Put-If-Match (Compare-and-Swap)](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/)
+- Nov 25 - [The First Suburb](https://manchestermill.co.uk/p/the-secret-history-of-the-worlds)
+- Nov 25 - [A Short Introduction to Automotive Lidar Technology](https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar)
+- Nov 25 - [Prayer, Placement, and Absolution: Peter Hristoff on Islamic Prayer Rugs (2015)](https://www.metmuseum.org/perspectives/peter-hristoff-islamic-prayer-rugs)
+- Nov 25 - [Summary of "Improvising cellular playgrounds in Realtalk", Aug 2023 [video]](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 <!--END_SECTION:hn-->
 
 <!--
