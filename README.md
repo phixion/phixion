@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Setelinleikkaus: When Finns snipped their cash in half to curb inflation](http://jpkoning.blogspot.com/2024/11/setelinleikkaus-when-finns-snipped.html)
-- Nov 26 - [Y Combinator often backs startups that duplicate other YC companies, data shows](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
-- Nov 26 - [Lies we tell ourselves to keep using Golang (2022)](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
-- Nov 26 - [Cybertruck's Many Recalls](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
-- Nov 26 - [Nvidia Fugatto: "World's Most Flexible Sound Machine"](https://blogs.nvidia.com/blog/fugatto-gen-ai-sound-model/)
+- Nov 26 - [Show HN: Silent Poems, creative coding – Visual expression of unspoken thoughts](https://silentpoems.net/)
+- Nov 26 - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
+- Nov 26 - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
+- Nov 26 - [Medicare Pays Different Prices for the Same Drug](https://www.wsj.com/health/healthcare/medicare-pays-wildly-different-prices-for-the-same-drug-b20fa58c)
+- Nov 26 - [LLVM-Powered Devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 <!--END_SECTION:hn-->
 
 <!--
