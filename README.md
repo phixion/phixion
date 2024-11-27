@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Raspberry Pi CM5 is a faster, drop-in upgrade](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
-- Nov 27 - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
-- Nov 27 - [I Wrote "Janet for Mortals"](https://ianthehenry.com/posts/janet-for-mortals/)
-- Nov 27 - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
-- Nov 27 - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
+- Nov 27 - [Comparing AWS S3 with Cloudflare R2: Price, Performance and User Experience](https://kerkour.com/aws-s3-vs-cloudflare-r2-price-performance-user-experience)
+- Nov 27 - [Migrating a Client onto OpenTofu for Cost and Speed [video]](https://www.youtube.com/watch?v=YDez1_G47H8)
+- Nov 27 - [Redis Inc seeks control over Rust Redis-rs library, talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
+- Nov 27 - [Chebyshev Polynomials in the 16th Century](https://arxiv.org/abs/2203.10955)
+- Nov 27 - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 <!--END_SECTION:hn-->
 
 <!--
