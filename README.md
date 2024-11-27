@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
-- Nov 26 - [Amazon tripled prices for the basic tier of their auth service Cognito](https://saasprices.net/blog/aws-price-rise)
-- Nov 26 - [D-Link says "just buy a new router" after 9.8 critical vulnerability [video]](https://www.youtube.com/watch?v=52v6gKPA4TM)
-- Nov 26 - [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
-- Nov 26 - [Apple Rhapsody Report (1997)](https://www.uvm.edu/~sjc/raposody.html)
+- Nov 27 - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
+- Nov 27 - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
+- Nov 27 - [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
+- Nov 27 - [Marshall Brain died hours after alleging retaliation at NC State](https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html)
+- Nov 27 - [ISPs say their "excellent customer service" is why users don't switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
 <!--END_SECTION:hn-->
 
 <!--
