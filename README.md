@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [GenChess](https://labs.google/genchess)
-- Nov 26 - [Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
-- Nov 26 - [Building LLMs is probably not going be a brilliant business](https://calpaterson.com/porter.html)
-- Nov 26 - [One Billion Nested Loop Iterations](https://benjdd.com/languages/)
-- Nov 26 - [Hats Off to NASA's Webb: Sombrero Galaxy Dazzles in New Image](https://webbtelescope.org/contents/news-releases/2024/news-2024-137)
+- Nov 26 - [Ask HN: Has anyone tried adapting a court reporter keyboard for writing code?](https://news.ycombinator.com/item?id=42251040)
+- Nov 26 - [Amazon tripled prices for the basic tier of their auth service Cognito](https://saasprices.net/blog/aws-price-rise)
+- Nov 26 - [D-Link says "just buy a new router" after 9.8 critical vulnerability [video]](https://www.youtube.com/watch?v=52v6gKPA4TM)
+- Nov 26 - [ZetaOffice: LibreOffice in the Browser](https://zetaoffice.net/)
+- Nov 26 - [Apple Rhapsody Report (1997)](https://www.uvm.edu/~sjc/raposody.html)
 <!--END_SECTION:hn-->
 
 <!--
