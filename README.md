@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 27 - [Raspberry Pi CM5 is a faster, drop-in upgrade](https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly)
+- Nov 27 - [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 - Nov 27 - [I Wrote "Janet for Mortals"](https://ianthehenry.com/posts/janet-for-mortals/)
 - Nov 27 - [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
-- Nov 27 - [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/)
 - Nov 27 - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
-- Nov 27 - [Htmy – Async, pure-Python rendering engine](https://volfpeter.github.io/htmy/)
 <!--END_SECTION:hn-->
 
 <!--
