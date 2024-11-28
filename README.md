@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 28 - [In Praise of Print: Reading Is Essential in an Era of Epistemological Collapse](https://lithub.com/in-praise-of-print-why-reading-remains-essential-in-an-era-of-epistemological-collapse/)
+- Nov 28 - [Bananas: Cross-Platform screen sharing made simple](https://github.com/mistweaverco/bananas)
 - Nov 28 - [Conversational Game Theory](https://aikiwiki.com/)
 - Nov 28 - [picoCAD – a tiny modeler for tiny models](https://store.steampowered.com/app/2800590/picoCAD/)
 - Nov 28 - [Fugees Founder Pras Michél Speaks Out: 'I Never Wanted to Be a Spy'](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/)
-- Nov 28 - [NASA aircraft uncover Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
-- Nov 28 - [PRoot: User-space implementation of chroot, mount –bind, and binfmt_misc](https://proot-me.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
