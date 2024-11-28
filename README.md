@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Publishers Have Said the Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
-- Nov 27 - [Show HN: Feels Like Paper](https://www.lukasmoro.com/paper)
-- Nov 27 - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
-- Nov 27 - [Prelude to McCarthyism: The Making of a Blacklist (2006)](https://www.archives.gov/publications/prologue/2006/fall/agloso.html)
-- Nov 27 - [A Deep Dive into DDPMs](https://magic-with-latents.github.io/latent/posts/ddpms/part3/)
+- Nov 27 - [Most American farmers have second jobs to stay afloat](https://www.marketplace.org/2024/11/27/to-stay-on-the-farm-more-and-more-farmers-are-working-extra-jobs/)
+- Nov 27 - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
+- Nov 27 - [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
+- Nov 27 - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
+- Nov 27 - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
 <!--END_SECTION:hn-->
 
 <!--
