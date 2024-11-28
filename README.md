@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Most American farmers have second jobs to stay afloat](https://www.marketplace.org/2024/11/27/to-stay-on-the-farm-more-and-more-farmers-are-working-extra-jobs/)
-- Nov 27 - [The Forgotten Story of How IBM Invented the Automated Fab](https://spectrum.ieee.org/semiconductor-fabrication)
-- Nov 27 - [Microsoft Faces Broad Antitrust Investigation from US FTC](https://www.bloomberg.com/news/articles/2024-11-27/us-antitrust-watchdog-launches-broad-microsoft-investigation)
-- Nov 27 - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
-- Nov 27 - [London's 850-year-old food markets to close](https://www.bbc.co.uk/news/articles/cje050wz22qo)
+- Nov 28 - [Pocket 4: Modular full-featured Handheld AI PC](https://www.indiegogo.com/projects/pocket-4-modular-full-featured-handheld-ai-pc)
+- Nov 28 - [Show HN: Voice-Pro – AI Voice Cloning Magic: Transform Any Voice in 15 Seconds](https://github.com/abus-aikorea/voice-pro)
+- Nov 28 - [Bluesky Social Dataset (235M posts from 4M users)](https://zenodo.org/records/11082879)
+- Nov 28 - [Dell is posting unsigned updates to their website which fail to install](https://infosec.exchange/@0xabad1dea/113543212666056329)
+- Nov 28 - [A Washing Machine for Human Beings, from 1970](https://www.core77.com/posts/134471/A-Washing-Machine-for-Human-Beings-from-1970)
 <!--END_SECTION:hn-->
 
 <!--
