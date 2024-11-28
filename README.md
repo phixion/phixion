@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Australia to ban under-16s from social media after passing landmark law](https://www.independent.co.uk/news/world/australasia/social-media-ban-australia-law-under-16s-b2655348.html)
-- Nov 28 - [Qodo automatically verifies PR complies with Jira ticket or GitHub issue](https://www.qodo.ai/blog/qodo-merge-jira-ensuring-code-quality-through-ticket-compliance/)
-- Nov 28 - [Australia: Kids under 16 to be banned from social media after Senate passes laws](https://www.abc.net.au/news/2024-11-28/social-media-age-ban-passes-parliament/104647138)
-- Nov 28 - [The New Climate Math on Hurricanes](https://nautil.us/the-new-climate-math-on-hurricanes-1164220/)
-- Nov 28 - [Hetzner cuts traffic on US VPSs](https://news.ycombinator.com/item?id=42264427)
+- Nov 28 - [The UX of Lego Interface Panels (2020)](https://interactionmagic.com/UX-LEGO-Interfaces/)
+- Nov 28 - [Tk9.0: CGo-free, cross platform GUI toolkit for Go](https://pkg.go.dev/modernc.org/tk9.0)
+- Nov 28 - [A Pretty Visualisation of the European Power Grid (2022)](https://121gigawatts.org/copper-sushi-power-flow-european-grid/)
+- Nov 28 - [Bootkitty: Analyzing the first UEFI bootkit for Linux](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)
+- Nov 28 - [Show HN: Myphotos.site – Make a gallery website from Google Photos](https://www.myphotos.site)
 <!--END_SECTION:hn-->
 
 <!--
