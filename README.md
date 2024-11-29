@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Gimp 3.0 – a milestone for open-source image editing](https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/)
-- Nov 29 - [New Zealand Navy ship sank off Samoa because autopilot was left on, inquiry](https://www.theguardian.com/world/2024/nov/29/new-zealand-navy-ship-hmnzs-manawanui-sinking-autopilot-inquiry-ntwnfb)
-- Nov 29 - ['PDF to Brainrot' study tools are an iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
-- Nov 29 - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
-- Nov 29 - [The trouble with struct sockaddr's fake flexible array](https://lwn.net/Articles/997094/)
+- Nov 29 - [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
+- Nov 29 - [A Long-Memory Model for Multiple Cycles with an Application to US Stocks](https://www.mdpi.com/2227-7390/12/22/3487)
+- Nov 29 - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
+- Nov 29 - [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
+- Nov 29 - [Don't Fuck with Scroll](https://dontfuckwithscroll.com)
 <!--END_SECTION:hn-->
 
 <!--
