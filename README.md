@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Goodbye, Rust. I wish you success but I'm back to C++ (sorry, it is a rant)](https://old.reddit.com/r/rust/comments/1h15md8/goodbye_rust_i_wish_you_success_but_im_back_to_c/)
-- Nov 28 - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
-- Nov 28 - [Hetzner raises prices while significantly lowering bandwidth (US)](https://adriano.fyi/posts/hetzner-raises-prices-while-significantly-lowering-bandwidth-in-us/)
-- Nov 28 - [Vasopressin boosts sociability in solitary monkeys](https://www.thetransmitter.org/spectrum/vasopressin-boosts-sociability-in-solitary-monkeys/)
-- Nov 28 - [The success and failure of Ninja (2020)](https://neugierig.org/software/blog/2020/05/ninja.html)
+- Nov 29 - [How Much Memory Do You Need in 2024 to Run 1M Concurrent Tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
+- Nov 29 - [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
+- Nov 29 - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
+- Nov 29 - [Show HN: Screen Sharing in the Browser–No Downloads, No Registrations](https://github.com/tonghohin/screen-sharing)
+- Nov 29 - [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
 <!--END_SECTION:hn-->
 
 <!--
