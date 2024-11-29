@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
-- Nov 29 - [A Long-Memory Model for Multiple Cycles with an Application to US Stocks](https://www.mdpi.com/2227-7390/12/22/3487)
-- Nov 29 - [Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI](https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/)
-- Nov 29 - [Alibaba releases an 'open' challenger to OpenAI's O1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
-- Nov 29 - [Don't Fuck with Scroll](https://dontfuckwithscroll.com)
+- Nov 29 - [UK lawmakers vote in support of assisted dying](https://www.cnn.com/2024/11/29/uk/uk-assisted-dying-vote-gbr-intl/index.html)
+- Nov 29 - [US Houses Prices in 1950 vs. 2024 (Accounting for Inflation)](https://brilliantmaps.com/us-houses-prices-1950-2024/)
+- Nov 29 - [The Influence of Bell Labs](https://www.construction-physics.com/p/the-influence-of-bell-labs)
+- Nov 29 - [Simple Sabotage for the 21st Century – Specific Suggestions](https://specificsuggestions.com)
+- Nov 29 - [CleaR: Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Labels](https://arxiv.org/abs/2411.00873)
 <!--END_SECTION:hn-->
 
 <!--
