@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [How Much Memory Do You Need in 2024 to Run 1M Concurrent Tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
-- Nov 29 - [Microbenchmarks Are Experiments](https://mrale.ph/blog/2024/11/27/microbenchmarks-are-experiments.html)
-- Nov 29 - [Car tires shed a quarter of all microplastics in the environment](https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html)
-- Nov 29 - [Show HN: Screen Sharing in the Browser–No Downloads, No Registrations](https://github.com/tonghohin/screen-sharing)
-- Nov 29 - [Canada Competition Bureau sues Google for anti-competitive conduct in online ads](https://www.canada.ca/en/competition-bureau/news/2024/11/competition-bureau-sues-google-for-anti-competitive-conduct-in-online-advertising-in-canada.html)
+- Nov 29 - [EU Summons TikTok CEO After Romanian Election Shocker](https://www.romania-insider.com/tiktok-ceo-summoned-european-parliament-after-surprising-first-round-presidential-victory-calin)
+- Nov 29 - [Australian Parliament bans social media for under-16s](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056)
+- Nov 29 - [US antitrust watchdog launches broad Microsoft investigation](https://news.bloomberglaw.com/us-law-week/us-antitrust-watchdog-launches-broad-microsoft-investigation)
+- Nov 29 - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
+- Nov 29 - [The trouble with struct sockaddr's fake flexible array](https://lwn.net/Articles/997094/)
 <!--END_SECTION:hn-->
 
 <!--
