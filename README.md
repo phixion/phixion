@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Things I wish I knew the day I started Berklee (2008)](https://sive.rs/berklee)
-- Nov 30 - [Formance – The Color of Money: Towards a New Data Model for Fintech, Part II](https://www.formance.com/blog/engineering/color-of-money)
-- Nov 30 - [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
-- Nov 30 - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
-- Nov 30 - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
+- Nov 30 - [Square Roots and Maxima](https://leancrew.com/all-this/2024/11/square-roots-and-maxima/)
+- Nov 30 - [Chinese researchers indicate diamonds can store data for millions of years](https://readwrite.com/chinese-researchers-indicate-diamonds-can-store-data-for-millions-of-years/)
+- Nov 30 - [Gladiator Style Interviewing](https://markgreville.ie/2024/01/29/gladiator-style-interviewing/)
+- Nov 30 - [Rust-Query](https://blog.lucasholten.com/rust-query-announcement/)
+- Nov 30 - [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
 <!--END_SECTION:hn-->
 
 <!--
