@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 30 - [Sol-Ark manufacturer reportedly disables all Deye inverters in the US](https://solarboi.com/2024/11/17/sol-ark-oem-disables-all-deye-inverters-in-the-us/)
+- Nov 30 - [The Quake III Arena Bot (2001) [pdf]](https://fabiensanglard.net/fd_proxy/quake3/The-Quake-III-Arena-Bot.pdf)
+- Nov 30 - [Virtual Geometry in Bevy 0.15](https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/)
 - Nov 29 - [TfL abandons plans for driverless tube trains](https://www.ianvisits.co.uk/articles/tfl-abandons-plans-for-driverless-tube-trains-77435/)
-- Nov 29 - [The Engagement Is Better on Bluesky](https://bsky.social/about/blog/11-29-2024-engagement)
-- Nov 29 - [Brick and Mortar Triangle Fraud](https://getcho.app/blog/triangle-fraud-brick-mortar/)
-- Nov 29 - [The Deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
-- Nov 29 - [The Hall SC-VGA-2 Video Processor, the Atari ST and NeXTSTEP](http://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
+- Nov 29 - [NASA's Europa Clipper: Miles Down, Instruments Deploying](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 <!--END_SECTION:hn-->
 
 <!--
