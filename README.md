@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [An 83-year-old short story by Borges portends a bleak future for the internet](https://theconversation.com/an-83-year-old-short-story-by-borges-portends-a-bleak-future-for-the-internet-242998)
-- Nov 30 - [Silicon Valley is turning into its own worst fear (2017)](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
-- Nov 30 - [In shallow waters, cruise ships can churn up as much sediment as a hurricane](https://www.wlrn.org/environment/2024-11-19/key-west-cruise-ships-water-quality)
-- Nov 30 - [The reproducibility crisis and other problems in science – John Ioannidis](https://www.youtube.com/watch?v=vY9mGJQFdyE)
-- Nov 30 - [Wayland Color Management Protocol Might Be Close to Merging](https://www.phoronix.com/news/Wayland-Color-Management-Nears)
+- Dec 01 - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
+- Dec 01 - [All Here founder's arrest shows it's easy for startups to scam investors](https://www.axios.com/2024/11/27/allhere-founder-arrest-startups-scam-investors#)
+- Dec 01 - [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
+- Dec 01 - [Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer)
+- Dec 01 - [Controlling AI's Growing Energy Needs](https://cacm.acm.org/news/controlling-ais-growing-energy-needs/)
 <!--END_SECTION:hn-->
 
 <!--
