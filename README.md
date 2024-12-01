@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU)](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote)
+- Dec 01 - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
+- Dec 01 - [Advent of Code 2024](https://adventofcode.com/2024/about)
 - Dec 01 - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
-- Dec 01 - [Education and Healthcare Suck for the Same Reasons](https://betterschooling.in/collection/education-and-healthcare-suck-here-s-how-we-can-change-that)
-- Dec 01 - [Canon ships its first nanoprint lithography machine, rivals ASML](https://www.datacenterdynamics.com/en/news/canon-ships-its-first-nanoprint-lithography-machine-rivals-asml/)
-- Dec 01 - [OpenWRT One Released: First Router Designed Specifically for OpenWrt](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
+- Dec 01 - [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
+- Dec 01 - [Jeff Dean Responds to EDA Industry about AlphaChip](https://twitter.com/JeffDean/status/1858540085794451906)
 <!--END_SECTION:hn-->
 
 <!--
