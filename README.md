@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Tiny Arcades [video]](https://www.youtube.com/watch?v=bVdF9ByDb6g)
-- Dec 01 - [Yotta Bank and the Problem with Fintech (Patrick Boyle) [video]](https://www.youtube.com/watch?v=SAFlRSftffc)
-- Dec 01 - [The Rarest Mineral Is So Rare It's Only Ever Been Found Once](https://www.sciencealert.com/the-worlds-rarest-mineral-is-so-rare-its-only-ever-been-found-once)
-- Dec 01 - [AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search](https://www.workatastartup.com/jobs/68254)
-- Dec 01 - [Turning bogs from wastelands to nature-scapes](https://worldsensorium.com/turning-bogs-from-wastelands-to-nature-scapes/)
+- Dec 01 - [The Color of Noise – The Witness (2014)](https://caseymuratori.com/blog_0010)
+- Dec 01 - [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
+- Dec 01 - [Heaviside’s Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
+- Dec 01 - [Francis Crick Was Misunderstood](https://www.asimov.press/p/crick)
+- Dec 01 - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
 <!--END_SECTION:hn-->
 
 <!--
