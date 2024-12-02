@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
-- Dec 01 - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
-- Dec 01 - [Star Citizen crowdfunding passes $750M](https://robertsspaceindustries.com/funding-goals)
-- Dec 01 - [Scalable and Performant Data Loading](https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1)
-- Dec 01 - [How to Study Mathematics](https://www.math.uh.edu/~dblecher/pf2.html)
+- Dec 02 - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
+- Dec 02 - [Working with PaloAlto to identify CVE-2024-2550](https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/)
+- Dec 02 - [Demystifying Git Submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
+- Dec 02 - [When was the famous "sudo warning" introduced? (2019)](https://retrocomputing.stackexchange.com/questions/12521/when-was-the-famous-sudo-warning-introduced-under-what-background-by-whom)
+- Dec 01 - [Police bust pirate streaming service making €250M per month](https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/)
 <!--END_SECTION:hn-->
 
 <!--
