@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
-- Dec 02 - [An Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/hat/)
+- Dec 02 - [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
+- Dec 02 - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
+- Dec 02 - [An Aperiodic Monotile (2023)](https://cs.uwaterloo.ca/~csk/hat/)
 - Dec 02 - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 - Dec 02 - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
-- Dec 02 - [Working with PaloAlto to identify CVE-2024-2550](https://www.ac3.com.au/resources/discovery-of-CVE-2024-2550/)
 <!--END_SECTION:hn-->
 
 <!--
