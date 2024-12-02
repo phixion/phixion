@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
-- Dec 02 - [Kenya and "The Decline of the Greatest Coffee" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
-- Dec 02 - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
-- Dec 02 - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
-- Dec 02 - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
+- Dec 02 - [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
+- Dec 02 - [The world of Dante's Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
+- Dec 02 - [Fish have a brain microbiome – could humans have one too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
+- Dec 02 - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
+- Dec 02 - [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
 <!--END_SECTION:hn-->
 
 <!--
