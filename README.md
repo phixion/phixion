@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [The Color of Noise – The Witness (2014)](https://caseymuratori.com/blog_0010)
-- Dec 01 - [How can I grow as an engineer without good seniors to learn from?](https://news.ycombinator.com/item?id=42289955)
-- Dec 01 - [Heaviside’s Operator Calculus (2007)](https://deadreckonings.com/2007/12/07/heavisides-operator-calculus/)
-- Dec 01 - [Francis Crick Was Misunderstood](https://www.asimov.press/p/crick)
-- Dec 01 - [Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf)
+- Dec 01 - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
+- Dec 01 - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
+- Dec 01 - [Star Citizen crowdfunding passes $750M](https://robertsspaceindustries.com/funding-goals)
+- Dec 01 - [Scalable and Performant Data Loading](https://ai.meta.com/blog/spdl-faster-ai-model-training-with-thread-based-data-loading-reality-labs/?_fb_noscript=1)
+- Dec 01 - [How to Study Mathematics](https://www.math.uh.edu/~dblecher/pf2.html)
 <!--END_SECTION:hn-->
 
 <!--
