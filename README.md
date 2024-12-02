@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [UK: Proposed amendment to legal presumption about the reliability of computers](https://www.postofficescandal.uk/post/proposed-amendment-to-legal-assumption-about-the-reliability-of-computers/)
-- Dec 02 - [US airlines transported passengers over two light-years since the last crash](https://ourworldindata.org/us-airline-travel)
-- Dec 02 - [An Aperiodic Monotile (2023)](https://cs.uwaterloo.ca/~csk/hat/)
-- Dec 02 - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
-- Dec 02 - ['Brain rot' named Oxford Word of the Year 2024](https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/)
+- Dec 02 - [The zoology and biochemistry of xenomorphs from the Alien franchise](https://jgeekstudies.org/2024/12/02/xenomorphia-ex-machina-the-zoology-and-biochemistry-of-xenomorphs-from-the-alien-franchise/)
+- Dec 02 - [Kenya and "The Decline of the Greatest Coffee" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
+- Dec 02 - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
+- Dec 02 - [CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3](https://capibarazero.com/)
+- Dec 02 - [Vulkan Video Now Enabled by Default for Radeon VCN2/VCN3 Hardware on Linux](https://www.phoronix.com/news/Vulkan-Video-VCN2-VCN3-Default)
 <!--END_SECTION:hn-->
 
 <!--
