@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Bioluminescent wood using the white rot fungus desarmillaria tabescens](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403215)
-- Dec 02 - [The world of Dante's Divine Comedy](https://lithub.com/a-riveting-timeless-journey-through-the-afterlife-inside-the-world-of-dantes-divine-comedy/)
-- Dec 02 - [Fish have a brain microbiome – could humans have one too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
-- Dec 02 - [Show HN: Automate your studio – mute a mixer channel to turn your PTZ camera](https://github.com/KopiasCsaba/open_sound_control_bridge)
-- Dec 02 - [Claud Cockburn invented guerrilla journalism](https://jacobin.com/2024/12/claud-cockburn-guerrilla-journalism-left/)
+- Dec 02 - [Show HN: Open-sourced (road) traffic counting application](https://github.com/asfarley/vtc_lfs)
+- Dec 02 - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
+- Dec 02 - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
+- Dec 02 - [Tempest Anderson: Pioneer of Volcano Photography (2015)](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
+- Dec 02 - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
 <!--END_SECTION:hn-->
 
 <!--
