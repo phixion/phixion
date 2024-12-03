@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 03 - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
+- Dec 03 - [8 months of OCaml after 8 years of Haskell in production (2023)](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
+- Dec 03 - [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
+- Dec 03 - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
 - Dec 02 - [Show HN: Open-sourced (road) traffic counting application](https://github.com/asfarley/vtc_lfs)
-- Dec 02 - [A better approach to gravity: how we made EGM2008 faster](https://www.elodin.systems/post/a-better-approach-to-gravity-how-we-made-egm2008-faster)
-- Dec 02 - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
-- Dec 02 - [Tempest Anderson: Pioneer of Volcano Photography (2015)](https://publicdomainreview.org/essay/tempest-anderson-pioneer-of-volcano-photography/)
-- Dec 02 - [Black Hole Puzzle](https://johncarlosbaez.wordpress.com/2024/11/30/black-hole-puzzle/)
 <!--END_SECTION:hn-->
 
 <!--
