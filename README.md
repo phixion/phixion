@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
-- Dec 03 - ['With brain preservation, nobody has to die'](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
-- Dec 03 - [AI Advent of Code: Implementing Papers](https://www.leetarxiv.com/)
-- Dec 03 - [AI poetry is indistinguishable from human poetry and is rated more favorably](https://www.nature.com/articles/s41598-024-76900-1)
-- Dec 03 - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
+- Dec 03 - [The Tube Computer](https://www.thetubecomputer.com/)
+- Dec 03 - [Webhooks Are Harder Than They Seem](https://www.svix.com/blog/webhooks-are-harder-than-they-seem/)
+- Dec 03 - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
+- Dec 03 - [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
+- Dec 03 - [Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)
 <!--END_SECTION:hn-->
 
 <!--
