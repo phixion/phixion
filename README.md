@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe](https://www.workatastartup.com/jobs/60210)
-- Dec 03 - [Company claims 1k% price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
-- Dec 03 - [No need to email me about Cisco AnyConnect](https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/)
-- Dec 03 - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
-- Dec 03 - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
+- Dec 03 - [DuckDuckGo Donates $25,000 to the Perl and Raku Foundation](https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation/)
+- Dec 03 - ['With brain preservation, nobody has to die'](https://www.theguardian.com/science/2024/dec/01/with-brain-preservation-nobody-has-to-die-meet-the-neuroscientist-who-believes-life-could-be-eternal)
+- Dec 03 - [AI Advent of Code: Implementing Papers](https://www.leetarxiv.com/)
+- Dec 03 - [AI poetry is indistinguishable from human poetry and is rated more favorably](https://www.nature.com/articles/s41598-024-76900-1)
+- Dec 03 - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
 <!--END_SECTION:hn-->
 
 <!--
