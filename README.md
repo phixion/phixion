@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
-- Dec 03 - [8 months of OCaml after 8 years of Haskell in production (2023)](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
-- Dec 03 - [Show HN: Copper – Open-source robotics in Rust with deterministic log replay](https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log)
-- Dec 03 - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
-- Dec 02 - [Show HN: Open-sourced (road) traffic counting application](https://github.com/asfarley/vtc_lfs)
+- Dec 03 - [Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone)](https://www.ycombinator.com/companies/kapa-ai/jobs)
+- Dec 03 - [What Is Software Anyways? Where Does It Exist?](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-2-abstract-artifact)
+- Dec 03 - [Blizzard's pulling of Warcraft I and II tests GOG's new Preservation Program](https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/)
+- Dec 03 - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
+- Dec 03 - [High School Student's First App – NWS Weather Report](https://weatherreportnow.com/)
 <!--END_SECTION:hn-->
 
 <!--
