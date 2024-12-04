@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Lead exposure in last century shrank IQ scores of half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
-- Dec 04 - [Splash pads are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
-- Dec 04 - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
-- Dec 04 - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
-- Dec 04 - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
+- Dec 04 - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
+- Dec 04 - [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
+- Dec 04 - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
+- Dec 04 - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
+- Dec 04 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 <!--END_SECTION:hn-->
 
 <!--
