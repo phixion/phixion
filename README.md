@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Reprompt (YC W24) Is Hiring an Engineer to Build Location Agents](https://news.ycombinator.com/item?id=42316644)
-- Dec 04 - [Linux TCP So_reuseport: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
-- Dec 04 - [How to Grow Professional Relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
-- Dec 04 - [Pinecone integrates AI inferencing with vector database](https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/)
-- Dec 04 - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
+- Dec 04 - [Lead exposure in last century shrank IQ scores of half of Americans](https://today.duke.edu/2022/03/lead-exposure-last-century-shrunk-iq-scores-half-americans)
+- Dec 04 - [Splash pads are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
+- Dec 04 - [A pro-science, pro-progress, techno-optimistic health textbook from 1929](https://moreisdifferent.blog/p/a-pro-science-pro-progress-techno)
+- Dec 04 - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+- Dec 04 - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 <!--END_SECTION:hn-->
 
 <!--
