@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [The Tube Computer](https://www.thetubecomputer.com/)
-- Dec 03 - [Webhooks Are Harder Than They Seem](https://www.svix.com/blog/webhooks-are-harder-than-they-seem/)
-- Dec 03 - [Amazon Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
-- Dec 03 - [Intel Launches Arc B-Series Graphics Cards](https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/desktop/b-series/overview.html)
-- Dec 03 - [Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)
+- Dec 03 - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
+- Dec 03 - [My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback](https://www.armaansahni.com/game/)
+- Dec 03 - [Creating a Proxmox or QEMU ChromeOS Flex VM](https://kevindavid.org/code/2024/03/20/chrome-os-flex-proxmox.html)
+- Dec 03 - [Against 'Free Market Authoritarianism'](https://isonomiaquarterly.com/volume-2-issue-4/against-free-market-authoritarianism/)
+- Dec 03 - [Openlayer (YC S21) is looking for top-tier design engineers](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer)
 <!--END_SECTION:hn-->
 
 <!--
