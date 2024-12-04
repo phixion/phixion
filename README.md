@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [Formaldehyde Causes More Cancer Than Any Other Toxic Air Pollutant](https://www.propublica.org/article/formaldehyde-epa-trump-public-health-danger)
-- Dec 04 - [Automated reasoning to remove LLM hallucinations](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
-- Dec 03 - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
-- Dec 03 - [Phoenix LiveView 1.0.0 is here](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0)
-- Dec 03 - [A new home for Python-build-standalone](https://astral.sh/blog/python-build-standalone)
+- Dec 04 - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
+- Dec 04 - [IMG_0001](https://walzr.com/IMG_0001/)
+- Dec 04 - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
+- Dec 04 - [Show HN: Open-Source Colab Notebooks to Implement Advanced RAG Techniques](https://github.com/athina-ai/rag-cookbooks)
+- Dec 04 - [EmacsConf 2024](https://emacsconf.org/2024/)
 <!--END_SECTION:hn-->
 
 <!--
