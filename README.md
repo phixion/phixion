@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
-- Dec 05 - [Waymo announces Miami as its next ride hailing city](https://waymo.com/blog/2024/12/next-stop-miami/)
-- Dec 05 - [Humanloop (YC S20) Is Hiring Product Engineers in London and SF](https://humanloop.com)
-- Dec 05 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
-- Dec 05 - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
+- Dec 05 - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
+- Dec 05 - [Chocolate intake and risk of type 2 diabetes](https://www.bmj.com/content/387/bmj-2023-078386)
+- Dec 05 - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
+- Dec 05 - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
+- Dec 05 - [React v19 has been released](https://github.com/facebook/react/blob/main/CHANGELOG.md)
 <!--END_SECTION:hn-->
 
 <!--
