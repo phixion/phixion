@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 05 - [Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'](https://www.techdirt.com/2024/12/04/federal-court-says-dismantling-a-phone-to-install-firmware-isnt-a-search-even-if-was-done-to-facilitate-a-search/)
+- Dec 05 - [Waymo announces Miami as its next ride hailing city](https://waymo.com/blog/2024/12/next-stop-miami/)
 - Dec 05 - [Humanloop (YC S20) Is Hiring Product Engineers in London and SF](https://humanloop.com)
-- Dec 05 - [Americans React to UnitedHealthcare CEO's Murder: 'My Empathy Is Out of Network'](https://gizmodo.com/bitter-americans-react-to-unitedhealthcare-ceos-murder-my-empathy-is-out-of-network-2000534520)
-- Dec 05 - [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
-- Dec 05 - [US Senators implore Department of Defense to expand the use of Matrix](https://element.io/blog/senators-implore-department-of-defense-to-expand-the-use-of-matrix/)
-- Dec 05 - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
+- Dec 05 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
+- Dec 05 - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
 <!--END_SECTION:hn-->
 
 <!--
