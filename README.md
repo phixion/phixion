@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
-- Dec 05 - [VectorChord: Store 400k Vectors for $1 in PostgreSQL](https://blog.pgvecto.rs/vectorchord-store-400k-vectors-for-1-in-postgresql)
-- Dec 05 - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
-- Dec 05 - [AggiesBCI – brain-controlled wheelchair converts thoughts to real-world movement](https://yusiali.com/projects/AggiesBCI/)
-- Dec 04 - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
+- Dec 05 - [Humanloop (YC S20) Is Hiring Product Engineers in London and SF](https://humanloop.com)
+- Dec 05 - [Americans React to UnitedHealthcare CEO's Murder: 'My Empathy Is Out of Network'](https://gizmodo.com/bitter-americans-react-to-unitedhealthcare-ceos-murder-my-empathy-is-out-of-network-2000534520)
+- Dec 05 - [How close is AI to human-level intelligence?](https://www.nature.com/articles/d41586-024-03905-1)
+- Dec 05 - [US Senators implore Department of Defense to expand the use of Matrix](https://element.io/blog/senators-implore-department-of-defense-to-expand-the-use-of-matrix/)
+- Dec 05 - [macOS Packaging for Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium-macos)
 <!--END_SECTION:hn-->
 
 <!--
