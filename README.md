@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 04 - [Deploying Containers on NixOS: A Guide](https://bkiran.com/blog/deploying-containers-nixos)
+- Dec 04 - [Show HN: LimeJourney – open-source Customer Engagement Platform](https://www.limejourney.com)
 - Dec 04 - [How Typing Transformed Nietzsche's Consciousness](https://thereader.mitpress.mit.edu/how-typing-transformed-nietzsches-consciousness/)
-- Dec 04 - [Native Dual-Range Input](https://muffinman.io/blog/native-dual-range-input/)
+- Dec 04 - [Native dual-range input](https://muffinman.io/blog/native-dual-range-input/)
 - Dec 04 - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
-- Dec 04 - [Show HN: Outerbase Studio – Open-Source Database GUI](https://github.com/outerbase/studio)
-- Dec 04 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 <!--END_SECTION:hn-->
 
 <!--
