@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [FreeBSD OCI Container on Jails/Bhyve with Support for Podman](https://freebsdfoundation.org/project/oci-container-support/)
-- Dec 05 - [Chocolate intake and risk of type 2 diabetes](https://www.bmj.com/content/387/bmj-2023-078386)
-- Dec 05 - [Tsunami Warning for Northern California](https://www.tsunami.gov/?p=PAAQ/2024/12/05/so1aq0/1/WEAK51)
-- Dec 05 - [Show HN: Banan-OS, an Unix-like operating system written from scratch](https://github.com/Bananymous/banan-os)
-- Dec 05 - [React v19 has been released](https://github.com/facebook/react/blob/main/CHANGELOG.md)
+- Dec 06 - [Russia and China rigged Romanian Elections using 10M fake TikTok accounts](https://kyivinsider.com/russia-and-china-just-rigged-romanian-elections-using-10-million-fake-tiktok-accounts/)
+- Dec 05 - [Torrent of Hate for Health Insurance Industry Follows CEO's Killing](https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html)
+- Dec 05 - [Healthcare companies are yanking info from their leadership pages](https://old.reddit.com/r/redscarepod/comments/1h7g9ga/healthcare_companies_are_yanking_info_from_their/)
+- Dec 05 - [Researchers get 'compact' hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
+- Dec 05 - [The Acton Programming Language](https://www.acton-lang.org/)
 <!--END_SECTION:hn-->
 
 <!--
