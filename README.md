@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
-- Dec 06 - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
-- Dec 06 - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/)
-- Dec 06 - [Ukraine's three nuclear power plants have restored electricity production](https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine)
-- Dec 06 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+- Dec 06 - [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
+- Dec 06 - [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
+- Dec 06 - [ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
+- Dec 06 - [Install Docker Natively on Android Phone and Use It as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
+- Dec 06 - [Rivian Is Opening Its Charging Network to Other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
 <!--END_SECTION:hn-->
 
 <!--
