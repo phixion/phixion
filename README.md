@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [The Unplanned Impact of Mathematics](https://www.nature.com/articles/475166a)
-- Dec 06 - [We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/)
-- Dec 06 - [ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists](https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists)
-- Dec 06 - [Install Docker Natively on Android Phone and Use It as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
-- Dec 06 - [Rivian Is Opening Its Charging Network to Other EVs](https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs)
+- Dec 06 - [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
+- Dec 06 - [United Health CEO Decries "Aggressive" Media Coverage in Leaked Recording](https://www.kenklippenstein.com/p/video-united-health-ceo-laments-offensive)
+- Dec 06 - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
+- Dec 06 - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
+- Dec 06 - [Maps.me co-founder tries to close down Organic Maps open-source fork](https://github.com/orgs/organicmaps/discussions/9837)
 <!--END_SECTION:hn-->
 
 <!--
