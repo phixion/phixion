@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Russia and China rigged Romanian Elections using 10M fake TikTok accounts](https://kyivinsider.com/russia-and-china-just-rigged-romanian-elections-using-10-million-fake-tiktok-accounts/)
-- Dec 05 - [Torrent of Hate for Health Insurance Industry Follows CEO's Killing](https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html)
-- Dec 05 - [Healthcare companies are yanking info from their leadership pages](https://old.reddit.com/r/redscarepod/comments/1h7g9ga/healthcare_companies_are_yanking_info_from_their/)
-- Dec 05 - [Researchers get 'compact' hard X-ray machine to work](https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b)
-- Dec 05 - [The Acton Programming Language](https://www.acton-lang.org/)
+- Dec 06 - [The Pitchforks Are Coming for Us Plutocrats (2014)](https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014/)
+- Dec 06 - [Why housing shortages cause homelessness](https://worksinprogress.co/issue/why-housing-shortages-cause-homelessness/)
+- Dec 06 - [Researchers launch "moonshot" to cure blindness through eye transplants](https://www.canoncitydailyrecord.com/2024/12/05/university-colorado-anschutz-blindness-cure-eye-transplant-medical-research/)
+- Dec 06 - [The Death of Intel: When Boards Fail](https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail)
+- Dec 06 - [Roaming RAG – Make the Model Find the Answers](http://arcturus-labs.com/blog/2024/11/21/roaming-rag--make-_the-model_-find-the-answers/)
 <!--END_SECTION:hn-->
 
 <!--
