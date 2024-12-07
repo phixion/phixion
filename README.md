@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [Fructose in diet enhances tumor growth](https://source.washu.edu/2024/12/research-reveals-how-fructose-in-diet-enhances-tumor-growth/)
-- Dec 06 - [United Health CEO Decries "Aggressive" Media Coverage in Leaked Recording](https://www.kenklippenstein.com/p/video-united-health-ceo-laments-offensive)
-- Dec 06 - [Arc Prize 2024 Winners and Technical Report](https://arcprize.org/2024-results)
-- Dec 06 - [Deep dive into finding RSS feeds](https://lighthouseapp.io/blog/deep-dive-finding-rss-feeds)
-- Dec 06 - [Maps.me co-founder tries to close down Organic Maps open-source fork](https://github.com/orgs/organicmaps/discussions/9837)
+- Dec 06 - [A Kid Made $50k Dumping Crypto He'd Created. Then Came the Backlash](https://www.wired.com/story/memecoin-kid-backlash/)
+- Dec 06 - [TikTok set to be banned in the US after losing appeal](https://www.bbc.com/news/articles/c2ldnq5095xo)
+- Dec 06 - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
+- Dec 06 - [Does Your Code Pass the Turkey Test? (2008)](http://www.moserware.com/2008/02/does-your-code-pass-turkey-test.html)
+- Dec 06 - [DSPy – Programming–not prompting–LMs](https://dspy.ai/)
 <!--END_SECTION:hn-->
 
 <!--
