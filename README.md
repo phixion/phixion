@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Htmhail](https://htmhell.dev/adventcalendar/2024/7/)
+- Dec 07 - [OpenAI seeks to unlock investment by ditching 'AGI' clause with Microsoft](https://www.ft.com/content/2c14b89c-f363-4c2a-9dfc-13023b6bce65)
+- Dec 07 - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
 - Dec 07 - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
-- Dec 07 - [Can Life Emerge Around a White Dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
-- Dec 07 - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
-- Dec 07 - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
+- Dec 07 - [An invisible desktop application that will help you pass technical interviews](https://github.com/ibttf/interview-coder)
+- Dec 07 - [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
 <!--END_SECTION:hn-->
 
 <!--
