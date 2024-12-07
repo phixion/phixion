@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [OpenAI seeks to unlock investment by ditching 'AGI' clause with Microsoft](https://www.ft.com/content/2c14b89c-f363-4c2a-9dfc-13023b6bce65)
-- Dec 07 - [Mathics 7.0 – Open-source alternative to Mathematica](https://github.com/Mathics3/mathics-core/releases/tag/7.0.0)
-- Dec 07 - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
-- Dec 07 - [An invisible desktop application that will help you pass technical interviews](https://github.com/ibttf/interview-coder)
-- Dec 07 - [Can life emerge around a white dwarf?](https://www.centauri-dreams.org/2024/12/06/can-life-emerge-around-a-white-dwarf/)
+- Dec 07 - [How One of the Richest Men Is Avoiding $8B in Taxes](https://www.nytimes.com/2024/12/05/business/nvidia-jensen-huang-estate-taxes.html)
+- Dec 07 - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
+- Dec 07 - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
+- Dec 07 - [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
+- Dec 07 - [Just: Just a Command Runner](https://just.systems/)
 <!--END_SECTION:hn-->
 
 <!--
