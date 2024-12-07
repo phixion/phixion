@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [RollerCoaster Tycoon was the last of its kind [video]](https://www.youtube.com/watch?v=0JouTsMQsEA)
-- Dec 07 - [Structured Outputs with Ollama](https://ollama.com/blog/structured-outputs)
-- Dec 07 - [Biggest shell programs](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
-- Dec 06 - [My second year without a job](https://shilin.ca/my-second-year-without-job/)
-- Dec 06 - [Lies I was told about collab editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
+- Dec 07 - [The Birmingham Blade: geographically tailored urban wind turbine designed by AI](https://www.birmingham.ac.uk/news/2024/the-birmingham-blade-the-worlds-first-geographically-tailored-urban-wind-turbine-designed-by-ai)
+- Dec 07 - [MultiQueue-Based FPGA Routing: Relaxed A* Priority Ordering-Improved Parallelism [pdf]](https://www.eecg.utoronto.ca/~mcj/papers/2024.mqrouter.fpt.pdf)
+- Dec 07 - [Postgres for Everything (E/Postgres)](https://github.com/Olshansk/postgres_for_everything)
+- Dec 07 - [Precursors of Copernicus' heliocentric theory](https://johncarlosbaez.wordpress.com/2024/12/07/martianus-capella/)
+- Dec 07 - [Tell HN: Alaska Airlines website exposes passenger data](https://news.ycombinator.com/item?id=42347432)
 <!--END_SECTION:hn-->
 
 <!--
