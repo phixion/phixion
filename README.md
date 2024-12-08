@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
-- Dec 08 - [Composite and hard reset mods for the Tandyvision One](http://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
-- Dec 08 - [Brian Krebs Investigates Internet's Most Vicious Hackers–From a Secret Location](https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce)
-- Dec 08 - [GroMo (YC W21) Is Hiring](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance)
-- Dec 08 - [Browsing negative content online makes mental health struggles worse: Study](https://news.mit.edu/2024/study-browsing-negative-content-online-makes-mental-health-struggles-worse-1205)
+- Dec 08 - [The Need to Grind Concrete Examples Before Jumping Up a Level of Abstraction](https://www.justinmath.com/the-necessity-of-grinding-through-concrete-examples-before-jumping-up-a-level-of-abstraction/)
+- Dec 08 - [How Much Do I Need to Change My Face to Avoid Facial Recognition?](https://gizmodo.com/how-much-do-i-need-to-change-my-face-to-avoid-facial-recognition-2000533755)
+- Dec 08 - [Mend it Mark gets suspect copyright strike for £25k audio amp repair](https://hackaday.com/2024/12/07/the-25000-tom-evans-pre-amp-repair-and-a-copyright-strike/)
+- Dec 08 - [The Surreal Magnificence of Fatherhood](https://shreyans.org/fatherhood)
+- Dec 08 - [Qutebrowser: A keyboard-driven, Vim-like browser](https://github.com/qutebrowser/qutebrowser)
 <!--END_SECTION:hn-->
 
 <!--
