@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [How One of the Richest Men Is Avoiding $8B in Taxes](https://www.nytimes.com/2024/12/05/business/nvidia-jensen-huang-estate-taxes.html)
+- Dec 07 - [From the Bretton Woods system to global stagnation [pdf]](https://www.paecon.net/PAEReview/issue109/Podkaminer109.pdf)
+- Dec 07 - [Economics and Homemakers](https://thehomefront.substack.com/p/economics-and-homemakers)
+- Dec 07 - [The famed Notre Dame Cathedral in Paris reopens to great fanfare](https://apnews.com/article/notre-dame-paris-latest-e50813cf016f08607c20ab115bc4b153)
+- Dec 07 - [Nightclub stickers over smartphone rule divides the dancefloor](https://www.bbc.co.uk/news/articles/c4gpn44pyz9o)
 - Dec 07 - [The Startup Trap (2013)](https://blog.cleancoder.com/uncle-bob/2013/03/05/TheStartUpTrap.html)
-- Dec 07 - [Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-- Dec 07 - [Dickies moving its headquarters from Texas to California](https://abc7.com/post/dickies-clothing-company-moving-headquarters-texas-orange-county/15622767/)
-- Dec 07 - [Just: Just a Command Runner](https://just.systems/)
 <!--END_SECTION:hn-->
 
 <!--
