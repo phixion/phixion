@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Dec 09 - [Senior Dating - 765,517 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SeniorDating)
+- Dec 09 - [Ladies.com - 118,809 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ladies)
 - Nov 22 - [The Real World - 324,382 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TheRealWorld)
 - Nov 20 - [FlipaClip - 892,854 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FlipaClip)
 - Nov 19 - [Finsure - 296,124 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Finsure)
-- Nov 13 - [DemandScience by Pure Incubation - 121,796,165 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DemandScience)
-- Nov 11 - [Hot Topic - 56,904,909 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HotTopic)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Laylo (YC S20) Is Hiring an Account Manager in EU/UK](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager)
-- Dec 09 - ["Hetzner has decided to cancel our account and terminate all servers."](https://mastodon.social/@kiwix/113622081750449356)
-- Dec 09 - [A liar who always lies says "All my hats are green."](https://www.theguardian.com/science/2024/dec/09/can-you-solve-it-that-sally-rooney-hat-puzzle)
-- Dec 09 - [Raspberry Pi 500 Review: The keyboard is the computer, again](https://www.tomshardware.com/raspberry-pi/raspberry-pi-500-review)
-- Dec 09 - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
+- Dec 09 - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
+- Dec 09 - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
+- Dec 09 - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
+- Dec 09 - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
+- Dec 09 - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
 <!--END_SECTION:hn-->
 
 <!--
