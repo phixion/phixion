@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
-- Dec 09 - [Task-Specific LLM Evals That Do and Don't Work](https://eugeneyan.com/writing/evals/)
-- Dec 09 - [Kafka's Screwball Tragedy: Investigations of a Philosophical Dog](https://thereader.mitpress.mit.edu/kafkas-screwball-tragedy-investigations-of-a-philosophical-dog/)
-- Dec 09 - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
-- Dec 09 - [MagiskSSH – SSH server on Android without Termux](https://gitlab.com/d4rcm4rc/MagiskSSH)
+- Dec 09 - [How Networks of Competence Are Crushing Hierarchies of Authority](https://www.forbes.com/sites/stevedenning/2024/12/08/how-networks-of-competence-are-crushing-hierarchies-of-authority/)
+- Dec 09 - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
+- Dec 09 - [God Plays Chess (2018)](https://en.chessbase.com/post/how-god-plays-chess)
+- Dec 09 - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
+- Dec 09 - [Sora is here](https://openai.com/index/sora-is-here/)
 <!--END_SECTION:hn-->
 
 <!--
