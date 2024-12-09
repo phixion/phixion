@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Buffer Overflow Risk in Curl_inet_ntop and Inet_ntop4](https://hackerone.com/reports/2887487)
-- Dec 08 - [How to measure frequency response of a speaker at home](https://crabman.me/does-soundcore-motion-sound-different-via-aux-in-and-bluetooth-and-how-to-measure-frequency-response-at-home/)
-- Dec 08 - [1,600 days of a failed hobby data science project](https://lellep.xyz/blog/failed-data-science-project.html)
-- Dec 08 - [JSON5 – JSON for Humans](https://json5.org/)
-- Dec 08 - [Computer Architecture, Fifth Edition: A Quantitative Approach (2011)](https://dl.acm.org/doi/book/10.5555/1999263)
+- Dec 09 - [Blizzard Changed Their Mind, Then GOG Humiliated Them [video]](https://www.youtube.com/watch?v=csyF67DwI4w)
+- Dec 09 - [Testosterone, sexual desire and courtship efforts association in young men](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1508)
+- Dec 09 - [Florida prosecutor seeks to clear records of people who bought police-made crack](https://apnews.com/article/lauderdale-broward-florida-crack-cocaine-convictions-sentences-796f5572af1757e368ae7a359e34bbae)
+- Dec 09 - [Why Gelsinger was wrong for Intel](https://bcantrill.dtrace.org/2024/12/08/why-gelsinger-was-wrong-for-intel/)
+- Dec 08 - [Black Hat Rust](https://github.com/skerkour/black-hat-rust)
 <!--END_SECTION:hn-->
 
 <!--
