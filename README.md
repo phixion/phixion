@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [The slow death of the hands-on engineering manager](https://zaidesanton.substack.com/p/the-slow-death-of-the-hands-on-engineering)
-- Dec 10 - [Developer wrote 25k lines of Neovim plugin code using phone and touchscreen](https://old.reddit.com/r/neovim/comments/1h7vhmg/bro_been_developing_his_2k_star_plugin_on_a/)
-- Dec 10 - [Tree Calculus](https://treecalcul.us/)
-- Dec 10 - [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
-- Dec 10 - [Save Music, Save the Archive](https://www.savethearchive.com/)
+- Dec 10 - [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
+- Dec 10 - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
+- Dec 10 - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
+- Dec 10 - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
+- Dec 10 - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
 <!--END_SECTION:hn-->
 
 <!--
