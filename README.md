@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Some Other America, One I Do Not Know](https://www.popehat.com/p/some-other-america-one-i-do-not-know)
-- Dec 09 - [Rupert Murdoch loses battle to control succession to his media empire](https://www.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children)
-- Dec 09 - [Pictures of Pensions](https://calcwithdec.dev/posts/pictures-pensions/)
-- Dec 09 - ["This is not a joke, Funko just called my mom"](https://twitter.com/itchio/status/1866239798924763227)
-- Dec 09 - [XML: Twig – A Time-Tested Powerhouse for Processing XML](https://perladvent.org/2024/2024-12-09.html)
+- Dec 10 - [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
+- Dec 10 - [Tree Calculus](https://treecalcul.us/)
+- Dec 10 - [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
+- Dec 10 - [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
+- Dec 10 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 <!--END_SECTION:hn-->
 
 <!--
