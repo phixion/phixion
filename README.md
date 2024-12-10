@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [The Depths of Wikipedians](https://asteriskmag.com/issues/08/the-depths-of-wikipedians)
-- Dec 10 - [Colour in the Middle Ages](https://www.medievalists.net/2024/06/colour-middle-ages/)
-- Dec 10 - [Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios](https://news.ycombinator.com/item?id=42377018)
-- Dec 10 - [BareMetal OS](https://github.com/ReturnInfinity/BareMetal-OS)
-- Dec 10 - [Show HN: I made Gyroscopic Gyro Sandwiches](https://transistor-man.com/gyroscopic_gyros.html)
+- Dec 10 - [Y Combinator Funded AI Firm's 'Stop Hiring Humans' Billboard Sparks Outrage](https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368)
+- Dec 10 - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
+- Dec 10 - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
+- Dec 10 - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
+- Dec 10 - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
 <!--END_SECTION:hn-->
 
 <!--
