@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [How Networks of Competence Are Crushing Hierarchies of Authority](https://www.forbes.com/sites/stevedenning/2024/12/08/how-networks-of-competence-are-crushing-hierarchies-of-authority/)
-- Dec 09 - [Alice finds first ever evidence of the antimatter partner of hyperhelium-4](https://home.cern/news/news/physics/alice-finds-first-ever-evidence-antimatter-partner-hyperhelium-4)
-- Dec 09 - [God Plays Chess (2018)](https://en.chessbase.com/post/how-god-plays-chess)
-- Dec 09 - [New dog, old trick: DaMAgeCard attack targets memory directly via SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
-- Dec 09 - [Sora is here](https://openai.com/index/sora-is-here/)
+- Dec 10 - [Some Other America, One I Do Not Know](https://www.popehat.com/p/some-other-america-one-i-do-not-know)
+- Dec 09 - [Rupert Murdoch loses battle to control succession to his media empire](https://www.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children)
+- Dec 09 - [Pictures of Pensions](https://calcwithdec.dev/posts/pictures-pensions/)
+- Dec 09 - ["This is not a joke, Funko just called my mom"](https://twitter.com/itchio/status/1866239798924763227)
+- Dec 09 - [XML: Twig – A Time-Tested Powerhouse for Processing XML](https://perladvent.org/2024/2024-12-09.html)
 <!--END_SECTION:hn-->
 
 <!--
