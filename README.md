@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [What TDD Is Good For](https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/)
 - Dec 10 - [Tree Calculus](https://treecalcul.us/)
-- Dec 10 - [Ask HN: Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
-- Dec 10 - [Musicians Rally Behind Internet Archive in $621M Music Label Battle](https://www.savethearchive.com/)
-- Dec 10 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
+- Dec 10 - [Is anyone playing with the combination of generative AI and OpenCyc?](https://2ro.co/post/769440256241123328/study-opencyc)
+- Dec 10 - [Save Music, Save the Archive](https://www.savethearchive.com/)
+- Dec 10 - [2D Racket Syntax](https://docs.racket-lang.org/2d/index.html)
+- Dec 10 - [Common misconceptions about compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 <!--END_SECTION:hn-->
 
 <!--
