@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Y Combinator Funded AI Firm's 'Stop Hiring Humans' Billboard Sparks Outrage](https://gizmodo.com/ai-firms-stop-hiring-humans-billboard-campaign-sparks-outrage-2000536368)
-- Dec 10 - [Running Durable Workflows in Postgres Using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos)
-- Dec 10 - [Digital consumption keeps me from getting better at my job](http://sibervepunk.com/digital-consumption.html)
-- Dec 10 - [How to Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
-- Dec 10 - [OpenAI Releases Canvas](https://openai.com/12-days/?day=4)
+- Dec 10 - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
+- Dec 10 - [Show HN: Don't let your billion-dollar ideas die](https://ideaharbor.xyz)
+- Dec 10 - [Arctic tundra is now emitting more carbon than it absorbs, US agency says](https://www.theguardian.com/world/2024/dec/10/arctic-tundra-carbon-shift)
+- Dec 10 - [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
+- Dec 10 - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
 <!--END_SECTION:hn-->
 
 <!--
