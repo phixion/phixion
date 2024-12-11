@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 11 - [Alzheimer's study shows ketone bodies help clear misfolded proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
+- Dec 11 - [Electric (Postgres sync engine) beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
 - Dec 10 - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
-- Dec 10 - [Show HN: Don't let your billion-dollar ideas die](https://ideaharbor.xyz)
-- Dec 10 - [Arctic tundra is now emitting more carbon than it absorbs, US agency says](https://www.theguardian.com/world/2024/dec/10/arctic-tundra-carbon-shift)
-- Dec 10 - [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
-- Dec 10 - [Seeking Head of Engineering in the Bay Area (Distro S24)](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering)
+- Dec 10 - [The Albuquerque "Broken Arrow" Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
+- Dec 10 - [The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
 <!--END_SECTION:hn-->
 
 <!--
