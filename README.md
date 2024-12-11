@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 11 - [Stanley Kubrick's the Shining Maps of the Overlook](https://idyllopuspress.com/idyllopus/film/sh_maps.htm)
+- Dec 11 - [Jury finds Cognizant discriminated against US workers](https://www.bloomberg.com/graphics/2024-cognizant-h1b-visas-discriminates-us-workers/)
+- Dec 11 - [Turning Off Zen 4's Op Cache for Curiosity and Giggles](https://chipsandcheese.com/p/turning-off-zen-4s-op-cache-for-curiosity)
+- Dec 11 - [The Case Against Google's Claims of "Quantum Supremacy"](https://gilkalai.wordpress.com/2024/12/09/the-case-against-googles-claims-of-quantum-supremacy-a-very-short-introduction/)
 - Dec 11 - [Alzheimer's study shows ketone bodies help clear misfolded proteins](https://www.genengnews.com/topics/translational-medicine/ketone-body-role-in-regulating-misfolded-proteins-may-inform-strategies-targeting-aging-alzheimers-disease/)
-- Dec 11 - [Electric (Postgres sync engine) beta release](https://electric-sql.com/blog/2024/12/10/electric-beta-release)
-- Dec 10 - [WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction](https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/)
-- Dec 10 - [The Albuquerque "Broken Arrow" Nuclear Accident](https://lflank.wordpress.com/2024/12/10/the-albuquerque-broken-arrow-nuclear-accident/)
-- Dec 10 - [The Most Expensive Eating Disorder](https://desmolysium.com/bryan-johnson-the-worlds-most-expensive-eating-disorder/)
 <!--END_SECTION:hn-->
 
 <!--
