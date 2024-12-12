@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Canada euthanasia now accounts for nearly one in 20 deaths](https://www.bbc.com/news/articles/c0j1z14p57po)
-- Dec 12 - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
-- Dec 12 - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
-- Dec 12 - [Majora's Mask decompilation project reaches 100% completion](https://gbatemp.net/threads/majoras-mask-decompilation-project-reaches-100-completion.664380/)
-- Dec 11 - [QEMU with VirtIO GPU Vulkan Support](https://gist.github.com/peppergrayxyz/fdc9042760273d137dddd3e97034385f)
+- Dec 12 - [Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote)](https://www.infracost.io/join-the-team)
+- Dec 12 - [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+- Dec 12 - [Parkinson's Law: It’s real, so use it](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it)
+- Dec 12 - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
+- Dec 12 - [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
 <!--END_SECTION:hn-->
 
 <!--
