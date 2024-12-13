@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Web Origami for making websites where you can understand how they're made](https://weborigami.org)
-- Dec 13 - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
-- Dec 13 - [Three Mistakes from Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
-- Dec 13 - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
-- Dec 13 - [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+- Dec 13 - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
+- Dec 13 - [Elon Musk wanted an OpenAI for-profit](https://openai.com/index/elon-musk-wanted-an-openai-for-profit/)
+- Dec 13 - [MarkItDown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
+- Dec 13 - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
+- Dec 13 - [Ask HN: What should I do with meet.hn?](https://news.ycombinator.com/item?id=42410582)
 <!--END_SECTION:hn-->
 
 <!--
