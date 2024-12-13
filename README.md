@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Ultra-low-power localization tag uses cellular signals [pdf]](https://www.cs.umd.edu/~nakul/assets/papers/litefoot_sensys2024_nakul.pdf)
-- Dec 12 - [Making "Social" Social Again – Ev Williams New App](https://ev.medium.com/making-social-social-again-0126fa5c6ce8)
-- Dec 12 - [Bitbanging 1D Reversible Automata](https://richiejp.com/1d-reversible-automata)
-- Dec 12 - [Converting untrusted PDFs into trusted ones: The Qubes Way (2013)](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)
-- Dec 12 - [The Rise and Fall of Ashton-Tate (2023)](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
+- Dec 12 - [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
+- Dec 12 - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
+- Dec 12 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
+- Dec 12 - [Novel link between cell nutrition and identity could improve immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
+- Dec 12 - [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
 <!--END_SECTION:hn-->
 
 <!--
