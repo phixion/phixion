@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [AI Product Management](https://www.deeplearning.ai/the-batch/issue-279/)
+- Dec 13 - [Web Origami for making websites where you can understand how they're made](https://weborigami.org)
+- Dec 13 - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
+- Dec 13 - [Three Mistakes from Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
+- Dec 13 - [Donald Bitzer has died](https://computerhistory.org/blog/in-memoriam-donald-bitzer-1934-2024/)
 - Dec 13 - [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-- Dec 13 - [A transformer supply crisis bottlenecks energy projects](https://spectrum.ieee.org/transformer-shortage)
-- Dec 13 - [Mathematicians uncover a new way to count prime numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
-- Dec 13 - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 <!--END_SECTION:hn-->
 
 <!--
