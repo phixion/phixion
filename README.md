@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Elixir/Erlang Hot Swapping Code](https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html)
-- Dec 12 - [Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software](https://www.souzatharsis.com/tamingLLMs/markdown/toc.html)
-- Dec 12 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
-- Dec 12 - [Novel link between cell nutrition and identity could improve immunotherapies](https://www.genengnews.com/topics/translational-medicine/novel-link-between-cell-nutrition-and-identity-could-improve-immunotherapies/)
-- Dec 12 - [Exploring Commercial Products for the NES Expansion Port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/)
+- Dec 13 - [When IBM Built a War Room for Executives](https://spectrum.ieee.org/ibm-demo)
+- Dec 13 - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
+- Dec 12 - [Trinity Desktop Environment (TDE)](https://www.trinitydesktop.org/)
+- Dec 12 - [A new timeline for Neanderthal interbreeding with modern humans](https://news.berkeley.edu/2024/12/12/a-new-timeline-for-neanderthal-interbreeding-with-modern-humans/)
+- Dec 12 - [Learning Tibetan changed the way I think (2023)](https://www.lionsroar.com/learning-tibetan/)
 <!--END_SECTION:hn-->
 
 <!--
