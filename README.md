@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Luon programming language combines concepts from Oberon and Lua](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
-- Dec 13 - [OpenAI whistleblower found dead in apartment](https://old.reddit.com/r/sanfrancisco/comments/1hdmn62/openai_whistleblower_suchir_balaji_found_dead_in/)
-- Dec 13 - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
-- Dec 13 - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
-- Dec 13 - [Show HN: @smoores/epub, a JavaScript library for working with EPUB publications](https://www.npmjs.com/package/@smoores/epub)
+- Dec 14 - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
+- Dec 14 - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
+- Dec 14 - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
+- Dec 13 - [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
+- Dec 13 - [McKinsey and Company to pay $650M for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
 <!--END_SECTION:hn-->
 
 <!--
