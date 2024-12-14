@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Ilya Sutskever Test of Time Talk "Pre-training as we know it will end"](https://twitter.com/i/status/1867719020444889118)
-- Dec 14 - [Htmx 2.0.4 Released](https://github.com/bigskysoftware/htmx/blob/v2.0.4/CHANGELOG.md)
-- Dec 14 - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
-- Dec 14 - [Show HN: Performant intracontinental public transport routing in Rust](https://github.com/ellenhp/farebox)
-- Dec 13 - [Luon programming language](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
+- Dec 14 - [Fern (YC W23) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer)
+- Dec 14 - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
+- Dec 14 - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
+- Dec 14 - [What Is Entropy? A Measure of Just How Little We Know](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
+- Dec 14 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 <!--END_SECTION:hn-->
 
 <!--
