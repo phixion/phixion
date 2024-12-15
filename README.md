@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [South Korea's parliament votes to impeach President over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
-- Dec 14 - [Here at the End of All Things (2017)](https://longreads.com/2017/08/24/fantasy-maps-game-of-thrones/)
-- Dec 14 - [Hacking Physics from the Back of a Napkin](https://hapax.github.io/physics/teaching/hacks/napkin-hacks/)
-- Dec 14 - [Humans are unreliable models of mouse disease](https://www.cell.com/cell/abstract/S0092-8674(24)00897-3)
-- Dec 14 - [Antimatter Production, Storage, Control, Annihilation Applications in Propulsion](https://www.sciencedirect.com/science/article/pii/S2666202724004518)
+- Dec 15 - [Devin AI security vulnerability discovered live on stream [video]](https://www.youtube.com/watch?v=927W6zzvV-c)
+- Dec 14 - [School smartphone ban results in better sleep and improved mood](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
+- Dec 14 - [They See Your Photos](https://theyseeyourphotos.com/)
+- Dec 14 - [Occasional Paper: Four Hidden Species of Portuguese Man-O'-War](https://crookedtimber.org/2024/11/11/occasional-paper-four-hidden-species-of-portuguese-man-o-war/)
+- Dec 14 - [IRATA.ONLINE: A Community for Retro-Computing Enthusiasts](https://irata.online/)
 <!--END_SECTION:hn-->
 
 <!--
