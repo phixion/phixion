@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Dec 15 - [MC2 Data - 2,122,280 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MC2Data)
 - Dec 14 - [Yonéma - 35,962 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Yonema)
 - Dec 14 - [Tibber - 50,002 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Tibber)
 - Dec 09 - [Senior Dating - 765,517 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SeniorDating)
 - Dec 09 - [Ladies.com - 118,809 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Ladies)
-- Nov 22 - [The Real World - 324,382 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TheRealWorld)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Show HN: I built an embeddable Unicode library with MISRA C conformance](https://railgunlabs.com/unicorn/)
-- Dec 15 - [Spaces ZeroGPU: Dynamic GPU Allocation for Spaces](https://huggingface.co/docs/hub/en/spaces-zerogpu)
-- Dec 15 - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
-- Dec 15 - [What's Happening with Founders over 40?](https://justinjackson.ca/over-40)
-- Dec 15 - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
+- Dec 15 - [Why Dumb TVs Deserve a Comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
+- Dec 15 - [Palm's CEO emails Steve Jobs (2007)](https://twitter.com/TechEmails/status/1868368310024462791)
+- Dec 15 - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
+- Dec 15 - [The Antikythera mechanism – 254:19 ratio](https://leancrew.com/all-this/2024/12/the-antikythera-mechanism/)
+- Dec 15 - [Proof of Concept showcasing WASM program access files outside node:wasi's dir](https://github.com/humodz/node-wasi-preopens-escape)
 <!--END_SECTION:hn-->
 
 <!--
