@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [25 Years of Dillo](https://dillo-browser.github.io/25-years/)
-- Dec 15 - [The First 50M Prime Numbers (1975) [pdf]](https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf)
-- Dec 15 - [Map of GitHub](https://github.com/anvaka/map-of-github)
-- Dec 15 - [Dumb TVs deserve a comeback](https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/)
-- Dec 15 - [Ask HN: How do you find part time work?](https://news.ycombinator.com/item?id=42425339)
+- Dec 16 - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
+- Dec 16 - [Watchdog to issue new guidance after report finds air fryers may be listening](https://news.sky.com/story/watchdog-to-issue-new-guidance-after-report-finds-air-fryers-may-be-listening-13273180)
+- Dec 16 - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
+- Dec 16 - [OpenERV](https://www.openerv.ca)
+- Dec 16 - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
 <!--END_SECTION:hn-->
 
 <!--
