@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Xiaomi has provided official support for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
-- Dec 16 - [Ask HN: Examples of Agentic LLM Systems in Production?](https://news.ycombinator.com/item?id=42431361)
-- Dec 16 - [Modelica](https://modelica.org/)
-- Dec 16 - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
-- Dec 16 - [Coder wrote a bug so bad security guards wanted a word when he arrived at work](https://www.theregister.com/2024/12/16/who_me/)
+- Dec 16 - [Framework Laptop 16 Dual M.2 Adapter Expansion Bay Module](https://frame.work/products/dual-m-2-adapter)
+- Dec 16 - [AirPods Pro 2 Hearing Aid and Hearing Test Features Approved to Launch in Canada](https://www.macrumors.com/2024/12/12/airpods-pro-2-hearing-features-approved-canada/)
+- Dec 16 - [Pelicans on a bicycle](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/)
+- Dec 16 - [Images of gamma-ray flare from supermassive black hole M87](https://newsroom.ucla.edu/releases/astrophysicists-capture-huge-gamma-ray-flare-supermassive-black-hole-m87)
+- Dec 16 - [Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 <!--END_SECTION:hn-->
 
 <!--
