@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 16 - [Nokia 5110 – Back from the Dead](https://opsbros.com/nokia-5110-back-from-the-dead/)
 - Dec 16 - [Canada's First Pirate Site Blocking Order Expires](https://torrentfreak.com/canadas-first-pirate-site-blocking-order-quietly-expires-241214/)
-- Dec 16 - [Watchdog to issue new guidance after report finds air fryers may be listening](https://news.sky.com/story/watchdog-to-issue-new-guidance-after-report-finds-air-fryers-may-be-listening-13273180)
+- Dec 16 - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 - Dec 16 - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
 - Dec 16 - [OpenERV](https://www.openerv.ca)
-- Dec 16 - [Derivatives don't always act like fractions (2021)](https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/)
 <!--END_SECTION:hn-->
 
 <!--
