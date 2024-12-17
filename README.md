@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Waymo will bring autonomous vehicles to Tokyo](https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip)
-- Dec 17 - [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
-- Dec 17 - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
-- Dec 16 - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
-- Dec 16 - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
+- Dec 17 - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
+- Dec 17 - [Make your QEMU faster (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
+- Dec 17 - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
+- Dec 17 - [Settlement for Australian users impacted by Cambridge Analytica incident](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
+- Dec 17 - [Kevin Langdon's 'Omni' IQ test](http://www.lumifont.co.uk/omnitest.php)
 <!--END_SECTION:hn-->
 
 <!--
