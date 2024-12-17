@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah)](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer)
-- Dec 17 - [Multilspy: Building a common LSP client handtuned for all Language servers](https://github.com/microsoft/multilspy)
-- Dec 17 - [Make your QEMU faster (2022)](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
-- Dec 17 - [Kevin Langdon's 'Omni' IQ test](http://www.lumifont.co.uk/omnitest.php)
-- Dec 16 - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
+- Dec 17 - [Celebrating a Decade of Discourse](https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/)
+- Dec 17 - [Waymo – Avoiding a Falling Skateboarder](https://twitter.com/dmitri_dolgov/status/1868778679868047545)
+- Dec 17 - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
+- Dec 17 - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
+- Dec 17 - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
 <!--END_SECTION:hn-->
 
 <!--
