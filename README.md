@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Celebrating a Decade of Discourse](https://blog.discourse.org/2024/08/celebrating-a-decade-of-discourse/)
-- Dec 17 - [Waymo – Avoiding a Falling Skateboarder](https://twitter.com/dmitri_dolgov/status/1868778679868047545)
-- Dec 17 - [Nvidia Jetson Orin Nano Super [video]](https://www.youtube.com/watch?v=S9L2WGf1KrM)
-- Dec 17 - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
-- Dec 17 - [Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps](https://github.com/langfuse/langfuse)
+- Dec 17 - [Danish diabetes medicine increases risk of debilitating eye condition](https://www.sdu.dk/en/om-sdu/fakulteterne/sundhedsvidenskab/nyheder/dansk-diabetesmedicin-oger-risikoen-for-svaert-invaliderende-ojensygdom)
+- Dec 17 - [Webhook Tester/Debugger](https://www.hooklistener.com/)
+- Dec 17 - [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
+- Dec 17 - [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
+- Dec 17 - [Moon](https://ciechanow.ski/moon/)
 <!--END_SECTION:hn-->
 
 <!--
