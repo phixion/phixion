@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 17 - [Waymo will bring autonomous vehicles to Tokyo](https://waymo.com/blog/2024/12/partnering-with-nihon-kotsu-and-go-on-our-first-international-road-trip)
+- Dec 17 - [Settlement from Meta for Australian Users Impacted by Cambridge Analytica](https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident)
+- Dec 17 - [Alley Cat Remeow Edition](https://www.joflof.com/alley.html)
 - Dec 16 - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
-- Dec 16 - [Always go to the funeral (2005)](https://www.npr.org/2005/08/08/4785079/always-go-to-the-funeral)
-- Dec 16 - [The Year of McDonald's](https://www.thefp.com/p/the-year-of-mcdonalds-trump-luigi-mangione)
 - Dec 16 - [Go Protobuf: The New Opaque API](https://go.dev/blog/protobuf-opaque)
-- Dec 16 - [In the 1970s, the CIA created a robot dragonfly (2020)](https://www.popularmechanics.com/flight/drones/a30795266/cia-robot-dragonfly/)
 <!--END_SECTION:hn-->
 
 <!--
