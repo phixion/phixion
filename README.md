@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 18 - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
 - Dec 18 - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
-- Dec 18 - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
 - Dec 18 - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
 - Dec 18 - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
 - Dec 18 - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
