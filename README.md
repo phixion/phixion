@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Includeable minimal operating system for C++](https://www.includeos.org/)
-- Dec 17 - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
-- Dec 17 - [FTC bans hidden junk fees in hotel, event ticket prices](https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html)
-- Dec 17 - [CRDTs and Collaborative Playground](https://www.cerbos.dev/blog/crdts-and-collaborative-playground)
-- Dec 17 - [One-Mile-in-Five](https://wwiiafterwwii.wordpress.com/2024/07/25/wwii-the-autobahn-ike-the-interstates-and-one-mile-in-five/)
+- Dec 18 - [How We Centralized and Structured Error Handling in Golang](https://olivernguyen.io/w/namespace.error/)
+- Dec 18 - [Show HN: An Open Source Equilizer Plugin](https://github.com/ashafq/a5eq.lv2)
+- Dec 18 - [Ergo Chat – A modern IRC server written in Go](https://github.com/ergochat/ergo)
+- Dec 18 - [Advanced Expressive Humanoid Whole-Body Control](https://exbody2.github.io/)
+- Dec 18 - [The XOR Texture (2004)](https://lodev.org/cgtutor/xortexture.html)
 <!--END_SECTION:hn-->
 
 <!--
