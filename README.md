@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Auto Chip Aging Accelerates in Hot Climates](https://semiengineering.com/auto-chip-aging-accelerates-in-hot-climates/)
-- Dec 18 - [US Weighs Banning TP-Link Routers](https://nypost.com/2024/12/18/business/us-could-ban-chinese-made-tp-link-routers-over-hacking-fears-report/)
-- Dec 18 - [Cultural Evolution of Cooperation Among LLM Agents](https://arxiv.org/abs/2412.10270)
-- Dec 18 - [Infamous paper that popularized unproven Covid-19 treatment retracted](https://www.science.org/content/article/infamous-paper-popularized-unproven-covid-19-treatment-finally-retracted)
-- Dec 18 - [Interpol wants everyone to stop saying 'pig butchering'](https://www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/)
+- Dec 18 - [Windshield pitting incidents in Washington reach fever pitch on April 15, 1954 (2003)](https://www.historylink.org/File/5136)
+- Dec 18 - [1-800-ChatGPT](https://help.openai.com/en/articles/10193193-1-800-chatgpt-calling-and-messaging-chatgpt-with-your-phone)
+- Dec 18 - [Tasty, airy baked goods with culinary foam made from peas](https://phys.org/news/2024-12-tasty-airy-goods-culinary-foam.html)
+- Dec 18 - [GitHub Copilot is now available for free](https://github.com/features/copilot)
+- Dec 18 - [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/)
 <!--END_SECTION:hn-->
 
 <!--
