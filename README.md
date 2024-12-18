@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Danish diabetes medicine increases risk of debilitating eye condition](https://www.sdu.dk/en/om-sdu/fakulteterne/sundhedsvidenskab/nyheder/dansk-diabetesmedicin-oger-risikoen-for-svaert-invaliderende-ojensygdom)
-- Dec 17 - [Webhook Tester/Debugger](https://www.hooklistener.com/)
-- Dec 17 - [Northern Ireland police unlawfully put reporters under surveillance](https://www.reuters.com/world/uk/northern-ireland-police-unlawfully-put-reporters-under-surveillance-tribunal-2024-12-17/)
-- Dec 17 - [Show HN: PipeGate – A Lightweight, Self-Hosted Proxy to Expose Local Servers](https://github.com/janbjorge/pipegate)
-- Dec 17 - [Moon](https://ciechanow.ski/moon/)
+- Dec 17 - [Includeable minimal operating system for C++](https://www.includeos.org/)
+- Dec 17 - [FastVideo: a lightweight framework for accelerating large video diffusion models](https://github.com/hao-ai-lab/FastVideo)
+- Dec 17 - [FTC bans hidden junk fees in hotel, event ticket prices](https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html)
+- Dec 17 - [CRDTs and Collaborative Playground](https://www.cerbos.dev/blog/crdts-and-collaborative-playground)
+- Dec 17 - [One-Mile-in-Five](https://wwiiafterwwii.wordpress.com/2024/07/25/wwii-the-autobahn-ike-the-interstates-and-one-mile-in-five/)
 <!--END_SECTION:hn-->
 
 <!--
