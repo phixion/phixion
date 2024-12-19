@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Santa Prefers Wealthy Sick Children (2023)](https://taylor.town/santa-prefers)
-- Dec 19 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
-- Dec 19 - [Markov Keyboard: keyboard layout that changes by Markov frequency (2019)](https://github.com/shapr/markovkeyboard)
-- Dec 19 - [Amazon workers to strike at multiple US warehouses during busy holiday season](https://www.reuters.com/technology/amazon-workers-strike-multiple-us-warehouses-during-busy-holiday-season-2024-12-19/)
-- Dec 19 - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
+- Dec 19 - [Music and Geometry: Intervals and Scales](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
+- Dec 19 - [Show HN: Mizu.js – Lightweight HTML templating library for any-side rendering](https://mizu.sh)
+- Dec 19 - [Revisiting Stereotype Threat](https://www.speakandregret.michaelinzlicht.com/p/revisiting-stereotype-threat)
+- Dec 19 - [Lightweight Safety Classification Using Pruned Language Models](https://arxiv.org/abs/2412.13435)
+- Dec 19 - [WebGPU Tech Demo](https://gnikoloff.github.io/webgpu-sponza-demo/)
 <!--END_SECTION:hn-->
 
 <!--
