@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Apple collaborates with Nvidia to research faster LLM performance](https://9to5mac.com/2024/12/18/apple-collaborates-with-nvidia-to-research-faster-llm-performance/)
-- Dec 18 - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42455372)
-- Dec 18 - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
-- Dec 18 - [Show HN: K8s Cleaner – Roomba for Kubernetes](https://sveltos.projectsveltos.io/k8sCleaner.html)
-- Dec 18 - [CDC confirms first severe human case of bird flu in U.S.](https://www.washingtonpost.com/health/2024/12/18/bird-flu-human-case-severe-louisiana/)
+- Dec 19 - [Firenvim – Turn the browser into a Neovim client](https://github.com/glacambre/firenvim)
+- Dec 19 - [Show HN: Postgres as a VectorDB GUI](https://github.com/Z-Gort/Reservoirs-Lab)
+- Dec 19 - [Exposing the Clearingstelle Urheberrecht Im Internet (CUII)](https://damcraft.de/blog/exposing-the-cuii)
+- Dec 19 - [Error Stacking in Rust](https://greptime.com/blogs/2024-05-07-error-rust)
+- Dec 19 - [There's No Such Thing as Software Productivity (2012)](https://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html)
 <!--END_SECTION:hn-->
 
 <!--
