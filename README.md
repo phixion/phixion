@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 20 - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
+- Dec 20 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 - Dec 20 - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
-- Dec 20 - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
+- Dec 20 - [The era of open voice assistants](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 - Dec 19 - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
-- Dec 19 - [Openlayer (YC S21) is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
-- Dec 19 - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
 <!--END_SECTION:hn-->
 
 <!--
