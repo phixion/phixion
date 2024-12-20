@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 20 - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
+- Dec 20 - [A bestiary of exotic hadrons: the 23 exotic hadrons discovered at the LHC so far](https://cerncourier.com/a-bestiary-of-exotic-hadrons/)
+- Dec 20 - [Show HN: Artemis, a Calm Web Reader](https://artemis.jamesg.blog/)
 - Dec 20 - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr)](https://gauntletai.com)
-- Dec 20 - [Intel Core Ultra 9 285K "Arrow Lake" Windows 11 vs. Ubuntu Linux Performance](https://www.phoronix.com/review/intel-arrowlake-windows-linux)
-- Dec 20 - [Tldraw Computer](https://computer.tldraw.com)
-- Dec 20 - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
-- Dec 20 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+- Dec 20 - [Show HN: Interactive graphs in Rerun with a Rust port of D3-force](https://rerun.io/blog/graphs)
 <!--END_SECTION:hn-->
 
 <!--
