@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 20 - [Show HN: Gribstream.com – Historical Weather Forecast API](https://gribstream.com)
+- Dec 20 - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 - Dec 19 - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
 - Dec 19 - [Openlayer (YC S21) is looking for a customer engineer to join our rocketship](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer)
 - Dec 19 - [Satellite powered estimation of global solar potential](https://research.google/blog/satellite-powered-estimation-of-global-solar-potential/)
-- Dec 19 - [Hardware Security Exploit Research – Xbox 360](https://github.com/kooscode/srgh-matrix-trinity/blob/main/README.md)
-- Dec 19 - [Silk – Interactive Generative Art (2011)](http://weavesilk.com/)
 <!--END_SECTION:hn-->
 
 <!--
