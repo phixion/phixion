@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 21 - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
+- Dec 21 - [Gazzetta, an RSS Reader for Mastodon](https://primatology.xyz/blog/introducing-gazzetta)
+- Dec 21 - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
+- Dec 21 - [Introducing S2](https://s2.dev/blog/intro)
 - Dec 21 - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
-- Dec 21 - [Escaping Google's Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
-- Dec 21 - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
-- Dec 21 - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
-- Dec 20 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 <!--END_SECTION:hn-->
 
 <!--
