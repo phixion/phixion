@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 20 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
+- Dec 20 - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
+- Dec 20 - [Qualcomm wins licensing fight with Arm over chip designs](https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs)
+- Dec 20 - [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
 - Dec 20 - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
-- Dec 20 - [Grayjay Desktop App](https://grayjay.app/desktop/)
-- Dec 20 - [Show HN: Spotify and Apple Health Data as Art](https://apps.apple.com/us/app/day-by-data/id6737629704)
-- Dec 20 - [Why are UK electricity bills so expensive?](https://climate.benjames.io/uk-electricity-bills/)
-- Dec 20 - [Collections: On Bread and Circuses](https://acoup.blog/2024/12/20/collections-on-bread-and-circuses/)
 <!--END_SECTION:hn-->
 
 <!--
