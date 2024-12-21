@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 21 - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
+- Dec 21 - [Escaping Google's Manual Reputation Penalty and Resuming Business as Usual](https://recleudo.com/under-googles-watchfull-eye-getting-out-of-a-manual-site-reputation-abuse-penalty-and-continuing-business-as-usual/)
+- Dec 21 - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
 - Dec 21 - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
-- Dec 21 - [The Christmas story of one tube station's 'Mind the Gap' voice (2019)](https://www.theguardian.com/cities/2019/dec/25/the-christmas-story-of-one-tube-stations-mind-the-gap-voice)
 - Dec 20 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
-- Dec 20 - [A Raycaster in Bash](https://github.com/izabera/pseudo3d)
-- Dec 20 - [DOS APPEND](https://www.os2museum.com/wp/dos-append/)
 <!--END_SECTION:hn-->
 
 <!--
