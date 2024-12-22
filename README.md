@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
-- Dec 21 - [Gazzetta, an RSS Reader for Mastodon](https://primatology.xyz/blog/introducing-gazzetta)
-- Dec 21 - [Show HN: Eonfall – A new third-person co-op action game built for the web](https://eonfall.com)
-- Dec 21 - [Introducing S2](https://s2.dev/blog/intro)
-- Dec 21 - [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
+- Dec 21 - [Train a Mnist VAE with C and CUDA](https://github.com/ggerganov/ggml/discussions/707)
+- Dec 21 - [A data table thousands of years old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
+- Dec 21 - [Magical Thinking: Edward Bellamy's Looking Backward (2011)](https://www.laphamsquarterly.org/future/magical-thinking)
+- Dec 21 - [Richard Bellman on the Birth of Dynamic Programming (2002) [pdf]](https://pubsonline.informs.org/doi/pdf/10.1287/opre.50.1.48.17791)
+- Dec 21 - [JEP 483: Ahead-of-Time Class Loading and Linking](https://openjdk.org/jeps/483)
 <!--END_SECTION:hn-->
 
 <!--
