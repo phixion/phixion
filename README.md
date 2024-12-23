@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
-- Dec 23 - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
-- Dec 23 - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
-- Dec 23 - [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
-- Dec 23 - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
+- Dec 23 - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
+- Dec 23 - [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
+- Dec 23 - [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
+- Dec 23 - [OneText (YC W23) Is Hiring a Founding Growth Marketer](https://news.ycombinator.com/item?id=42496436)
+- Dec 23 - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
 <!--END_SECTION:hn-->
 
 <!--
