@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [WSDA, USDA announce eradication of northern giant hornet from the United States](https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=41658)
+- Dec 23 - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
+- Dec 23 - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
+- Dec 23 - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
+- Dec 23 - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 - Dec 23 - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
-- Dec 23 - [Ask HN: Predictions for 2025?](https://news.ycombinator.com/item?id=42490343)
-- Dec 22 - [Classified fighter jet specs leaked on War Thunder forums](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
-- Dec 22 - [CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
 <!--END_SECTION:hn-->
 
 <!--
