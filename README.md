@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote)](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d)
-- Dec 23 - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
-- Dec 23 - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
-- Dec 23 - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
-- Dec 23 - [Litestack: All your data infrastructure, in one Ruby gem](https://github.com/oldmoe/litestack)
+- Dec 23 - [Fogus: Things and Stuff of 2024](https://blog.fogus.me/2024/12/23/the-best-things-and-stuff-of-2024/)
+- Dec 23 - [Show HN: Keypub.sh – OAuth for the terminal using SSH keys](https://keypub.sh/)
+- Dec 23 - [Commercial tea bags release microplastics, entering human cells](https://medicalxpress.com/news/2024-12-commercial-tea-bags-millions-microplastics.html)
+- Dec 23 - [Journal that published faulty black plastic study removed from science index](https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/)
+- Dec 23 - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
 <!--END_SECTION:hn-->
 
 <!--
