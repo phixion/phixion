@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [One City’s Open Streets Program Towers Above the Rest. I Went to Find Out Why.](https://slate.com/business/2024/12/ciclovia-open-streets-bogota-urbanism-success.html)
-- Dec 22 - [The missing introduction to Jujutsu version control](https://neugierig.org/software/blog/2024/12/jujutsu.html)
-- Dec 22 - [The California Job-Killer That Wasn't](https://www.theatlantic.com/ideas/archive/2024/12/california-minimum-wage-myth/681145/)
-- Dec 22 - [MindsDB (YC W20) Is Hiring a Senior Product Manager, Data](https://grnh.se/d5ced53d7us)
-- Dec 22 - [The Risk of Cancer Fades as We Get Older, and We May Know Why](https://www.sciencealert.com/the-risk-of-cancer-fades-as-we-get-older-and-we-may-finally-know-why)
+- Dec 23 - [Ask HN: Predictions for 2025](https://news.ycombinator.com/item?id=42490343)
+- Dec 22 - [Classified fighter jet specs leaked on War Thunder forums – again](https://ukdefencejournal.org.uk/classified-fighter-jet-specs-leaked-on-war-thunder-again/)
+- Dec 22 - [Nostr is public key microblogging that works](https://github.com/nostr-protocol/nips/blob/master/01.md)
+- Dec 22 - [MI300X vs. H100 vs. H200 Benchmark Part 1: Training – CUDA Moat Still Alive](https://semianalysis.com/2024/12/22/mi300x-vs-h100-vs-h200-benchmark-part-1-training/)
+- Dec 22 - [What Happened to the Largest Tube TV? [video]](https://www.youtube.com/watch?v=JfZxOuc9Qwk)
 <!--END_SECTION:hn-->
 
 <!--
