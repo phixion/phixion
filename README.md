@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 24 - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
+- Dec 24 - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
+- Dec 24 - [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)
 - Dec 24 - [Automating the Search for Artificial Life with Foundation Models](https://sakana.ai/asal/)
 - Dec 24 - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
-- Dec 24 - [Build a Low-Cost Drone Using ESP32](https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391)
-- Dec 24 - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
-- Dec 23 - [Parsing millions of URLs per Second (2023)](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 <!--END_SECTION:hn-->
 
 <!--
