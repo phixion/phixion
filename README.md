@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
-- Dec 24 - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
-- Dec 24 - [Sipeed NanoKVM-PCIe](https://www.cnx-software.com/2024/12/24/sipeed-nanokvm-pcie-is-an-inexpensive-kvm-over-ip-solution-with-optional-wifi-6-and-poe-support/)
-- Dec 24 - [Automating the Search for Artificial Life with Foundation Models](https://sakana.ai/asal/)
-- Dec 24 - [Demystifying Debuggers, Part 2: The Anatomy of a Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
+- Dec 24 - [How did human butts evolve to look that way?](https://massivesci.com/articles/butts-shape-big-anthropologist-evolution-how-why-explainer/)
+- Dec 24 - [Paris to Berlin by train is now faster by five hours](https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg)
+- Dec 24 - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
+- Dec 24 - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
+- Dec 24 - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
 <!--END_SECTION:hn-->
 
 <!--
