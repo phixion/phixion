@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Narrative Jailbreaking for Fun and Profit](https://interconnected.org/home/2024/12/23/jailbreaking)
-- Dec 23 - [Show HN: Experiments in AI-generation of crosswords](https://abstractnonsense.com/crosswords.html)
-- Dec 23 - [Why HNSW is not the answer and disk-based alternatives might be more practical](https://blog.pgvecto.rs/why-hnsw-is-not-the-answer)
-- Dec 23 - [OneText (YC W23) Is Hiring a Founding Growth Marketer](https://news.ycombinator.com/item?id=42496436)
-- Dec 23 - [Show HN: Llama 3.3 70B Sparse Autoencoders with API access](https://www.goodfire.ai/papers/mapping-latent-spaces-llama/)
+- Dec 23 - [Parsing URLs per Second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
+- Dec 23 - [Why Are Cancer Guidelines Stuck in PDFs?](https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in)
+- Dec 23 - [Lobste.rs/Hacker News links overlap](https://lobhn.skyshelf.app/)
+- Dec 23 - [Show HN: Complete decompilation of Lego Island](https://github.com/isledecomp/isle)
+- Dec 23 - [Manx – a catalog of manuals for old computers](https://manx-docs.org/about.php)
 <!--END_SECTION:hn-->
 
 <!--
