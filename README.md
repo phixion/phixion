@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
-- Dec 24 - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
-- Dec 24 - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
-- Dec 24 - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
-- Dec 24 - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
+- Dec 24 - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
+- Dec 24 - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
+- Dec 24 - [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
+- Dec 24 - [Court of Milan orders Cloudflare to block ‘piracy shield’ domains, IP addresses](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
+- Dec 24 - [In Maine, remote jobs give prisoners a lifeline](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
 <!--END_SECTION:hn-->
 
 <!--
