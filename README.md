@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [How did human butts evolve to look that way?](https://massivesci.com/articles/butts-shape-big-anthropologist-evolution-how-why-explainer/)
-- Dec 24 - [Paris to Berlin by train is now faster by five hours](https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg)
-- Dec 24 - [Intel shareholders file case asking ex CEO, CFO to return 3 years of salary](https://www.cfodive.com/news/intel-shareholders-yank-exceo-cfo-compensation-foundry/736193/)
-- Dec 24 - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
+- Dec 24 - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
+- Dec 24 - [Tokyo released point cloud data of the entire city for free](https://twitter.com/spatiallyjess/status/1871342549958537326)
 - Dec 24 - [Threads of God](https://www.atlasobscura.com/foods/threads-of-god-pasta-sardinia)
+- Dec 24 - [National Cryptologic Museum (NSA/CSS) New Temporary Exhibit on Project Stargate](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3946210/new-exhibits-at-the-national-cryptologic-museum-unlock-your-curiosity/)
+- Dec 24 - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 <!--END_SECTION:hn-->
 
 <!--
