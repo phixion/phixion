@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
-- Dec 25 - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
-- Dec 25 - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
-- Dec 25 - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
-- Dec 25 - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
+- Dec 25 - [Controllable Christmas Lights](http://mathlin.co.uk/)
+- Dec 25 - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
+- Dec 25 - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/startpage.html)
+- Dec 25 - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
+- Dec 25 - [Ask HN: Resources for General Purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
 <!--END_SECTION:hn-->
 
 <!--
