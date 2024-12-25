@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Ask HN: What is the best thing you read in 2024?](https://news.ycombinator.com/item?id=42508087)
-- Dec 25 - [Ruby 3.4.0](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 - Dec 25 - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
-- Dec 25 - [News for Ruby 3.4.0](https://docs.ruby-lang.org/en/master/NEWS_md.html)
 - Dec 25 - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
+- Dec 25 - [Merry Christmas Everyone](https://news.ycombinator.com/item?id=42506577)
+- Dec 25 - [Show HN: FixBrowser – a lightweight web browser created from scratch](https://www.fixbrowser.org/)
+- Dec 25 - [CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion](https://blurbusters.com/crt-simulation-in-a-gpu-shader-looks-better-than-bfi/)
 <!--END_SECTION:hn-->
 
 <!--
