@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [The MTEB benchmark is dead](https://twitter.com/Nils_Reimers/status/1870812625505849849)
-- Dec 24 - [Electric Cars Could Last Much Longer Than You Think](https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/)
-- Dec 24 - [Cerebrum: Simulate and infer synaptic connectivity in large-scale brain networks](https://svbrain.xyz/2024/12/20/cerebrum)
-- Dec 24 - [Court of Milan orders Cloudflare to block ‘piracy shield’ domains, IP addresses](https://torrentfreak.com/cloudflare-must-block-piracy-shield-domains-and-ip-addresses-across-its-service-241224/)
-- Dec 24 - [In Maine, remote jobs give prisoners a lifeline](https://www.bostonglobe.com/2024/12/24/metro/maine-prison-remote-jobs-mountain-view-correctional-facility/)
+- Dec 24 - [Gordon Mah Ung, PCWorld editor and renowned hardware journalist, dies at 58](https://www.pcworld.com/article/2564783/gordon-mah-ung-remembered.html)
+- Dec 24 - [Ask HN: Why isn't Alex Krizhevsky as famous as Ilya Sutskever or G.Hinton?](https://news.ycombinator.com/item?id=42505519)
+- Dec 24 - [macOS menu bar app that shows how full the ISS urine tank is in real time](https://github.com/Jaennaet/pISSStream)
+- Dec 24 - [Trying out QvQ – Qwen's new visual reasoning model](https://simonwillison.net/2024/Dec/24/qvq/)
+- Dec 24 - [Shockley Semiconductor Laboratory](https://www.abortretry.fail/p/shockley-semiconductor-laboratory)
 <!--END_SECTION:hn-->
 
 <!--
