@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [The Rise of Post-Literate History](https://www.compactmag.com/article/the-rise-of-post-literate-history/)
-- Dec 26 - [Racket School 2019: The "How to Design Languages" Track](https://school.racket-lang.org/2019/plan/)
-- Dec 26 - [Node.js enables TypeScript support by default](https://github.com/nodejs/node/pull/56350)
+- Dec 26 - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
+- Dec 26 - [Thruster – HTTP/2 proxy for Rails apps with built-in Let's Encrypt and caching](https://github.com/basecamp/thruster)
 - Dec 26 - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
 - Dec 26 - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
+- Dec 26 - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
 <!--END_SECTION:hn-->
 
 <!--
