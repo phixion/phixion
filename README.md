@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Controllable Christmas Lights](http://mathlin.co.uk/)
-- Dec 25 - [Portspoof: Emulate a valid service on all 65535 TCP ports](https://github.com/drk1wi/portspoof)
-- Dec 25 - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/startpage.html)
-- Dec 25 - [Sherlock: Hunt down social media accounts by username across 400 social networks](https://sherlockproject.xyz/)
-- Dec 25 - [Ask HN: Resources for General Purpose GPU development on Apple's M* chips?](https://news.ycombinator.com/item?id=42509730)
+- Dec 25 - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
+- Dec 25 - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
+- Dec 25 - [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
+- Dec 25 - [I Thought I Found a Bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
+- Dec 25 - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
 <!--END_SECTION:hn-->
 
 <!--
