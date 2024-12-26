@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [I Saved an Electron Microscope from the Trash [video]](https://www.youtube.com/watch?v=Kqx9blbYDB0)
-- Dec 25 - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated/)
-- Dec 25 - [Air missile accident emerges as probable cause of Azerbaijan E190tragedy](https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau)
-- Dec 25 - [I Thought I Found a Bug](https://www.os2museum.com/wp/i-thought-i-found-a-bug/)
-- Dec 25 - [Into CPS, Never to Return](https://bernsteinbear.com/blog/cps/)
+- Dec 26 - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
+- Dec 26 - [Coccinelle](https://docs.kernel.org/dev-tools/coccinelle.html)
+- Dec 26 - [Bird flu kills more than half the big cats at a Washington sanctuary](https://www.cnn.com/2024/12/25/us/bird-flu-washington-cats-cases/index.html)
+- Dec 26 - [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
+- Dec 26 - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 <!--END_SECTION:hn-->
 
 <!--
