@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
-- Dec 26 - [Thruster – HTTP/2 proxy for Rails apps with built-in Let's Encrypt and caching](https://github.com/basecamp/thruster)
-- Dec 26 - [Design Space for Code Search Query](https://ast-grep.github.io/blog/code-search-design-space.html)
-- Dec 26 - [Show HN: A singing synthesizer for the browser with automatic 3-part harmony](https://pbat.ch/recurse/demos/trio/)
-- Dec 26 - [Differential Growth Addon for Blender](https://boris.okunskiy.name/posts/blender-differential-growth)
+- Dec 26 - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
+- Dec 26 - [The Semver Trick](https://github.com/dtolnay/semver-trick)
+- Dec 26 - [A Tour of WebAuthn – Adam Langley](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
+- Dec 26 - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
+- Dec 26 - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 <!--END_SECTION:hn-->
 
 <!--
