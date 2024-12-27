@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 27 - [Harper (YC W25) Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
+- Dec 27 - [Building AI Products–Part I: Back-End Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
+- Dec 27 - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
 - Dec 27 - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
-- Dec 27 - [Why did so many mid-century designers make children's books?](https://eyeondesign.aiga.org/why-did-so-many-mid-century-designers-make-childrens-books/)
-- Dec 27 - [Show HN: Map with an LLM](https://godview.ai)
-- Dec 27 - [Search ArXiv Fluidly](https://searchthearxiv.com/)
-- Dec 27 - [Show HN: SkunkHTML – Markdown Blog with GitHub Pages](https://github.com/MaxGripe/skunk-html)
+- Dec 27 - [Show HN: Simple live calculator in Tree-sitter and cranelift JIT](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 <!--END_SECTION:hn-->
 
 <!--
