@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Bench accounting services shutting down](https://bench.co/)
-- Dec 27 - [Tangled Physics: Knots Strain Intuitive Physical Reasoning](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00159/124792/Tangled-Physics-Knots-Strain-Intuitive-Physical)
-- Dec 27 - [Fake Nintendo lawyer is scaring YouTubers, and its not clear YouTube can stop it](https://www.theverge.com/2024/12/27/24326278/nintendo-fake-takedowns-youtube-domtendo-dmca)
-- Dec 27 - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
-- Dec 27 - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
+- Dec 27 - [NASA's Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
+- Dec 27 - [They have not been trained for this – CCC supports train hackers](https://www.ccc.de/en/updates/2024/das-ist-vollig-entgleist)
+- Dec 27 - [Show HN: Houseplant – Database Migrations for ClickHouse](https://houseplant.readthedocs.io/en/latest/)
+- Dec 27 - [The Structure of Neural Embeddings](https://seanpedersen.github.io/posts/structure-of-neural-latent-space)
+- Dec 27 - [S Korean crypto-boss Do Kwon to be extradited to US](https://www.bbc.com/news/articles/cn7r8xr3v76o)
 <!--END_SECTION:hn-->
 
 <!--
