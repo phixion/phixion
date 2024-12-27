@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Lua Is So Underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
-- Dec 26 - [The Semver Trick](https://github.com/dtolnay/semver-trick)
-- Dec 26 - [A Tour of WebAuthn – Adam Langley](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
-- Dec 26 - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
-- Dec 26 - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
+- Dec 26 - [The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
+- Dec 26 - [Reverse Engineering the Stream Deck+](https://den.dev/blog/reverse-engineer-stream-deck-plus/)
+- Dec 26 - [Neutron Stars with Less Mass Than a White Dwarf Might Exist](https://www.universetoday.com/170211/neutron-stars-with-less-mass-than-a-white-dwarf-might-exist-and-ligo-and-virgo-could-find-them/)
+- Dec 26 - [Inverse Design of Complex Nanoparticle Heterostructures via DL on Graphs](https://chemrxiv.org/engage/chemrxiv/article-details/6769dc3a81d2151a02b75ef6)
+- Dec 26 - [Sub-pixel distance transform (2023)](https://acko.net/blog/subpixel-distance-transform/)
 <!--END_SECTION:hn-->
 
 <!--
