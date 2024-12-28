@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Evolution journal editors resign en masse to protest Elsevier changes](https://retractionwatch.com/2024/12/27/evolution-journal-editors-resign-en-masse-to-protest-elsevier-changes/)
-- Dec 28 - [Mixin is a trait/mixin and bytecode weaving framework for Java using ASM](https://github.com/SpongePowered/Mixin)
-- Dec 28 - [Explaining Large Language Models Decisions Using Shapley Values](https://arxiv.org/abs/2404.01332)
-- Dec 28 - [Liberating Wi-Fi on the ESP32 [video]](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
-- Dec 27 - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
+- Dec 28 - [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
+- Dec 28 - [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
+- Dec 28 - [How to Cure Acid Reflux with Simple Exercise: An Anecdotal Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC9106553/)
+- Dec 28 - [Ada's dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
+- Dec 28 - [PCIe trouble with 4TB Crucial T500 NVMe SSD for >1 power cycle on MSI PRO X670-P](https://forum.level1techs.com/t/bizarre-pcie-trouble-with-4tb-crucial-t500-nvme-ssd/222915)
 <!--END_SECTION:hn-->
 
 <!--
