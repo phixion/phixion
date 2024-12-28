@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
-- Dec 28 - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
-- Dec 28 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Dec 28 - [Spotify Shuts Down ‘Unwrapped’ Artist Royalty Calculator with Legal Threats](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/)
-- Dec 28 - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
+- Dec 28 - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
+- Dec 28 - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
+- Dec 28 - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+- Dec 28 - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
+- Dec 28 - [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
 <!--END_SECTION:hn-->
 
 <!--
