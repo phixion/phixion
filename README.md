@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 28 - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
+- Dec 28 - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 - Dec 28 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Dec 28 - [Chess: Magnus Carlsen disqualified in N.Y. after refusing to change out of jeans](https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend)
-- Dec 28 - [Netflix tells writers to have characters "announce what they're doing"](https://www.worldofreel.com/blog/2024/12/27/netflix-tells-writers-to-have-characters-announce-what-theyre-doing-just-in-case-viewer-is-busy-doing-something-else)
-- Dec 28 - [The Nvidia Way – Review of Tae Kim's New Book](https://thechipletter.substack.com/p/the-nvidia-way)
-- Dec 28 - [Machine-Assisted Proof [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
+- Dec 28 - [Spotify Shuts Down ‘Unwrapped’ Artist Royalty Calculator with Legal Threats](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/)
+- Dec 28 - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 <!--END_SECTION:hn-->
 
 <!--
