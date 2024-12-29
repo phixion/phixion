@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
-- Dec 28 - [Google's Results Are Infested, Open AI Is Using Their Playbook from the 2000s](https://chuckwnelson.com/blog/google-search-results-infested-open-ai-using-google-playbook)
-- Dec 28 - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
-- Dec 28 - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
-- Dec 28 - [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
+- Dec 28 - [Fish 4.0: The Fish of Theseus](https://fishshell.com/blog/rustport/)
+- Dec 28 - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
+- Dec 28 - [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
+- Dec 28 - [AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
+- Dec 28 - [EU law mandating universal chargers for devices comes into force](https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force)
 <!--END_SECTION:hn-->
 
 <!--
