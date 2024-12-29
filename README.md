@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 29 - [Is It Possible to Improve Memory or Are We Doomed to Forget as We Age? (2023)](https://www.nzherald.co.nz/viva/life/is-it-possible-to-improve-our-memories-or-are-we-doomed-to-forget-as-we-age/HW6QBYRSSRBCZB646GEQET2LTY/)
+- Dec 29 - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
+- Dec 29 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- Dec 29 - [Can LLMs Accurately Recall the Bible](https://benkaiser.dev/can-llms-accurately-recall-the-bible/)
 - Dec 29 - [Personal Mail Server on OpenBSD (2019)](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
-- Dec 29 - [Jeju Air accident in South Korea kills at least 47](https://www.bloomberg.com/news/articles/2024-12-29/plane-crashes-at-s-korea-airport-killing-at-least-23-yonhap)
-- Dec 29 - [Show HN: Resizer2 – i3/KDE window movement on Windows](https://github.com/alvesvaren/resizer2)
-- Dec 28 - [38C3: Blinkencity, radio controlling street lamps and power plants [video]](https://media.ccc.de/v/38c3-blinkencity-radio-controlling-street-lamps-and-power-plants)
-- Dec 28 - [All You Need Is 4x 4090 GPUs to Train Your Own Model](https://sabareesh.com/posts/llm-rig/)
 <!--END_SECTION:hn-->
 
 <!--
