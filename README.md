@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
-- Dec 29 - [OpenAI's Board: 'To Succeed, All We Need Is Unimaginable Sums of Money'](https://daringfireball.net/2024/12/openai_unimaginable)
-- Dec 29 - [Belgium will ban sales of disposable e-cigarettes in a first for the EU](https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes)
-- Dec 29 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
-- Dec 29 - ['No Problem' Word Processor Poses a Problem for Former President Carter (1981)](https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html)
+- Dec 30 - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+- Dec 30 - [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
+- Dec 30 - ['ruthlessly imaginative' 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)
+- Dec 30 - [Show HN: WIP NandToTetris Emulator in pure C – logic gates to ALU to CPU to PC](https://github.com/con-dog/hack_emulator_c)
+- Dec 30 - [Little Snitch: Network Monitor and Application Firewall for macOS](https://www.obdev.at/en/products/littlesnitch/index.html)
 <!--END_SECTION:hn-->
 
 <!--
