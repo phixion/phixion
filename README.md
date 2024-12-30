@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
-- Dec 30 - [Human Civilization at critical junction:authoritarian collapse or superabundance](https://www.eurekalert.org/news-releases/1068196)
-- Dec 30 - [FTC Orders 'Gun Detection' Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
-- Dec 30 - [After 30 years, FDA overhauls guideline for the claim "Healthy" on food packages](https://www.wsj.com/health/wellness/healthy-food-quiz-fda-4d41ae56)
-- Dec 30 - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
+- Dec 30 - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
+- Dec 30 - [What I Learned Reporting in Cities That Take Belongings from Homeless People](https://www.propublica.org/article/homeless-encampments-essay)
+- Dec 30 - [Floridians have no right to bodies of water 'free of pollution,' court rules](https://floridaphoenix.com/2024/12/27/floridians-have-no-right-to-bodies-of-water-free-of-pollution-appeals-court-rules/)
+- Dec 30 - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
+- Dec 30 - [US credit card defaults jump to highest level since 2010](https://www.ft.com/content/c755a34d-eb97-40d1-b780-ae2e2f0e7ad9)
 <!--END_SECTION:hn-->
 
 <!--
