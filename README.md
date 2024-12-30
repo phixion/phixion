@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)](https://www.ycombinator.com/companies/pincites/jobs)
-- Dec 30 - [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
-- Dec 30 - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
-- Dec 30 - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
-- Dec 30 - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
+- Dec 30 - [Insurers Rely on Doctors Whose Judgments Have Been Criticized by Courts](https://www.propublica.org/article/mental-health-insurance-denials-unitedhealthcare-cigna-doctors)
+- Dec 30 - [Human Civilization at critical junction:authoritarian collapse or superabundance](https://www.eurekalert.org/news-releases/1068196)
+- Dec 30 - [FTC Orders 'Gun Detection' Tech Maker Evolv to Stop Overstating Effectiveness](https://www.techdirt.com/2024/12/30/ftc-orders-gun-detection-tech-maker-evolv-to-stop-overstating-effectiveness-of-its-glorified-metal-detectors/)
+- Dec 30 - [After 30 years, FDA overhauls guideline for the claim "Healthy" on food packages](https://www.wsj.com/health/wellness/healthy-food-quiz-fda-4d41ae56)
+- Dec 30 - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
 <!--END_SECTION:hn-->
 
 <!--
