@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Slowly Driving Technology into Restricted Closed Ecosystems](https://www.scottrlarson.com/updates/update-closed-technology-ecosystems-storage-configuration-lockdown/)
-- Dec 29 - [Notes on China](https://www.dwarkeshpatel.com/p/notes-on-china)
-- Dec 29 - [I was wrong about the ethics crisis](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)
-- Dec 29 - [BSD kqueue is a mountain of technical debt (2021)](https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/)
-- Dec 29 - [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
+- Dec 29 - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
+- Dec 29 - [OpenAI's Board: 'To Succeed, All We Need Is Unimaginable Sums of Money'](https://daringfireball.net/2024/12/openai_unimaginable)
+- Dec 29 - [Belgium will ban sales of disposable e-cigarettes in a first for the EU](https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes)
+- Dec 29 - [Stripe V2](https://brandur.org/fragments/stripe-v2)
+- Dec 29 - ['No Problem' Word Processor Poses a Problem for Former President Carter (1981)](https://www.nytimes.com/1981/03/24/arts/no-problem-machine-poses-a-presidential-problem.html)
 <!--END_SECTION:hn-->
 
 <!--
