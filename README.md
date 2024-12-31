@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
-- Dec 30 - [What I Learned Reporting in Cities That Take Belongings from Homeless People](https://www.propublica.org/article/homeless-encampments-essay)
-- Dec 30 - [Floridians have no right to bodies of water 'free of pollution,' court rules](https://floridaphoenix.com/2024/12/27/floridians-have-no-right-to-bodies-of-water-free-of-pollution-appeals-court-rules/)
-- Dec 30 - [Dumping Memory to Bypass BitLocker on Windows 11](https://noinitrd.github.io/Memory-Dump-UEFI/)
-- Dec 30 - [US credit card defaults jump to highest level since 2010](https://www.ft.com/content/c755a34d-eb97-40d1-b780-ae2e2f0e7ad9)
+- Dec 30 - [Why Linux is not ready for the desktop, the final edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.final.html)
+- Dec 30 - [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
+- Dec 30 - [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
+- Dec 30 - [I Wrote a Game Boy Advance Game in Zig](https://jonot.me/posts/zig-gba/)
+- Dec 30 - ["A Course of Pure Mathematics" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 <!--END_SECTION:hn-->
 
 <!--
