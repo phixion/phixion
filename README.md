@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
-- Dec 31 - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
-- Dec 31 - [Dog Aging Project](https://dogagingproject.org/)
-- Dec 31 - [Pee.ie – Public Toilets Near Me Ireland](https://www.pee.ie/)
-- Dec 31 - [Orbit by Mozilla](https://orbitbymozilla.com/)
+- Dec 31 - [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
+- Dec 31 - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
+- Dec 31 - [Show HN: RSS.Beauty – Make Your RSS Beautiful](https://rss.beauty/)
+- Dec 31 - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
+- Dec 31 - [Deepseek – A Chinese AI startup whose latest model beat OpenAI’s o1](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 <!--END_SECTION:hn-->
 
 <!--
