@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [T2x – a CLI tool for AI-first text operations](https://www.shruggingface.com/microblog/2024/11/28/t2x-a-cli-tool-for-ai-first-text-operations)
-- Dec 31 - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
+- Dec 31 - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
+- Dec 31 - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
+- Dec 31 - [Dog Aging Project](https://dogagingproject.org/)
+- Dec 31 - [Pee.ie – Public Toilets Near Me Ireland](https://www.pee.ie/)
 - Dec 31 - [Orbit by Mozilla](https://orbitbymozilla.com/)
-- Dec 31 - [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
-- Dec 31 - [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
 <!--END_SECTION:hn-->
 
 <!--
