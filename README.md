@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Why Linux is not ready for the desktop, the final edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.final.html)
-- Dec 30 - [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
-- Dec 30 - [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
-- Dec 30 - [I Wrote a Game Boy Advance Game in Zig](https://jonot.me/posts/zig-gba/)
-- Dec 30 - ["A Course of Pure Mathematics" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
+- Dec 31 - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
+- Dec 31 - [Orbit. Mozilla's AI Assistant for Firefox](https://orbitbymozilla.com/)
+- Dec 31 - [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
+- Dec 31 - [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
+- Dec 30 - [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
 <!--END_SECTION:hn-->
 
 <!--
