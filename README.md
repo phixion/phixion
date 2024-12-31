@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 31 - [T2x – a CLI tool for AI-first text operations](https://www.shruggingface.com/microblog/2024/11/28/t2x-a-cli-tool-for-ai-first-text-operations)
 - Dec 31 - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
-- Dec 31 - [Orbit. Mozilla's AI Assistant for Firefox](https://orbitbymozilla.com/)
+- Dec 31 - [Orbit by Mozilla](https://orbitbymozilla.com/)
 - Dec 31 - [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
 - Dec 31 - [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
-- Dec 30 - [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
 <!--END_SECTION:hn-->
 
 <!--
