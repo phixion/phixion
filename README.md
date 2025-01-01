@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [FBI: Largest homemade explosives cache in agency history found in Virginia](https://thehill.com/national-security/5061535-virginia-man-arrested-explosives/)
-- Dec 31 - [Show HN: Open-source security user analytics](https://github.com/TirrenoTechnologies/tirreno)
-- Dec 31 - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
-- Dec 31 - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
-- Dec 31 - [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
+- Jan 01 - [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
+- Jan 01 - [Signalling chaos: Inside the Elizabeth line's two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
+- Jan 01 - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
+- Dec 31 - [Bench.co acquired after informing staff company was insolvent](https://www.bench.co/press-release)
+- Dec 31 - [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750)
 <!--END_SECTION:hn-->
 
 <!--
