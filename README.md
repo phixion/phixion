@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
-- Jan 01 - [How and Why I Stopped Buying New Laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
-- Jan 01 - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
-- Jan 01 - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
-- Jan 01 - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
+- Jan 01 - [Signalens' SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
+- Jan 01 - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
+- Jan 01 - [In Search of Types (2014) [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
+- Jan 01 - [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
+- Jan 01 - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
 <!--END_SECTION:hn-->
 
 <!--
