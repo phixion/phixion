@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
-- Jan 02 - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
-- Jan 02 - [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)
-- Jan 02 - [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
-- Jan 02 - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
+- Jan 02 - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
+- Jan 02 - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
+- Jan 02 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+- Jan 02 - [Standard Ebooks Public Domain Day 2025 in Literature](https://standardebooks.org/blog/public-domain-day-2025)
+- Jan 02 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 <!--END_SECTION:hn-->
 
 <!--
