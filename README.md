@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
-- Jan 02 - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
-- Jan 02 - [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
-- Jan 01 - [Are there more trees on Earth than stars in the Milky Way? (2016)](https://www.snopes.com/fact-check/trees-stars-milky-way/)
-- Jan 01 - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
+- Jan 02 - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
+- Jan 02 - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
+- Jan 02 - [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)
+- Jan 02 - [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
+- Jan 02 - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 <!--END_SECTION:hn-->
 
 <!--
