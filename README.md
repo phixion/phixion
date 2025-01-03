@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
-- Jan 03 - [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
-- Jan 03 - [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
-- Jan 03 - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
-- Jan 03 - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
+- Jan 03 - [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
+- Jan 03 - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
+- Jan 03 - [OnlyFangs has made 'World of Warcraft' into Twitch's best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
+- Jan 03 - [Dark Energy May Not Exist: Something Stranger Might Explain the Universe](https://www.sciencealert.com/dark-energy-may-not-exist-something-stranger-might-explain-the-universe)
+- Jan 03 - [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
 <!--END_SECTION:hn-->
 
 <!--
