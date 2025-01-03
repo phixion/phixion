@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 03 - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
+- Jan 03 - [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
+- Jan 03 - [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
 - Jan 03 - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
-- Jan 03 - [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
-- Jan 03 - [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
-- Jan 03 - [Building an Agentic AI System at Doctolib](https://medium.com/doctolib/building-an-agentic-ai-system-for-healthcare-support-a-journey-into-practical-ai-implementation-0afd28d716e6)
-- Jan 03 - [Can LLMs write better code if you keep asking them to "write better code"?](https://minimaxir.com/2025/01/write-better-code/)
+- Jan 03 - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 <!--END_SECTION:hn-->
 
 <!--
