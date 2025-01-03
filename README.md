@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Awesome Donations: A repository of FLOSS donation options](https://github.com/n1trux/awesome-donations)
+- Jan 03 - [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
 - Jan 02 - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 - Jan 02 - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
 - Jan 02 - [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
