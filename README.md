@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [A path to O1 open source](https://arxiv.org/abs/2412.14135)
-- Jan 03 - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
-- Jan 03 - [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
-- Jan 03 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- Jan 03 - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
+- Jan 04 - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
+- Jan 04 - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
+- Jan 04 - [Conscious unbossing – 52% of GenZ professionals don't want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
+- Jan 04 - [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
+- Jan 03 - [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
 <!--END_SECTION:hn-->
 
 <!--
