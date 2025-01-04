@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
-- Jan 04 - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
-- Jan 04 - [Conscious unbossing – 52% of GenZ professionals don't want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
-- Jan 04 - [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
-- Jan 03 - [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
+- Jan 04 - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
+- Jan 04 - [China is the manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
+- Jan 04 - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+- Jan 04 - [U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration](https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/)
+- Jan 04 - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 <!--END_SECTION:hn-->
 
 <!--
