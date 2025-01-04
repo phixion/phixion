@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
-- Jan 04 - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
-- Jan 04 - [Show HN: I worked on a feature that allows you to preview fonts side by side](https://font-tester.foxcraft.tech/)
-- Jan 04 - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
-- Jan 04 - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
+- Jan 04 - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
+- Jan 04 - [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
+- Jan 04 - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+- Jan 04 - [The Unisys Icon: One Canadian Xennial's Memories of Ontario's Obscure Computer](https://postgamecontent.com/post/771726085147803648/the-unisys-icon-one-canadian-xennials-memories)
+- Jan 04 - [Using LLMs and Cursor to finish side projects](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
 <!--END_SECTION:hn-->
 
 <!--
