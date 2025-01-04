@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
-- Jan 03 - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
-- Jan 03 - [OnlyFangs has made 'World of Warcraft' into Twitch's best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
-- Jan 03 - [Dark Energy May Not Exist: Something Stranger Might Explain the Universe](https://www.sciencealert.com/dark-energy-may-not-exist-something-stranger-might-explain-the-universe)
-- Jan 03 - [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
+- Jan 03 - [A path to O1 open source](https://arxiv.org/abs/2412.14135)
+- Jan 03 - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
+- Jan 03 - [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
+- Jan 03 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- Jan 03 - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
 <!--END_SECTION:hn-->
 
 <!--
