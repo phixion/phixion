@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 04 - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 - Jan 04 - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
-- Jan 04 - [China is the manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
+- Jan 04 - [Show HN: I worked on a feature that allows you to preview fonts side by side](https://font-tester.foxcraft.tech/)
 - Jan 04 - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
-- Jan 04 - [U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration](https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/)
 - Jan 04 - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 <!--END_SECTION:hn-->
 
