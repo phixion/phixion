@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
-- Jan 05 - [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
-- Jan 05 - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
-- Jan 05 - [GPON FTTH networks (in)security (2016)](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction)
-- Jan 05 - [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
+- Jan 05 - [CTO / cofounder exit deal after 1.5y at 600k revenue without SHA](https://news.ycombinator.com/item?id=42600893)
+- Jan 05 - [How Nat Traversal Works (2020)](https://tailscale.com/blog/how-nat-traversal-works)
+- Jan 05 - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
+- Jan 05 - [The funniest thing I ever did – a.k.a. "How To Make $100K From A Dick Joke."](https://imgur.com/gallery/KZ4u3c4)
+- Jan 05 - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
 <!--END_SECTION:hn-->
 
 <!--
