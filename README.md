@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 04 - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
+- Jan 04 - [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
+- Jan 04 - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 - Jan 04 - [Killing Orson Welles at Midnight (2011)](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
 - Jan 04 - [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
-- Jan 04 - [A Return to Polymathy (2015) [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
-- Jan 04 - [Infisical (YC W23) Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
-- Jan 04 - [US newspapers are deleting old crime stories, offering subjects a 'clean slate'](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
 <!--END_SECTION:hn-->
 
 <!--
