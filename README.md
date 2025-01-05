@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
+- Jan 05 - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
+- Jan 05 - [Ads chew through half of mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
+- Jan 05 - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
 - Jan 05 - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
-- Jan 05 - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
-- Jan 05 - [Waymo Robotaxis Much Safer Than Any Human-Driven Cars](https://cleantechnica.com/2025/01/04/waymo-robotaxis-safer-than-any-human-driven-cars-much-safer/)
-- Jan 05 - [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
+- Jan 05 - [Human study on AI spear phishing campaigns](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns)
 <!--END_SECTION:hn-->
 
 <!--
