@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [CTO / cofounder exit deal after 1.5y at 600k revenue without SHA](https://news.ycombinator.com/item?id=42600893)
-- Jan 05 - [How Nat Traversal Works (2020)](https://tailscale.com/blog/how-nat-traversal-works)
-- Jan 05 - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
-- Jan 05 - [The funniest thing I ever did – a.k.a. "How To Make $100K From A Dick Joke."](https://imgur.com/gallery/KZ4u3c4)
-- Jan 05 - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
+- Jan 05 - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
+- Jan 05 - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
+- Jan 05 - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
+- Jan 05 - [Waymo Robotaxis Much Safer Than Any Human-Driven Cars](https://cleantechnica.com/2025/01/04/waymo-robotaxis-safer-than-any-human-driven-cars-much-safer/)
+- Jan 05 - [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
 <!--END_SECTION:hn-->
 
 <!--
