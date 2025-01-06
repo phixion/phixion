@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
-- Jan 06 - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
-- Jan 06 - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
-- Jan 06 - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
-- Jan 06 - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
+- Jan 06 - [AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
+- Jan 06 - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
+- Jan 06 - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
+- Jan 06 - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
+- Jan 06 - [Software is eating the world, all right (2024)](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)
 <!--END_SECTION:hn-->
 
 <!--
