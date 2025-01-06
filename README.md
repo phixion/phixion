@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Constellation's Nuclear Plants to Provide Power for US Government Agencies](https://www.nucnet.org/news/historic-procurement-will-see-constellation-s-nuclear-plants-provide-power-for-us-government-agencies-1-5-2025)
-- Jan 06 - [Computer Cousins: The Atari ST and DOS PCs](https://www.goto10retro.com/p/computer-cousins-the-atari-st-and)
+- Jan 06 - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
+- Jan 06 - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
+- Jan 06 - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
+- Jan 06 - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
 - Jan 06 - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
-- Jan 06 - [Air Force Tests Subscale Model of Blended-Wing Body Jet](https://www.airandspaceforces.com/air-force-subscale-model-blended-wing-body/)
-- Jan 06 - [Why Computer Scientists Consult Oracles](https://www.quantamagazine.org/why-computer-scientists-consult-oracles-20250103/)
 <!--END_SECTION:hn-->
 
 <!--
