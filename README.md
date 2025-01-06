@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
-- Jan 05 - [Ads chew through half of mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
-- Jan 05 - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
-- Jan 05 - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
-- Jan 05 - [Human study on AI spear phishing campaigns](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns)
+- Jan 05 - [Windows 365 Link: The New Device That Imprisons Users in Microsofts Cloud](https://cheapskatesguide.org/articles/windows-365-link.html)
+- Jan 05 - [Duolicious – Open-source dating app](https://github.com/duolicious)
+- Jan 05 - [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
+- Jan 05 - [ESET recommends Linux if your unsupported Windows 11 PC can't update from 10](https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/)
+- Jan 05 - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 <!--END_SECTION:hn-->
 
 <!--
