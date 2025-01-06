@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [Windows 365 Link: The New Device That Imprisons Users in Microsofts Cloud](https://cheapskatesguide.org/articles/windows-365-link.html)
-- Jan 05 - [Duolicious – Open-source dating app](https://github.com/duolicious)
-- Jan 05 - [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
-- Jan 05 - [ESET recommends Linux if your unsupported Windows 11 PC can't update from 10](https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/)
-- Jan 05 - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
+- Jan 06 - [Apple Squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
+- Jan 06 - [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
+- Jan 06 - [Reflections](https://blog.samaltman.com/reflections)
+- Jan 06 - [This Is Not Your Last Job](https://v5.chriskrycho.com/journal/this-is-not-your-last-job/)
+- Jan 06 - [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
 <!--END_SECTION:hn-->
 
 <!--
