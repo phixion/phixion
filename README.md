@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Apple Squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
-- Jan 06 - [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
-- Jan 06 - [Reflections](https://blog.samaltman.com/reflections)
-- Jan 06 - [This Is Not Your Last Job](https://v5.chriskrycho.com/journal/this-is-not-your-last-job/)
-- Jan 06 - [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
+- Jan 06 - [Lord of the Io_uring](https://unixism.net/loti/index.html)
+- Jan 06 - [Supabase (YC S20) Is Hiring for Multiple Roles (Remote)](https://supabase.com/careers)
+- Jan 06 - [US Mint sheets of uncut currency](https://www.usmint.gov/paper-currency/uncut-currency/)
+- Jan 06 - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
+- Jan 06 - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 <!--END_SECTION:hn-->
 
 <!--
