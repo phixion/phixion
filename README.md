@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Stay Gold, America](https://blog.codinghorror.com/)
-- Jan 07 - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
-- Jan 07 - [Y2K – why I know it was a real problem (2015)](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
-- Jan 07 - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
-- Jan 07 - [Nvidia's Project Digits is a 'personal AI supercomputer'](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
+- Jan 07 - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
+- Jan 07 - [Bog Standard (2005)](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
+- Jan 07 - [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
+- Jan 07 - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
+- Jan 07 - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 <!--END_SECTION:hn-->
 
 <!--
