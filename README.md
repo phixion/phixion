@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Amidst the Noise and Haste, Google Has Successfully Pulled a SpaceX](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)
-- Jan 06 - [NYC Congestion Pricing](https://www.congestion-pricing-tracker.com/)
-- Jan 06 - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
-- Jan 06 - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
-- Jan 06 - [Dtack Grounded archive (1981-1985)](http://www.easy68k.com/paulrsm/dg/)
+- Jan 07 - [Nvidia Blackwell GeForce RTX 50 Series Opens New World of AI Computer Graphics](https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics)
+- Jan 07 - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
+- Jan 07 - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
+- Jan 07 - [How I Program with LLMs](https://crawshaw.io/blog/programming-with-llms)
+- Jan 06 - [NYC Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
 <!--END_SECTION:hn-->
 
 <!--
