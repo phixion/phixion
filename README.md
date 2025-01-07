@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Nvidia Blackwell GeForce RTX 50 Series Opens New World of AI Computer Graphics](https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics)
-- Jan 07 - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
-- Jan 07 - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
-- Jan 07 - [How I Program with LLMs](https://crawshaw.io/blog/programming-with-llms)
-- Jan 06 - [NYC Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
+- Jan 07 - [Stay Gold, America](https://blog.codinghorror.com/)
+- Jan 07 - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
+- Jan 07 - [Y2K – why I know it was a real problem (2015)](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
+- Jan 07 - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+- Jan 07 - [Nvidia's Project Digits is a 'personal AI supercomputer'](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 <!--END_SECTION:hn-->
 
 <!--
