@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 07 - [Why Is the American Diet So Deadly?](https://www.newyorker.com/magazine/2024/01/13/why-is-the-american-diet-so-deadly)
+- Jan 07 - [Google is building its own 'world modeling' AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
+- Jan 07 - [Federal Reserve Bank of NY "Doomsday Book" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
+- Jan 07 - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 - Jan 07 - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
-- Jan 07 - [Bog Standard (2005)](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
-- Jan 07 - [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
-- Jan 07 - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
-- Jan 07 - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 <!--END_SECTION:hn-->
 
 <!--
