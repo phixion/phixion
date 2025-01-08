@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
-- Jan 08 - [Tiptap (YC S23) is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
-- Jan 08 - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
-- Jan 07 - [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
-- Jan 07 - [Automated accessibility testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
+- Jan 08 - [Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
+- Jan 08 - [Meta scrapped factcheckers because systems were 'too complex'](https://www.theguardian.com/technology/2025/jan/08/meta-scrapped-factcheckers-because-systems-were-too-complex)
+- Jan 08 - [The Comet is a handheld Linux computer that brings extensibility](https://mecha.so/comet)
+- Jan 08 - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
+- Jan 08 - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
 <!--END_SECTION:hn-->
 
 <!--
