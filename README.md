@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Man trapped inside driverless Waymo car as it spins in circles](https://www.bbc.co.uk/news/videos/c70e2g09ng9o)
-- Jan 07 - [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
-- Jan 07 - [Laid off for the first time in my career, and twice in one year](https://dillonshook.com/laid-off/)
-- Jan 07 - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
-- Jan 07 - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
+- Jan 08 - [Annual 'winners' for most egregious US healthcare profiteering announced](https://www.theguardian.com/us-news/2025/jan/07/annual-awards-healthcare-profiteering)
+- Jan 08 - [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
+- Jan 07 - [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
+- Jan 07 - [Automated accessibility testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
+- Jan 07 - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 <!--END_SECTION:hn-->
 
 <!--
