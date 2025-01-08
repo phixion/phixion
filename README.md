@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 08 - [Show HN: The Atlas of Space](https://atlasof.space/)
+- Jan 08 - [Fidget](https://www.mattkeeter.com/projects/fidget/)
+- Jan 08 - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
+- Jan 08 - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 - Jan 08 - [Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
-- Jan 08 - [Meta scrapped factcheckers because systems were 'too complex'](https://www.theguardian.com/technology/2025/jan/08/meta-scrapped-factcheckers-because-systems-were-too-complex)
-- Jan 08 - [The Comet is a handheld Linux computer that brings extensibility](https://mecha.so/comet)
-- Jan 08 - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
-- Jan 08 - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
 <!--END_SECTION:hn-->
 
 <!--
