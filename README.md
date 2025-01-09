@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
-- Jan 08 - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
-- Jan 08 - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
-- Jan 08 - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
-- Jan 08 - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
+- Jan 08 - [A Supermarket in California (1955)](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
+- Jan 08 - [Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
+- Jan 08 - [Salesforce Will Hire No More Software Engineers in 2025, Says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
+- Jan 08 - [RPG-CLI – your filesystem as a dungeon](https://github.com/facundoolano/rpg-cli)
+- Jan 08 - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
 <!--END_SECTION:hn-->
 
 <!--
