@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
-- Jan 09 - [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
-- Jan 09 - [You don't have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
-- Jan 08 - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
-- Jan 08 - [Steve Langasek, one of Ubuntu Linux's leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
+- Jan 09 - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
+- Jan 09 - [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)
+- Jan 09 - [Hitler dismantled a democracy in 53 days through constitutional means](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/)
+- Jan 09 - [VLC tops 6B downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
+- Jan 09 - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
 <!--END_SECTION:hn-->
 
 <!--
