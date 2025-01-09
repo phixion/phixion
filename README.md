@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 09 - [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
+- Jan 09 - [Rational or Not? This Basic Math Question Took Decades to Answer](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/)
+- Jan 09 - [Not Every User Owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 - Jan 09 - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
-- Jan 09 - [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)
-- Jan 09 - [Hitler dismantled a democracy in 53 days through constitutional means](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/)
-- Jan 09 - [VLC tops 6B downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
-- Jan 09 - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
+- Jan 09 - [Scientists uncover how the brain washes itself during sleep](https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep)
 <!--END_SECTION:hn-->
 
 <!--
