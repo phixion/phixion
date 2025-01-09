@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 09 - [You don't have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
+- Jan 08 - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 - Jan 08 - [A Supermarket in California (1955)](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
-- Jan 08 - [Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
-- Jan 08 - [Salesforce Will Hire No More Software Engineers in 2025, Says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
-- Jan 08 - [RPG-CLI – your filesystem as a dungeon](https://github.com/facundoolano/rpg-cli)
-- Jan 08 - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
+- Jan 08 - [Steve Langasek, one of Ubuntu Linux's leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
+- Jan 08 - [Salesforce will hire no more software engineers in 2025, says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
 <!--END_SECTION:hn-->
 
 <!--
