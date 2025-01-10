@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Candy Crush, Tinder, MyFitnessPal: See the Apps Hijacked to Spy on Your Location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
-- Jan 09 - [See the Thousands of Apps Hijacked to Spy on Your Location](https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/)
-- Jan 09 - [Why I'm disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
-- Jan 09 - [Soldering the Tek Way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
-- Jan 09 - [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
+- Jan 10 - [Los Angeles fires expose inflated US home prices](https://www.reuters.com/breakingviews/los-angeles-fires-expose-inflated-us-home-prices-2025-01-09/)
+- Jan 10 - [41% of Employers Worldwide Say They'll Reduce Staff by 2030 Due to AI](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131)
+- Jan 10 - [TikTok tells staff impacted by wildfires to use sick hours if they can't work](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
+- Jan 10 - [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
+- Jan 10 - [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
 <!--END_SECTION:hn-->
 
 <!--
