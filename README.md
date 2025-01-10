@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Perpetual Movement: Francis Picabia's 391 Review (1917–1924)](https://publicdomainreview.org/collection/francis-picabia-391-review/)
-- Jan 09 - [A Deep Dive into JVM Start Up](https://inside.java/2025/01/09/sw-startup/)
-- Jan 09 - [MixRank (YC S11) Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
-- Jan 09 - ["Twelfth Night Till Candlemas" – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
-- Jan 09 - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
+- Jan 10 - [Candy Crush, Tinder, MyFitnessPal: See the Apps Hijacked to Spy on Your Location](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)
+- Jan 09 - [See the Thousands of Apps Hijacked to Spy on Your Location](https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/)
+- Jan 09 - [Why I'm disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
+- Jan 09 - [Soldering the Tek Way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
+- Jan 09 - [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
 <!--END_SECTION:hn-->
 
 <!--
