@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Wasmer (YC S19) Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
-- Jan 10 - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
-- Jan 10 - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
-- Jan 10 - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
-- Jan 10 - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
+- Jan 10 - [Web apps built with Ruby on Rails](https://weuserails.com/)
+- Jan 10 - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
+- Jan 10 - [I've Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
+- Jan 10 - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
+- Jan 10 - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 <!--END_SECTION:hn-->
 
 <!--
