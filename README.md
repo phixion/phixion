@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
-- Jan 10 - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
-- Jan 10 - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
-- Jan 10 - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
-- Jan 10 - [Gleam v1.7](https://gleam.run/news/improved-performance-and-publishing/)
+- Jan 10 - [Wasmer (YC S19) Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
+- Jan 10 - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
+- Jan 10 - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
+- Jan 10 - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
+- Jan 10 - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 <!--END_SECTION:hn-->
 
 <!--
