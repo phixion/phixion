@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Web apps built with Ruby on Rails](https://weuserails.com/)
-- Jan 10 - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
-- Jan 10 - [I've Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
-- Jan 10 - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
-- Jan 10 - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
+- Jan 10 - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
+- Jan 10 - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
+- Jan 10 - [Show HN: KeyTik: The All-in-One Input Automation Tool](https://keytik.com/)
+- Jan 10 - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
+- Jan 10 - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
 <!--END_SECTION:hn-->
 
 <!--
