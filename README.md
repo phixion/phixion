@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Los Angeles fires expose inflated US home prices](https://www.reuters.com/breakingviews/los-angeles-fires-expose-inflated-us-home-prices-2025-01-09/)
-- Jan 10 - [41% of Employers Worldwide Say They'll Reduce Staff by 2030 Due to AI](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131)
-- Jan 10 - [TikTok tells staff impacted by wildfires to use sick hours if they can't work](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
-- Jan 10 - [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
-- Jan 10 - [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
+- Jan 10 - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
+- Jan 10 - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
+- Jan 10 - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
+- Jan 10 - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
+- Jan 10 - [Gleam v1.7](https://gleam.run/news/improved-performance-and-publishing/)
 <!--END_SECTION:hn-->
 
 <!--
