@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 10 - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
+- Jan 10 - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 - Jan 10 - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
+- Jan 10 - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 - Jan 10 - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
-- Jan 10 - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-- Jan 10 - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
-- Jan 10 - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
 <!--END_SECTION:hn-->
 
 <!--
