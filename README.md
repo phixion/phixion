@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 11 - [Black boxes from Jeju Air 2216 stopped recording four minutes before crash](https://www.cnn.com/2025/01/11/asia/south-korean-airline-black-boxes-stopped-recording-intl-hnk/index.html)
+- Jan 11 - [Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
+- Jan 11 - [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
+- Jan 11 - [MessagePack: It's like JSON, but fast and small.](https://msgpack.org/)
 - Jan 10 - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
-- Jan 10 - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
-- Jan 10 - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
-- Jan 10 - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
-- Jan 10 - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 <!--END_SECTION:hn-->
 
 <!--
