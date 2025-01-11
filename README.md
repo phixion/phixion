@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
-- Jan 11 - [Nearly All Binary Searches and Mergesorts Are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
-- Jan 11 - [What Is the "Mffam" Policy?](https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy)
-- Jan 11 - [Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
-- Jan 10 - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
+- Jan 11 - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
+- Jan 11 - [The Elephant in the room: The myth of exponential hypergrowth (2022)](https://longform.asmartbear.com/exponential-growth/)
+- Jan 11 - [Show HN: A Better Log Service](https://txtlog.net/)
+- Jan 11 - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
+- Jan 11 - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 <!--END_SECTION:hn-->
 
 <!--
