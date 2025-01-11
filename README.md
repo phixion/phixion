@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 10 - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
+- Jan 10 - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
+- Jan 10 - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 - Jan 10 - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 - Jan 10 - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
-- Jan 10 - [Show HN: KeyTik: The All-in-One Input Automation Tool](https://keytik.com/)
-- Jan 10 - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
-- Jan 10 - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
 <!--END_SECTION:hn-->
 
 <!--
