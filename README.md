@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 12 - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
+- Jan 12 - [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
+- Jan 12 - [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
 - Jan 11 - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
-- Jan 11 - [Maybe ChatGPT has some pre-frontal cortex problems](https://solresol.substack.com/p/maybe-chatgpt-has-some-pre-frontal)
-- Jan 11 - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model (2015)](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
-- Jan 11 - [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
-- Jan 11 - [JPMorgan Reportedly Ending Remote Work for More Than 300k Employees](https://www.forbes.com/sites/terinaallen/2025/01/09/jpmorgan-ending-remote-work-for-300000-employees-report/)
+- Jan 11 - [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
 <!--END_SECTION:hn-->
 
 <!--
