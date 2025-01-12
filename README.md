@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
-- Jan 11 - [Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)](https://github.com/mathuo/dockview)
-- Jan 11 - [Show HN: A Better Log Service](https://txtlog.net/)
-- Jan 11 - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
-- Jan 11 - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
+- Jan 11 - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
+- Jan 11 - [Maybe ChatGPT has some pre-frontal cortex problems](https://solresol.substack.com/p/maybe-chatgpt-has-some-pre-frontal)
+- Jan 11 - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model (2015)](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+- Jan 11 - [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
+- Jan 11 - [JPMorgan Reportedly Ending Remote Work for More Than 300k Employees](https://www.forbes.com/sites/terinaallen/2025/01/09/jpmorgan-ending-remote-work-for-300000-employees-report/)
 <!--END_SECTION:hn-->
 
 <!--
