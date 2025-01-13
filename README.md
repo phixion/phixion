@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 13 - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
+- Jan 13 - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 - Jan 13 - [Disco Elysium Explorer](http://134.0.119.41)
-- Jan 13 - [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
+- Jan 13 - [How did they make cars fall apart in old movies (2017)](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
 - Jan 13 - [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
-- Jan 13 - [Standard patterns in choice-based games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
-- Jan 13 - [The Free Movie: Frame-by-frame, handrawn reproduction of "The Bee Movie" (2023)](https://thefreemovie.buzz/)
 <!--END_SECTION:hn-->
 
 <!--
