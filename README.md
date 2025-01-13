@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
+- Jan 13 - [Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
+- Jan 13 - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
+- Jan 13 - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 - Jan 13 - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 - Jan 13 - [Disco Elysium Explorer](http://134.0.119.41)
-- Jan 13 - [How did they make cars fall apart in old movies (2017)](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
-- Jan 13 - [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
 <!--END_SECTION:hn-->
 
 <!--
