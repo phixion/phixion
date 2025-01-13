@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
-- Jan 13 - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
-- Jan 13 - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
-- Jan 13 - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
-- Jan 13 - [Disco Elysium Explorer](http://134.0.119.41)
+- Jan 13 - [Subway Stories](https://subwaystories.nyc/)
+- Jan 13 - [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
+- Jan 13 - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
+- Jan 13 - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
+- Jan 13 - [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
 <!--END_SECTION:hn-->
 
 <!--
