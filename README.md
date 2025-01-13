@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Subway Stories](https://subwaystories.nyc/)
-- Jan 13 - [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
-- Jan 13 - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
-- Jan 13 - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
-- Jan 13 - [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
+- Jan 13 - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
+- Jan 13 - [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
+- Jan 13 - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
+- Jan 13 - [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
+- Jan 13 - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
 <!--END_SECTION:hn-->
 
 <!--
