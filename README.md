@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
-- Jan 12 - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
-- Jan 12 - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
-- Jan 12 - [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
-- Jan 12 - [Employees are bypassing HR, sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
+- Jan 13 - [The damning statistics that reveal the true cost of Brexit, five years on](https://www.independent.co.uk/news/uk/politics/brexit-cost-statistics-numbers-five-years-eu-b2676692.html)
+- Jan 12 - [FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
+- Jan 12 - [Qubes OS: Templates](https://www.qubes-os.org/doc/templates/)
+- Jan 12 - [Superior Internet Privacy with Whonix](https://www.whonix.org/wiki/Homepage)
+- Jan 12 - [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
 <!--END_SECTION:hn-->
 
 <!--
