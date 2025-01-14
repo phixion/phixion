@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Norway on track to be first to go all-electric](https://www.bbc.com/news/articles/cg52543v6rmo)
-- Jan 14 - [LA wildfires disinformation reveals limits of fact-checking](https://weaponizedspaces.substack.com/p/la-wildfires-disinformation-reveals)
-- Jan 14 - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
-- Jan 14 - [The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal](https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal)
-- Jan 14 - [Campsite is now open source](https://github.com/campsite/campsite)
+- Jan 14 - [Why are tech people suddenly so into homeschooling?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
+- Jan 14 - [LLM based agents as Dungeon Masters](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y)
+- Jan 14 - [Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for)
+- Jan 14 - [Jeppson's Malört](https://en.wikipedia.org/wiki/Jeppson%27s_Mal%C3%B6rt)
+- Jan 14 - [Tesla Sales Are Tanking in Europe](https://insideevs.com/news/745119/tesla-sales-europe-2024/)
 <!--END_SECTION:hn-->
 
 <!--
