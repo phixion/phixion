@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 14 - [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
 - Jan 13 - [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
-- Jan 13 - [Cheating Is All You Need](https://sourcegraph.com/blog/cheating-is-all-you-need)
-- Jan 13 - [Spain proposes 100% tax on homes bought by non-EU residents](https://www.theguardian.com/world/2025/jan/13/spain-proposes-100-tax-on-homes-bought-by-non-eu-residents)
-- Jan 13 - [Lorne Michaels Is the Real Star of "Saturday Night Live"](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
-- Jan 13 - [Scientists Discover Underground Water Vault in Oregon 3x the Size of Lake Mead](https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/)
+- Jan 13 - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
+- Jan 13 - [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
+- Jan 13 - [Snyk security researcher deploys malicious NPM packages targeting Cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
 <!--END_SECTION:hn-->
 
 <!--
