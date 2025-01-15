@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)
+- Jan 15 - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 - Jan 15 - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
 - Jan 15 - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
-- Jan 14 - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
-- Jan 14 - [Road signs to help people limit radiation exposure in contaminated areas](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
+- Jan 14 - [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
+- Jan 14 - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
 <!--END_SECTION:hn-->
 
 <!--
