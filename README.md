@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
-- Jan 15 - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
-- Jan 15 - [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](https://www.cell.com/cell/abstract/S0092-8674(24)01343-6)
-- Jan 15 - [Build a Database in Four Months with Rust and 647 Open-Source Dependencies](https://tisonkun.io/posts/oss-twin)
-- Jan 15 - [US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
+- Jan 15 - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
+- Jan 15 - [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
+- Jan 15 - [Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive)
+- Jan 15 - [Qantas South Africa flights delayed by falling debris from SpaceX rockets](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg)
+- Jan 15 - [GOG Joins European Federation of Game Archives, Museums & Preservation Projects](https://www.gamingonlinux.com/2025/01/gog-joins-the-european-federation-of-game-archives-museums-and-preservation-projects/)
 <!--END_SECTION:hn-->
 
 <!--
