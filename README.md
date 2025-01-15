@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
+- Jan 15 - [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)
+- Jan 15 - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
+- Jan 15 - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 - Jan 14 - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
-- Jan 14 - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
-- Jan 14 - [If You Ever See This Speed Sign, You're Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
-- Jan 14 - [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
+- Jan 14 - [Road signs to help people limit radiation exposure in contaminated areas](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
 <!--END_SECTION:hn-->
 
 <!--
