@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Climbers Using Xenon Gas, Which Is Banned in Sports, to Climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
-- Jan 14 - [Rewriting my blog in plain HTML](https://www.vijayp.dev/blog/rewrite-plain-html/)
+- Jan 14 - [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
+- Jan 14 - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
+- Jan 14 - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 - Jan 14 - [If You Ever See This Speed Sign, You're Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
-- Jan 14 - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
-- Jan 14 - [Proof of location for online polls](https://ip-vote.com/geolocation_via_latency.html)
+- Jan 14 - [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
 <!--END_SECTION:hn-->
 
 <!--
