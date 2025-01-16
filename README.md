@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Karen Wynn Fonstad, Who Mapped Tolkien's Middle-Earth](https://www.nytimes.com/2025/01/13/obituaries/karen-wynn-fonstad-overlooked.html)
-- Jan 16 - [Blue Origin New Glenn Mission NG-1 (video)](https://www.blueorigin.com/missions/ng-1)
+- Jan 16 - [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
+- Jan 16 - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
+- Jan 16 - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
+- Jan 16 - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
 - Jan 16 - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
-- Jan 16 - [Is WebAssembly Memory64 worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
-- Jan 15 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 <!--END_SECTION:hn-->
 
 <!--
