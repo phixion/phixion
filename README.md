@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
-- Jan 16 - [Astronomers discover neutron star with an incredibly slow six-hour spin](https://www.abc.net.au/news/science/2025-01-16/neutron-star-radio-transient-6-hours/104799106)
-- Jan 16 - [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
-- Jan 16 - [Stanford Researchers Produce Ammonia Fuel from Thin Air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
-- Jan 16 - [No Calls](https://keygen.sh/blog/no-calls/)
+- Jan 16 - [How can a top scientist be so confidently wrong? (2022)](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
+- Jan 16 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
+- Jan 16 - [Oh Shit, Git?](https://ohshitgit.com/)
+- Jan 16 - [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
+- Jan 16 - [Comment on 2015 mRNA paper suggests data re-used in different contexts](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
 <!--END_SECTION:hn-->
 
 <!--
