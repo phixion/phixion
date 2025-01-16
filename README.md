@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Docker Desktop Broken on Mac OS Update for over a Week](https://www.dockerstatus.com/)
-- Jan 15 - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
-- Jan 15 - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
-- Jan 15 - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
-- Jan 15 - [Empirical Health (YC S23) is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
+- Jan 16 - [Karen Wynn Fonstad, Who Mapped Tolkien's Middle-Earth](https://www.nytimes.com/2025/01/13/obituaries/karen-wynn-fonstad-overlooked.html)
+- Jan 16 - [Blue Origin New Glenn Mission NG-1 (video)](https://www.blueorigin.com/missions/ng-1)
+- Jan 16 - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
+- Jan 16 - [Is WebAssembly Memory64 worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
+- Jan 15 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 <!--END_SECTION:hn-->
 
 <!--
