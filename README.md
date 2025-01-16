@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
-- Jan 15 - [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
-- Jan 15 - [Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive)
-- Jan 15 - [Qantas South Africa flights delayed by falling debris from SpaceX rockets](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg)
-- Jan 15 - [GOG Joins European Federation of Game Archives, Museums & Preservation Projects](https://www.gamingonlinux.com/2025/01/gog-joins-the-european-federation-of-game-archives-museums-and-preservation-projects/)
+- Jan 15 - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
+- Jan 15 - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
+- Jan 15 - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
+- Jan 15 - [Empirical Health (YC S23) is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
+- Jan 15 - [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
 <!--END_SECTION:hn-->
 
 <!--
