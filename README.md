@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [How can a top scientist be so confidently wrong? (2022)](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
-- Jan 16 - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
-- Jan 16 - [Oh Shit, Git?](https://ohshitgit.com/)
-- Jan 16 - [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
-- Jan 16 - [Comment on 2015 mRNA paper suggests data re-used in different contexts](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
+- Jan 16 - [Some Things to Expect in 2025](https://lwn.net/Articles/1003780/)
+- Jan 16 - [Learn Yjs Interactively](https://learn.yjs.dev/)
+- Jan 16 - [MuJoco Playground](https://playground.mujoco.org/)
+- Jan 16 - [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
+- Jan 16 - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 <!--END_SECTION:hn-->
 
 <!--
