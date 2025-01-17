@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 17 - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
+- Jan 17 - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
+- Jan 17 - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
 - Jan 17 - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
-- Jan 17 - [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)
 - Jan 17 - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
-- Jan 17 - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
-- Jan 17 - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 <!--END_SECTION:hn-->
 
 <!--
