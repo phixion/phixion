@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
-- Jan 17 - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
-- Jan 17 - [Thoughts on a Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
-- Jan 17 - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
-- Jan 17 - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
+- Jan 17 - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
+- Jan 17 - [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)
+- Jan 17 - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
+- Jan 17 - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
+- Jan 17 - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 <!--END_SECTION:hn-->
 
 <!--
