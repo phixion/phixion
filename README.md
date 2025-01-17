@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
-- Jan 17 - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
-- Jan 17 - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
-- Jan 17 - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
-- Jan 17 - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
+- Jan 17 - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
+- Jan 17 - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
+- Jan 17 - [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
+- Jan 17 - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
+- Jan 17 - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
 <!--END_SECTION:hn-->
 
 <!--
