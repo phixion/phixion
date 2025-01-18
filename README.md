@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Swedish Exports of Ball Bearings](https://old.reddit.com/r/AskHistorians/comments/172wq05/swedish_exports_of_ball_bearings_are_commonly/)
-- Jan 17 - [Investigating an "Evil" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
-- Jan 17 - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
-- Jan 17 - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
-- Jan 17 - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
+- Jan 18 - [Can You Read This Cursive Handwriting? The National Archives Wants Your Help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
+- Jan 18 - [Is the TikTok Ban a Chance to Rethink the Whole Internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)
+- Jan 18 - [Under new law, cops bust famous cartoonist for AI-generated CSAM](https://arstechnica.com/tech-policy/2025/01/under-new-law-cops-bust-famous-cartoonist-for-ai-generated-child-sex-abuse-images/)
+- Jan 18 - [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
+- Jan 18 - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
 <!--END_SECTION:hn-->
 
 <!--
