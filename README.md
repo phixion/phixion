@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 17 - [Swedish Exports of Ball Bearings](https://old.reddit.com/r/AskHistorians/comments/172wq05/swedish_exports_of_ball_bearings_are_commonly/)
+- Jan 17 - [Investigating an "Evil" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
+- Jan 17 - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
 - Jan 17 - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 - Jan 17 - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
-- Jan 17 - [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
-- Jan 17 - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
-- Jan 17 - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
 <!--END_SECTION:hn-->
 
 <!--
