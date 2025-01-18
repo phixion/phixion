@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
-- Jan 18 - [Windows BitLocker – Screwed Without a Screwdriver](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/)
-- Jan 18 - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
-- Jan 18 - [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
-- Jan 18 - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
+- Jan 18 - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
+- Jan 18 - [O1 isn't a chat model (and that's the point)](https://www.latent.space/p/o1-skill-issue)
+- Jan 18 - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
+- Jan 18 - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
+- Jan 18 - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 <!--END_SECTION:hn-->
 
 <!--
