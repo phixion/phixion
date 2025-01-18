@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jan 18 - [Otelier - 436,855 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Otelier)
 - Jan 17 - [MSI - 249,990 breached accounts](https://haveibeenpwned.com/PwnedWebsites#MSI)
 - Jan 16 - [Le Coq Sportif Columbia - 79,712 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LeCoqSportif)
 - Jan 13 - [Stealer Logs, Jan 2025 - 71,039,833 breached accounts](https://haveibeenpwned.com/PwnedWebsites#StealerLogsJan2025)
 - Jan 13 - [Scholastic - 4,247,768 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Scholastic)
-- Jan 12 - [SuperDraft - 300,187 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SuperDraft)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 18 - [MIT Shuts Down Internal Grant Database Used to Research School's Israel Ties](https://theintercept.com/2025/01/16/mit-israel-military-funding-research-gaza/)
+- Jan 18 - [FamiTracker free windows tracker for producing music for the NES/Famicom-systems](http://famitracker.com/)
+- Jan 18 - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
+- Jan 18 - [Honest Ahmed (2011)](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 - Jan 18 - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
-- Jan 18 - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
-- Jan 18 - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
-- Jan 18 - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
-- Jan 18 - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
 <!--END_SECTION:hn-->
 
 <!--
