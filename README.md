@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [MIT Shuts Down Internal Grant Database Used to Research School's Israel Ties](https://theintercept.com/2025/01/16/mit-israel-military-funding-research-gaza/)
-- Jan 18 - [FamiTracker free windows tracker for producing music for the NES/Famicom-systems](http://famitracker.com/)
-- Jan 18 - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
-- Jan 18 - [Honest Ahmed (2011)](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
-- Jan 18 - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
+- Jan 18 - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
+- Jan 18 - [Windows BitLocker – Screwed Without a Screwdriver](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/)
+- Jan 18 - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
+- Jan 18 - [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
+- Jan 18 - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 <!--END_SECTION:hn-->
 
 <!--
