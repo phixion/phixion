@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Can You Read This Cursive Handwriting? The National Archives Wants Your Help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
-- Jan 18 - [Is the TikTok Ban a Chance to Rethink the Whole Internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)
-- Jan 18 - [Under new law, cops bust famous cartoonist for AI-generated CSAM](https://arstechnica.com/tech-policy/2025/01/under-new-law-cops-bust-famous-cartoonist-for-ai-generated-child-sex-abuse-images/)
-- Jan 18 - [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
+- Jan 18 - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
+- Jan 18 - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
+- Jan 18 - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
+- Jan 18 - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 - Jan 18 - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
 <!--END_SECTION:hn-->
 
