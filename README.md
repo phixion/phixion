@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [TikTok Goes Dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
-- Jan 19 - [Games Workshop and the big ambition of a miniatures business](https://www.bbc.com/news/articles/cr5369029dzo)
-- Jan 19 - [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
-- Jan 19 - [Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
-- Jan 18 - [Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
+- Jan 19 - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
+- Jan 19 - [The "35-cent" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
+- Jan 19 - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
+- Jan 19 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
+- Jan 19 - [Yek: Serialize your code repo (or part of it) to feed into any LLM](https://github.com/bodo-run/yek)
 <!--END_SECTION:hn-->
 
 <!--
