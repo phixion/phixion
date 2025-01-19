@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Open Dylan](https://opendylan.org/)
-- Jan 19 - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
-- Jan 19 - [About A comprehensive guide for Linux Network (Socket) programming](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming)
-- Jan 19 - [A System for the Sixties-and-a-Half: The Toshiba Visicom COM-100](https://nicole.express/2025/invisicom.html)
-- Jan 19 - [The Fuzzing Book](https://www.fuzzingbook.org/)
+- Jan 19 - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
+- Jan 19 - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
+- Jan 19 - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
+- Jan 19 - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
+- Jan 19 - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
 <!--END_SECTION:hn-->
 
 <!--
