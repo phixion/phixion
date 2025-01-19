@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
-- Jan 18 - [O1 isn't a chat model (and that's the point)](https://www.latent.space/p/o1-skill-issue)
-- Jan 18 - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
-- Jan 18 - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
-- Jan 18 - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
+- Jan 18 - [Nation-scale Matrix deployments will fail using the community version of Synapse](https://mastodon.matrix.org/@element/113842786942364269)
+- Jan 18 - [Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
+- Jan 18 - [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
+- Jan 18 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
+- Jan 18 - [Borrowchecker.jl – Designing a borrow checker for Julia](https://github.com/MilesCranmer/BorrowChecker.jl)
 <!--END_SECTION:hn-->
 
 <!--
