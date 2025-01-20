@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
-- Jan 19 - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
-- Jan 19 - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
-- Jan 19 - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
-- Jan 19 - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
+- Jan 19 - [UK's elite hardware talent is being wasted](https://josef.cn/blog/uk-talent)
+- Jan 19 - [OpenAI funded FrontierMath Benchmarks and had access to the set](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
+- Jan 19 - [It's time to make computing personal again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
+- Jan 19 - [How do interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
+- Jan 19 - [TikTok's CEO used to work for Mark Zuckerberg as a Facebook intern](https://fortune.com/2025/01/15/tiktok-ceo-shou-zi-chew-mark-zuckerberg-intern-facebook/)
 <!--END_SECTION:hn-->
 
 <!--
