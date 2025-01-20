@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [UK's elite hardware talent is being wasted](https://josef.cn/blog/uk-talent)
-- Jan 19 - [OpenAI funded FrontierMath Benchmarks and had access to the set](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
-- Jan 19 - [It's time to make computing personal again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
-- Jan 19 - [How do interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
-- Jan 19 - [TikTok's CEO used to work for Mark Zuckerberg as a Facebook intern](https://fortune.com/2025/01/15/tiktok-ceo-shou-zi-chew-mark-zuckerberg-intern-facebook/)
+- Jan 20 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
+- Jan 20 - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
+- Jan 20 - [Bambu Connect's Authentication X.509 Certificate and Private Key Extracted](https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/)
+- Jan 20 - [Ask HN: Is anyone making money selling traditional downloadable software?](https://news.ycombinator.com/item?id=42764185)
+- Jan 20 - [Two Hard Things (2009)](https://martinfowler.com/bliki/TwoHardThings.html)
 <!--END_SECTION:hn-->
 
 <!--
