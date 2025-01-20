@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [What does "supports DRM functions and may not be fully accessible"mean for SSDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
+- Jan 20 - [CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands](https://susam.github.io/cfrs/demo.html)
+- Jan 20 - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
+- Jan 20 - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
+- Jan 20 - [What does "supports DRM and may not be fully accessible" mean for SATA SDDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 - Jan 20 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
-- Jan 20 - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
-- Jan 20 - [Two Hard Things (2009)](https://martinfowler.com/bliki/TwoHardThings.html)
-- Jan 19 - [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
 <!--END_SECTION:hn-->
 
 <!--
