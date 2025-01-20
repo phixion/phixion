@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Mixxx: GPL DJ Software](https://mixxx.org/)
-- Jan 20 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
-- Jan 20 - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
-- Jan 20 - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
-- Jan 20 - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
+- Jan 20 - [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
+- Jan 20 - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
+- Jan 20 - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
+- Jan 20 - [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
+- Jan 20 - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
 <!--END_SECTION:hn-->
 
 <!--
