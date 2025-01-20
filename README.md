@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands](https://susam.github.io/cfrs/demo.html)
-- Jan 20 - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
-- Jan 20 - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
-- Jan 20 - [What does "supports DRM and may not be fully accessible" mean for SATA SDDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
-- Jan 20 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
+- Jan 20 - [Mixxx: GPL DJ Software](https://mixxx.org/)
+- Jan 20 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+- Jan 20 - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
+- Jan 20 - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
+- Jan 20 - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
 <!--END_SECTION:hn-->
 
 <!--
