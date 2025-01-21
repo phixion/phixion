@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [The Gilded Age novel that helps explain our fascination with Luigi Mangione](https://theconversation.com/the-gilded-age-novel-that-helps-explain-our-fascination-with-luigi-mangione-246495)
-- Jan 21 - [Trump's science advisers: how they could influence his second presidency](https://www.nature.com/articles/d41586-025-00132-0)
-- Jan 21 - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
-- Jan 21 - [Open Source Alternative to Vercel, Netlify and Heroku](https://dokploy.com)
-- Jan 21 - [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
+- Jan 21 - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
+- Jan 21 - [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
+- Jan 21 - [Show HN: Pica – Rust-based agentic AI infrastructure (open-source)](https://www.picaos.com/)
+- Jan 21 - [0click deanonymization attack targeting Signal, Discord and other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
+- Jan 21 - [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
 <!--END_SECTION:hn-->
 
 <!--
