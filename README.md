@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [An Astronomical View of Ancient Egyptian Star Clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
-- Jan 20 - [Reverse Engineering Call of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
-- Jan 20 - [The Selma March (1965)](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
-- Jan 20 - [DeepSeek-R1-Distill-Qwen-1.5B Surpasses GPT-4o in certain benchmarks](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
-- Jan 20 - [Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
+- Jan 21 - [Bambu denies their own documented restrictions [video]](https://www.youtube.com/watch?v=W6MybDJfmmY)
+- Jan 21 - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
+- Jan 20 - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
+- Jan 20 - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
+- Jan 20 - [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)
 <!--END_SECTION:hn-->
 
 <!--
