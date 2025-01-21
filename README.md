@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Bambu denies their own documented restrictions [video]](https://www.youtube.com/watch?v=W6MybDJfmmY)
+- Jan 21 - [Ask HN: Can we just admit we want to replace jobs with AI?](https://news.ycombinator.com/item?id=42777379)
+- Jan 21 - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 - Jan 21 - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
 - Jan 20 - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
 - Jan 20 - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
-- Jan 20 - [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)
 <!--END_SECTION:hn-->
 
 <!--
