@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
-- Jan 21 - [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
-- Jan 21 - [Show HN: Pica – Rust-based agentic AI infrastructure (open-source)](https://www.picaos.com/)
-- Jan 21 - [0click deanonymization attack targeting Signal, Discord and other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
-- Jan 21 - [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
+- Jan 21 - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
+- Jan 21 - [Ask HN: Is wind power financially viable without subsidies?](https://news.ycombinator.com/item?id=42783708)
+- Jan 21 - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
+- Jan 21 - [Why do regexes use `- Jan 21 - [ and `^` as line anchors? (2024)](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
+- Jan 21 - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
 <!--END_SECTION:hn-->
 
 <!--
