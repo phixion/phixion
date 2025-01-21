@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
-- Jan 20 - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
-- Jan 20 - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
-- Jan 20 - [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
-- Jan 20 - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
+- Jan 20 - [An Astronomical View of Ancient Egyptian Star Clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
+- Jan 20 - [Reverse Engineering Call of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
+- Jan 20 - [The Selma March (1965)](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
+- Jan 20 - [DeepSeek-R1-Distill-Qwen-1.5B Surpasses GPT-4o in certain benchmarks](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
+- Jan 20 - [Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 <!--END_SECTION:hn-->
 
 <!--
