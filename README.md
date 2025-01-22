@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 22 - [Cryptocurrency Turns to Cash in Russian Banks (2024)](https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/)
+- Jan 22 - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
+- Jan 22 - [PyVista](https://pyvista.org/)
+- Jan 22 - [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
 - Jan 22 - [Strac (YC W22) Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
-- Jan 22 - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
-- Jan 22 - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
-- Jan 22 - [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
-- Jan 22 - [Flame: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779)
 <!--END_SECTION:hn-->
 
 <!--
