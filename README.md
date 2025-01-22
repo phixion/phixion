@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Ross Ulbricht was just granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
-- Jan 21 - [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
-- Jan 21 - [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
-- Jan 21 - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
-- Jan 21 - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+- Jan 22 - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
+- Jan 22 - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
+- Jan 22 - [Why is zero plural? (2024)](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
+- Jan 22 - [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
+- Jan 22 - [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
 <!--END_SECTION:hn-->
 
 <!--
