@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Cryptocurrency Turns to Cash in Russian Banks (2024)](https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/)
-- Jan 22 - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
-- Jan 22 - [PyVista](https://pyvista.org/)
-- Jan 22 - [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
-- Jan 22 - [Strac (YC W22) Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
+- Jan 22 - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
+- Jan 22 - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
+- Jan 22 - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
+- Jan 22 - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
+- Jan 22 - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 <!--END_SECTION:hn-->
 
 <!--
