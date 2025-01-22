@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
-- Jan 21 - [Ask HN: Is wind power financially viable without subsidies?](https://news.ycombinator.com/item?id=42783708)
-- Jan 21 - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
-- Jan 21 - [Why do regexes use `- Jan 21 - [ and `^` as line anchors? (2024)](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
-- Jan 21 - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
+- Jan 22 - [Ross Ulbricht was just granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
+- Jan 21 - [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
+- Jan 21 - [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
+- Jan 21 - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
+- Jan 21 - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 <!--END_SECTION:hn-->
 
 <!--
