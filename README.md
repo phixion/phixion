@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
-- Jan 22 - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
-- Jan 22 - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
-- Jan 22 - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
-- Jan 22 - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+- Jan 22 - [DIY Web Archiving Zine](https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving)
+- Jan 22 - [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479)
+- Jan 22 - [Google Fiber is coming to Las Vegas](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html)
+- Jan 22 - [A Look Back at 2024: F-Droid's Progress and What's Coming in 2025](https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html)
+- Jan 22 - [Therac-25 Simulator](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
 <!--END_SECTION:hn-->
 
 <!--
