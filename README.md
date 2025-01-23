@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Show HN: libmodulor – An opinionated TS library to build multi-platform apps](https://github.com/c100k/libmodulor)
-- Jan 23 - [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
-- Jan 23 - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
-- Jan 23 - [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
-- Jan 23 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- Jan 23 - [You should write "without bugs"](https://korshakov.com/posts/no-bugs)
+- Jan 23 - [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)
+- Jan 23 - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
+- Jan 23 - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
+- Jan 23 - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
 <!--END_SECTION:hn-->
 
 <!--
