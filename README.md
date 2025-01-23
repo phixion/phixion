@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 23 - [Show HN: libmodulor – An opinionated TS library to build multi-platform apps](https://github.com/c100k/libmodulor)
+- Jan 23 - [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
+- Jan 23 - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
+- Jan 23 - [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
 - Jan 23 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- Jan 23 - [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)
-- Jan 23 - [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
-- Jan 23 - [We're accelerating the Android XR platform with a new agreement with HTC](https://blog.google/feed/android-xr-htc-agreement/)
-- Jan 23 - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 <!--END_SECTION:hn-->
 
 <!--
