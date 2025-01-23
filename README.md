@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
+- Jan 23 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- Jan 23 - [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)
+- Jan 23 - [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
+- Jan 23 - [We're accelerating the Android XR platform with a new agreement with HTC](https://blog.google/feed/android-xr-htc-agreement/)
 - Jan 23 - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
-- Jan 23 - [Edge TTS](https://github.com/rany2/edge-tts)
-- Jan 23 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
-- Jan 23 - [Show HN: I organized Bluesky feeds by categories and growth rankings](https://www.bskyinfo.com/feeds/)
 <!--END_SECTION:hn-->
 
 <!--
