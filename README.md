@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [DIY Web Archiving Zine](https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving)
-- Jan 22 - [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479)
-- Jan 22 - [Google Fiber is coming to Las Vegas](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html)
-- Jan 22 - [A Look Back at 2024: F-Droid's Progress and What's Coming in 2025](https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html)
-- Jan 22 - [Therac-25 Simulator](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
+- Jan 23 - [Edge TTS](https://github.com/rany2/edge-tts)
+- Jan 23 - [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
+- Jan 23 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
+- Jan 23 - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
+- Jan 23 - [Trae: An AI Powered IDE by ByteDance](https://www.trae.ai/home)
 <!--END_SECTION:hn-->
 
 <!--
