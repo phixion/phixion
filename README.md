@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 23 - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
+- Jan 23 - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 - Jan 23 - [Edge TTS](https://github.com/rany2/edge-tts)
-- Jan 23 - [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
 - Jan 23 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
-- Jan 23 - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
-- Jan 23 - [Trae: An AI Powered IDE by ByteDance](https://www.trae.ai/home)
+- Jan 23 - [Show HN: I organized Bluesky feeds by categories and growth rankings](https://www.bskyinfo.com/feeds/)
 <!--END_SECTION:hn-->
 
 <!--
