@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [You should write "without bugs"](https://korshakov.com/posts/no-bugs)
-- Jan 23 - [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)
-- Jan 23 - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
-- Jan 23 - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
-- Jan 23 - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
+- Jan 23 - [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
+- Jan 23 - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
+- Jan 23 - [Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
+- Jan 23 - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
+- Jan 23 - [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
 <!--END_SECTION:hn-->
 
 <!--
