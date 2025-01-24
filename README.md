@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Jan 24 - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
-- Jan 24 - [AI isn't going to kill the software industry](https://dustinewers.com/ignore-the-grifters/)
-- Jan 24 - [The Jagged, Monstrous Function That Broke Calculus](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
+- Jan 24 - [The State of Vim](https://lwn.net/Articles/1002342/)
+- Jan 24 - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
 - Jan 24 - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
-- Jan 24 - [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
+- Jan 24 - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 <!--END_SECTION:hn-->
 
 <!--
