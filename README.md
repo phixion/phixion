@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
-- Jan 24 - [The State of Vim](https://lwn.net/Articles/1002342/)
-- Jan 24 - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
-- Jan 24 - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
-- Jan 24 - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
+- Jan 24 - [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
+- Jan 24 - [South Korea's Democracy Saved Itself (2024)](https://carnegieendowment.org/emissary/2024/12/south-korea-democracy-yoon-protests?lang=en)
+- Jan 24 - [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
+- Jan 24 - [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
+- Jan 24 - [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
 <!--END_SECTION:hn-->
 
 <!--
