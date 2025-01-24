@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)
-- Jan 24 - [Threlte 8](https://threlte.xyz/blog/threlte-8)
-- Jan 24 - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
-- Jan 24 - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
-- Jan 24 - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
+- Jan 24 - [Dead Internet Theory and the Falsification of PhysicsForums](https://hallofdreams.org/posts/physicsforums/)
+- Jan 24 - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
+- Jan 24 - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
+- Jan 24 - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
+- Jan 24 - [Subpixel Snake](https://www.youtube.com/watch?v=iDwganLjpW0)
 <!--END_SECTION:hn-->
 
 <!--
