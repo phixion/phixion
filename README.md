@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Cal Newport: What Happened When an Offline Person Tried TikTok](https://www.newyorker.com/culture/infinite-scroll/what-happened-when-an-extremely-offline-person-tried-tiktok)
+- Jan 25 - [Inboxbooster (YC W17) Is Hiring](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote)
+- Jan 25 - [Gongzilla: The collapsing cost of dumb ideas](https://everything.intellectronica.net/p/gongzilla)
+- Jan 25 - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
+- Jan 25 - [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/)
 - Jan 25 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-- Jan 25 - [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
-- Jan 25 - [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
-- Jan 25 - [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
 <!--END_SECTION:hn-->
 
 <!--
