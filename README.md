@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Why Your AI Product Team Needs an AI Quality Lead](https://freeplay.ai/blog/why-your-ai-product-team-needs-an-ai-quality-lead)
-- Jan 25 - [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
-- Jan 25 - [Doorbell camera catches rare footage of meteorite striking home's front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
-- Jan 25 - [Hacker infects 18,000 "script kiddies" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
-- Jan 25 - [Advent of Code 2024 and BQN](https://nrk.neocities.org/articles/aoc24-bqn)
+- Jan 25 - [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
+- Jan 25 - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
+- Jan 25 - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
+- Jan 25 - [Ask HN: Why are banks charging so many fees for accounts and cards?](https://news.ycombinator.com/item?id=42823569)
+- Jan 25 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 <!--END_SECTION:hn-->
 
 <!--
