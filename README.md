@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Dead Internet Theory and the Falsification of PhysicsForums](https://hallofdreams.org/posts/physicsforums/)
-- Jan 24 - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
-- Jan 24 - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
-- Jan 24 - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
-- Jan 24 - [Subpixel Snake](https://www.youtube.com/watch?v=iDwganLjpW0)
+- Jan 25 - [Crushing Jira tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/)
+- Jan 24 - ['Never seen anything like this' – NIH meetings and travel halted abruptly](https://www.nature.com/articles/d41586-025-00231-y)
+- Jan 24 - [Vic-20 Elite](https://vic20elite.wordpress.com/)
+- Jan 24 - [Nuclear Proliferation and the "Nth Country Experiment"](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
+- Jan 24 - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
 <!--END_SECTION:hn-->
 
 <!--
