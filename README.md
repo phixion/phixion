@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
-- Jan 26 - [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
-- Jan 26 - [When AI promises speed but delivers debugging hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
-- Jan 26 - [Paxo: A DIY Phone](https://paxo.fr/)
-- Jan 26 - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
+- Jan 26 - [Show HN: SimpleSearch – Just a list of search bars](https://simplesearch.info/)
+- Jan 26 - [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)
+- Jan 26 - [Render raises $80M in Series C financing](https://render.com/blog/series-c)
+- Jan 26 - [Austin rents have fallen for nearly two years. Here's why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
+- Jan 26 - [No Bitcoin ETFs at Vanguard? Here's why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
 <!--END_SECTION:hn-->
 
 <!--
