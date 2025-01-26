@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
-- Jan 25 - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
-- Jan 25 - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
-- Jan 25 - [Ask HN: Why are banks charging so many fees for accounts and cards?](https://news.ycombinator.com/item?id=42823569)
-- Jan 25 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
+- Jan 25 - [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
+- Jan 25 - [Tool touted as 'first AI software engineer' is bad at its job, testers claim](https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/)
+- Jan 25 - [Texas Is Enforcing Its State Data Privacy Law. So Should Other States](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states)
+- Jan 25 - [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
+- Jan 25 - [Bucket Robotics (YC S24) is hiring our first engineer](https://news.ycombinator.com/item?id=42825423)
 <!--END_SECTION:hn-->
 
 <!--
