@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 26 - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
+- Jan 26 - [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
+- Jan 26 - [When AI promises speed but delivers debugging hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
+- Jan 26 - [Paxo: A DIY Phone](https://paxo.fr/)
 - Jan 26 - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
-- Jan 26 - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
-- Jan 26 - [The Graphics Codex](https://graphicscodex.com/)
-- Jan 26 - [Explainer: What's R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
-- Jan 26 - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 <!--END_SECTION:hn-->
 
 <!--
