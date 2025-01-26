@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [7B Model and 8K Examples: Efficient and Effective Emerging Reasoning with RL](https://hkust-nlp.notion.site/simplerl-reason)
-- Jan 26 - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
-- Jan 26 - [The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
-- Jan 25 - [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
-- Jan 25 - [Tool touted as 'first AI software engineer' is bad at its job, testers claim](https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/)
+- Jan 26 - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
+- Jan 26 - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
+- Jan 26 - [The Graphics Codex](https://graphicscodex.com/)
+- Jan 26 - [Explainer: What's R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
+- Jan 26 - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 <!--END_SECTION:hn-->
 
 <!--
