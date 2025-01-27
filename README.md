@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
-- Jan 27 - [Hedy: Textual programming made easy](https://www.hedy.org/)
-- Jan 27 - [If OpenSSL were a GUI (2022)](https://smallstep.com/blog/if-openssl-were-a-gui/)
-- Jan 27 - [EV maker Canoo, once worth $2.4B, files for bankruptcy](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
-- Jan 27 - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
+- Jan 27 - [Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
+- Jan 27 - [Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
+- Jan 27 - [Free Web Hosting Area](https://www.freewebhostingarea.com/)
+- Jan 27 - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
+- Jan 27 - [Announcing support for DeepSeek-R1 in our IDE plugin, self-hosted by Qodo](https://www.qodo.ai/blog/qodo-gen-adds-self-hosted-support-for-deepseek-r1/)
 <!--END_SECTION:hn-->
 
 <!--
