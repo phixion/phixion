@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
-- Jan 27 - [Operation Leg: When the RAF airdropped a prosthetic leg into a German POW castle](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
-- Jan 27 - [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
-- Jan 27 - [Linux kernel could cut energy use in data centres by up to 30 per cent](https://cs.uwaterloo.ca/news/cheriton-school-computer-science-researchers-update-linux)
-- Jan 27 - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
+- Jan 27 - [The Alpha Myth: How Captive Wolves Led Us Astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
+- Jan 27 - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
+- Jan 27 - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
+- Jan 27 - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
+- Jan 27 - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 <!--END_SECTION:hn-->
 
 <!--
