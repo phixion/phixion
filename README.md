@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [US restricts Switzerland's access to AI chips](https://www.swissinfo.ch/eng/multinational-companies/us-restricts-switzerlands-access-to-ai-chips/88781270)
-- Jan 27 - [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
-- Jan 27 - [Show HN: Voice Cloning and Multilingual TTS in One Click (Windows)](https://github.com/abus-aikorea/voice-pro/blob/main/docs/README.eng.md)
-- Jan 27 - [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
-- Jan 27 - [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
+- Jan 27 - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
+- Jan 27 - [Hedy: Textual programming made easy](https://www.hedy.org/)
+- Jan 27 - [If OpenSSL were a GUI (2022)](https://smallstep.com/blog/if-openssl-were-a-gui/)
+- Jan 27 - [EV maker Canoo, once worth $2.4B, files for bankruptcy](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
+- Jan 27 - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
 <!--END_SECTION:hn-->
 
 <!--
