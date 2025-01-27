@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Show HN: SimpleSearch – Just a list of search bars](https://simplesearch.info/)
-- Jan 26 - [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)
-- Jan 26 - [Render raises $80M in Series C financing](https://render.com/blog/series-c)
-- Jan 26 - [Austin rents have fallen for nearly two years. Here's why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
-- Jan 26 - [No Bitcoin ETFs at Vanguard? Here's why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
+- Jan 26 - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
+- Jan 26 - [Hyperbound (YC S23) is hiring a Founding Account Executive in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
+- Jan 26 - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
+- Jan 26 - [Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)
+- Jan 26 - [The only photo of the Concorde flying at supersonic speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
 <!--END_SECTION:hn-->
 
 <!--
