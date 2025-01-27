@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
-- Jan 27 - [Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
-- Jan 27 - [Free Web Hosting Area](https://www.freewebhostingarea.com/)
-- Jan 27 - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
-- Jan 27 - [Announcing support for DeepSeek-R1 in our IDE plugin, self-hosted by Qodo](https://www.qodo.ai/blog/qodo-gen-adds-self-hosted-support-for-deepseek-r1/)
+- Jan 27 - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
+- Jan 27 - [Operation Leg: When the RAF airdropped a prosthetic leg into a German POW castle](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
+- Jan 27 - [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
+- Jan 27 - [Linux kernel could cut energy use in data centres by up to 30 per cent](https://cs.uwaterloo.ca/news/cheriton-school-computer-science-researchers-update-linux)
+- Jan 27 - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 <!--END_SECTION:hn-->
 
 <!--
