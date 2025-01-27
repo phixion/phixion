@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
-- Jan 26 - [Hyperbound (YC S23) is hiring a Founding Account Executive in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
-- Jan 26 - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
-- Jan 26 - [Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)
-- Jan 26 - [The only photo of the Concorde flying at supersonic speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
+- Jan 27 - [US restricts Switzerland's access to AI chips](https://www.swissinfo.ch/eng/multinational-companies/us-restricts-switzerlands-access-to-ai-chips/88781270)
+- Jan 27 - [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
+- Jan 27 - [Show HN: Voice Cloning and Multilingual TTS in One Click (Windows)](https://github.com/abus-aikorea/voice-pro/blob/main/docs/README.eng.md)
+- Jan 27 - [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
+- Jan 27 - [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
 <!--END_SECTION:hn-->
 
 <!--
