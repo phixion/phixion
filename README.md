@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Structured (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
-- Jan 28 - [US pauses all Federal aid and grants](https://www.bbc.com/news/articles/c77rdy6gzy5o)
-- Jan 28 - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
-- Jan 28 - [Show HN: I Created a Pomodoro Timer](https://25min.work)
-- Jan 28 - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
+- Jan 28 - [Almost one in 10 people use the same four-digit PIN](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842)
+- Jan 28 - [Maxima in the browser using Embedded Common Lisp on WASM](https://maxima-on-wasm.pages.dev/)
+- Jan 28 - [Hackers Crack Subaru's Connected Services to Access Data, Door Locks and More](https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393)
+- Jan 28 - [Discussion: Reduce error handling boilerplate in Golang using '?'](https://github.com/golang/go/discussions/71460)
+- Jan 28 - [IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star)
 <!--END_SECTION:hn-->
 
 <!--
