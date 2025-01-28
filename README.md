@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [The Alpha Myth: How Captive Wolves Led Us Astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
-- Jan 27 - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
-- Jan 27 - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
-- Jan 27 - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
-- Jan 27 - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
+- Jan 27 - [I trusted an LLM, now I'm on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
+- Jan 27 - [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
+- Jan 27 - [We're bringing Pebble back](https://repebble.com/)
+- Jan 27 - [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
+- Jan 27 - [The future of Rebble](https://rebble.io/2025/01/27/the-future-of-rebble.html)
 <!--END_SECTION:hn-->
 
 <!--
