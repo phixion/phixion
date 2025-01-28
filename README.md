@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Almost one in 10 people use the same four-digit PIN](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842)
-- Jan 28 - [Maxima in the browser using Embedded Common Lisp on WASM](https://maxima-on-wasm.pages.dev/)
-- Jan 28 - [Hackers Crack Subaru's Connected Services to Access Data, Door Locks and More](https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393)
-- Jan 28 - [Discussion: Reduce error handling boilerplate in Golang using '?'](https://github.com/golang/go/discussions/71460)
-- Jan 28 - [IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star)
+- Jan 28 - [White House says New Jersey drones 'authorized to be flown by FAA'](https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones)
+- Jan 28 - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
+- Jan 28 - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
+- Jan 28 - [It is time to ban email](https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/)
+- Jan 28 - [New speculative attacks on Apple CPUs](https://predictors.fail/)
 <!--END_SECTION:hn-->
 
 <!--
