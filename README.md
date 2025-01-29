@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [What Have We Forgotten?](http://mikhailian.mova.org/node/291)
-- Jan 29 - [I still like Sublime Text in 2025](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
-- Jan 29 - [Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs](https://www.youtube.com/shorts/2ntx91cOYEc)
-- Jan 29 - [Apple and SpaceX link up to support Starlink satellite network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
-- Jan 29 - [Libraries and Well-Being: A Case Study from The New York Public Library](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
+- Jan 29 - [Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6)](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
+- Jan 29 - [Nuclear fusion: it's time for a reality check](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check)
+- Jan 29 - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+- Jan 29 - [Terence Tao: Trump's Federal Funding Freeze and Mean-Field Game Theory](https://mathstodon.xyz/@tao/113910070146861518)
+- Jan 29 - [Bacteria (and Their Metabolites) and Depression](https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression)
 <!--END_SECTION:hn-->
 
 <!--
