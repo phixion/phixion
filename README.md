@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6)](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
-- Jan 29 - [Nuclear fusion: it's time for a reality check](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check)
-- Jan 29 - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
-- Jan 29 - [Terence Tao: Trump's Federal Funding Freeze and Mean-Field Game Theory](https://mathstodon.xyz/@tao/113910070146861518)
-- Jan 29 - [Bacteria (and Their Metabolites) and Depression](https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression)
+- Jan 29 - [X partners with Visa to enable money transfers on the platform](https://www.washingtonpost.com/business/2025/01/28/visa-x/)
+- Jan 29 - [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
+- Jan 29 - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
+- Jan 29 - [Google Pixel 4a old firmware is gone, trapping users on the buggy battery update](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update)
+- Jan 29 - [Complete hardware and software setup for running Deepseek-R1 locally. ($6000)](https://twitter.com/carrigmat/status/1884244369907278106)
 <!--END_SECTION:hn-->
 
 <!--
