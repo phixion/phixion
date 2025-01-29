@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - ['Miserable self-loathing poser': NeuroVigil CEO's open letter on ex-friend Musk](https://www.lonestarlive.com/news/2025/01/miserable-self-loathing-poser-elon-musks-former-friend-pens-brutal-open-letter.html)
-- Jan 29 - [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data)
-- Jan 29 - [Confusion, uncertainty in industry as Army contracts seemingly halted](https://breakingdefense.com/2025/01/what-the-f-is-going-on-confusion-uncertainty-in-industry-as-army-contracts-seemingly-halted/)
-- Jan 29 - [Libraries make everything better](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
-- Jan 29 - [Recreating Delicious Library in 2025?](https://dingyu.me/blog/recreating-delicious-library-in-2025)
+- Jan 29 - [What Have We Forgotten?](http://mikhailian.mova.org/node/291)
+- Jan 29 - [I still like Sublime Text in 2025](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
+- Jan 29 - [Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs](https://www.youtube.com/shorts/2ntx91cOYEc)
+- Jan 29 - [Apple and SpaceX link up to support Starlink satellite network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
+- Jan 29 - [Libraries and Well-Being: A Case Study from The New York Public Library](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
 <!--END_SECTION:hn-->
 
 <!--
