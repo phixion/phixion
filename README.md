@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [White House says New Jersey drones 'authorized to be flown by FAA'](https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones)
-- Jan 28 - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
-- Jan 28 - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
-- Jan 28 - [It is time to ban email](https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/)
-- Jan 28 - [New speculative attacks on Apple CPUs](https://predictors.fail/)
+- Jan 28 - [Departing the New York Times](https://contrarian.substack.com/p/departing-the-new-york-times)
+- Jan 28 - [How Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)
+- Jan 28 - [Job trends of HN Who Is Hiring?](https://hnhiring.com/trends)
+- Jan 28 - [DeepSeek's multi-head latent attention and other KV cache tricks](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
+- Jan 28 - [Questions censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
 <!--END_SECTION:hn-->
 
 <!--
