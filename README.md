@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Codes Health (YC S24) Is Hiring](https://news.ycombinator.com/item?id=42877004)
-- Jan 30 - [JavaScript Temporal Is Coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
-- Jan 30 - [A Young Man Used AI to Build a Nuclear Fusor and Now I Must Weep](https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear)
-- Jan 30 - [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
-- Jan 30 - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
+- Jan 30 - [The AI Fad Just Burned to the Waterline](http://charleshughsmith.blogspot.com/2025/01/the-ai-fad-just-burned-to-waterline.html)
+- Jan 30 - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
+- Jan 30 - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
+- Jan 30 - [History of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
+- Jan 30 - [Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 <!--END_SECTION:hn-->
 
 <!--
