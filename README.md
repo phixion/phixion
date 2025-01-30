@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [The AI Fad Just Burned to the Waterline](http://charleshughsmith.blogspot.com/2025/01/the-ai-fad-just-burned-to-waterline.html)
-- Jan 30 - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
-- Jan 30 - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
-- Jan 30 - [History of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
-- Jan 30 - [Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
+- Jan 30 - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
+- Jan 30 - [MySQL at Uber](https://www.uber.com/blog/mysql-at-uber/)
+- Jan 30 - [Show HN: Reactive Signals for Python – inspired by Angular's reactivity model](https://github.com/buiapp/reaktiv)
+- Jan 30 - [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
+- Jan 30 - [1996 "Authentic" Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
 <!--END_SECTION:hn-->
 
 <!--
