@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
-- Jan 29 - [Ask HN: Are there "story-based" and "fact-based" people?](https://news.ycombinator.com/item?id=42869865)
-- Jan 29 - [Sweden eyes sending inmates abroad as prisons full due to gang crime wave](https://www.reuters.com/world/europe/sweden-eyes-sending-inmates-abroad-prisons-full-due-gang-crime-wave-2025-01-29/)
-- Jan 29 - [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
-- Jan 29 - [Adding iodine to salt played a role in cognitive improvements: research (2013)](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
+- Jan 29 - [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
+- Jan 29 - [An update on Dart macros and data serialization](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
+- Jan 29 - [From C++ to Clojure: Jank language promises best of both](https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/)
+- Jan 29 - [Meta Reports Fourth Quarter and Full Year 2024 Results](https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx)
+- Jan 29 - [Exposed DeepSeek database leaking sensitive information, including chat history](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 <!--END_SECTION:hn-->
 
 <!--
