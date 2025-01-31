@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [React's declarative model isn't perfect](https://blog.bennett.ink/reacts-model-isn-t-perfect-f198296f4db2)
-- Jan 31 - [Air quality map of Kigali, Rwanda](https://maps.open-seneca.org/city/kigali)
-- Jan 31 - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
-- Jan 31 - [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
-- Jan 31 - [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
+- Jan 31 - [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
+- Jan 31 - [Llama.cpp supports Vulkan. why doesn't Ollama?](https://github.com/ollama/ollama/pull/5059)
+- Jan 31 - [NSF starts vetting all grants to comply with executive orders](https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders)
+- Jan 31 - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
+- Jan 31 - [Hacker News for Gamedev](https://gamedev.city/)
 <!--END_SECTION:hn-->
 
 <!--
