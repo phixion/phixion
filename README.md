@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
-- Jan 31 - [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
-- Jan 31 - [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)
-- Jan 31 - [RamaLama](https://github.com/containers/ramalama)
-- Jan 31 - [Traffic spikes are bad for your product](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
+- Jan 31 - [Meta in talks to reincorporate in Texas or another state, WSJ reports](https://www.reuters.com/technology/meta-talks-reincorporate-texas-or-another-state-exit-delaware-wsj-reports-2025-01-31/)
+- Jan 31 - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
+- Jan 31 - [OpenAI launches o3-mini, its latest 'reasoning' model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
+- Jan 31 - [TCAS Avoided Collision with Army Helicopter over Potomac River [video]](https://www.youtube.com/watch?v=huVFZ__q2rI)
+- Jan 31 - [FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/)
 <!--END_SECTION:hn-->
 
 <!--
