@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
-- Jan 31 - [Llama.cpp supports Vulkan. why doesn't Ollama?](https://github.com/ollama/ollama/pull/5059)
-- Jan 31 - [NSF starts vetting all grants to comply with executive orders](https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders)
-- Jan 31 - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
-- Jan 31 - [Hacker News for Gamedev](https://gamedev.city/)
+- Jan 31 - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
+- Jan 31 - [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
+- Jan 31 - [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)
+- Jan 31 - [RamaLama](https://github.com/containers/ramalama)
+- Jan 31 - [Traffic spikes are bad for your product](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
 <!--END_SECTION:hn-->
 
 <!--
