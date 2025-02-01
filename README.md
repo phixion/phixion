@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [The Zizians](https://zizians.info/)
-- Feb 01 - [Running DeepSeek R1 on Your Own (cheap) Hardware – The fast and easy way](https://linux-howto.org/running-deepseek-r1-on-your-own-hardware-the-fast-and-easy-way)
-- Feb 01 - [Ratzilla](https://orhun.dev/ratzilla/demo/)
-- Feb 01 - [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
-- Feb 01 - [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
+- Feb 01 - [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
+- Feb 01 - [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
+- Feb 01 - [Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
+- Feb 01 - [It's OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
+- Feb 01 - [Giant catapult sends satellites into space](https://www.spinlaunch.com/)
 <!--END_SECTION:hn-->
 
 <!--
