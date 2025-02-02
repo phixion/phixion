@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [Show HN: Lume – OS lightweight CLI for MacOS & Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
-- Feb 02 - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall)
-- Feb 02 - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
-- Feb 02 - [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
-- Feb 02 - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
+- Feb 02 - [jzw: The Network State Coup Is Happening Right Now](https://www.jwz.org/blog/2025/02/the-network-state-coup-is-happening-right-now/)
+- Feb 02 - [ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
+- Feb 02 - [Why Is This CEO Bragging About Replacing Humans with A.I.?](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html)
+- Feb 02 - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
+- Feb 02 - [Reinforcement Learning: An Overview (December 2024)](https://arxiv.org/abs/2412.05265)
 <!--END_SECTION:hn-->
 
 <!--
