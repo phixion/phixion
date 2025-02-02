@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
-- Feb 01 - [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
-- Feb 01 - [Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
-- Feb 01 - [It's OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
-- Feb 01 - [Giant catapult sends satellites into space](https://www.spinlaunch.com/)
+- Feb 01 - [Avoid ISP Routers](https://routersecurity.org/ISProuters.php)
+- Feb 01 - [RLHF Book](https://rlhfbook.com/)
+- Feb 01 - [Macrodata Refinement](https://lumon-industries.com/)
+- Feb 01 - [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
+- Feb 01 - [A bookmarklet to kill sticky headers (2013)](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
 <!--END_SECTION:hn-->
 
 <!--
