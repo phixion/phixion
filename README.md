@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Bluesky now has 30 million users](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v)
-- Feb 03 - [DeepSeek gives Europe's tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/)
-- Feb 03 - [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
-- Feb 03 - [Anthropic: "Applicants should not use AI assistants"](https://simonwillison.net/2025/Feb/2/anthropic/)
-- Feb 03 - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
+- Feb 03 - [Show HN: Check Supply – Send Checks in the Mail](https://check.supply)
+- Feb 03 - [Reverse Engineering Apple's typedstream Format](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/)
+- Feb 03 - [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
+- Feb 03 - [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
+- Feb 03 - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 <!--END_SECTION:hn-->
 
 <!--
