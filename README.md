@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 03 - [1win - 96,166,543 breached accounts](https://haveibeenpwned.com/PwnedWebsites#1win)
 - Feb 03 - [DragonNest - 511,290 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DragonNest)
 - Feb 02 - [9Lives - 109,515 breached accounts](https://haveibeenpwned.com/PwnedWebsites#9Lives)
 - Jan 30 - [Speedio (unverified) - 27,501,041 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Speedio)
 - Jan 28 - [HeatGames - 647,896 breached accounts](https://haveibeenpwned.com/PwnedWebsites#HeatGames)
-- Jan 28 - [Doxbin Scrape - 435,784 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DoxbinScrape)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Show HN: Check Supply – Send Checks in the Mail](https://check.supply)
-- Feb 03 - [Reverse Engineering Apple's typedstream Format](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/)
-- Feb 03 - [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
-- Feb 03 - [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
-- Feb 03 - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
+- Feb 03 - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
+- Feb 03 - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
+- Feb 03 - [S1: Simple Test-Time Scaling](https://github.com/simplescaling/s1)
+- Feb 03 - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
+- Feb 03 - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
 <!--END_SECTION:hn-->
 
 <!--
