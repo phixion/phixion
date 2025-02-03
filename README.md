@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Deep Research](https://openai.com/index/introducing-deep-research/)
-- Feb 02 - [Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
-- Feb 02 - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
-- Feb 02 - [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
-- Feb 02 - [GarminDB](https://github.com/tcgoetz/GarminDB)
+- Feb 03 - [Managing Secrets in Docker Compose – A Developer's Guide](https://phase.dev/blog/docker-compose-secrets/)
+- Feb 03 - [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)
+- Feb 03 - [Patterns for Personal Web Sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
+- Feb 03 - [Introducing deep research](https://openai.com/index/introducing-deep-research/)
+- Feb 02 - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 <!--END_SECTION:hn-->
 
 <!--
