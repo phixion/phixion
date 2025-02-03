@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [jzw: The Network State Coup Is Happening Right Now](https://www.jwz.org/blog/2025/02/the-network-state-coup-is-happening-right-now/)
-- Feb 02 - [ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
-- Feb 02 - [Why Is This CEO Bragging About Replacing Humans with A.I.?](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html)
-- Feb 02 - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
-- Feb 02 - [Reinforcement Learning: An Overview (December 2024)](https://arxiv.org/abs/2412.05265)
+- Feb 03 - [Deep Research](https://openai.com/index/introducing-deep-research/)
+- Feb 02 - [Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
+- Feb 02 - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
+- Feb 02 - [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
+- Feb 02 - [GarminDB](https://github.com/tcgoetz/GarminDB)
 <!--END_SECTION:hn-->
 
 <!--
