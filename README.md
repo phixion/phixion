@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [El Salvador offers to house violent US criminals and deportees of any nation](https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html)
-- Feb 04 - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/)
-- Feb 04 - [Alibaba/T-HEAD's Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
-- Feb 04 - [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
-- Feb 04 - [What's Going on at the FBI?](https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi)
+- Feb 04 - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
+- Feb 04 - [Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost](https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/)
+- Feb 04 - [Nvidia open-source nanite: continuous level of detail (LOD) mesh library](https://github.com/nvpro-samples/nv_cluster_lod_builder)
+- Feb 04 - [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)
+- Feb 04 - [Platform for supporting local sellers and buyers](https://blunum.com/)
 <!--END_SECTION:hn-->
 
 <!--
