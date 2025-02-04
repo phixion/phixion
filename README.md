@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
-- Feb 04 - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
-- Feb 04 - [Spotify Paid $10B to the Music Industry in 2024, $1B More Than Last Year](https://variety.com/2025/digital/news/spotify-paid-out-10-billion-to-music-industry-2024-1236287781/)
-- Feb 04 - [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
-- Feb 04 - [Vanguard's Average Fee Is Now Just 0.07% After Biggest-Ever Cut](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut)
+- Feb 04 - [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
+- Feb 04 - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
+- Feb 04 - [Why the WHO has recommended switching to a healthier salt alternative](https://theconversation.com/why-the-who-has-recommended-switching-to-a-healthier-salt-alternative-248436)
+- Feb 04 - [WikiTok](https://wikitok.vercel.app/)
+- Feb 04 - [The Slotted Counter Pattern (2020)](https://planetscale.com/blog/the-slotted-counter-pattern)
 <!--END_SECTION:hn-->
 
 <!--
