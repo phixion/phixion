@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
-- Feb 04 - [Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost](https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/)
-- Feb 04 - [Nvidia open-source nanite: continuous level of detail (LOD) mesh library](https://github.com/nvpro-samples/nv_cluster_lod_builder)
-- Feb 04 - [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)
-- Feb 04 - [Platform for supporting local sellers and buyers](https://blunum.com/)
+- Feb 04 - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
+- Feb 04 - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
+- Feb 04 - [Spotify Paid $10B to the Music Industry in 2024, $1B More Than Last Year](https://variety.com/2025/digital/news/spotify-paid-out-10-billion-to-music-industry-2024-1236287781/)
+- Feb 04 - [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
+- Feb 04 - [Vanguard's Average Fee Is Now Just 0.07% After Biggest-Ever Cut](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut)
 <!--END_SECTION:hn-->
 
 <!--
