@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
-- Feb 03 - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
-- Feb 03 - [S1: Simple Test-Time Scaling](https://github.com/simplescaling/s1)
-- Feb 03 - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
-- Feb 03 - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
+- Feb 04 - [El Salvador Abandons Bitcoin as Legal Tender After Failed Experiment](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
+- Feb 03 - [US Bill Proposes Jail Time for People Who Download DeepSeek](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/)
+- Feb 03 - [Ask HN: Who wants to be fired? (February 2025)](https://news.ycombinator.com/item?id=42924533)
+- Feb 03 - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
+- Feb 03 - [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
 <!--END_SECTION:hn-->
 
 <!--
