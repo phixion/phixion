@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [I bought a container full of Chinese electric excavators. Here's what showed up](https://electrek.co/2025/02/03/i-bought-a-container-full-of-chinese-electric-excavators-heres-what-showed-up/)
-- Feb 04 - [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
-- Feb 04 - [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/)
-- Feb 04 - [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
-- Feb 04 - [El Salvador abandons Bitcoin as legal tender after failed experiment](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
+- Feb 04 - [El Salvador offers to house violent US criminals and deportees of any nation](https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html)
+- Feb 04 - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/)
+- Feb 04 - [Alibaba/T-HEAD's Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
+- Feb 04 - [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
+- Feb 04 - [What's Going on at the FBI?](https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi)
 <!--END_SECTION:hn-->
 
 <!--
