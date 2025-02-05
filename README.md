@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
-- Feb 04 - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
-- Feb 04 - [Why the WHO has recommended switching to a healthier salt alternative](https://theconversation.com/why-the-who-has-recommended-switching-to-a-healthier-salt-alternative-248436)
-- Feb 04 - [WikiTok](https://wikitok.vercel.app/)
-- Feb 04 - [The Slotted Counter Pattern (2020)](https://planetscale.com/blog/the-slotted-counter-pattern)
+- Feb 05 - [Beej's Guide to Git](https://beej.us/guide/bggit/)
+- Feb 04 - [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
+- Feb 04 - [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
+- Feb 04 - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
+- Feb 04 - [What's Happening Inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)
 <!--END_SECTION:hn-->
 
 <!--
