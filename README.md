@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Using Terraform Workspace for AWS multi account archtetctures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
-- Feb 05 - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
-- Feb 05 - [The Full Story of the FAA's Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
-- Feb 05 - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
-- Feb 05 - [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
+- Feb 05 - [Toma (YC W24) Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
+- Feb 05 - [Chrome 133 Supports DOM State-Preserving Move with moveBefore()](https://chromestatus.com/feature/5135990159835136)
+- Feb 05 - [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years)
+- Feb 05 - [Go Data Structures](https://research.swtch.com/godata)
+- Feb 05 - [Carl Sagan Predicts the Decline of America (1995)](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)
 <!--END_SECTION:hn-->
 
 <!--
