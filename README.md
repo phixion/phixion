@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 05 - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
+- Feb 05 - [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
+- Feb 05 - [We need network societies, not network states (2024)](https://www.cip.org/blog/network-societies)
+- Feb 05 - [CodeCrafters (YC S22) is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
 - Feb 05 - [Beej's Guide to Git](https://beej.us/guide/bggit/)
-- Feb 04 - [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
-- Feb 04 - [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
-- Feb 04 - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
-- Feb 04 - [What's Happening Inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)
 <!--END_SECTION:hn-->
 
 <!--
