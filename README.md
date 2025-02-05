@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
-- Feb 05 - [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
-- Feb 05 - [I'm Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
-- Feb 05 - [Why Is Warner Brothers Discovery Dumping Old Movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
-- Feb 05 - [Show HN: Matle – A Daily Chess Puzzle Inspired by Wordle](https://www.matle.io/)
+- Feb 05 - [Zig Guide](https://zig.guide/)
+- Feb 05 - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
+- Feb 05 - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- Feb 05 - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
+- Feb 05 - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
 <!--END_SECTION:hn-->
 
 <!--
