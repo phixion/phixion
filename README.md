@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Transfinite Nim](https://jdh.hamkins.org/transfinite-nim/)
-- Feb 06 - [Show HN: An homage to Tom Dowdy's 1991 screensaver, "Kaos"](https://thestrikeagency.com/kaos/)
-- Feb 06 - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
-- Feb 06 - [Thailand cuts power and internet to areas of Myanmar to disrupt scam gangs](https://www.bitdefender.com/en-us/blog/hotforsecurity/thailand-cuts-power-and-internet-to-areas-of-myanmar-to-disrupt-scam-gangs)
-- Feb 06 - [FDIC has released 175 internal documents on "Operation Chokepoint 2.0"](https://www.fdic.gov/foia/correspondence-related-crypto-related-activities)
+- Feb 06 - [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
+- Feb 06 - [Self-hosted, simple web browser service – send URL, get screenshots](https://github.com/US-Artificial-Intelligence/scraper)
+- Feb 06 - [SQLite Disk Page Explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
+- Feb 06 - [Who Does That Server Serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
+- Feb 06 - [Scala 3 Migration: Report from the Field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
 <!--END_SECTION:hn-->
 
 <!--
