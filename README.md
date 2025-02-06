@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
-- Feb 06 - [US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal)
-- Feb 06 - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
-- Feb 06 - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
-- Feb 06 - [Markdown's Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
+- Feb 06 - [Transfinite Nim](https://jdh.hamkins.org/transfinite-nim/)
+- Feb 06 - [Show HN: An homage to Tom Dowdy's 1991 screensaver, "Kaos"](https://thestrikeagency.com/kaos/)
+- Feb 06 - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
+- Feb 06 - [Thailand cuts power and internet to areas of Myanmar to disrupt scam gangs](https://www.bitdefender.com/en-us/blog/hotforsecurity/thailand-cuts-power-and-internet-to-areas-of-myanmar-to-disrupt-scam-gangs)
+- Feb 06 - [FDIC has released 175 internal documents on "Operation Chokepoint 2.0"](https://www.fdic.gov/foia/correspondence-related-crypto-related-activities)
 <!--END_SECTION:hn-->
 
 <!--
