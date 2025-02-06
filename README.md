@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
-- Feb 06 - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
-- Feb 06 - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
-- Feb 06 - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
-- Feb 06 - [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
+- Feb 06 - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
+- Feb 06 - [US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal)
+- Feb 06 - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
+- Feb 06 - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
+- Feb 06 - [Markdown's Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
 <!--END_SECTION:hn-->
 
 <!--
