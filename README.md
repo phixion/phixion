@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [CERN's open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
+- Feb 06 - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
+- Feb 06 - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
+- Feb 06 - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 - Feb 06 - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
-- Feb 06 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
-- Feb 06 - [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
-- Feb 06 - [Microplastics in the human brain](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
+- Feb 06 - [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
 <!--END_SECTION:hn-->
 
 <!--
