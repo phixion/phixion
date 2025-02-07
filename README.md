@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [Ask HN: Is Godaddy Running a Scam?](https://news.ycombinator.com/item?id=42967247)
-- Feb 06 - [Frank Lloyd Wright's mile high skyscraper proposal (2021)](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
-- Feb 06 - [Trails of Wind (2019)](https://trailsofwind.figures.cc/)
-- Feb 06 - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
-- Feb 06 - [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
+- Feb 07 - [Easy 6502](https://skilldrick.github.io/easy6502/)
+- Feb 07 - [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
+- Feb 07 - [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
+- Feb 07 - [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
+- Feb 06 - [TKey – Security for the New World](https://tillitis.se/products/tkey/)
 <!--END_SECTION:hn-->
 
 <!--
