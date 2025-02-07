@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
-- Feb 07 - [Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser](https://huggingface.co/spaces/webml-community/kokoro-webgpu)
-- Feb 07 - [Baltic countries disconnect from the Russian power grid](https://baltic-grid.sympower.net/)
-- Feb 07 - [Children's arithmetic skills do not transfer between applied and academic math](https://www.nature.com/articles/s41586-024-08502-w)
-- Feb 07 - [Personal Software Is Becoming a Trend](https://xuanwo.io/links/2025/02/personal-software-is-becoming-a-trend/)
+- Feb 07 - [Amazon Will Spend Nearly a Year of AWS Revenue on AI Investments](https://www.nextplatform.com/2025/02/07/amazon-will-spend-nearly-a-year-of-aws-revenue-on-ai-investments/)
+- Feb 07 - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
+- Feb 07 - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
+- Feb 07 - [Pantograph: A Fluid and Typed Structure Editor](https://github.com/jeprinz/pantograph/blob/main/README.md)
+- Feb 07 - [A German court rules: X must provide researchers access to data](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
 <!--END_SECTION:hn-->
 
 <!--
