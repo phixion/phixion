@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [Easy 6502](https://skilldrick.github.io/easy6502/)
-- Feb 07 - [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
-- Feb 07 - [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
-- Feb 07 - [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
-- Feb 06 - [TKey – Security for the New World](https://tillitis.se/products/tkey/)
+- Feb 07 - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
+- Feb 07 - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
+- Feb 07 - [Harvard preserving for public use data.gov datasets](https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/)
+- Feb 07 - [There may not be aha moment in R1-Zero-like training](https://oatllm.notion.site/oat-zero)
+- Feb 07 - [HTML whitespace is broken (2024)](https://blog.dwac.dev/posts/html-whitespace/)
 <!--END_SECTION:hn-->
 
 <!--
