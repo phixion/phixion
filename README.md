@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 08 - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
+- Feb 08 - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
+- Feb 08 - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 - Feb 08 - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 - Feb 08 - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
-- Feb 08 - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
-- Feb 08 - [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
-- Feb 08 - [Value-Based Deep RL Scales Predictably](https://arxiv.org/abs/2502.04327)
 <!--END_SECTION:hn-->
 
 <!--
