@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [Autonomous AI Agents Should Not Be Developed](https://huggingface.co/papers/2502.02649)
+- Feb 08 - [Oral History of Andreas "Andy" Bechtolsheim (Sun, Granite, Kealia, Arista etc.) [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
+- Feb 08 - [Bolt: Bootstrap Long Chain-of-Thought in LLMs Without Distillation [pdf]](https://arxiv.org/abs/2502.03860)
+- Feb 08 - [Starlink in the Falklands, a national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
+- Feb 08 - [VSCode's SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/)
 - Feb 07 - [Portland's Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
-- Feb 07 - [Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
-- Feb 07 - [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
-- Feb 07 - [Show HN: A simple Hackernews client for iOS and Android](https://github.com/EmergeTools/hackernews)
 <!--END_SECTION:hn-->
 
 <!--
