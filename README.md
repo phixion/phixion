@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 09 - [Youthmanual - 937,912 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Youthmanual)
 - Feb 06 - [Thermomix Recipe World Forum - 3,123,439 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Thermomix)
 - Feb 06 - [Hakko Corporation - 9,665 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Hakko)
 - Feb 04 - [PoinCampus - 89,116 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PoinCampus)
 - Feb 03 - [1win - 96,166,543 breached accounts](https://haveibeenpwned.com/PwnedWebsites#1win)
-- Feb 03 - [DragonNest - 511,290 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DragonNest)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [Retaking the Web Browser, One Small Step at a Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
-- Feb 09 - [Boeing has informed its employees that NASA may cancel SLS contracts](https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/)
-- Feb 08 - [Jacksonpollock.org](https://jacksonpollock.org/)
+- Feb 09 - [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/)
+- Feb 09 - [Show HN: Daily-notes.nvim – fuzzy time journal and planning plugin](https://github.com/fdavies93/daily-notes.nvim)
+- Feb 09 - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits (2013)](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
+- Feb 08 - [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
 - Feb 08 - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
-- Feb 08 - [Ada Gems (2014)](https://www.adacore.com/gems)
 <!--END_SECTION:hn-->
 
 <!--
