@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/)
-- Feb 09 - [Show HN: Daily-notes.nvim – fuzzy time journal and planning plugin](https://github.com/fdavies93/daily-notes.nvim)
-- Feb 09 - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits (2013)](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
-- Feb 08 - [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
-- Feb 08 - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
+- Feb 09 - [Things USAID has funded [video]](https://www.youtube.com/watch?v=Pdw31c6HPCI)
+- Feb 09 - [ZeroTier – home VPN without a public IP address](https://blog.tomaszdunia.pl/zerotier-eng/)
+- Feb 09 - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
+- Feb 09 - [Chimes at Midnight](https://asteriskmag.com/issues/08/chimes-at-midnight)
+- Feb 09 - [Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf)
 <!--END_SECTION:hn-->
 
 <!--
