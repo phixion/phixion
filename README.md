@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Show HN: Turn Screenshots into Designs Instantly](https://getklippy.com)
-- Feb 08 - [Is Software Abstraction Killing Civilization? (2021)](https://datagubbe.se/endofciv/)
+- Feb 09 - [Retaking the Web Browser, One Small Step at a Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
+- Feb 09 - [Boeing has informed its employees that NASA may cancel SLS contracts](https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/)
 - Feb 08 - [Jacksonpollock.org](https://jacksonpollock.org/)
 - Feb 08 - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 - Feb 08 - [Ada Gems (2014)](https://www.adacore.com/gems)
