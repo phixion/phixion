@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [OpenStreetMap Calendar](https://osmcal.org/)
-- Feb 09 - [Intel ruined an Israeli startup it bought for $2B–and lost the AI race](https://www.calcalistech.com/ctechnews/article/s1tra0sfye)
-- Feb 09 - [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
-- Feb 09 - [Aidemos by Meta](https://aidemos.meta.com/)
-- Feb 09 - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
+- Feb 09 - [U.S. facing most intense flu season in at least 15 years](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years)
+- Feb 09 - [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/)
+- Feb 09 - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
+- Feb 09 - [Three Observations](https://blog.samaltman.com/three-observations)
+- Feb 09 - [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns)
 <!--END_SECTION:hn-->
 
 <!--
