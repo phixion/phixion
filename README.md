@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-- Feb 10 - [Man who lost Bitcoin fortune in Welsh tip explores purchase of entire landfill](https://www.theguardian.com/technology/2025/feb/10/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill)
-- Feb 10 - [FOSDEM 2025: The state of Rust trying to catch up with Ada [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
-- Feb 10 - [To buy a Tesla Model 3, only to end up in hell](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell)
-- Feb 10 - [Apple's Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
+- Feb 10 - [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
+- Feb 10 - [Ask HN: Physics PhD at Stanford or Berkeley](https://news.ycombinator.com/item?id=43000792)
+- Feb 10 - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
+- Feb 10 - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
+- Feb 10 - [Show HN: HTML visualization of a PDF file's internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
 <!--END_SECTION:hn-->
 
 <!--
