@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
-- Feb 10 - [How does Ada's memory safety compare against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
-- Feb 10 - [Don't Be Frupid](https://selix.net/notes/dont-be-frupid)
-- Feb 10 - [Thomas Aquinas' skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
-- Feb 10 - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
+- Feb 10 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- Feb 10 - [Man who lost Bitcoin fortune in Welsh tip explores purchase of entire landfill](https://www.theguardian.com/technology/2025/feb/10/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill)
+- Feb 10 - [FOSDEM 2025: The state of Rust trying to catch up with Ada [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
+- Feb 10 - [To buy a Tesla Model 3, only to end up in hell](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell)
+- Feb 10 - [Apple's Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
 <!--END_SECTION:hn-->
 
 <!--
