@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 10 - [Adopt Me Trading Values - 86,136 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AdoptMeTradingValues)
 - Feb 09 - [Youthmanual - 937,912 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Youthmanual)
 - Feb 06 - [Thermomix Recipe World Forum - 3,123,439 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Thermomix)
 - Feb 06 - [Hakko Corporation - 9,665 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Hakko)
 - Feb 04 - [PoinCampus - 89,116 breached accounts](https://haveibeenpwned.com/PwnedWebsites#PoinCampus)
-- Feb 03 - [1win - 96,166,543 breached accounts](https://haveibeenpwned.com/PwnedWebsites#1win)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [U.S. facing most intense flu season in at least 15 years](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years)
-- Feb 09 - [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/)
+- Feb 10 - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
+- Feb 10 - [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
+- Feb 10 - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
+- Feb 09 - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
 - Feb 09 - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
-- Feb 09 - [Three Observations](https://blog.samaltman.com/three-observations)
-- Feb 09 - [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns)
 <!--END_SECTION:hn-->
 
 <!--
