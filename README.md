@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Apple software update "bug" enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
+- Feb 11 - [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop)
+- Feb 11 - [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
+- Feb 11 - [Make Your Own Website: A beginner's guide](https://web.pixelshannon.com/make/)
 - Feb 11 - [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go)
-- Feb 11 - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
-- Feb 11 - [The Floppotron 3.0 (2022)](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
-- Feb 11 - ['social network' attacking pesticide critics shuts down after investigation](https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics)
+- Feb 11 - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 <!--END_SECTION:hn-->
 
 <!--
