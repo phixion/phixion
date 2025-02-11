@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
-- Feb 10 - [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
-- Feb 10 - [Work at the Mill Or, the Story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
-- Feb 10 - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
-- Feb 10 - [CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/)
+- Feb 10 - [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
+- Feb 10 - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
+- Feb 10 - [Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
+- Feb 10 - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
+- Feb 10 - [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
 <!--END_SECTION:hn-->
 
 <!--
