@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [A pair of scissors on formica table suddenly bursts into flames](https://old.reddit.com/r/chemistry/comments/1ilmshx/a_pair_of_scissors_sitting_on_my_table_formica/)
-- Feb 11 - [I Tasted Honda's Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
-- Feb 11 - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
-- Feb 11 - [Canonical announces 12 year Kubernetes LTS](https://canonical.com/blog/12-year-lts-for-kubernetes)
-- Feb 11 - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
+- Feb 11 - [The Subtle Art of Designing Physical Controls for Cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
+- Feb 11 - [Incremental compilation instantly rebuilds the Zig compiler](https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS)
+- Feb 11 - [Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla)
+- Feb 11 - [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
+- Feb 11 - [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
 <!--END_SECTION:hn-->
 
 <!--
