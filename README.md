@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Resist Authoritarianism by Refusing to Obey in Advance (2017)](https://lithub.com/resist-authoritarianism-by-refusing-to-obey-in-advance/)
+- Feb 12 - [ElevenReader by ElevenLabs](https://elevenreader.io)
+- Feb 12 - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
+- Feb 12 - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
+- Feb 12 - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
 - Feb 12 - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
-- Feb 12 - [WASM will replace containers](https://creston.blog/wasm-will-replace-containers/)
-- Feb 12 - [JJ Cheat Sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
-- Feb 11 - [Migrate purchases from one Apple Account to another](https://support.apple.com/en-us/117294)
 <!--END_SECTION:hn-->
 
 <!--
