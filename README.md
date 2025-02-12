@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- Feb 12 - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
-- Feb 12 - [ElevenReader by ElevenLabs](https://elevenreader.io)
-- Feb 12 - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
-- Feb 12 - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
+- Feb 12 - [Dose-dependent effects of LSD in double-blind placebo-controlled study (2020)](https://www.nature.com/articles/s41386-020-00883-6)
+- Feb 12 - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
+- Feb 12 - [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
+- Feb 12 - [DeaDBeeF: The Ultimate Music Player](https://deadbeef.sourceforge.io/)
+- Feb 12 - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
 <!--END_SECTION:hn-->
 
 <!--
