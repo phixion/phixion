@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 12 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- Feb 12 - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
 - Feb 12 - [ElevenReader by ElevenLabs](https://elevenreader.io)
-- Feb 12 - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
 - Feb 12 - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
-- Feb 12 - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
 - Feb 12 - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
 <!--END_SECTION:hn-->
 
