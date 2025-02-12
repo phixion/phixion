@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
-- Feb 11 - [BYD to offer Tesla-like self-driving tech in all models for free](https://www.asiafinancial.com/byd-to-offer-tesla-like-self-driving-tech-in-all-models-for-free)
-- Feb 11 - [NOAA's public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
-- Feb 11 - [The Butter Thesis (2019)](https://nickgrossman.xyz/the-butter-thesis)
-- Feb 11 - [Empirical Health (YC S23) Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
+- Feb 12 - [Resist Authoritarianism by Refusing to Obey in Advance (2017)](https://lithub.com/resist-authoritarianism-by-refusing-to-obey-in-advance/)
+- Feb 12 - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
+- Feb 12 - [WASM will replace containers](https://creston.blog/wasm-will-replace-containers/)
+- Feb 12 - [JJ Cheat Sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
+- Feb 11 - [Migrate purchases from one Apple Account to another](https://support.apple.com/en-us/117294)
 <!--END_SECTION:hn-->
 
 <!--
