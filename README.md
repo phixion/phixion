@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [The Subtle Art of Designing Physical Controls for Cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
-- Feb 11 - [Incremental compilation instantly rebuilds the Zig compiler](https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS)
-- Feb 11 - [Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla)
-- Feb 11 - [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
-- Feb 11 - [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
+- Feb 11 - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
+- Feb 11 - [BYD to offer Tesla-like self-driving tech in all models for free](https://www.asiafinancial.com/byd-to-offer-tesla-like-self-driving-tech-in-all-models-for-free)
+- Feb 11 - [NOAA's public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
+- Feb 11 - [The Butter Thesis (2019)](https://nickgrossman.xyz/the-butter-thesis)
+- Feb 11 - [Empirical Health (YC S23) Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 <!--END_SECTION:hn-->
 
 <!--
