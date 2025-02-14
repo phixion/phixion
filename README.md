@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services](https://github.com/ricochet-im/ricochet)
-- Feb 14 - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
-- Feb 14 - [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
-- Feb 14 - [Rust: Doubling Throughput with Continuous Profiling and Optimization](https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization)
-- Feb 14 - [Benchmarking Vision-Language Models on OCR in Dynamic Video Environments](https://arxiv.org/abs/2502.06445)
+- Feb 14 - [Bitly injecting ads into shortened links](https://social.jvns.ca/@b0rk/114002651694606295)
+- Feb 14 - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
+- Feb 14 - [DA, sheriff, who shared woman's nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
+- Feb 14 - [ICE Wants to Know If You're Posting Negative Things About It Online](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/)
+- Feb 14 - [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
 <!--END_SECTION:hn-->
 
 <!--
