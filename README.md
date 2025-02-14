@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Rob Pike: On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000)
-- Feb 14 - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
-- Feb 14 - [Yhangry (YC W22) Is Hiring](https://news.ycombinator.com/item?id=43045656)
-- Feb 14 - [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
-- Feb 14 - [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
+- Feb 14 - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services](https://github.com/ricochet-im/ricochet)
+- Feb 14 - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
+- Feb 14 - [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
+- Feb 14 - [Rust: Doubling Throughput with Continuous Profiling and Optimization](https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization)
+- Feb 14 - [Benchmarking Vision-Language Models on OCR in Dynamic Video Environments](https://arxiv.org/abs/2502.06445)
 <!--END_SECTION:hn-->
 
 <!--
