@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [TikTok is back in the App Store](https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban)
-- Feb 14 - [OCR4all](https://www.ocr4all.org/)
-- Feb 14 - [Doctor Droid (YC W23) Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
-- Feb 14 - [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
-- Feb 14 - [We are the "thin blue line" that is trying to keep the code high quality](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
+- Feb 14 - [Rob Pike: On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000)
+- Feb 14 - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
+- Feb 14 - [Yhangry (YC W22) Is Hiring](https://news.ycombinator.com/item?id=43045656)
+- Feb 14 - [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
+- Feb 14 - [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
 <!--END_SECTION:hn-->
 
 <!--
