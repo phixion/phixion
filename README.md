@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - ['It's a money game to them':son takes on UnitedHealth over elderly father's care](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care)
-- Feb 13 - [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
-- Feb 13 - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
-- Feb 13 - [Who exactly needs to get approval from an institutional review board (IRB)?](https://dynomight.net/irb/)
-- Feb 13 - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
+- Feb 14 - [Burning in woman's legs turned out to be slug parasites migrating to her brain](https://arstechnica.com/health/2025/02/burning-in-womans-legs-turned-out-to-be-slug-parasites-digging-in-her-brain/)
+- Feb 13 - [The OBS Project is threatening Fedora Linux with legal action](https://gitlab.com/fedora/sigs/flatpak/fedora-flatpaks/-/issues/39#note_2344970813)
+- Feb 13 - [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
+- Feb 13 - [Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf)
+- Feb 13 - [Banksy Fights with Greeting Card Company for Control of His Trademark](https://robbreport.com/shelter/art-collectibles/bansky-fighting-greeting-card-company-trademark-control-1236204172/)
 <!--END_SECTION:hn-->
 
 <!--
