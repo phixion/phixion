@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
-- Feb 15 - [Jane Street's Figgie card game](https://www.figgie.com/)
-- Feb 15 - [Airbnb CEO says it's still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
-- Feb 15 - [If you believe in "Artificial Intelligence", take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
-- Feb 15 - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
+- Feb 15 - [Carbon capture more costly than switching to renewables, researchers find](https://techxplore.com/news/2025-02-carbon-capture-renewables.html)
+- Feb 15 - [Dust from Car Brakes More Harmful Than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
+- Feb 15 - [The Unicorn Boom Is Over, and Startups Are Getting Desperate](https://www.bloomberg.com/news/articles/2025-02-14/silicon-valley-unicorn-startups-are-desperate-for-cash)
+- Feb 15 - [Amazon's killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
+- Feb 15 - [Increasing rat numbers in cities are linked to climate warming, urbanization](https://www.science.org/doi/10.1126/sciadv.ads6782)
 <!--END_SECTION:hn-->
 
 <!--
