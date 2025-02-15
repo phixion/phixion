@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Show HN: VimLM – A Local, Offline Coding Assistant for Vim](https://github.com/JosefAlbers/VimLM)
-- Feb 14 - [A decade later, a decade lost](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
-- Feb 14 - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
-- Feb 14 - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
-- Feb 14 - [Complex dynamics require complex solutions](https://mathstodon.xyz/@tao/113873092369347147)
+- Feb 15 - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+- Feb 15 - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
+- Feb 15 - [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
+- Feb 15 - [Wyden Releases Draft Bill to Secure Americans' Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands)
+- Feb 15 - [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
 <!--END_SECTION:hn-->
 
 <!--
