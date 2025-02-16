@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Vim after Bram: a core maintainer on how they've kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
-- Feb 16 - [Getter-Setter Pattern Considered Harmful](https://wolfgang-ziegler.com/blog/getter-setter-pattern-considered-harmful)
-- Feb 16 - [Flea-Scope: $18, FOSS USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
-- Feb 16 - [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
-- Feb 16 - [Blocklist for AI Music on YouTube](https://surasshu.com/blocklist-for-ai-music-on-youtube/)
+- Feb 16 - [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
+- Feb 16 - [Caddy – The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
+- Feb 16 - [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
+- Feb 16 - [Why I'm leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
+- Feb 16 - [United States Power Outage Map](https://poweroutage.us/)
 <!--END_SECTION:hn-->
 
 <!--
