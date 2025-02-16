@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Ollama-Swift](https://nshipster.com/ollama/)
+- Feb 16 - [US goverment seeks to rehire recently fired nuclear workers](https://www.bbc.com/news/articles/c4g3nrx1dq5o)
+- Feb 16 - [Half of CDC Epidemic Intelligence Service Laid Off](https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research)
+- Feb 16 - [Dinner at a North Korean Restaurant in Shanghai](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
+- Feb 16 - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 - Feb 16 - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
-- Feb 16 - [US Forest Service and National Park Service to fire thousands of workers](https://www.theguardian.com/us-news/2025/feb/15/us-forest-service-national-park-service-layoffs)
-- Feb 16 - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
-- Feb 16 - [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 <!--END_SECTION:hn-->
 
 <!--
