@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Will AI take web developer jobs?](https://www.alpower.com/blog/2025-02-13-will-ai-take-web-developer-jobs/)
-- Feb 15 - [Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
-- Feb 15 - [Jellyfin: The Free Software Media System](https://jellyfin.org/)
-- Feb 15 - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
-- Feb 15 - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
+- Feb 16 - [Ollama-Swift](https://nshipster.com/ollama/)
+- Feb 16 - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
+- Feb 16 - [US Forest Service and National Park Service to fire thousands of workers](https://www.theguardian.com/us-news/2025/feb/15/us-forest-service-national-park-service-layoffs)
+- Feb 16 - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
+- Feb 16 - [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 <!--END_SECTION:hn-->
 
 <!--
