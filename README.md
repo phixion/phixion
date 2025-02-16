@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Man from uncontacted tribe emerges in Amazon, villagers demonstrate a lighter](https://apnews.com/article/brazil-amazon-indigenous-uncontacted-isolated-tribe-funai-0552568846327f9e4b296f83152c1afc)
-- Feb 16 - [Langfuse (YC W23) Is Hiring Product Engineers in Berlin](https://langfuse.com/careers)
-- Feb 16 - [Dinner at a North Korean Restaurant in Shanghai (2016)](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
-- Feb 16 - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
-- Feb 16 - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
+- Feb 16 - [Vim after Bram: a core maintainer on how they've kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
+- Feb 16 - [Getter-Setter Pattern Considered Harmful](https://wolfgang-ziegler.com/blog/getter-setter-pattern-considered-harmful)
+- Feb 16 - [Flea-Scope: $18, FOSS USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
+- Feb 16 - [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
+- Feb 16 - [Blocklist for AI Music on YouTube](https://surasshu.com/blocklist-for-ai-music-on-youtube/)
 <!--END_SECTION:hn-->
 
 <!--
