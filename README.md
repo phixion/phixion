@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
-- Feb 17 - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
-- Feb 17 - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
-- Feb 17 - [Techie pointed out meetings are pointless, and was punished for it](https://www.theregister.com/2025/02/17/who_me/)
-- Feb 17 - [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
+- Feb 17 - [Who carved South America's mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
+- Feb 17 - [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
+- Feb 17 - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
+- Feb 17 - [Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
+- Feb 17 - [Show HN: Kartoffels – Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 <!--END_SECTION:hn-->
 
 <!--
