@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
-- Feb 17 - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
-- Feb 17 - [Comparison of File Systems for an SSD](https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/)
-- Feb 17 - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
-- Feb 17 - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
+- Feb 17 - [XAI told me I either had to delete the post, or face being fired](https://twitter.com/BenjaminDEKR/status/1889526713735905502)
+- Feb 17 - [Searchcode.com's SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
+- Feb 17 - [X blocks links to Signal](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
+- Feb 17 - [Is ChatGPT autocomplete bad UX/UI?](https://honzabe.com/blog/posts/chatgpt-autocomplete-bad-ux-ui/)
+- Feb 17 - [Managers given 200 characters to justify not firing nuclear regulators](https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa)
 <!--END_SECTION:hn-->
 
 <!--
