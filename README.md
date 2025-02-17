@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
-- Feb 16 - [Caddy – The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
-- Feb 16 - [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
-- Feb 16 - [Why I'm leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
-- Feb 16 - [United States Power Outage Map](https://poweroutage.us/)
+- Feb 16 - [I set my phone to 'do not disturb' three years ago – and have never looked back](https://www.theguardian.com/lifeandstyle/2025/feb/16/the-one-change-that-worked-i-set-my-phone-to-do-not-disturb-three-years-ago-and-have-never-looked-back)
+- Feb 16 - [Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m)
+- Feb 16 - [Opposing arrows of time can theoretically emerge from certain quantum systems](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
+- Feb 16 - [Uchū · the color scheme for internet lovers](https://uchu.style)
+- Feb 16 - [Show HN: Air traffic control radio and chill music for focus](https://www.chillyatc.com/)
 <!--END_SECTION:hn-->
 
 <!--
