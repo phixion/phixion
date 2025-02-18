@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)
-- Feb 17 - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
-- Feb 17 - [Police arrest apparent leader of cultlike 'Zizian' group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
-- Feb 17 - [Ask HN: Small Ideas vs. Big Ideas?](https://news.ycombinator.com/item?id=43083845)
-- Feb 17 - [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
+- Feb 18 - [The Generative AI Con](https://www.wheresyoured.at/longcon/)
+- Feb 18 - [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
+- Feb 18 - [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/)
+- Feb 18 - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
+- Feb 17 - [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
 <!--END_SECTION:hn-->
 
 <!--
