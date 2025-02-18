@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [The Generative AI Con](https://www.wheresyoured.at/longcon/)
-- Feb 18 - [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
-- Feb 18 - [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/)
-- Feb 18 - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
-- Feb 17 - [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
+- Feb 18 - [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
+- Feb 18 - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
+- Feb 18 - [Go 1.24](https://tip.golang.org/doc/go1.24)
+- Feb 18 - [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
+- Feb 18 - [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
 <!--END_SECTION:hn-->
 
 <!--
