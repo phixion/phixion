@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Who carved South America's mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
-- Feb 17 - [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
-- Feb 17 - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
-- Feb 17 - [Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
-- Feb 17 - [Show HN: Kartoffels – Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
+- Feb 17 - [Hundreds fired at aviation safety agency, union says](https://www.bbc.com/news/articles/cly9y1e1kpjo)
+- Feb 17 - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
+- Feb 17 - [Police arrest apparent leader of cultlike 'Zizian' group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
+- Feb 17 - [Ask HN: Small Ideas vs. Big Ideas?](https://news.ycombinator.com/item?id=43083845)
+- Feb 17 - [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
 <!--END_SECTION:hn-->
 
 <!--
