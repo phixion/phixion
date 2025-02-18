@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 18 - [By the end of today, NASA's workforce will be about 10 percent smaller](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/)
+- Feb 18 - [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
+- Feb 18 - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
+- Feb 18 - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 - Feb 18 - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
-- Feb 18 - [Huawei launches $3,660 trifold phone](https://www.cnbc.com/2025/02/18/huawei-mate-xt-trifold-launches-outside-of-china-price-specs-.html)
-- Feb 18 - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
-- Feb 18 - [Go 1.24](https://tip.golang.org/doc/go1.24)
-- Feb 18 - [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
 <!--END_SECTION:hn-->
 
 <!--
