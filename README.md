@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [My LLM codegen workflow ATM](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
-- Feb 18 - [Nuclear fusion: WEST beats the world record for plasma duration](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx)
-- Feb 18 - [Moving on from 18F](https://ethanmarcotte.com/wrote/leaving-18f/)
-- Feb 18 - [Tensor evolution: A framework for fast tensor computations using recurrences](https://arxiv.org/abs/2502.03402)
-- Feb 18 - [Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
+- Feb 18 - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
+- Feb 18 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
+- Feb 18 - [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
+- Feb 18 - [Converge (YC S23) is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
+- Feb 18 - [South Korean regulator accuses DeepSeek of sharing user data with ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
 <!--END_SECTION:hn-->
 
 <!--
