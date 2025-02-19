@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
-- Feb 19 - [Apache Airflow: Key Use Cases, Architectural Insights, and Pro Tips](https://codingcops.com/apache-airflow/)
-- Feb 19 - [Electric-truck maker Nikola files for Chapter 11 bankruptcy protection](https://www.cnn.com/2025/02/19/business/ev-nikola-chapter-11-bankruptcy/index.html)
-- Feb 19 - [1977 Jazz-Funk Musical Adaptation of Dune by David Matthews](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html)
-- Feb 19 - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
+- Feb 19 - [Minuteman III test showcases readiness of U.S. nuclear force's deterrent](https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/)
+- Feb 19 - [Growing Mozilla – and evolving our leadership](https://blog.mozilla.org/en/mozilla/mozilla-leadership-growth-planning-updates/)
+- Feb 19 - [Kids Love Landline Phones](https://www.rnz.co.nz/news/national/542294/who-still-has-a-landline-phone)
+- Feb 19 - [Building a Bitcoin Exchange with FOSS BTC Pay Server](https://blog.btcpayserver.org/case-study-unbank/)
+- Feb 19 - [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
 <!--END_SECTION:hn-->
 
 <!--
