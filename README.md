@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 19 - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
+- Feb 19 - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
+- Feb 19 - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
+- Feb 19 - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
 - Feb 19 - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
-- Feb 19 - [The Unbrickable Pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)
-- Feb 19 - [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
-- Feb 18 - [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
-- Feb 18 - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
 <!--END_SECTION:hn-->
 
 <!--
