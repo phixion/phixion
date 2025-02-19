@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
-- Feb 19 - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
-- Feb 19 - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
-- Feb 19 - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
-- Feb 19 - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
+- Feb 19 - [Libra Token's Co-Creator Claimed He Paid Argentinian President Milei's Sister](https://www.coindesk.com/business/2025/02/18/libra-token-s-co-creator-bragged-of-sending-money-to-argentine-president-milei-s-sister)
+- Feb 19 - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
+- Feb 19 - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
+- Feb 19 - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
+- Feb 19 - [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 <!--END_SECTION:hn-->
 
 <!--
