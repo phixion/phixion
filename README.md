@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Libra Token's Co-Creator Claimed He Paid Argentinian President Milei's Sister](https://www.coindesk.com/business/2025/02/18/libra-token-s-co-creator-bragged-of-sending-money-to-argentine-president-milei-s-sister)
-- Feb 19 - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
-- Feb 19 - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
-- Feb 19 - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
-- Feb 19 - [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
+- Feb 19 - [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
+- Feb 19 - [Apache Airflow: Key Use Cases, Architectural Insights, and Pro Tips](https://codingcops.com/apache-airflow/)
+- Feb 19 - [Electric-truck maker Nikola files for Chapter 11 bankruptcy protection](https://www.cnn.com/2025/02/19/business/ev-nikola-chapter-11-bankruptcy/index.html)
+- Feb 19 - [1977 Jazz-Funk Musical Adaptation of Dune by David Matthews](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html)
+- Feb 19 - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
 <!--END_SECTION:hn-->
 
 <!--
