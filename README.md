@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Minuteman III test showcases readiness of U.S. nuclear force's deterrent](https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/)
-- Feb 19 - [Growing Mozilla – and evolving our leadership](https://blog.mozilla.org/en/mozilla/mozilla-leadership-growth-planning-updates/)
-- Feb 19 - [Kids Love Landline Phones](https://www.rnz.co.nz/news/national/542294/who-still-has-a-landline-phone)
-- Feb 19 - [Building a Bitcoin Exchange with FOSS BTC Pay Server](https://blog.btcpayserver.org/case-study-unbank/)
-- Feb 19 - [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
+- Feb 19 - [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
+- Feb 19 - [AI Killed the Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/)
+- Feb 19 - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
+- Feb 19 - [1972 Unix V2 "Beta" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
+- Feb 19 - [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
 <!--END_SECTION:hn-->
 
 <!--
