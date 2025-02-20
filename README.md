@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 20 - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
+- Feb 20 - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
+- Feb 20 - [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
+- Feb 20 - [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
 - Feb 20 - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
-- Feb 20 - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
-- Feb 20 - [DOGE has 'god mode' access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
-- Feb 20 - [The Plan 9 Foundation](https://plan9foundation.org/)
-- Feb 20 - [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669)
 <!--END_SECTION:hn-->
 
 <!--
