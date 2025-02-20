@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
-- Feb 20 - [Palantir Drops 10% on Report of Pentagon Slashing Budget](https://www.msn.com/en-ae/money/companies/palantir-drops-over-10-after-report-of-pentagon-slashing-budget/ar-AA1zomcb)
-- Feb 20 - [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
-- Feb 20 - [Mexico issues legal threat to Google](https://thecomeback.com/politics/mexico-legal-action-donald-trump-executive-order.html)
-- Feb 20 - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
+- Feb 20 - [DOGE has 'god mode' access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
+- Feb 20 - [The Plan 9 Foundation](https://plan9foundation.org/)
+- Feb 20 - [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669)
+- Feb 20 - [Grok 3: Another win for the bitter lesson](https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter)
+- Feb 20 - [The Forecasting Company (YC S24) Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
 <!--END_SECTION:hn-->
 
 <!--
