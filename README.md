@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 21 - [Tesla recalls 380k vehicles in US over power steering assist issue](https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/)
+- Feb 21 - [Railings Made from WWII Stretchers](https://en.wikipedia.org/wiki/Stretcher_railing)
+- Feb 21 - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
+- Feb 21 - [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
 - Feb 21 - [Users don't care about your tech stack](https://www.empathetic.dev/users-dont-care-about-your-tech-stack)
-- Feb 21 - [Meta claims torrenting pirated books isn't illegal without proof of seeding](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/)
-- Feb 21 - [Every .gov Domain](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2)
-- Feb 21 - [Show HN: One year of bewCloud (a simpler Nextcloud alternative)](https://bewcloud.com#one-year-later)
-- Feb 21 - [Train Your Own O1 Preview Model Within $450](https://sky.cs.berkeley.edu/project/sky-t1/)
 <!--END_SECTION:hn-->
 
 <!--
