@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Tesla recalls 380k vehicles in US over power steering assist issue](https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/)
-- Feb 21 - [Railings Made from WWII Stretchers](https://en.wikipedia.org/wiki/Stretcher_railing)
-- Feb 21 - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
-- Feb 21 - [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
-- Feb 21 - [Users don't care about your tech stack](https://www.empathetic.dev/users-dont-care-about-your-tech-stack)
+- Feb 21 - [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
+- Feb 21 - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
+- Feb 21 - [NASA's James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
+- Feb 21 - [I think Yann Lecun was right about LLMs (but perhaps only by accident)](https://substack.com/home/post/p-157633768)
+- Feb 21 - [Richard Feynman's Blackboard at the Time of His Death (1988)](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
 <!--END_SECTION:hn-->
 
 <!--
