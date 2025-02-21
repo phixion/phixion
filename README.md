@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 20 - [Spyic - 875,999 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Spyic)
+- Feb 20 - [Cocospy - 1,798,059 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Cocospy)
 - Feb 16 - [Storenvy - 11,052,071 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Storenvy)
 - Feb 13 - [Doxbin (TOoDA) - 136,461 breached accounts](https://haveibeenpwned.com/PwnedWebsites#DoxbinTOoDA)
 - Feb 12 - [Zacks (2024) - 11,994,223 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Zacks2024)
-- Feb 11 - [LandAirSea - 337,373 breached accounts](https://haveibeenpwned.com/PwnedWebsites#LandAirSea)
-- Feb 10 - [Adopt Me Trading Values - 86,136 breached accounts](https://haveibeenpwned.com/PwnedWebsites#AdoptMeTradingValues)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
-- Feb 20 - [Curiosity Mars rover discovers evidence of ripples from ancient Red Planet lake](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)
-- Feb 20 - [New Horizons for Julia](https://lwn.net/Articles/1006117/)
-- Feb 20 - [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
-- Feb 20 - [OpenEuroLLM](https://openeurollm.eu/)
+- Feb 20 - [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
+- Feb 20 - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
+- Feb 20 - [Treasury agrees to block DOGE's access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
+- Feb 20 - [Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
+- Feb 20 - [TinyCompiler: A compiler in a week-end](https://ssloy.github.io/tinycompiler/)
 <!--END_SECTION:hn-->
 
 <!--
