@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [We are the builders](https://www.wethebuilders.org/)
-- Feb 21 - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
-- Feb 21 - [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
-- Feb 21 - [Show HN: Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
-- Feb 21 - [The Ren'Py Visual Novel Engine](https://www.renpy.org/)
+- Feb 22 - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
+- Feb 22 - [Who Wants to Work in a Factory?](https://arenamag.com/2025/02/11/who-wants-to-work-in-a-factory/)
+- Feb 22 - [Start a Computer Club in the Place That You Live](https://startacomputer.club/)
+- Feb 22 - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
+- Feb 22 - [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
 <!--END_SECTION:hn-->
 
 <!--
