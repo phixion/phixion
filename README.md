@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264)
+- Feb 22 - [Twitch's new storage limits will purge swaths of Internet gaming history](https://arstechnica.com/gaming/2025/02/history-evaporating-before-our-eyes-gamers-lament-twitchs-new-video-storage-limits/)
 - Feb 22 - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
-- Feb 22 - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
 - Feb 22 - [Start a computer club in the place that you live (2023)](https://startacomputer.club/)
-- Feb 22 - [Paxlovid: You'd have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
+- Feb 22 - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
+- Feb 21 - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
 <!--END_SECTION:hn-->
 
 <!--
