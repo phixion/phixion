@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Twitch's new storage limits will purge swaths of Internet gaming history](https://arstechnica.com/gaming/2025/02/history-evaporating-before-our-eyes-gamers-lament-twitchs-new-video-storage-limits/)
-- Feb 22 - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
-- Feb 22 - [Start a computer club in the place that you live (2023)](https://startacomputer.club/)
-- Feb 22 - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
-- Feb 21 - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
+- Feb 22 - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
+- Feb 22 - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
+- Feb 22 - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
+- Feb 22 - [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
+- Feb 22 - [Do you want to be doing this when you're 50? (2012)](https://prog21.dadgum.com/154.html)
 <!--END_SECTION:hn-->
 
 <!--
