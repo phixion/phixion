@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
-- Feb 22 - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
-- Feb 22 - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
-- Feb 22 - [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
-- Feb 22 - [Do you want to be doing this when you're 50? (2012)](https://prog21.dadgum.com/154.html)
+- Feb 22 - [The Birth of Chipzilla](https://www.abortretry.fail/p/the-birth-of-chipzilla)
+- Feb 22 - [A map of torii around the world](https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en)
+- Feb 22 - [Show HN: Willpayforthis.com – Ideas people will pay for](https://www.willpayforthis.com)
+- Feb 22 - [Amazon now discloses you're buying a license to view Kindle eBooks](https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/)
+- Feb 22 - [Ask HN: Is anyone still using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
 <!--END_SECTION:hn-->
 
 <!--
