@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Ways to annoy your senior engineer](https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior)
-- Feb 23 - [IQ numbers for historical figures are made up](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
+- Feb 23 - [Lambda Calculus and Lisp, part 1](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/)
+- Feb 23 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
+- Feb 23 - [No One Lives Forever (NOLF) Revival Edition](http://nolfrevival.tk/)
+- Feb 23 - [Fish-delousing underwater laser (2018) [video]](https://www.youtube.com/watch?v=bZxw-Ji7K94)
 - Feb 23 - [Show HN: We made a Meta Quest3 see through walls](https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c)
-- Feb 23 - [Electronics Teardown: Stelo Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
-- Feb 23 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 <!--END_SECTION:hn-->
 
 <!--
