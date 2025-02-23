@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [IQ isn't 160. No one's is](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
-- Feb 23 - [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
-- Feb 23 - [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
+- Feb 23 - [Ways to annoy your senior engineer](https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior)
+- Feb 23 - [IQ numbers for historical figures are made up](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
+- Feb 23 - [Show HN: We made a Meta Quest3 see through walls](https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c)
+- Feb 23 - [Electronics Teardown: Stelo Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
 - Feb 23 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
-- Feb 23 - [Digital Services Playbook](https://playbook.usds.gov/)
 <!--END_SECTION:hn-->
 
 <!--
