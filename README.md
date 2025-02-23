@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Lambda Calculus and Lisp, part 1](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/)
-- Feb 23 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
-- Feb 23 - [No One Lives Forever (NOLF) Revival Edition](http://nolfrevival.tk/)
-- Feb 23 - [Fish-delousing underwater laser (2018) [video]](https://www.youtube.com/watch?v=bZxw-Ji7K94)
-- Feb 23 - [Show HN: We made a Meta Quest3 see through walls](https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c)
+- Feb 23 - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
+- Feb 23 - ['Everybody is looking at their phones,' says man freed after 30 years in prison](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407)
+- Feb 23 - [Pee If You Want to Go Deeper (2021)](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
+- Feb 23 - [Immune markers of post COVID vaccination syndrome indicate future research](https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions)
+- Feb 23 - [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
 <!--END_SECTION:hn-->
 
 <!--
