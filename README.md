@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [The Birth of Chipzilla](https://www.abortretry.fail/p/the-birth-of-chipzilla)
-- Feb 22 - [A map of torii around the world](https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en)
-- Feb 22 - [Show HN: Willpayforthis.com – Ideas people will pay for](https://www.willpayforthis.com)
-- Feb 22 - [Amazon now discloses you're buying a license to view Kindle eBooks](https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/)
-- Feb 22 - [Ask HN: Is anyone still using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
+- Feb 22 - [Why are you lying to me? What the hell is wrong with you?](https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty)
+- Feb 22 - [Curl website traffic Feb 2025](https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/)
+- Feb 22 - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
+- Feb 22 - [Gig workers worked more but earned less in 2024: study](https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2)
+- Feb 22 - [Official sequel to Cracking the Coding Interview is out](https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci)
 <!--END_SECTION:hn-->
 
 <!--
