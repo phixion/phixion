@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
-- Feb 23 - ['Everybody is looking at their phones,' says man freed after 30 years in prison](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407)
-- Feb 23 - [Pee If You Want to Go Deeper (2021)](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
-- Feb 23 - [Immune markers of post COVID vaccination syndrome indicate future research](https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions)
-- Feb 23 - [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
+- Feb 23 - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
+- Feb 23 - [Lobsters blocking UK users because of the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
+- Feb 23 - [In Memoriam – OnlineSafetyAct.co.uk](https://onlinesafetyact.co.uk/in_memoriam/)
+- Feb 23 - [Technofossils: Humanity's eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
+- Feb 23 - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 <!--END_SECTION:hn-->
 
 <!--
