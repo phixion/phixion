@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Why are you lying to me? What the hell is wrong with you?](https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty)
-- Feb 22 - [Curl website traffic Feb 2025](https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/)
-- Feb 22 - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
-- Feb 22 - [Gig workers worked more but earned less in 2024: study](https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2)
-- Feb 22 - [Official sequel to Cracking the Coding Interview is out](https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci)
+- Feb 23 - [IQ isn't 160. No one's is](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
+- Feb 23 - [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
+- Feb 23 - [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
+- Feb 23 - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
+- Feb 23 - [Digital Services Playbook](https://playbook.usds.gov/)
 <!--END_SECTION:hn-->
 
 <!--
