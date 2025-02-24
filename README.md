@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 24 - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
+- Feb 24 - [Write the post you wish you'd found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
+- Feb 24 - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
+- Feb 23 - [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
 - Feb 23 - [Defragging my old Dell's UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
-- Feb 23 - [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
-- Feb 23 - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
-- Feb 23 - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
-- Feb 23 - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 <!--END_SECTION:hn-->
 
 <!--
