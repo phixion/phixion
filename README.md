@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [We don't need startups, we need Digital-Mittelstand](https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/)
-- Feb 24 - [JSON has become today's machine-readable output format (on Unix)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat)
-- Feb 24 - [Pollution from Big Tech's data centre boom costs US public health $5.4bn](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
-- Feb 24 - [Computer Simulation of Neural Networks Using Spreadsheets (2018)](https://arxiv.org/abs/1807.00018)
-- Feb 24 - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
+- Feb 24 - [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
+- Feb 24 - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
+- Feb 24 - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
+- Feb 24 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
+- Feb 24 - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 <!--END_SECTION:hn-->
 
 <!--
