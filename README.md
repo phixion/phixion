@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
-- Feb 24 - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
-- Feb 24 - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
-- Feb 24 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
-- Feb 24 - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
+- Feb 24 - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
+- Feb 24 - [ARPA Is Quietly Funding $50-$65 Community-Owned Fiber to Neglected Neighborhoods](https://www.techdirt.com/2025/02/24/arpa-is-quietly-funding-cheap-50-65-a-month-community-owned-gigabit-fiber-access-to-long-neglected-neighborhoods/)
+- Feb 24 - ['Impossible-to-Hack' Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
+- Feb 24 - [I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
+- Feb 24 - [The Wrongs of Thomas More (Wrong 5)](https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5)
 <!--END_SECTION:hn-->
 
 <!--
