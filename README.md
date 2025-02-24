@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
-- Feb 23 - [Lobsters blocking UK users because of the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
-- Feb 23 - [In Memoriam – OnlineSafetyAct.co.uk](https://onlinesafetyact.co.uk/in_memoriam/)
-- Feb 23 - [Technofossils: Humanity's eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
-- Feb 23 - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
+- Feb 23 - [Defragging my old Dell's UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
+- Feb 23 - [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
+- Feb 23 - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
+- Feb 23 - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
+- Feb 23 - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 <!--END_SECTION:hn-->
 
 <!--
