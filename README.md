@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
-- Feb 24 - [ARPA Is Quietly Funding $50-$65 Community-Owned Fiber to Neglected Neighborhoods](https://www.techdirt.com/2025/02/24/arpa-is-quietly-funding-cheap-50-65-a-month-community-owned-gigabit-fiber-access-to-long-neglected-neighborhoods/)
-- Feb 24 - ['Impossible-to-Hack' Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
-- Feb 24 - [I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
-- Feb 24 - [The Wrongs of Thomas More (Wrong 5)](https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5)
+- Feb 24 - [Starship's Eighth Flight Test](https://www.spacex.com/launches/mission/?missionId)
+- Feb 24 - [What Happened to the N in Restaurateur?](https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/)
+- Feb 24 - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+- Feb 24 - [The Best Way to Use Text Embeddings Portably Is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
+- Feb 24 - [Behold Modular Forms, the 'Fifth Fundamental Operation' of Math[2023]](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 <!--END_SECTION:hn-->
 
 <!--
