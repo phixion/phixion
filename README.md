@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Starship's Eighth Flight Test](https://www.spacex.com/launches/mission/?missionId)
-- Feb 24 - [What Happened to the N in Restaurateur?](https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/)
+- Feb 24 - ["The closer to the train station, the worse the kebab" – a "study"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
+- Feb 24 - [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
+- Feb 24 - [Closing the "green gap": energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
 - Feb 24 - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
-- Feb 24 - [The Best Way to Use Text Embeddings Portably Is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
-- Feb 24 - [Behold Modular Forms, the 'Fifth Fundamental Operation' of Math[2023]](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
+- Feb 24 - [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 <!--END_SECTION:hn-->
 
 <!--
