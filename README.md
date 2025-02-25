@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
-- Feb 25 - [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
-- Feb 25 - [DeepSearcher: A Local open-source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
-- Feb 25 - [Show HN: Prioritize Anything with Stacks](https://stack-ranker.com)
-- Feb 25 - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
+- Feb 25 - [Framework's first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
+- Feb 25 - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
+- Feb 25 - [Low Overhead Allocation Sampling with VMProf in PyPy's GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
+- Feb 25 - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
+- Feb 25 - [Brewing Clean Water: The Metal-Remediating Benefits of Tea Preparation](https://pubs.acs.org/doi/10.1021/acsfoodscitech.4c01030)
 <!--END_SECTION:hn-->
 
 <!--
