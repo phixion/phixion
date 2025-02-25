@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
-- Feb 25 - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
-- Feb 25 - [There Isn't Much Point to HTTP/2 Past the Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
-- Feb 25 - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
-- Feb 25 - [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
+- Feb 25 - [US court upholds Theranos founder Elizabeth Holmes's conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
+- Feb 25 - [Tesla sales almost halved in Europe last month](https://www.businessinsider.com/tesla-sales-europe-tumbled-elon-musk-china-evs-2025-2)
+- Feb 25 - [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
+- Feb 25 - [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
+- Feb 25 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 <!--END_SECTION:hn-->
 
 <!--
