@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Judge: US gov't violated privacy law by disclosing personal data to DOGE](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
-- Feb 25 - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
-- Feb 25 - [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
-- Feb 25 - [The HP-35: Consumer Electronics, an Origin Story](http://codex99.com/design/the-hp35.html)
-- Feb 25 - [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
+- Feb 25 - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
+- Feb 25 - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
+- Feb 25 - [There Isn't Much Point to HTTP/2 Past the Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
+- Feb 25 - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
+- Feb 25 - [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
 <!--END_SECTION:hn-->
 
 <!--
