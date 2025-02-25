@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [US court upholds Theranos founder Elizabeth Holmes's conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
-- Feb 25 - [Tesla sales almost halved in Europe last month](https://www.businessinsider.com/tesla-sales-europe-tumbled-elon-musk-china-evs-2025-2)
-- Feb 25 - [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
-- Feb 25 - [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
-- Feb 25 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
+- Feb 25 - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
+- Feb 25 - [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
+- Feb 25 - [DeepSearcher: A Local open-source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
+- Feb 25 - [Show HN: Prioritize Anything with Stacks](https://stack-ranker.com)
+- Feb 25 - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 <!--END_SECTION:hn-->
 
 <!--
