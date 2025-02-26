@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Voker (YC S24) is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
-- Feb 25 - [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
-- Feb 25 - [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
-- Feb 25 - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
-- Feb 25 - [Framework's first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
+- Feb 26 - [Y Combinator deletes posts after a startup's demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
+- Feb 26 - [Show HN: Paste a Zillow URL and get a property analysis](https://www.trymasterkey.com/properties/1100-leavenworth-st-a-p-t-4-san-francisco-nob-hill-ca-94109)
+- Feb 26 - [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
+- Feb 26 - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
+- Feb 25 - [Material Theme has been pulled from VS Code's marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 <!--END_SECTION:hn-->
 
 <!--
