@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 26 - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
+- Feb 26 - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
+- Feb 26 - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 - Feb 26 - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
 - Feb 26 - [Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
-- Feb 26 - [Toyota completes phase 1 construction of futuristic city](https://www3.nhk.or.jp/nhkworld/en/news/20250225_B03/)
-- Feb 26 - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
-- Feb 25 - [Material Theme has been pulled from VS Code's marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 <!--END_SECTION:hn-->
 
 <!--
