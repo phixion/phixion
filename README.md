@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
-- Feb 26 - [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)
-- Feb 26 - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
-- Feb 26 - [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
-- Feb 26 - [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
+- Feb 26 - [Techno-Fascism Comes to America](https://www.newyorker.com/culture/infinite-scroll/techno-fascism-comes-to-america-elon-musk)
+- Feb 26 - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
+- Feb 26 - [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
+- Feb 26 - [From Records to Agents: The Overlooked Revolution in Enterprise Software](https://sperand.io/posts/the-future-of-enterprise-software/)
+- Feb 26 - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 <!--END_SECTION:hn-->
 
 <!--
