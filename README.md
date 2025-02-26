@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Y Combinator deletes posts after a startup's demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
-- Feb 26 - [Show HN: Paste a Zillow URL and get a property analysis](https://www.trymasterkey.com/properties/1100-leavenworth-st-a-p-t-4-san-francisco-nob-hill-ca-94109)
-- Feb 26 - [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
-- Feb 26 - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
+- Feb 26 - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
+- Feb 26 - [Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
+- Feb 26 - [Toyota completes phase 1 construction of futuristic city](https://www3.nhk.or.jp/nhkworld/en/news/20250225_B03/)
+- Feb 26 - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 - Feb 25 - [Material Theme has been pulled from VS Code's marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 <!--END_SECTION:hn-->
 
