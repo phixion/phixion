@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
-- Feb 26 - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
-- Feb 26 - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
-- Feb 26 - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
-- Feb 26 - [Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
+- Feb 26 - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
+- Feb 26 - [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)
+- Feb 26 - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
+- Feb 26 - [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
+- Feb 26 - [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
 <!--END_SECTION:hn-->
 
 <!--
