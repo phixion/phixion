@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
-- Feb 27 - [US Forest Service firings decimate: entire generation of talent and passion lost](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/)
-- Feb 27 - [Google gifts a Free AI Coding Assistant to the developer community](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/)
-- Feb 27 - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)](https://kzakka.com/robopianist/#demo)
-- Feb 27 - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
+- Feb 27 - [Solitaire](https://localthunk.com/blog/solitaire)
+- Feb 27 - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
+- Feb 27 - [Probly: Spreadsheets and Python and AI, right in the browser](https://github.com/PragmaticMachineLearning/probly)
+- Feb 27 - [Imposing memory security in C [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/)
+- Feb 27 - [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
 <!--END_SECTION:hn-->
 
 <!--
