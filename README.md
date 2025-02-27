@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 27 - [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
+- Feb 27 - [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
+- Feb 26 - [Geometric Algebra](https://bivector.net/)
 - Feb 26 - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
-- Feb 26 - [Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section)
 - Feb 26 - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
-- Feb 26 - [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
-- Feb 26 - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
 <!--END_SECTION:hn-->
 
 <!--
