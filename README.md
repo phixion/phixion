@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Techno-Fascism Comes to America](https://www.newyorker.com/culture/infinite-scroll/techno-fascism-comes-to-america-elon-musk)
+- Feb 26 - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
+- Feb 26 - [Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section)
+- Feb 26 - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
+- Feb 26 - [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
 - Feb 26 - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
-- Feb 26 - [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
-- Feb 26 - [From Records to Agents: The Overlooked Revolution in Enterprise Software](https://sperand.io/posts/the-future-of-enterprise-software/)
-- Feb 26 - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 <!--END_SECTION:hn-->
 
 <!--
