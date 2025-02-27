@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Solitaire](https://localthunk.com/blog/solitaire)
-- Feb 27 - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
-- Feb 27 - [Probly: Spreadsheets and Python and AI, right in the browser](https://github.com/PragmaticMachineLearning/probly)
-- Feb 27 - [Imposing memory security in C [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/)
-- Feb 27 - [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
+- Feb 27 - [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
+- Feb 27 - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
+- Feb 27 - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
+- Feb 27 - [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
+- Feb 27 - [Show HN: Ranked Search for Semi-Structured Data](https://demo.tryvoker.com)
 <!--END_SECTION:hn-->
 
 <!--
