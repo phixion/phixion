@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
+- Feb 27 - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
+- Feb 27 - [US Forest Service firings decimate: entire generation of talent and passion lost](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/)
+- Feb 27 - [Google gifts a Free AI Coding Assistant to the developer community](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/)
+- Feb 27 - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)](https://kzakka.com/robopianist/#demo)
 - Feb 27 - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
-- Feb 26 - [Geometric Algebra](https://bivector.net/)
-- Feb 26 - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
-- Feb 26 - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 <!--END_SECTION:hn-->
 
 <!--
