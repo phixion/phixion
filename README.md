@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
-- Feb 28 - [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
-- Feb 28 - [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
-- Feb 28 - [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
-- Feb 28 - [macOS Tips and Tricks (2022)](https://saurabhs.org/macos-tips)
+- Feb 28 - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
+- Feb 28 - [Meta apologises over flood of gore, violence and dead bodies on Instagram](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram)
+- Feb 28 - [I found 1000 GitHub repos with malware. Can we get them deleted?](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/)
+- Feb 28 - [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591)
+- Feb 28 - [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
 <!--END_SECTION:hn-->
 
 <!--
