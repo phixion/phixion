@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [macOS Tips and Tricks](https://saurabhs.org/macos-tips)
-- Feb 28 - [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
-- Feb 28 - [Doc NTIA lead nominee criticizes "woke" and "socialist" fiber broadband subsidy](https://broadbandbreakfast.com/incoming-ntia-chief-doesnt-like-beads-fiber-preference-low-cost-mandates-2/)
-- Feb 28 - [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
-- Feb 28 - [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
+- Feb 28 - [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
+- Feb 28 - [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
+- Feb 28 - [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
+- Feb 28 - [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
+- Feb 28 - [macOS Tips and Tricks (2022)](https://saurabhs.org/macos-tips)
 <!--END_SECTION:hn-->
 
 <!--
