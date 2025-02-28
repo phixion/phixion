@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
-- Feb 27 - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
-- Feb 27 - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
-- Feb 27 - [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
-- Feb 27 - [Show HN: Ranked Search for Semi-Structured Data](https://demo.tryvoker.com)
+- Feb 27 - [Outlook classic dropped from Microsoft 365](https://office-watch.com/2025/outlook-classic-dropped-from-microsoft-365/)
+- Feb 27 - [Some Command & Conquer games are now open source](https://github.com/electronicarts)
+- Feb 27 - [Carlos Slim cancels his collaboration with Elon Musk's Starlink](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/)
+- Feb 27 - [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
+- Feb 27 - [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
 <!--END_SECTION:hn-->
 
 <!--
