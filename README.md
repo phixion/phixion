@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
-- Feb 28 - [May 5, Microsoft's Skype will shut down for good](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/)
-- Feb 28 - [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)
-- Feb 28 - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
-- Feb 28 - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
+- Feb 28 - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
+- Feb 28 - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
+- Feb 28 - [Harold Cohen and Aaron – A 40-Year Collaboration (2016)](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
+- Feb 28 - [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
+- Feb 28 - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 <!--END_SECTION:hn-->
 
 <!--
