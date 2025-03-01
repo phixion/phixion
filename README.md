@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 01 - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
+- Mar 01 - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
+- Mar 01 - [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)
 - Mar 01 - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 - Mar 01 - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
-- Mar 01 - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
-- Mar 01 - [The Housing Theory of Everything (2021)](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
-- Feb 28 - [An update on Mozilla's terms of use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
 <!--END_SECTION:hn-->
 
 <!--
