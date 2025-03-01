@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
-- Feb 28 - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
-- Feb 28 - [Harold Cohen and Aaron – A 40-Year Collaboration (2016)](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
-- Feb 28 - [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
-- Feb 28 - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
+- Feb 28 - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
+- Feb 28 - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
+- Feb 28 - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
+- Feb 28 - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
+- Feb 28 - [Japanese Toshiba Typewriter Model BW-2112 (2020) [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
 <!--END_SECTION:hn-->
 
 <!--
