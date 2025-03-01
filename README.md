@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 01 - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 - Mar 01 - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
 - Mar 01 - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
-- Mar 01 - [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
-- Feb 28 - [An Update on Mozilla's Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
-- Feb 28 - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
+- Mar 01 - [The Housing Theory of Everything (2021)](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+- Feb 28 - [An update on Mozilla's terms of use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
 <!--END_SECTION:hn-->
 
 <!--
