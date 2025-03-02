@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [I'm a neuroscientist. Here's the surprising truth about TikTok 'brain rot'](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
-- Mar 02 - [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
-- Mar 02 - [Mark Cuban offers to fund former 18f employees](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
-- Mar 02 - [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
-- Mar 02 - [GPT-4.5: "Not a frontier model"?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
+- Mar 02 - [Cornell Announces a Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
+- Mar 02 - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
+- Mar 02 - [NIH insiders reveal process stalling grants](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r)
+- Mar 02 - [olduse.net](https://olduse.net/)
+- Mar 02 - [Let me GPT that for you](https://letmegptthatforyou.com)
 <!--END_SECTION:hn-->
 
 <!--
