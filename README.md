@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [The $100T Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
-- Mar 01 - [FAA targeting Verizon contract in favor of SpaceX](https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/)
-- Mar 01 - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
-- Mar 01 - [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
-- Mar 01 - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
+- Mar 01 - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
+- Mar 01 - [Why can't we screenshot frames from DRM-protected video on Apple devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
+- Mar 01 - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
+- Mar 01 - [Nearly 25 years later, Terminator 2 is getting a new video game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
+- Mar 01 - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
 <!--END_SECTION:hn-->
 
 <!--
