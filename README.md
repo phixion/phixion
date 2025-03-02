@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [German tourist held indefinitely in San Diego area immigrant detention facility](https://www.kpbs.org/news/border-immigration/2025/02/28/german-tourist-held-indefinitely-in-san-diego-area-immigrant-detention-facility)
-- Mar 02 - [Tesla Recalls over 376K Vehicles](https://www.foxbusiness.com/lifestyle/tesla-recalls-over-376k-vehicles-over-potential-power-steering-issue)
-- Mar 02 - [What, if anything, should I do about using Mozilla's Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
-- Mar 02 - [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
-- Mar 02 - [NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative)
+- Mar 02 - [I'm a neuroscientist. Here's the surprising truth about TikTok 'brain rot'](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
+- Mar 02 - [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
+- Mar 02 - [Mark Cuban offers to fund former 18f employees](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
+- Mar 02 - [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
+- Mar 02 - [GPT-4.5: "Not a frontier model"?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
 <!--END_SECTION:hn-->
 
 <!--
