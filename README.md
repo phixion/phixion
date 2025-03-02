@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
-- Mar 02 - [Show HN: I built a memory-safe web server in Rust](https://www.ferronweb.org/)
-- Mar 02 - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
-- Mar 02 - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
-- Mar 02 - [Mozilla site down due to "overdue hosting payments"](https://linuxmom.net/@vkc/114089626244932902)
+- Mar 02 - [German tourist held indefinitely in San Diego area immigrant detention facility](https://www.kpbs.org/news/border-immigration/2025/02/28/german-tourist-held-indefinitely-in-san-diego-area-immigrant-detention-facility)
+- Mar 02 - [Tesla Recalls over 376K Vehicles](https://www.foxbusiness.com/lifestyle/tesla-recalls-over-376k-vehicles-over-potential-power-steering-issue)
+- Mar 02 - [What, if anything, should I do about using Mozilla's Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
+- Mar 02 - [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
+- Mar 02 - [NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative)
 <!--END_SECTION:hn-->
 
 <!--
