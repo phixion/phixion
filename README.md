@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 02 - [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
+- Mar 02 - [Wealthy Americans fuel half of us economy consumer spending](https://www.bloomberg.com/news/articles/2025-02-28/wealthy-americans-fuel-half-of-us-economy-consumer-spending)
+- Mar 02 - [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
+- Mar 02 - [How Flash games shaped the video game industry (2020)](https://www.flashgamehistory.com/)
 - Mar 01 - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
-- Mar 01 - [Why can't we screenshot frames from DRM-protected video on Apple devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
-- Mar 01 - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
-- Mar 01 - [Nearly 25 years later, Terminator 2 is getting a new video game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
-- Mar 01 - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
 <!--END_SECTION:hn-->
 
 <!--
