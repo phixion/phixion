@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Show HN: Knowledge graph of restaurants and chefs using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
-- Mar 03 - [Youth and what happens when it's gone](https://tolstoyan.substack.com/p/youth)
-- Mar 03 - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
-- Mar 03 - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
-- Mar 03 - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
+- Mar 03 - [Send Data with Sound](https://github.com/solst-ice/chirp)
+- Mar 03 - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)
+- Mar 03 - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
+- Mar 03 - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
+- Mar 03 - [James Harrison, whose blood donations saved >2M babies, has died](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor)
 <!--END_SECTION:hn-->
 
 <!--
