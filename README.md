@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Cornell Announces a Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
-- Mar 02 - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
-- Mar 02 - [NIH insiders reveal process stalling grants](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r)
-- Mar 02 - [olduse.net](https://olduse.net/)
-- Mar 02 - [Let me GPT that for you](https://letmegptthatforyou.com)
+- Mar 03 - [The "strategic reserve" exposes crypto as the scam it always was](https://alexkolchinski.com/2025/03/03/the-strategic-reserve-exposes-crypto-as-the-scam-it-always-was/)
+- Mar 03 - [18F](https://en.wikipedia.org/wiki/18F)
+- Mar 02 - [America faces a Trumpian economic slowdown](https://www.economist.com/finance-and-economics/2025/03/02/america-faces-a-trumpian-economic-slowdown)
+- Mar 02 - [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
+- Mar 02 - [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
 <!--END_SECTION:hn-->
 
 <!--
