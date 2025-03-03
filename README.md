@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [The "strategic reserve" exposes crypto as the scam it always was](https://alexkolchinski.com/2025/03/03/the-strategic-reserve-exposes-crypto-as-the-scam-it-always-was/)
-- Mar 03 - [18F](https://en.wikipedia.org/wiki/18F)
-- Mar 02 - [America faces a Trumpian economic slowdown](https://www.economist.com/finance-and-economics/2025/03/02/america-faces-a-trumpian-economic-slowdown)
+- Mar 03 - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
+- Mar 03 - [Losing a 5-year-long Illinois FOIA lawsuit for database schemas](https://mchap.io/losing-a-5yr-long-illinois-foia-lawsuit-for-database-schemas.html)
+- Mar 03 - [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/)
+- Mar 02 - [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
 - Mar 02 - [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
-- Mar 02 - [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
 <!--END_SECTION:hn-->
 
 <!--
