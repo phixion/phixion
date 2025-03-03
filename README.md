@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
-- Mar 03 - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
-- Mar 03 - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
-- Mar 03 - [BM25 in PostgreSQL](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
-- Mar 03 - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
+- Mar 03 - [Show HN: Knowledge graph of restaurants and chefs using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
+- Mar 03 - [Youth and what happens when it's gone](https://tolstoyan.substack.com/p/youth)
+- Mar 03 - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
+- Mar 03 - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
+- Mar 03 - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
 <!--END_SECTION:hn-->
 
 <!--
