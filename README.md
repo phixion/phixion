@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
+- Mar 03 - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
+- Mar 03 - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
 - Mar 03 - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
-- Mar 03 - [Everything Is Chrome](https://vale.rocks/posts/everything-is-chrome)
 - Mar 03 - [BM25 in PostgreSQL](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
 - Mar 03 - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
 <!--END_SECTION:hn-->
