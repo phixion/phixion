@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Send Data with Sound](https://github.com/solst-ice/chirp)
-- Mar 03 - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)
+- Mar 04 - [Doge seeks to cancel lease on key NOAA computing facility](https://www.axios.com/2025/03/03/doge-noaa-weather-building-leases-trump)
+- Mar 03 - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
+- Mar 03 - [Comparing Fuchsia components and Linux containers [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/)
 - Mar 03 - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
-- Mar 03 - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
-- Mar 03 - [James Harrison, whose blood donations saved >2M babies, has died](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor)
+- Mar 03 - [How the U.K. broke its own economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
 <!--END_SECTION:hn-->
 
 <!--
