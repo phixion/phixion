@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Tech and Non-Tech Stacks to Run Listen Notes (2025)](https://www.listennotes.fm/p/tech-and-non-tech-stacks-to-run-listen)
-- Mar 05 - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
-- Mar 05 - [Things we've learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
-- Mar 05 - [MacBook Air M4](https://www.apple.com/macbook-air/)
-- Mar 05 - [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
+- Mar 05 - [NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"](https://alecmuffett.com/article/112522)
+- Mar 05 - [Why did the US let a child safety bill for social media die?](https://www.theguardian.com/us-news/2025/feb/16/kids-social-media-online-safety-act)
+- Mar 05 - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
+- Mar 05 - [Tailscale Is Pretty Useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
+- Mar 05 - [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
 <!--END_SECTION:hn-->
 
 <!--
