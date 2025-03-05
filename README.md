@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
-- Mar 05 - ['Shadow fleets' and sabotage: are Europe's undersea cables under attack?](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack)
-- Mar 05 - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
-- Mar 05 - [Get Started with Neural Rendering Using Nvidia RTX Kit (Vulkan)](https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/)
-- Mar 05 - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
+- Mar 05 - [Tech and Non-Tech Stacks to Run Listen Notes (2025)](https://www.listennotes.fm/p/tech-and-non-tech-stacks-to-run-listen)
+- Mar 05 - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
+- Mar 05 - [Things we've learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
+- Mar 05 - [MacBook Air M4](https://www.apple.com/macbook-air/)
+- Mar 05 - [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
 <!--END_SECTION:hn-->
 
 <!--
