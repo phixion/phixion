@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [uBlock Origin Forcefully Removed by Chrome](https://old.reddit.com/r/youtube/comments/1j2ec76/ublock_origin_is_gone/)
-- Mar 05 - [Cobalt Networks CobaltOS: Proxmox Port](https://archive.org/details/CobaltOS-Proxmox)
+- Mar 05 - [We're Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
 - Mar 05 - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
+- Mar 05 - [The Nightmare Bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
 - Mar 05 - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
 - Mar 05 - [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
 <!--END_SECTION:hn-->
