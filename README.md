@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [We're Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
-- Mar 05 - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
-- Mar 05 - [The Nightmare Bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
-- Mar 05 - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
-- Mar 05 - [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
+- Mar 05 - [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
+- Mar 05 - ['Shadow fleets' and sabotage: are Europe's undersea cables under attack?](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack)
+- Mar 05 - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
+- Mar 05 - [Get Started with Neural Rendering Using Nvidia RTX Kit (Vulkan)](https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/)
+- Mar 05 - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
 <!--END_SECTION:hn-->
 
 <!--
