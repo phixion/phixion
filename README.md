@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 06 - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
+- Mar 06 - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
+- Mar 06 - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 - Mar 06 - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
-- Mar 06 - [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
-- Mar 06 - [AMD Announces "Instella" Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
-- Mar 06 - [Automatically tagging politician when they use their phone on the livestreams](https://driesdepoorter.be/theflemishscrollers/)
-- Mar 06 - [Demos of Stream Processing Solving Real-World Problems](https://github.com/risingwavelabs/awesome-stream-processing)
+- Mar 06 - [Scientists crack how aspirin might stop cancers from spreading](https://www.bbc.com/news/articles/c1d4n119xr7o)
 <!--END_SECTION:hn-->
 
 <!--
