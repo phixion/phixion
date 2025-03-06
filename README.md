@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
-- Mar 06 - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
-- Mar 06 - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
-- Mar 06 - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
-- Mar 06 - [Scientists crack how aspirin might stop cancers from spreading](https://www.bbc.com/news/articles/c1d4n119xr7o)
+- Mar 06 - [How the Index Card Cataloged the World (2017)](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
+- Mar 06 - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
+- Mar 06 - [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
+- Mar 06 - [Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2)
+- Mar 06 - [Bcvi – run vi over a 'back-channel' (2010)](https://sshmenu.sourceforge.net/articles/bcvi/)
 <!--END_SECTION:hn-->
 
 <!--
