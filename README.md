@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 05 - [Superintelligence Strategy](https://www.nationalsecurity.ai/)
+- Mar 05 - [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
+- Mar 05 - [Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
+- Mar 05 - [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
 - Mar 05 - [NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"](https://alecmuffett.com/article/112522)
-- Mar 05 - [Why did the US let a child safety bill for social media die?](https://www.theguardian.com/us-news/2025/feb/16/kids-social-media-online-safety-act)
-- Mar 05 - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
-- Mar 05 - [Tailscale Is Pretty Useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
-- Mar 05 - [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
 <!--END_SECTION:hn-->
 
 <!--
