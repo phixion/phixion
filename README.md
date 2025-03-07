@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 07 - [Cargo (YC S23) Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
+- Mar 07 - [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
+- Mar 07 - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
 - Mar 06 - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 - Mar 06 - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
-- Mar 06 - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
-- Mar 06 - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
-- Mar 06 - [A brief meditation on formal systems and lying goblins](https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/)
 <!--END_SECTION:hn-->
 
 <!--
