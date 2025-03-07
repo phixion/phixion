@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [How the Index Card Cataloged the World (2017)](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
-- Mar 06 - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
-- Mar 06 - [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
-- Mar 06 - [Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2)
-- Mar 06 - [Bcvi – run vi over a 'back-channel' (2010)](https://sshmenu.sourceforge.net/articles/bcvi/)
+- Mar 06 - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+- Mar 06 - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
+- Mar 06 - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
+- Mar 06 - [Ask HN: How did internet discover my subdomain?](https://news.ycombinator.com/item?id=43285725)
+- Mar 06 - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
 <!--END_SECTION:hn-->
 
 <!--
