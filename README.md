@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 07 - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
+- Mar 07 - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 - Mar 07 - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
 - Mar 07 - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
-- Mar 07 - [How often are children genetically unrelated to their presumed fathers?](https://www.science.org/content/article/how-often-are-children-genetically-unrelated-their-presumed-fathers)
-- Mar 07 - [Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
-- Mar 07 - [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
+- Mar 07 - [Matters Computational (2010) [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 <!--END_SECTION:hn-->
 
 <!--
