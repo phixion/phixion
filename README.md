@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
-- Mar 07 - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
-- Mar 07 - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
-- Mar 07 - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
-- Mar 07 - [Matters Computational (2010) [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
+- Mar 07 - [No one asked for this: Google is testing round keys in Gboard](https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/)
+- Mar 07 - [The Take It Down Act isn't a law, it's a weapon](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis)
+- Mar 07 - [Europe's most wanted man plotted my murder – and that of my colleague](https://theins.press/en/inv/279034)
+- Mar 07 - [Doge Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
+- Mar 07 - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/)
 <!--END_SECTION:hn-->
 
 <!--
