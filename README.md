@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [No one asked for this: Google is testing round keys in Gboard](https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/)
-- Mar 07 - [The Take It Down Act isn't a law, it's a weapon](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis)
-- Mar 07 - [Europe's most wanted man plotted my murder – and that of my colleague](https://theins.press/en/inv/279034)
-- Mar 07 - [Doge Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
-- Mar 07 - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/)
+- Mar 07 - [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
+- Mar 07 - [DOJ asks for judgement requiring Google to divest Chrome [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1184.3_1.pdf)
+- Mar 07 - [Monotype and Phototypesetting (2000) [pdf]](https://web.archive.org/web/20040305094501/http://www.letterpress.ch/APINET/IMMPDF/MONOPHOTO/PHS_journal.pdf)
+- Mar 07 - [ParadeDB (YC S23) Is Hiring a Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
+- Mar 07 - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
 <!--END_SECTION:hn-->
 
 <!--
