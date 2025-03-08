@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
+- Mar 08 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+- Mar 08 - [Unpopular Defaults for High-Performing Tech Organizations](https://avivbenyosef.com/unpopular-defaults-for-high-performing-tech-organizations/)
+- Mar 08 - [US support to maintain UK's nuclear arsenal is in doubt](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france)
+- Mar 08 - [Volkswagen reintroducing physical controls for vital functions](https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions)
 - Mar 08 - [PayPal honey extension has again "featured" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
-- Mar 08 - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
-- Mar 08 - [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
-- Mar 08 - [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
 <!--END_SECTION:hn-->
 
 <!--
