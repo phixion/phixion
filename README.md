@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- Mar 08 - [Unpopular Defaults for High-Performing Tech Organizations](https://avivbenyosef.com/unpopular-defaults-for-high-performing-tech-organizations/)
-- Mar 08 - [US support to maintain UK's nuclear arsenal is in doubt](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france)
-- Mar 08 - [Volkswagen reintroducing physical controls for vital functions](https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions)
-- Mar 08 - [PayPal honey extension has again "featured" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
+- Mar 08 - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
+- Mar 08 - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
+- Mar 08 - [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
+- Mar 08 - [Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed](https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751)
+- Mar 08 - [What We Lose When Our Memories Exist in Our Phones](https://www.bloomberg.com/news/articles/2025-03-07/the-case-for-ditching-digital-memories-for-physical-objects)
 <!--END_SECTION:hn-->
 
 <!--
