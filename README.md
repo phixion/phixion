@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [YouTube, when the walls fell [video]](https://www.youtube.com/watch?v=l0jw_Q23NIU)
-- Mar 09 - [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
-- Mar 09 - [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
-- Mar 09 - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
-- Mar 08 - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
+- Mar 09 - [Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
+- Mar 09 - [Stem cell therapy trial reverses "irreversible" damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
+- Mar 09 - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
+- Mar 09 - [Committing fraud is a viable career strategy](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
+- Mar 09 - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 <!--END_SECTION:hn-->
 
 <!--
