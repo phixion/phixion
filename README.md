@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 09 - [YouTube, when the walls fell [video]](https://www.youtube.com/watch?v=l0jw_Q23NIU)
+- Mar 09 - [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
+- Mar 09 - [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
 - Mar 09 - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
-- Mar 08 - [Show HN: Can I run this LLM? (locally)](https://can-i-run-this-llm-blue.vercel.app/)
-- Mar 08 - [Maybe coders should learn to love analog? (2024)](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
-- Mar 08 - [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
 - Mar 08 - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 <!--END_SECTION:hn-->
 
