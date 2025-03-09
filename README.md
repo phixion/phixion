@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Linear Pluggable Optics Save Energy in Data Centers](https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/)
-- Mar 08 - [Deploy from local to production (self-hosted)](https://github.com/bypirob/airo)
-- Mar 08 - [How Much Are LLMs Boosting Real-World Programmer Productivity?](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer)
-- Mar 08 - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
-- Mar 08 - [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)
+- Mar 09 - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
+- Mar 08 - [Show HN: Can I run this LLM? (locally)](https://can-i-run-this-llm-blue.vercel.app/)
+- Mar 08 - [Maybe coders should learn to love analog? (2024)](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
+- Mar 08 - [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
+- Mar 08 - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 <!--END_SECTION:hn-->
 
 <!--
