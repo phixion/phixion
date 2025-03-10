@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Tesla Used Car Price Crashes – Model Y, Model 3 Deals Explode](https://www.forbes.com/sites/brookecrothers/2025/03/09/tesla-used-car-price-crashes--model-y-model-3-deals-explode/)
+- Mar 10 - [Structured Labs (YC S23) Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
+- Mar 10 - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
+- Mar 10 - [Microsoft's Relationship with OpenAI Is Not Looking Good](https://gizmodo.com/microsofts-relationship-with-openai-is-not-looking-good-2000573293)
+- Mar 10 - [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
 - Mar 09 - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
-- Mar 09 - [Tesla's team to suppress driving range complaints (2023)](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
-- Mar 09 - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
-- Mar 09 - [El Salvador's crypto experiment ends in failure](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure)
 <!--END_SECTION:hn-->
 
 <!--
