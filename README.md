@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 10 - [Show HN: Editable Games](https://playscl.com/make)
+- Mar 10 - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
+- Mar 10 - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
+- Mar 10 - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)](https://physics.aps.org/articles/v18/53)
 - Mar 10 - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
-- Mar 10 - [Go European: Discover European products and services](https://www.goeuropean.org/)
-- Mar 10 - [Longest road and rail tunnel is being built under the Baltic Sea](https://www.cnn.com/travel/fehmarnbelt-tunnel-denmark-germany/index.html)
-- Mar 10 - [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
-- Mar 10 - [Trees not profits: we're giving up our right to ever sell Ecosia (2018)](https://blog.ecosia.org/trees-not-profits/)
 <!--END_SECTION:hn-->
 
 <!--
