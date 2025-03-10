@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Another late-night Claude Code post](https://twitter.com/Steve_Yegge/status/1898993080931611112)
-- Mar 10 - [Contra Chrome: How Google's browser became a threat to privacy and democracy](https://contrachrome.com)
-- Mar 10 - [Ask HN: With trust in Firefox gone, is Chrome-ish the only option?](https://news.ycombinator.com/item?id=43317667)
-- Mar 10 - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
-- Mar 10 - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
+- Mar 10 - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
+- Mar 10 - [Go European: Discover European products and services](https://www.goeuropean.org/)
+- Mar 10 - [Longest road and rail tunnel is being built under the Baltic Sea](https://www.cnn.com/travel/fehmarnbelt-tunnel-denmark-germany/index.html)
+- Mar 10 - [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
+- Mar 10 - [Trees not profits: we're giving up our right to ever sell Ecosia (2018)](https://blog.ecosia.org/trees-not-profits/)
 <!--END_SECTION:hn-->
 
 <!--
