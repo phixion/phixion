@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Structured Labs (YC S23) Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
-- Mar 10 - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
-- Mar 10 - [Microsoft's Relationship with OpenAI Is Not Looking Good](https://gizmodo.com/microsofts-relationship-with-openai-is-not-looking-good-2000573293)
-- Mar 10 - [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
-- Mar 09 - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
+- Mar 10 - [Another late-night Claude Code post](https://twitter.com/Steve_Yegge/status/1898993080931611112)
+- Mar 10 - [Contra Chrome: How Google's browser became a threat to privacy and democracy](https://contrachrome.com)
+- Mar 10 - [Ask HN: With trust in Firefox gone, is Chrome-ish the only option?](https://news.ycombinator.com/item?id=43317667)
+- Mar 10 - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
+- Mar 10 - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
 <!--END_SECTION:hn-->
 
 <!--
