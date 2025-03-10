@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Global coffee trade grinding to a halt, hit hard by brutal price hikes](https://www.reuters.com/markets/commodities/global-coffee-trade-grinding-halt-hit-hard-by-brutal-prices-hikes-2025-03-07/)
-- Mar 09 - [Hatching a Conspiracy: A Big Investigation into Egg Prices](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation)
-- Mar 09 - [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
-- Mar 09 - [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
-- Mar 09 - [Europe bets once again on RISC-V for supercomputing](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/)
+- Mar 09 - [Tesla Used Car Price Crashes – Model Y, Model 3 Deals Explode](https://www.forbes.com/sites/brookecrothers/2025/03/09/tesla-used-car-price-crashes--model-y-model-3-deals-explode/)
+- Mar 09 - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
+- Mar 09 - [Tesla's team to suppress driving range complaints (2023)](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
+- Mar 09 - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
+- Mar 09 - [El Salvador's crypto experiment ends in failure](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure)
 <!--END_SECTION:hn-->
 
 <!--
