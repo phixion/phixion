@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
-- Mar 11 - [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
-- Mar 11 - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
-- Mar 11 - [Shef](https://github.com/eduardoagarcia/shef)
-- Mar 11 - [Bending Spacetime in the Basement (1997)](https://www.fourmilab.ch/gravitation/foobar/)
+- Mar 11 - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
+- Mar 11 - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
+- Mar 11 - [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
+- Mar 11 - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+- Mar 11 - [Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001)
 <!--END_SECTION:hn-->
 
 <!--
