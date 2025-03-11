@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [You suck at CSS and that's okay (2022)](https://rexriepe.com/yousuckatcss/)
-- Mar 10 - [The shrouded sinister history of the bulldozer](https://www.noemamag.com/the-shrouded-sinister-history-of-the-bulldozer/)
-- Mar 10 - [These are the first images of humpbacks having sex, and they're both males](https://www.cbc.ca/radio/asithappens/mating-male-humpbacks-1.7131511)
-- Mar 10 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
-- Mar 10 - [Firmware update bricks HP printers, makes them unable to use HP cartridges](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/)
+- Mar 11 - [Judicial Independence May Require Confrontation](https://www.lawfaremedia.org/article/judicial-independence-may-require-confrontation)
+- Mar 11 - [Pets Can't Stop Watching 'Flow,' the Oscar-Winning Cat Movie](https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html)
+- Mar 11 - [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
+- Mar 11 - [Shef](https://github.com/eduardoagarcia/shef)
+- Mar 11 - [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
 <!--END_SECTION:hn-->
 
 <!--
