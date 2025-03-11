@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
-- Mar 11 - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
-- Mar 11 - [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
-- Mar 11 - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
-- Mar 11 - [Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001)
+- Mar 11 - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
+- Mar 11 - [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
+- Mar 11 - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
+- Mar 11 - [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
+- Mar 11 - [Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
 <!--END_SECTION:hn-->
 
 <!--
