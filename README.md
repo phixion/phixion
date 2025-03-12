@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Sorting Algorithm with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
-- Mar 11 - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
-- Mar 11 - [Unix Needs a True Integrated Environment: CASE Closed (1989) [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
-- Mar 11 - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-- Mar 11 - [India's Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)
+- Mar 12 - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
+- Mar 12 - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
+- Mar 12 - [A look at the creative process behind Bluey and Cocomelon](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
+- Mar 12 - [Happy 10k Day](https://blog.comma.ai/happy10kday/)
+- Mar 12 - [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
 <!--END_SECTION:hn-->
 
 <!--
