@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
-- Mar 12 - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
-- Mar 12 - [A look at the creative process behind Bluey and Cocomelon](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
-- Mar 12 - [Happy 10k Day](https://blog.comma.ai/happy10kday/)
-- Mar 12 - [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
+- Mar 12 - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
+- Mar 12 - [First official release of LLVM Flang](https://blog.llvm.org/posts/2025-03-11-flang-new/)
+- Mar 12 - [A more robust raw OpenBSD syscall demo](https://nullprogram.com/blog/2025/03/06/)
+- Mar 12 - [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
+- Mar 12 - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
 <!--END_SECTION:hn-->
 
 <!--
