@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust](https://github.com/MaxenceMaire/audionimbus)
-- Mar 12 - ['It was chaos': The history of San Francisco's most unforgettable ad](https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php)
-- Mar 12 - [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
-- Mar 12 - [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
-- Mar 12 - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
+- Mar 12 - [Inline Evaluation Adventure](https://rigsomelight.com/2025/03/12/inline-eval-adventure.html)
+- Mar 12 - [Show HN: Nuanced – Help AI understand code structure, not just text](https://www.nuanced.dev/blog/initial-launch)
+- Mar 12 - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
+- Mar 12 - [Shenmue (1999) Reverse Engineering Reveals Possible Sun Position Oversight](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/)
+- Mar 12 - [The Cultural Divide Between Mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
 <!--END_SECTION:hn-->
 
 <!--
