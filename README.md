@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Pivot Robotics (YC W24) Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
-- Mar 12 - [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
-- Mar 12 - [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
-- Mar 12 - [Azure's Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections)
-- Mar 12 - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
+- Mar 12 - [Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust](https://github.com/MaxenceMaire/audionimbus)
+- Mar 12 - ['It was chaos': The history of San Francisco's most unforgettable ad](https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php)
+- Mar 12 - [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
+- Mar 12 - [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
+- Mar 12 - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 <!--END_SECTION:hn-->
 
 <!--
