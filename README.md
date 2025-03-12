@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 12 - [Pivot Robotics (YC W24) Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
+- Mar 12 - [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
+- Mar 12 - [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
+- Mar 12 - [Azure's Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections)
 - Mar 12 - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
-- Mar 12 - [First official release of LLVM Flang](https://blog.llvm.org/posts/2025-03-11-flang-new/)
-- Mar 12 - [A more robust raw OpenBSD syscall demo](https://nullprogram.com/blog/2025/03/06/)
-- Mar 12 - [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
-- Mar 12 - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
 <!--END_SECTION:hn-->
 
 <!--
