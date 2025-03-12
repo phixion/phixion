@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
-- Mar 11 - [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
-- Mar 11 - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
-- Mar 11 - [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
-- Mar 11 - [Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
+- Mar 11 - [Sorting Algorithm with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
+- Mar 11 - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
+- Mar 11 - [Unix Needs a True Integrated Environment: CASE Closed (1989) [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
+- Mar 11 - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
+- Mar 11 - [India's Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)
 <!--END_SECTION:hn-->
 
 <!--
