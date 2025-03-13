@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
-- Mar 13 - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
-- Mar 13 - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
-- Mar 13 - [The Long Flight to Teach an Endangered Ibis Species to Migrate](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate)
-- Mar 13 - [Statistical Formulas for Programmers (2013)](https://www.evanmiller.org/statistical-formulas-for-programmers.html)
+- Mar 13 - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
+- Mar 13 - [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent)
+- Mar 13 - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
+- Mar 13 - [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
+- Mar 13 - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
 <!--END_SECTION:hn-->
 
 <!--
