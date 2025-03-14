@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [ATProto Isn't What You Think](https://blog.muni.town/atproto-isnt-what-you-think/)
+- Mar 14 - [Ex-Facebook director's new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
 - Mar 14 - [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
 - Mar 14 - [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 - Mar 14 - [The Church FAQ](https://whatever.scalzi.com/2025/03/13/the-church-faq/)
