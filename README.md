@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 14 - [Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York)](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
+- Mar 14 - [Migrating from AWS to a European Cloud – How We Cut Costs by 62%](https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62)
+- Mar 14 - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
+- Mar 14 - [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
 - Mar 14 - [Ex-Facebook director's new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
-- Mar 14 - [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
-- Mar 14 - [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
-- Mar 14 - [The Church FAQ](https://whatever.scalzi.com/2025/03/13/the-church-faq/)
-- Mar 14 - ['Profit-Enhancing Middlemen' Fuel $200B Health-Care Chaos](https://www.bloomberg.com/news/features/2025-03-13/middlemen-in-us-health-care-are-driving-up-costs-frustrating-patients)
 <!--END_SECTION:hn-->
 
 <!--
