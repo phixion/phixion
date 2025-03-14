@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
-- Mar 13 - [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent)
-- Mar 13 - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
-- Mar 13 - [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
-- Mar 13 - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
+- Mar 13 - [Ask HN: How to study for system design that doesn't include front end/back end?](https://news.ycombinator.com/item?id=43358293)
+- Mar 13 - [How Pi Almost Wasn't](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
+- Mar 13 - [C Plus Prolog](https://github.com/needleful/c_plus_prolog)
+- Mar 13 - [Voker (YC S24) Is Hiring an LA-Based Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165718206/)
+- Mar 13 - [Tiny changes in gene expression make big difference in eye size of fruit flies](https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html)
 <!--END_SECTION:hn-->
 
 <!--
