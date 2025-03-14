@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - ['A lot worse than expected': AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
-- Mar 14 - [Show HN: CodeVideo – Two years in the making to build an event-sourced IDE](https://studio.codevideo.io)
-- Mar 14 - [Block Diffusion: Interpolating Between Autoregressive and Diffusion Models](https://arxiv.org/abs/2503.09573)
-- Mar 14 - [Fediverse Donut Club](https://sethmlarson.dev/fedi-donut-friday)
-- Mar 14 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
+- Mar 14 - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
+- Mar 14 - [East Asian personality may stem from Ice Age Siberia 20000 yrs ago](https://davidsun.substack.com/p/the-origins-of-arcticism-theory)
+- Mar 14 - [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/)
+- Mar 14 - [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
+- Mar 14 - [Chrome for Android doesn't have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
 <!--END_SECTION:hn-->
 
 <!--
