@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Lazarus Group deceives developers with 6 new malicious NPM packages](https://cyberscoop.com/lazarus-group-north-korea-malicious-npm-packages-socket/)
-- Mar 14 - [Show HN: I lost 15% to Congress' lag, so I built a trade-sniping tool](https://politichook.com/)
-- Mar 14 - [Show HN: Open-Source MCP Server for Context and AI Tools](https://news.ycombinator.com/item?id=43368327)
-- Mar 14 - [New York Times shut down Tor Onion service](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
-- Mar 14 - [Everything you say to your Echo will be sent to Amazon starting on March 28](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/)
+- Mar 15 - [Experts warn about the 'crumbling infrastructure' of federal government data](https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics)
+- Mar 15 - [Optifye.ai (YC W25) Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
+- Mar 15 - [Show HN: eli – Embedded Lisp Interpreter](https://github.com/codr7/eli)
+- Mar 15 - [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
+- Mar 15 - [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)
 <!--END_SECTION:hn-->
 
 <!--
