@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
-- Mar 15 - [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
-- Mar 15 - [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
-- Mar 15 - [For climate and livelihoods, Africa bets big on solar mini-grids](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood)
-- Mar 15 - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
+- Mar 15 - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
+- Mar 15 - [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
+- Mar 15 - [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
+- Mar 15 - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
+- Mar 15 - [Stellar Sleep (YC S23) Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
 <!--END_SECTION:hn-->
 
 <!--
