@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Experts warn about the 'crumbling infrastructure' of federal government data](https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics)
-- Mar 15 - [Optifye.ai (YC W25) Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
+- Mar 15 - [Noloco (YC S21) Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
+- Mar 15 - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 - Mar 15 - [Show HN: eli – Embedded Lisp Interpreter](https://github.com/codr7/eli)
-- Mar 15 - [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
-- Mar 15 - [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)
+- Mar 15 - [Using a graphics tablet as a programming tool (2018)](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
+- Mar 15 - [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
 <!--END_SECTION:hn-->
 
 <!--
