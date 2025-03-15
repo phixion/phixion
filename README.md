@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Noloco (YC S21) Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
+- Mar 15 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
+- Mar 15 - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
+- Mar 15 - [Nubmq: A high performant key-value store engine built from first principles](https://news.ycombinator.com/item?id=43371097)
+- Mar 15 - [Finland's National Allergy Program Successfully Reduces Allergic Diseases](https://publications.ersnet.org/content/erj/49/6/1700470)
 - Mar 15 - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
-- Mar 15 - [Show HN: eli – Embedded Lisp Interpreter](https://github.com/codr7/eli)
-- Mar 15 - [Using a graphics tablet as a programming tool (2018)](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
-- Mar 15 - [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
 <!--END_SECTION:hn-->
 
 <!--
