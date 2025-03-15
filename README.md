@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
-- Mar 15 - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
-- Mar 15 - [Nubmq: A high performant key-value store engine built from first principles](https://news.ycombinator.com/item?id=43371097)
-- Mar 15 - [Finland's National Allergy Program Successfully Reduces Allergic Diseases](https://publications.ersnet.org/content/erj/49/6/1700470)
-- Mar 15 - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
+- Mar 15 - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
+- Mar 15 - [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
+- Mar 15 - [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
+- Mar 15 - [For climate and livelihoods, Africa bets big on solar mini-grids](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood)
+- Mar 15 - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 <!--END_SECTION:hn-->
 
 <!--
