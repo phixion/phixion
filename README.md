@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 15 - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
+- Mar 15 - [How to learn a new language like a baby](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551)
+- Mar 15 - [Parahelp (YC S24) Is Hiring Founding Engineers (SF)](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
 - Mar 15 - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
-- Mar 15 - [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
-- Mar 15 - [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
-- Mar 15 - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
-- Mar 15 - [Stellar Sleep (YC S23) Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
+- Mar 15 - [Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
 <!--END_SECTION:hn-->
 
 <!--
