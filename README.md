@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Imagine an Agent that can hot-reload tools. Open-source](https://github.com/ShaojieJiang/extendable-agent)
+- Mar 16 - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
+- Mar 16 - [Implementing "Tennis for Two" using op amps (2024)](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
+- Mar 16 - [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
+- Mar 16 - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 - Mar 16 - [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
-- Mar 15 - [Career Advice in 2025](https://lethain.com/career-advice-2025/)
-- Mar 15 - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
-- Mar 15 - [Mandelbrot Set Explorer](https://mandelbrot.site)
 <!--END_SECTION:hn-->
 
 <!--
