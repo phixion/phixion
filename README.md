@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
-- Mar 17 - [Spanish toxic oil syndrome cover-up (2001)](https://www.theguardian.com/education/2001/aug/25/research.highereducation)
-- Mar 17 - [The Alexa feature "Do Not Send Voice Recordings" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
-- Mar 17 - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
-- Mar 17 - [Genomic study indicates our capacity for language emerged 135,000 years ago](https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html)
+- Mar 17 - [Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers](https://www.nango.dev/careers)
+- Mar 17 - [Stupid Smart Pointers in C](http://blog.kevinalbs.com/stupid_smart_pointers)
+- Mar 17 - [Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes](https://ghuntley.com/z80/)
+- Mar 17 - [Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
+- Mar 17 - [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
 <!--END_SECTION:hn-->
 
 <!--
