@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 17 - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
+- Mar 17 - [Spanish toxic oil syndrome cover-up (2001)](https://www.theguardian.com/education/2001/aug/25/research.highereducation)
+- Mar 17 - [The Alexa feature "Do Not Send Voice Recordings" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
 - Mar 17 - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
-- Mar 17 - [Arlington Cemetery strips content on black and female veterans from website](https://www.bbc.com/news/articles/cz03gjnxe25o)
-- Mar 17 - [Let's knock down social media's walled gardens – Tim Berners-Lee](https://www.ft.com/content/79d2d19a-08df-48fc-9a6f-a9dbef58f642)
-- Mar 17 - [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
-- Mar 16 - [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
+- Mar 17 - [Genomic study indicates our capacity for language emerged 135,000 years ago](https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html)
 <!--END_SECTION:hn-->
 
 <!--
