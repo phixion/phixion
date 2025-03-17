@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 17 - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
+- Mar 17 - [Arlington Cemetery strips content on black and female veterans from website](https://www.bbc.com/news/articles/cz03gjnxe25o)
+- Mar 17 - [Let's knock down social media's walled gardens – Tim Berners-Lee](https://www.ft.com/content/79d2d19a-08df-48fc-9a6f-a9dbef58f642)
+- Mar 17 - [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 - Mar 16 - [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
-- Mar 16 - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
-- Mar 16 - [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
-- Mar 16 - [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
-- Mar 16 - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
 <!--END_SECTION:hn-->
 
 <!--
