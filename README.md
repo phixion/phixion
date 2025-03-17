@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 16 - [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
+- Mar 16 - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
+- Mar 16 - [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
+- Mar 16 - [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
 - Mar 16 - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
-- Mar 16 - ['Bloody Saturday' at Voice of America and other U.S.-funded networks](https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake)
-- Mar 16 - [How our noisy world is seriously damaging our health](https://www.bbc.com/news/articles/crmjdm2m4yjo)
-- Mar 16 - [Canadian Devs Are Backing Out of Attending GDC](https://www.wired.com/story/canadian-devs-are-backing-out-of-gdc/)
-- Mar 16 - [AI Is Making Developers Dumb](https://eli.cx/blog/ai-is-making-developers-dumb)
 <!--END_SECTION:hn-->
 
 <!--
