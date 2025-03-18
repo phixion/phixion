@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Microsoft isn't fixing 8-year-old shortcut exploit abused for spying](https://www.theregister.com/2025/03/18/microsoft_trend_flaw/)
-- Mar 18 - [North Korea Launders Billions in Stolen Crypto](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto)
-- Mar 18 - [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
-- Mar 18 - [Show HN: I converted my notebook into a searchable database of IT keywords](https://techbook.digital/)
-- Mar 18 - [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)
+- Mar 18 - [Nvidia's RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
+- Mar 18 - [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
+- Mar 18 - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/)
+- Mar 18 - [Learning to Love Dandelions (2021)](https://baynature.org/2021/11/04/learning-to-love-dandelions/)
+- Mar 18 - [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
 <!--END_SECTION:hn-->
 
 <!--
