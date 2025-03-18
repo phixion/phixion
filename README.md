@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 18 - [Repealing the CHIPS Act risks US national security](https://www.ft.com/content/c6e7bc46-ab8f-49b6-8973-8c2906cc3604)
+- Mar 18 - [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
+- Mar 18 - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 - Mar 18 - [Depot (YC W23) is hiring a founding developer marketer (EU/US remote)](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
 - Mar 18 - [When Oregon blew up a whale with 20 cases of dynamite](https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach)
-- Mar 18 - [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
-- Mar 18 - [Rhombus Language](https://rhombus-lang.org)
-- Mar 17 - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
 <!--END_SECTION:hn-->
 
 <!--
