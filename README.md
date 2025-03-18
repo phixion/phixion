@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Sobering Revenue Stats of 70K Mobile Apps Show Why Devs Beg for Subscriptions](https://arstechnica.com/gadgets/2025/03/sobering-revenue-stats-of-70k-mobile-apps-show-why-devs-beg-for-subscriptions/)
+- Mar 18 - [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
+- Mar 18 - [Rhombus Language](https://rhombus-lang.org)
+- Mar 18 - [Doctor Droid (YC W23) Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
 - Mar 17 - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
-- Mar 17 - [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
-- Mar 17 - [France plots tax on super-rich to rearm – and Britain could be next](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/)
-- Mar 17 - [Harvard says tuition will be free for families making $200K or less](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241)
+- Mar 17 - [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 <!--END_SECTION:hn-->
 
 <!--
