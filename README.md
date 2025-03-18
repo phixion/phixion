@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
-- Mar 17 - [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
-- Mar 17 - [Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai)
-- Mar 17 - [Deep Learning Is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
-- Mar 17 - [Chaos in the Cloudflare Lisbon Office](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)
+- Mar 17 - [Sobering Revenue Stats of 70K Mobile Apps Show Why Devs Beg for Subscriptions](https://arstechnica.com/gadgets/2025/03/sobering-revenue-stats-of-70k-mobile-apps-show-why-devs-beg-for-subscriptions/)
+- Mar 17 - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
+- Mar 17 - [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
+- Mar 17 - [France plots tax on super-rich to rearm – and Britain could be next](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/)
+- Mar 17 - [Harvard says tuition will be free for families making $200K or less](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241)
 <!--END_SECTION:hn-->
 
 <!--
