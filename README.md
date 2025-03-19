@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Co-Doodle with Gemini](https://huggingface.co/spaces/Trudy/gemini-codrawing)
+- Mar 19 - [Tesla loses ground as Chinese EVs dominate global markets](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/)
+- Mar 19 - [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
+- Mar 19 - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
+- Mar 19 - [The Molecule of the Month](https://www.chm.bris.ac.uk/motm/motm.htm)
 - Mar 19 - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
-- Mar 19 - [Ask HN: Where do you browse and chat outside of here?](https://news.ycombinator.com/item?id=43408194)
-- Mar 18 - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
-- Mar 18 - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 <!--END_SECTION:hn-->
 
 <!--
