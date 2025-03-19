@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [The Business of Phish (2013)](https://priceonomics.com/business-of-phish/)
-- Mar 19 - [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
-- Mar 19 - [Show HN: AGX – Open-Source Data Exploration for ClickHouse (The New Standard?)](https://github.com/agnosticeng/agx)
-- Mar 19 - [An early look at cryptographic watermarks for AI-generated content](https://blog.cloudflare.com/an-early-look-at-cryptographic-watermarks-for-ai-generated-content/)
-- Mar 19 - [Video game workers in North America now have an industry-wide union](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html)
+- Mar 19 - [Apple ordered by EU antitrust regulators to open up to rivals](https://www.reuters.com/technology/apple-ordered-by-eu-antitrust-regulators-open-up-rivals-2025-03-19/)
+- Mar 19 - [Pierogi in Space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space)
+- Mar 19 - [For Many of America's Aging Workers, 'Retirement Is a Distant Dream'](https://time.com/7260357/aging-workforce/)
+- Mar 19 - [Notebooks as reusable Python programs](https://marimo.io/blog/python-not-json)
+- Mar 19 - [Show HN: We built an agentic image editor that preserves the original structure](https://palette.cam/gallery)
 <!--END_SECTION:hn-->
 
 <!--
