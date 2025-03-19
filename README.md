@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Tesla loses ground as Chinese EVs dominate global markets](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/)
-- Mar 19 - [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
-- Mar 19 - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
-- Mar 19 - [The Molecule of the Month](https://www.chm.bris.ac.uk/motm/motm.htm)
-- Mar 19 - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
+- Mar 19 - [The Business of Phish (2013)](https://priceonomics.com/business-of-phish/)
+- Mar 19 - [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
+- Mar 19 - [Show HN: AGX – Open-Source Data Exploration for ClickHouse (The New Standard?)](https://github.com/agnosticeng/agx)
+- Mar 19 - [An early look at cryptographic watermarks for AI-generated content](https://blog.cloudflare.com/an-early-look-at-cryptographic-watermarks-for-ai-generated-content/)
+- Mar 19 - [Video game workers in North America now have an industry-wide union](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html)
 <!--END_SECTION:hn-->
 
 <!--
