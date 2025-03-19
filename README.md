@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [E-Identity](https://e-estonia.com/solutions/estonian-e-identity/id-card/)
-- Mar 19 - [Why Is White House Using Starlink to 'Improve Wi-Fi'?](https://www.msn.com/en-us/news/technology/wait-why-is-the-white-house-using-starlink-to-improve-wi-fi/ar-AA1BaYFi)
+- Mar 19 - [Co-Doodle with Gemini](https://huggingface.co/spaces/Trudy/gemini-codrawing)
+- Mar 19 - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
+- Mar 19 - [Ask HN: Where do you browse and chat outside of here?](https://news.ycombinator.com/item?id=43408194)
 - Mar 18 - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
 - Mar 18 - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
-- Mar 18 - [Turkish university annuls Erdogan rival's degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
 <!--END_SECTION:hn-->
 
 <!--
