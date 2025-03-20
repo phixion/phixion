@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
-- Mar 20 - ['More Than a Hint' That Dark Energy Isn't What Astronomers Thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)
-- Mar 20 - [Austral: A Systems Language with Linear Types and Capabilities (2022)](https://borretti.me/article/introducing-austral)
-- Mar 20 - [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
-- Mar 20 - [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
+- Mar 20 - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+- Mar 20 - [Dutch Parliament: Time to ditch US tech for homegrown options](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/)
+- Mar 20 - [Ask HN: Why some languages use 1 byte for boolean type](https://news.ycombinator.com/item?id=43421815)
+- Mar 20 - [EU sends Apple first DMA interoperability instructions for apps and devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
+- Mar 20 - [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
 <!--END_SECTION:hn-->
 
 <!--
