@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
-- Mar 19 - [Is Dark Energy Getting Weaker? New Evidence Strengthens the Case](https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/)
-- Mar 19 - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
-- Mar 19 - [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
-- Mar 19 - [OpenAI's o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
+- Mar 20 - [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
+- Mar 20 - [Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices](https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/)
+- Mar 20 - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
+- Mar 20 - [PackagePhobia – Find the cost of adding a new dev dependency to your project](https://packagephobia.com/)
+- Mar 19 - [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/./S25/index.html)
 <!--END_SECTION:hn-->
 
 <!--
