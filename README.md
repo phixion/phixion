@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
-- Mar 20 - [Dutch Parliament: Time to ditch US tech for homegrown options](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/)
-- Mar 20 - [Ask HN: Why some languages use 1 byte for boolean type](https://news.ycombinator.com/item?id=43421815)
-- Mar 20 - [EU sends Apple first DMA interoperability instructions for apps and devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
-- Mar 20 - [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
+- Mar 20 - [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
+- Mar 20 - [ACARS Drama](https://acarsdrama.com/)
+- Mar 20 - [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
+- Mar 20 - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
+- Mar 20 - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
 <!--END_SECTION:hn-->
 
 <!--
