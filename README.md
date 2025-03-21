@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month](https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/)
-- Mar 21 - [Show HN: My Attempt to Organize the World of AI Dev Tools](https://aicode.danvoronov.com/tools/)
-- Mar 21 - [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
-- Mar 21 - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
-- Mar 21 - [Boston Dynamics shows off another major leap in humanoid mobility](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/)
+- Mar 21 - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
+- Mar 21 - [Police-Induced Confessions, 2.0: Risk Factors and Recommendations](https://psycnet.apa.org/fulltext/2025-79126-001.html)
+- Mar 21 - [Congestion Pricing Is a Policy Miracle](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle)
+- Mar 21 - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
+- Mar 21 - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
 <!--END_SECTION:hn-->
 
 <!--
