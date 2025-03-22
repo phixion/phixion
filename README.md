@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
-- Mar 21 - [National Lab Creates New Device to Test Safety Limits of Nuclear Fuel](https://www.energy.gov/ne/articles/national-lab-creates-new-device-test-safety-limits-nuclear-fuel)
-- Mar 21 - [Ask HN: What is the simplest data orchestration tool you've worked with?](https://news.ycombinator.com/item?id=43439939)
-- Mar 21 - [Population much more than 8.2B, rural areas underestimated](https://www.popularmechanics.com/science/environment/a64222314/human-population-count/)
-- Mar 21 - [EU Pushes Ahead with Big Tech Antitrust Enforcement](https://www.wsj.com/tech/eu-pushes-ahead-with-big-tech-antitrust-enforcement-8abd6fdf)
+- Mar 21 - [EFF Border Search Pocket Guide](https://www.eff.org/document/eff-border-search-pocket-guide)
+- Mar 21 - [MySQL transactions per second vs. fsyncs per second (2020)](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
+- Mar 21 - [France rejects backdoor mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
+- Mar 21 - [The little book about OS development](https://littleosbook.github.io/)
+- Mar 21 - [Pen and Paper Exercises in Machine Learning (2022)](https://arxiv.org/abs/2206.13446)
 <!--END_SECTION:hn-->
 
 <!--
