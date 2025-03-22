@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
-- Mar 22 - [George Foreman has died](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
-- Mar 22 - [Imbue (YC S17) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
-- Mar 22 - [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
-- Mar 21 - [MySQL transactions per second vs. fsyncs per second (2020)](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
+- Mar 22 - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
+- Mar 22 - [Amazon wants a product safety regulator declared unconstitutional](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/)
+- Mar 22 - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
+- Mar 22 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
+- Mar 22 - [One mother's win over Meta will change social media for everyone](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z)
 <!--END_SECTION:hn-->
 
 <!--
