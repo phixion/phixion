@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [EFF Border Search Pocket Guide](https://www.eff.org/document/eff-border-search-pocket-guide)
-- Mar 21 - [MySQL transactions per second vs. fsyncs per second (2020)](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
-- Mar 21 - [France rejects backdoor mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
-- Mar 21 - [The little book about OS development](https://littleosbook.github.io/)
-- Mar 21 - [Pen and Paper Exercises in Machine Learning (2022)](https://arxiv.org/abs/2206.13446)
+- Mar 22 - [George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
+- Mar 22 - [The CRPG Renaissance, Part 5: Fallout 2 and Baldur's Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
+- Mar 22 - [Imbue (YC S17) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
+- Mar 22 - [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
+- Mar 22 - [High Frequency Food: Better Cutting with Ultrasonics](https://hackaday.com/2025/03/21/high-frequency-food-better-cutting-with-ultrasonics/)
 <!--END_SECTION:hn-->
 
 <!--
