@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
-- Mar 22 - [Amazon wants a product safety regulator declared unconstitutional](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/)
-- Mar 22 - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
-- Mar 22 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
-- Mar 22 - [One mother's win over Meta will change social media for everyone](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z)
+- Mar 22 - [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
+- Mar 22 - ['Eggflation' sending US shoppers to Mexico – where $300 fines await](https://www.theguardian.com/us-news/2025/mar/21/eggflation-us-mexico-fines)
+- Mar 22 - [Most AI value will come from broad automation, not from R&D](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d)
+- Mar 22 - [Horror on the coast of Oaxaca, a tourist paradise plagued by mass disappearances](https://english.elpais.com/international/2025-03-10/horror-on-the-coast-of-oaxaca-a-tourist-paradise-plagued-by-mass-disappearances.html)
+- Mar 22 - [California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
 <!--END_SECTION:hn-->
 
 <!--
