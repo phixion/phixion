@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
+- Mar 22 - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
+- Mar 22 - [George Foreman has died](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
 - Mar 22 - [The CRPG Renaissance, Part 5: Fallout 2 and Baldur's Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
 - Mar 22 - [Imbue (YC S17) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
 - Mar 22 - [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
-- Mar 22 - [High Frequency Food: Better Cutting with Ultrasonics](https://hackaday.com/2025/03/21/high-frequency-food-better-cutting-with-ultrasonics/)
 <!--END_SECTION:hn-->
 
 <!--
