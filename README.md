@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
-- Mar 23 - [Do Viruses Trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
-- Mar 23 - [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
-- Mar 23 - [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
-- Mar 23 - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
+- Mar 23 - [A USB Interface to the "Mother of All Demos" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
+- Mar 23 - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
+- Mar 23 - [The Worst Programmer I Know (2023)](https://dannorth.net/the-worst-programmer/)
+- Mar 23 - [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
+- Mar 23 - [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
 <!--END_SECTION:hn-->
 
 <!--
