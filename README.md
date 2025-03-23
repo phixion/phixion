@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 23 - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 - Mar 22 - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
-- Mar 22 - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
-- Mar 22 - [CEO of Kubient sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
-- Mar 22 - [Leaping AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
+- Mar 22 - [Older editions of which books were better than the new ones?](https://mathoverflow.net/questions/29710/older-editions-of-which-books-were-better-than-the-new-ones)
 - Mar 22 - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
+- Mar 22 - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 <!--END_SECTION:hn-->
 
 <!--
