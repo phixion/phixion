@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [A USB Interface to the "Mother of All Demos" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
-- Mar 23 - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
-- Mar 23 - [The Worst Programmer I Know (2023)](https://dannorth.net/the-worst-programmer/)
-- Mar 23 - [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
-- Mar 23 - [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
+- Mar 23 - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
+- Mar 23 - [Books on Making and Maintaining Friendships](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/)
+- Mar 23 - [The Software Engineering Identity Crisis](https://annievella.com/posts/the-software-engineering-identity-crisis/)
+- Mar 23 - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
+- Mar 23 - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 <!--END_SECTION:hn-->
 
 <!--
