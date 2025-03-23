@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
-- Mar 22 - ['Eggflation' sending US shoppers to Mexico – where $300 fines await](https://www.theguardian.com/us-news/2025/mar/21/eggflation-us-mexico-fines)
-- Mar 22 - [Most AI value will come from broad automation, not from R&D](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d)
-- Mar 22 - [Horror on the coast of Oaxaca, a tourist paradise plagued by mass disappearances](https://english.elpais.com/international/2025-03-10/horror-on-the-coast-of-oaxaca-a-tourist-paradise-plagued-by-mass-disappearances.html)
-- Mar 22 - [California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
+- Mar 22 - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
+- Mar 22 - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
+- Mar 22 - [CEO of Kubient sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
+- Mar 22 - [Leaping AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
+- Mar 22 - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 <!--END_SECTION:hn-->
 
 <!--
