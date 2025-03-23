@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
+- Mar 23 - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
+- Mar 23 - [Do Viruses Trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
+- Mar 23 - [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 - Mar 23 - [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
 - Mar 23 - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
-- Mar 22 - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
-- Mar 22 - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 <!--END_SECTION:hn-->
 
 <!--
