@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [DNA testing firm 23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
+- Mar 24 - [23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
 - Mar 24 - [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
-- Mar 24 - [The Vatican's Latinist: On the Career of Reginald Foster. (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
+- Mar 24 - [The Vatican's Latinist (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
+- Mar 24 - [63 Chinese Cuisines: The Complete Guide (2024)](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
 - Mar 24 - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
-- Mar 24 - [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
 <!--END_SECTION:hn-->
 
 <!--
