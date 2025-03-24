@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
-- Mar 24 - [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
-- Mar 24 - [The Vatican's Latinist (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
-- Mar 24 - [63 Chinese Cuisines: The Complete Guide (2024)](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
-- Mar 24 - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
+- Mar 24 - [Hitts.cc – Advanced Text to Speech with GPT-4o Mini TTS](https://hitts.cc)
+- Mar 24 - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
+- Mar 24 - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+- Mar 24 - [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)
+- Mar 24 - [Tesla sales drop 35% in San Diego County](https://fox5sandiego.com/news/business/tesla-sales-drop-35-in-san-diego-county/)
 <!--END_SECTION:hn-->
 
 <!--
