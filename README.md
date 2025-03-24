@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [English Scientists Develop Fast, High-Quality AI Weather Model for Desktops](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
-- Mar 23 - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
-- Mar 23 - [RDNA 4's “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
-- Mar 23 - [Show HN: My iOS app to practice sight reading (10 years in the App Store)](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
-- Mar 23 - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
+- Mar 24 - [DNA testing firm 23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
+- Mar 24 - [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
+- Mar 24 - [The Vatican's Latinist: On the Career of Reginald Foster. (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
+- Mar 24 - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
+- Mar 24 - [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
 <!--END_SECTION:hn-->
 
 <!--
