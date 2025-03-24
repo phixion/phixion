@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
-- Mar 23 - [Books on Making and Maintaining Friendships](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/)
-- Mar 23 - [The Software Engineering Identity Crisis](https://annievella.com/posts/the-software-engineering-identity-crisis/)
+- Mar 23 - [English Scientists Develop Fast, High-Quality AI Weather Model for Desktops](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
+- Mar 23 - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
+- Mar 23 - [RDNA 4's “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
+- Mar 23 - [Show HN: My iOS app to practice sight reading (10 years in the App Store)](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
 - Mar 23 - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
-- Mar 23 - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 <!--END_SECTION:hn-->
 
 <!--
