@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
-- Mar 24 - [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/)
-- Mar 24 - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
-- Mar 24 - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
-- Mar 24 - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+- Mar 24 - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
+- Mar 24 - [Building an idempotent email API with River unique jobs](https://riverqueue.com/blog/idempotent-email-api-with-river)
+- Mar 24 - [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
+- Mar 24 - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
+- Mar 24 - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
 <!--END_SECTION:hn-->
 
 <!--
