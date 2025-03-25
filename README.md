@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Why is C the symbol for the speed of light?](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
-- Mar 25 - [Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI](https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi)
-- Mar 25 - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
-- Mar 25 - [Beej's Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)
-- Mar 25 - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
+- Mar 25 - [Microsoft's many Outlooks are confusing users – including its own employees](https://www.theregister.com/2025/03/25/too_many_outlooks/)
+- Mar 25 - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
+- Mar 25 - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
+- Mar 25 - [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
+- Mar 25 - [AI bots are destroying Open Access](https://go-to-hellman.blogspot.com/2025/03/ai-bots-are-destroying-open-access.html)
 <!--END_SECTION:hn-->
 
 <!--
