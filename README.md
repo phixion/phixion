@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [White House Says Gold Reserves May Be Used to Purchase Bitcoin](https://finance.yahoo.com/news/white-house-says-gold-reserves-213421472.html)
-- Mar 25 - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)
-- Mar 25 - [Open source AI agent helper to let it SEE what its doing](https://github.com/monteslu/vibe-eyes)
-- Mar 25 - [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
-- Mar 24 - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
+- Mar 25 - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+- Mar 25 - [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)
+- Mar 25 - [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
+- Mar 25 - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
+- Mar 25 - [David Lynch Presents Interview Project](https://www.youtube.com/channel/UC4lrTWEywA3JfR-N_dv0d4A)
 <!--END_SECTION:hn-->
 
 <!--
