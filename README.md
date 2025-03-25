@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
-- Mar 24 - [Building an idempotent email API with River unique jobs](https://riverqueue.com/blog/idempotent-email-api-with-river)
-- Mar 24 - [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
-- Mar 24 - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
-- Mar 24 - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
+- Mar 24 - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
+- Mar 24 - [Intel: A Bug and a Pro – By Bradford Morgan White](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
+- Mar 24 - [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
+- Mar 24 - [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
+- Mar 24 - [Arc-AGI-2 and ARC Prize 2025](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025)
 <!--END_SECTION:hn-->
 
 <!--
