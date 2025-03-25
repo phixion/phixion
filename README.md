@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
-- Mar 24 - [Intel: A Bug and a Pro – By Bradford Morgan White](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
-- Mar 24 - [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
-- Mar 24 - [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
-- Mar 24 - [Arc-AGI-2 and ARC Prize 2025](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025)
+- Mar 25 - [White House Says Gold Reserves May Be Used to Purchase Bitcoin](https://finance.yahoo.com/news/white-house-says-gold-reserves-213421472.html)
+- Mar 25 - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)
+- Mar 25 - [Open source AI agent helper to let it SEE what its doing](https://github.com/monteslu/vibe-eyes)
+- Mar 25 - [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
+- Mar 24 - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 <!--END_SECTION:hn-->
 
 <!--
