@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Ask HN: Is Washington Post correct in saying Signal is unsecure?](https://news.ycombinator.com/item?id=43483519)
-- Mar 26 - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
-- Mar 26 - [Collapse OS](http://collapseos.org/)
-- Mar 26 - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
-- Mar 26 - [The Gang of Four is wrong and you don't understand delegation (2012)](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
+- Mar 26 - [Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp)
+- Mar 26 - [Airline Demand Between Canada and United States Collapses, Down 70%+](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/)
+- Mar 26 - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
+- Mar 26 - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
+- Mar 26 - [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
 <!--END_SECTION:hn-->
 
 <!--
