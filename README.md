@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
 - Mar 25 - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 - Mar 25 - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 - Mar 25 - [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
 - Mar 25 - [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
+- Mar 25 - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
 <!--END_SECTION:hn-->
 
 <!--
