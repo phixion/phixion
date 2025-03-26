@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Jeffrey Goldberg on the Group Chat That Broke the Internet](https://www.theatlantic.com/podcasts/archive/2025/03/jeffrey-goldberg-group-chat-broke-internet/682161/)
-- Mar 26 - [How to protect your phone and data privacy at the US border](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
-- Mar 26 - [Europe's Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
-- Mar 26 - [Gemini 2.5 Pro reasons about task feasibility](https://everything.intellectronica.net/p/negotiating-with-the-machine)
-- Mar 26 - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
+- Mar 26 - [Ask HN: Is Washington Post correct in saying Signal is unsecure?](https://news.ycombinator.com/item?id=43483519)
+- Mar 26 - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
+- Mar 26 - [Collapse OS](http://collapseos.org/)
+- Mar 26 - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
+- Mar 26 - [The Gang of Four is wrong and you don't understand delegation (2012)](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
 <!--END_SECTION:hn-->
 
 <!--
