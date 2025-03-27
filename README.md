@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
-- Mar 26 - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
-- Mar 26 - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
-- Mar 26 - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
-- Mar 26 - [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
+- Mar 27 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+- Mar 27 - [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
+- Mar 27 - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
+- Mar 27 - [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
+- Mar 27 - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
 <!--END_SECTION:hn-->
 
 <!--
