@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
-- Mar 27 - [Mud, water and wood: The system that kept a 1604-year-old city afloat](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice)
-- Mar 27 - [Netlify deploys hundreds of thousands of Next.js sites – here's what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
-- Mar 27 - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
-- Mar 27 - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
+- Mar 27 - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
+- Mar 27 - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
+- Mar 27 - [A language for building concurrent software with confidence](https://github.com/inko-lang/inko)
+- Mar 27 - [Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
+- Mar 27 - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
 <!--END_SECTION:hn-->
 
 <!--
