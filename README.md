@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp)
-- Mar 26 - [Airline Demand Between Canada and United States Collapses, Down 70%+](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/)
-- Mar 26 - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
-- Mar 26 - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
-- Mar 26 - [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
+- Mar 26 - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
+- Mar 26 - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
+- Mar 26 - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
+- Mar 26 - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
+- Mar 26 - [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 <!--END_SECTION:hn-->
 
 <!--
