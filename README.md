@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 27 - [Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8)
 - Mar 27 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 - Mar 27 - [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
 - Mar 27 - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
 - Mar 27 - [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
-- Mar 27 - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
 <!--END_SECTION:hn-->
 
 <!--
