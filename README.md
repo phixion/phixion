@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
-- Mar 28 - [The Pyrex Glass Controversy That Just Won't Die (2019)](https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962)
-- Mar 28 - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
-- Mar 28 - [Show HN: Cursor IDE now remembers your coding prefs using MCP](https://news.ycombinator.com/item?id=43506068)
-- Mar 28 - [The Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+- Mar 28 - [The Art of DJing: Avalon Emerson](https://it.ra.co/features/3392)
+- Mar 28 - [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
+- Mar 28 - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
+- Mar 28 - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
+- Mar 28 - [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
 <!--END_SECTION:hn-->
 
 <!--
