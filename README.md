@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Software Eng Intern – Structured Labs (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
-- Mar 28 - [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
-- Mar 28 - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
-- Mar 28 - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
-- Mar 28 - [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
+- Mar 28 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- Mar 28 - [Jevons Paradox: A Personal Perspective](https://fakepixels.substack.com/p/jevons-paradox-a-personal-perspective)
+- Mar 28 - [The Last Stand of the Corporate Peacock](https://wrk3.substack.com/p/the-last-stand-of-the-corporate-peacock)
+- Mar 28 - [iPhone users can now set WhatsApp as their default calling and texting app](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app)
+- Mar 28 - [Google is publishing the home addresses of developers without their consent](https://news.ycombinator.com/item?id=43503720)
 <!--END_SECTION:hn-->
 
 <!--
