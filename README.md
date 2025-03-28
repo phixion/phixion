@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
-- Mar 27 - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
-- Mar 27 - [A language for building concurrent software with confidence](https://github.com/inko-lang/inko)
-- Mar 27 - [Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
-- Mar 27 - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
+- Mar 27 - [Most promoted and blocked domains on Kagi](https://kagi.com/stats?stat=leaderboard)
+- Mar 27 - [Apple needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
+- Mar 27 - [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
+- Mar 27 - [Asking Good Questions Is Harder Than Giving Great Answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
+- Mar 27 - [Writing an HTTP Server in Go from Scratch: Part 2](https://www.krayorn.com/posts/http-server-go-2/)
 <!--END_SECTION:hn-->
 
 <!--
