@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [The Art of DJing: Avalon Emerson](https://it.ra.co/features/3392)
-- Mar 28 - [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
-- Mar 28 - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
-- Mar 28 - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
-- Mar 28 - [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
+- Mar 28 - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
+- Mar 28 - [2025 Tariff Impacts at Puget Systems](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/)
+- Mar 28 - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
+- Mar 28 - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
+- Mar 28 - [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
 <!--END_SECTION:hn-->
 
 <!--
