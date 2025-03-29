@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
-- Mar 29 - [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)
-- Mar 29 - [Madison Square Garden's surveillance banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
-- Mar 28 - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
-- Mar 28 - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
+- Mar 29 - [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
+- Mar 29 - [Upcoming Windows 11 builds cannot install without internet and Microsoft Account](https://infosec.exchange/@wdormann/114242475168860209)
+- Mar 29 - [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)
+- Mar 29 - [Plain – a web framework for building products with Python](https://plainframework.com/)
+- Mar 29 - [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
 <!--END_SECTION:hn-->
 
 <!--
