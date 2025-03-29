@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
-- Mar 29 - [Koto Programming Language](https://koto.dev/)
-- Mar 29 - [Real Time Chess – A physical chess board without the concept of turns](https://github.com/misprit7/real-time-chess)
-- Mar 29 - [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
-- Mar 29 - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
+- Mar 29 - [I don't think I can trust Google as my search engine anymore](https://www.androidpolice.com/google-search-engine-lost-my-trust/)
+- Mar 29 - [ICE detains Harvard researcher from Russia who protested Ukraine war](https://www.washingtonpost.com/immigration/2025/03/28/harvard-researcher-detained-ice-russia-deportation/)
+- Mar 29 - [Body Doubling](https://en.wikipedia.org/wiki/Body_doubling)
+- Mar 29 - [When the physicists need burner phones, that's when you know America's changed](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed)
+- Mar 29 - [Free Output – AI output copyright status checker](https://freeoutput.org/)
 <!--END_SECTION:hn-->
 
 <!--
