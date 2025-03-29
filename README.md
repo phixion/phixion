@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
-- Mar 29 - [Upcoming Windows 11 builds cannot install without internet and Microsoft Account](https://infosec.exchange/@wdormann/114242475168860209)
-- Mar 29 - [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)
-- Mar 29 - [Plain – a web framework for building products with Python](https://plainframework.com/)
-- Mar 29 - [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
+- Mar 29 - [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
+- Mar 29 - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
+- Mar 29 - [Andrej Karpathy on the State of Web Development](https://twitter.com/karpathy/status/1905051558783418370)
+- Mar 29 - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
+- Mar 29 - [Et Tu, Grammarly?](https://dbushell.com/2025/03/29/et-tu-grammarly/)
 <!--END_SECTION:hn-->
 
 <!--
