@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 30 - [German Doner Kebab - 162,373 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GermanDonerKebab)
 - Mar 25 - [Troy Hunt's Mailchimp List - 16,627 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TroyHuntMailchimpList)
 - Mar 19 - [SpyX - 1,977,011 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SpyX)
 - Mar 19 - [Lexipol - 672,546 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Lexipol)
 - Mar 03 - [Color Dating - 220,503 breached accounts](https://haveibeenpwned.com/PwnedWebsites#ColorDating)
-- Mar 02 - [Flat Earth Sun, Moon and Zodiac App - 33,294 breached accounts](https://haveibeenpwned.com/PwnedWebsites#FlatEarthDave)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
-- Mar 30 - [An Ode to the Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
-- Mar 30 - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
-- Mar 30 - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
-- Mar 30 - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
+- Mar 30 - [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
+- Mar 30 - [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
+- Mar 30 - [File Systems Unfit as Distributed Storage Back Ends (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
+- Mar 30 - [Can Earth's rotation generate power? Physicists divided over controversial claim](https://www.nature.com/articles/d41586-025-00847-0)
+- Mar 30 - [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
 <!--END_SECTION:hn-->
 
 <!--
