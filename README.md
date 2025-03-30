@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Mar 30 - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
+- Mar 30 - [Electric power generation from Earth's rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
 - Mar 30 - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
-- Mar 30 - [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)
 - Mar 30 - [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
-- Mar 30 - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
+- Mar 29 - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
 <!--END_SECTION:hn-->
 
 <!--
