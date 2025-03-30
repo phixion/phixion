@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [I don't think I can trust Google as my search engine anymore](https://www.androidpolice.com/google-search-engine-lost-my-trust/)
-- Mar 29 - [ICE detains Harvard researcher from Russia who protested Ukraine war](https://www.washingtonpost.com/immigration/2025/03/28/harvard-researcher-detained-ice-russia-deportation/)
-- Mar 29 - [Body Doubling](https://en.wikipedia.org/wiki/Body_doubling)
-- Mar 29 - [When the physicists need burner phones, that's when you know America's changed](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed)
-- Mar 29 - [Free Output – AI output copyright status checker](https://freeoutput.org/)
+- Mar 30 - [Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization](https://github.com/rwindegger/msgpack23)
+- Mar 30 - [Trump's Police Are Now Disappearing Students for Their Op-Eds](https://www.techdirt.com/2025/03/27/trumps-secret-police-are-now-disappearing-students-for-their-op-eds/)
+- Mar 29 - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
+- Mar 29 - [Apple losing over $1B a year on streaming service](https://www.reuters.com/technology/apple-losing-over-1-billion-year-streaming-service-information-reports-2025-03-20/)
+- Mar 29 - ["Moonshots" Initiative to Secure the Future of RISC OS](https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os)
 <!--END_SECTION:hn-->
 
 <!--
