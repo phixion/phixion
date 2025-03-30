@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 30 - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
+- Mar 30 - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
+- Mar 30 - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
+- Mar 30 - [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
 - Mar 30 - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
-- Mar 30 - [Electric power generation from Earth's rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
-- Mar 30 - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
-- Mar 30 - [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
-- Mar 29 - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
 <!--END_SECTION:hn-->
 
 <!--
