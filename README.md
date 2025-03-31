@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
-- Mar 30 - [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
-- Mar 30 - [File Systems Unfit as Distributed Storage Back Ends (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
-- Mar 30 - [Can Earth's rotation generate power? Physicists divided over controversial claim](https://www.nature.com/articles/d41586-025-00847-0)
-- Mar 30 - [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
+- Mar 31 - [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
+- Mar 30 - [Oka.wiki](https://oka.wiki/)
+- Mar 30 - [Luigi Mangione-Inspired Ballot Initiative Targets Health Insurance Denials](https://www.newsweek.com/luigi-mangione-inspired-ballot-initiative-targets-health-insurance-denials-2052789)
+- Mar 30 - [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
+- Mar 30 - [MAME 0.276](https://www.mamedev.org/?p=549)
 <!--END_SECTION:hn-->
 
 <!--
