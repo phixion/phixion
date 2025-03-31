@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
-- Mar 30 - [Oka.wiki](https://oka.wiki/)
-- Mar 30 - [Luigi Mangione-Inspired Ballot Initiative Targets Health Insurance Denials](https://www.newsweek.com/luigi-mangione-inspired-ballot-initiative-targets-health-insurance-denials-2052789)
-- Mar 30 - [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
-- Mar 30 - [MAME 0.276](https://www.mamedev.org/?p=549)
+- Mar 31 - [Fiber optic drones are changing combat operations](https://www.youtube.com/watch?v=JcB4dR_8xPo)
+- Mar 31 - [Optifye.ai (YC W25) Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
+- Mar 31 - [Rare Merlin and King Arthur manuscript fragment discovered in book binding](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
+- Mar 31 - [How Each Pillar of the First Amendment Is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/)
+- Mar 31 - [Installing air filters in classrooms has surprisingly large educational benefits (2020)](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
 <!--END_SECTION:hn-->
 
 <!--
