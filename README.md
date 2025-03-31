@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Wondercraft (YC S22) Is Hiring](https://news.ycombinator.com/item?id=43532009)
-- Mar 31 - [Taming the UB Monsters in C++](https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/)
-- Mar 31 - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
-- Mar 31 - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
-- Mar 31 - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
+- Mar 31 - [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex)
+- Mar 31 - [Eco Cycles or How I Feel About Technology](https://maksimizmaylov.com/writing/eco-cycles/)
+- Mar 31 - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
+- Mar 31 - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+- Mar 31 - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 <!--END_SECTION:hn-->
 
 <!--
