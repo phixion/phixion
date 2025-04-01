@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Everything Is Ghibli](https://carly.substack.com/p/everything-is-ghibli)
-- Mar 31 - [Go Optimization Guide](https://goperf.dev/)
-- Mar 31 - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
-- Mar 31 - [JEP draft: Prepare to make final mean final](https://openjdk.org/jeps/8349536)
-- Mar 31 - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
+- Apr 01 - [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
+- Apr 01 - [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
+- Apr 01 - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
+- Apr 01 - [Netflix's Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
+- Mar 31 - [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
 <!--END_SECTION:hn-->
 
 <!--
