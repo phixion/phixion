@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
-- Apr 01 - [We Can, Must, and Will Simulate Nematode Brains](https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains)
-- Apr 01 - [Launch HN: ASim (YC S21) – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
-- Apr 01 - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
-- Apr 01 - [Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst](https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb)
+- Apr 01 - [Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
+- Apr 01 - [Dave Täht has passed away](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
+- Apr 01 - [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
+- Apr 01 - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
+- Apr 01 - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 <!--END_SECTION:hn-->
 
 <!--
