@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
-- Apr 01 - [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
-- Apr 01 - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
-- Apr 01 - [Netflix's Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
-- Mar 31 - [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
+- Apr 01 - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
+- Apr 01 - [Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote)](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc)
+- Apr 01 - [LLM providers on the cusp of an 'extinction' phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
+- Apr 01 - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
+- Apr 01 - [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
 <!--END_SECTION:hn-->
 
 <!--
