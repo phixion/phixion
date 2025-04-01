@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-- Apr 01 - [Ukrainian Soldiers Unearth Ancient Greek Burial](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/)
-- Apr 01 - [Self-Hosting like it's 2025](https://kiranet.org/self-hosting-like-its-2025/)
-- Apr 01 - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
-- Apr 01 - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
+- Apr 01 - [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
+- Apr 01 - [We Can, Must, and Will Simulate Nematode Brains](https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains)
+- Apr 01 - [Launch HN: ASim (YC S21) – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
+- Apr 01 - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
+- Apr 01 - [Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst](https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb)
 <!--END_SECTION:hn-->
 
 <!--
