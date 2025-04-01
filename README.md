@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
-- Mar 31 - [OpenAI releasing new open model in coming months, seeks community feedback](https://openai.com/open-model-feedback/)
+- Mar 31 - [Everything Is Ghibli](https://carly.substack.com/p/everything-is-ghibli)
+- Mar 31 - [Go Optimization Guide](https://goperf.dev/)
+- Mar 31 - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
+- Mar 31 - [JEP draft: Prepare to make final mean final](https://openjdk.org/jeps/8349536)
 - Mar 31 - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
-- Mar 31 - [Notes on the Pentium's Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
-- Mar 31 - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 <!--END_SECTION:hn-->
 
 <!--
