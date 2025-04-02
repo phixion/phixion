@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
-- Apr 02 - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
-- Apr 02 - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
-- Apr 02 - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
-- Apr 01 - [The state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
+- Apr 02 - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
+- Apr 02 - [Porting Tailscale to Plan 9](https://tailscale.com/blog/plan9-port)
+- Apr 02 - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
+- Apr 02 - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
+- Apr 02 - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 <!--END_SECTION:hn-->
 
 <!--
