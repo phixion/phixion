@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
-- Apr 01 - [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
-- Apr 01 - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
-- Apr 01 - [Testing DVD-R and CD-R 25 years later: optical disks from Japan](https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/)
-- Apr 01 - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
+- Apr 02 - [Move fast, break things: A review of Abundance by Ezra Klein and Derek Thompson](https://networked.substack.com/p/move-fast-and-break-things)
+- Apr 02 - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
+- Apr 02 - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
+- Apr 02 - [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
+- Apr 02 - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
 <!--END_SECTION:hn-->
 
 <!--
