@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
-- Apr 02 - [Porting Tailscale to Plan 9](https://tailscale.com/blog/plan9-port)
-- Apr 02 - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
-- Apr 02 - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
-- Apr 02 - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
+- Apr 02 - [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
+- Apr 02 - [Waltz's team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
+- Apr 02 - [Item Flow, Part 1: A new unified concept for layout](https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/)
+- Apr 02 - [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
+- Apr 02 - [Ask HN: How do you make a living contributing to and/or creating OSS projects?](https://news.ycombinator.com/item?id=43559733)
 <!--END_SECTION:hn-->
 
 <!--
