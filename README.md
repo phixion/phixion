@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)
+- Apr 02 - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
 - Apr 02 - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
-- Apr 02 - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
 - Apr 02 - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 - Apr 02 - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
+- Apr 01 - [The state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
 <!--END_SECTION:hn-->
 
 <!--
