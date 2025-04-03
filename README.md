@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [.NET library MassTransit going commercial with V9](https://masstransit.io/introduction/v9-announcement)
+- Apr 03 - [Type (YC W23) is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
+- Apr 03 - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 - Apr 03 - [DIY Synths Database](https://diy-synths.snnkv.com/)
-- Apr 03 - [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
 - Apr 03 - [Dijkstra On the foolishness of "natural language programming"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 - Apr 03 - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
 <!--END_SECTION:hn-->
