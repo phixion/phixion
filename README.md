@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Type (YC W23) is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
-- Apr 03 - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
-- Apr 03 - [DIY Synths Database](https://diy-synths.snnkv.com/)
-- Apr 03 - [Dijkstra On the foolishness of "natural language programming"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- Apr 03 - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
+- Apr 03 - [Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
+- Apr 03 - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
+- Apr 03 - [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
+- Apr 03 - [Show HN: The C3 programming language (C alternative language)](https://news.ycombinator.com/item?id=43569724)
+- Apr 03 - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
 <!--END_SECTION:hn-->
 
 <!--
