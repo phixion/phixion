@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
-- Apr 03 - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
-- Apr 03 - [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
-- Apr 03 - [Show HN: The C3 programming language (C alternative language)](https://news.ycombinator.com/item?id=43569724)
-- Apr 03 - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
+- Apr 03 - [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
+- Apr 03 - [Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day)
+- Apr 03 - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
+- Apr 03 - [Bikes in the Age of Tariffs](https://www.renehersecycles.com/bikes-in-the-age-of-tariffs/)
+- Apr 03 - [Show HN: Hatchet v1 – a task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
 <!--END_SECTION:hn-->
 
 <!--
