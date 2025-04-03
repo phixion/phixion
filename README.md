@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
-- Apr 02 - [Switzerland's vinyl turntable roundabout: Unique road art (2019)](https://www.newlyswissed.com/turntable-roundabout-in-switzerland/)
-- Apr 02 - [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
-- Apr 02 - [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
-- Apr 02 - [Are people bad at their jobs or are the jobs just bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
+- Apr 03 - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
+- Apr 03 - [Tech companies are telling immigrant employees on visas not to leave the U.S.](https://www.washingtonpost.com/technology/2025/03/31/immigration-h1b-fear-siliconvalley/)
+- Apr 03 - [Search could be so much better. And I don't mean chatbots with web access](https://www.matterrank.ai/mission)
+- Apr 03 - [The reality of working in tech: We're not hired to write code (2023)](https://idiallo.com/blog/code-for-hire)
+- Apr 03 - [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 <!--END_SECTION:hn-->
 
 <!--
