@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html)
-- Apr 04 - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
-- Apr 03 - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
-- Apr 03 - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
-- Apr 03 - [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
+- Apr 04 - [When I converted my home from gas to electric my utility bills nearly doubled](https://www.washingtonpost.com/home/2025/04/02/electric-power-home-conversion/)
+- Apr 04 - [Microsoft will kill Remote Desktop soon, insists you'll love replacement](https://www.theregister.com/2025/03/11/microsoft_remote_desktop_support/)
+- Apr 04 - [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
+- Apr 04 - [I just want to serve 5 terabytes [video]](https://www.youtube.com/watch?v=3t6L-FlfeaI)
+- Apr 04 - [Gumroad is now open source](https://github.com/antiwork/gumroad)
 <!--END_SECTION:hn-->
 
 <!--
