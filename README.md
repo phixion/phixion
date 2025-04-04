@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
-- Apr 03 - [Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day)
-- Apr 03 - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
-- Apr 03 - [Bikes in the Age of Tariffs](https://www.renehersecycles.com/bikes-in-the-age-of-tariffs/)
-- Apr 03 - [Show HN: Hatchet v1 – a task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
+- Apr 03 - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+- Apr 03 - [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)
+- Apr 03 - [The Mainframe Vocabulary Problem, and Why It Matters](https://mainframesociety.com/news/2588640)
+- Apr 03 - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
+- Apr 03 - [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
 <!--END_SECTION:hn-->
 
 <!--
