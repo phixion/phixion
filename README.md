@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Wealthy Americans have death rates on par with poor Europeans](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/)
-- Apr 04 - [Purple exists only in our brains](https://www.snexplores.org/article/color-purple-exists-only-in-brain)
-- Apr 04 - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
-- Apr 04 - [Gumroad is now open source](https://github.com/antiwork/gumroad)
-- Apr 04 - [Hackers strike Australia's largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
+- Apr 04 - [The Spanish electricity market registers negative prices](https://aleasoft.com/negative-prices-spanish-electricity-market/)
+- Apr 04 - [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
+- Apr 04 - [SpaceX's Fram2 returns from first-of-its-kind mission around Earth's poles](https://www.cnn.com/2025/04/04/science/spacex-fram2-mission-return-earth/index.html)
+- Apr 04 - [Germany's 'Deutschlandticket' helps environment – study](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647)
+- Apr 04 - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
 <!--END_SECTION:hn-->
 
 <!--
