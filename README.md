@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Nebula Sans](https://nebulasans.com/)
-- Apr 05 - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
-- Apr 05 - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
-- Apr 05 - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
-- Apr 05 - [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
+- Apr 05 - [AdNauseam: Clicking ads so you don't have to](https://adnauseam.io/)
+- Apr 05 - [Europe needs its own social media platforms to safeguard sovereignty](https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/)
+- Apr 05 - [Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol)
+- Apr 05 - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
+- Apr 05 - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 <!--END_SECTION:hn-->
 
 <!--
