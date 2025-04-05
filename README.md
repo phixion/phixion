@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [AdNauseam: Clicking ads so you don't have to](https://adnauseam.io/)
-- Apr 05 - [Europe needs its own social media platforms to safeguard sovereignty](https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/)
-- Apr 05 - [Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol)
-- Apr 05 - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
-- Apr 05 - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
+- Apr 05 - [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
+- Apr 05 - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
+- Apr 05 - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
+- Apr 05 - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
+- Apr 05 - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 <!--END_SECTION:hn-->
 
 <!--
