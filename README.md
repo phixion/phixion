@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [The Spanish electricity market registers negative prices](https://aleasoft.com/negative-prices-spanish-electricity-market/)
+- Apr 04 - [The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/)
+- Apr 04 - [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
+- Apr 04 - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
 - Apr 04 - [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
-- Apr 04 - [SpaceX's Fram2 returns from first-of-its-kind mission around Earth's poles](https://www.cnn.com/2025/04/04/science/spacex-fram2-mission-return-earth/index.html)
-- Apr 04 - [Germany's 'Deutschlandticket' helps environment – study](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647)
-- Apr 04 - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
+- Apr 04 - [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 <!--END_SECTION:hn-->
 
 <!--
