@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
-- Apr 05 - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
-- Apr 05 - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
-- Apr 05 - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
-- Apr 05 - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
+- Apr 05 - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+- Apr 05 - [NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
+- Apr 05 - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
+- Apr 05 - [What If We Made Advertising Illegal?](https://simone.org/advertising/)
+- Apr 05 - [Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
 <!--END_SECTION:hn-->
 
 <!--
