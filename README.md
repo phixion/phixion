@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [UK bans fake reviews and sneaky fees](https://www.theguardian.com/money/2025/apr/06/uk-bans-22bn-sneaky-fees-and-fake-reviews-for-online-products)
-- Apr 06 - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
-- Apr 06 - [The death of the middle-class restaurant](https://www.nytimes.com/2025/04/04/dining/middle-class-restaurant.html)
-- Apr 05 - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
-- Apr 05 - [The ADHD body double: A unique tool for getting things done](https://add.org/the-body-double/)
+- Apr 06 - [ChatGPT-4o used to create a replica of his passport in just 5 mins bypassing KYC](https://securityaffairs.com/176224/security/chatgpt-4o-to-create-a-replica-of-his-passport-in-just-five-minutes.html)
+- Apr 06 - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
+- Apr 06 - [How to Make Superbabies](https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies)
+- Apr 06 - [The "S" in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
+- Apr 06 - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 <!--END_SECTION:hn-->
 
 <!--
