@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
-- Apr 06 - [Why Lotus Domino? (2024)](http://www.moohar.com/blog/why_domino)
-- Apr 06 - [Glamorous Toolkit](https://gtoolkit.com//)
-- Apr 06 - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
-- Apr 06 - [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
+- Apr 07 - [Bluesky's Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
+- Apr 07 - [Classic HN: ITAPPMONROBOT](https://thedailywtf.com/articles/ITAPPMONROBOT)
+- Apr 07 - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
+- Apr 07 - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
+- Apr 07 - [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
 <!--END_SECTION:hn-->
 
 <!--
