@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 07 - [Circuit Breaker Triggered in Japan for Stock Futures Trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
+- Apr 07 - [After 'coding error' triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
+- Apr 06 - [Why Lotus Domino? (2024)](http://www.moohar.com/blog/why_domino)
 - Apr 06 - [Glamorous Toolkit](https://gtoolkit.com//)
-- Apr 06 - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
-- Apr 06 - [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
-- Apr 06 - [Visual Perception in the Brain of a Jumping Spider(2014)](https://www.cell.com/current-biology/fulltext/S0960-9822(14)01150-6)
-- Apr 06 - [Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/)
+- Apr 06 - [SciOp torrents: download, seed erased US Gov sites and datasets](https://sciop.net/uploads/)
 <!--END_SECTION:hn-->
 
 <!--
