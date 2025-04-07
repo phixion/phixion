@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Bluesky's Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
-- Apr 07 - [Classic HN: ITAPPMONROBOT](https://thedailywtf.com/articles/ITAPPMONROBOT)
-- Apr 07 - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
-- Apr 07 - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
-- Apr 07 - [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
+- Apr 07 - [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
+- Apr 07 - [LLMs understand nullability](https://dmodel.ai/nullability-gentle/)
+- Apr 07 - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
+- Apr 07 - [Watch Antimatter Fall: Scientists Capture Gravity's Pull with a 3840MP Camera](https://scitechdaily.com/watch-antimatter-fall-scientists-capture-gravitys-pull-with-a-3840mp-camera/)
+- Apr 07 - [Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/)
 <!--END_SECTION:hn-->
 
 <!--
