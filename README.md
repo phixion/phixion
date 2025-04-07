@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Gmail E2E is as terrible as expected](https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/)
-- Apr 06 - [The Treachery of Image Files (2020)](http://beyondloom.com/blog/images.html)
-- Apr 06 - [Gumroad's Interestingly Timed "Open-Source" Play](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/)
-- Apr 06 - [Jeff Geerling won't connect his dishwasher to your stupid cloud [video]](https://www.youtube.com/watch?v=5M_hmwBBPnc)
-- Apr 06 - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
+- Apr 06 - [Glamorous Toolkit](https://gtoolkit.com//)
+- Apr 06 - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
+- Apr 06 - [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
+- Apr 06 - [Visual Perception in the Brain of a Jumping Spider(2014)](https://www.cell.com/current-biology/fulltext/S0960-9822(14)01150-6)
+- Apr 06 - [Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/)
 <!--END_SECTION:hn-->
 
 <!--
