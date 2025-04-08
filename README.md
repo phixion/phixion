@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
-- Apr 08 - [IBM Announces the Z17 Mainframe Powered by Telum II Processors](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced)
-- Apr 08 - [An Overwhelmingly Negative and Demoralizing Force](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney)
-- Apr 08 - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
-- Apr 08 - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
+- Apr 08 - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
+- Apr 08 - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
+- Apr 08 - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
+- Apr 08 - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
+- Apr 08 - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
 <!--END_SECTION:hn-->
 
 <!--
