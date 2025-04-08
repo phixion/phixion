@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
-- Apr 08 - [String Theorists Say Black Holes Are Multidimensional String 'Supermazes'](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
-- Apr 08 - [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
-- Apr 08 - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
-- Apr 08 - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
+- Apr 08 - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
+- Apr 08 - [IBM Announces the Z17 Mainframe Powered by Telum II Processors](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced)
+- Apr 08 - [An Overwhelmingly Negative and Demoralizing Force](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney)
+- Apr 08 - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
+- Apr 08 - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
 <!--END_SECTION:hn-->
 
 <!--
