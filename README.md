@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
-- Apr 07 - [Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/)
-- Apr 07 - [Choviva: Chocolate replacement with less CO2 emissions](https://choviva.com/details)
-- Apr 07 - [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
-- Apr 07 - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
+- Apr 08 - [Framework temporarily pausing some laptop sales in the US due to tariffs](https://fosstodon.org/@frameworkcomputer/114297967333461078)
+- Apr 07 - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
+- Apr 07 - [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
+- Apr 07 - [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
+- Apr 07 - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
 <!--END_SECTION:hn-->
 
 <!--
