@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
-- Apr 09 - ['Sun-Like' Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
-- Apr 09 - [The best programmers I know](https://endler.dev/2025/best-programmers/)
-- Apr 09 - [NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
-- Apr 09 - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
+- Apr 09 - [About 90% of Migrants Sent to Salvador Lacked US Criminal Record](https://www.bloomberg.com/news/articles/2025-04-09/about-90-of-migrants-sent-to-salvador-lacked-us-criminal-record)
+- Apr 09 - [Show HN: Accessing a website you never visited before while being offline [demo]](https://www.planujemywesele.pl/sxg-tests/offline-abuse)
+- Apr 09 - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
+- Apr 09 - [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
+- Apr 09 - [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
 <!--END_SECTION:hn-->
 
 <!--
