@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
-- Apr 09 - [Who isn't a big fan of "impartial" news? People who don't have power](https://www.niemanlab.org/2025/04/which-types-of-people-arent-big-fans-of-impartial-news-people-who-dont-have-power/)
-- Apr 09 - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
-- Apr 09 - [Show HN: DrawDB – open-source online database diagram editor (a retro)](https://www.drawdb.app/)
-- Apr 09 - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
+- Apr 09 - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
+- Apr 09 - [The New Legislators of Silicon Valley](https://www.theideasletter.org/essay/silicon-valleys-new-legislators/)
+- Apr 09 - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
+- Apr 09 - [The best programmers I know](https://endler.dev/2025/best-programmers/)
+- Apr 09 - [NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
 <!--END_SECTION:hn-->
 
 <!--
