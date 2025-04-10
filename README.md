@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [It's all fun and games until somebody loses their retirement savings](https://www.businesslawprofessors.com/2025/03/private-company-trading/)
-- Apr 09 - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
-- Apr 09 - [The real effects of basic income](https://www.pilotprojekt-grundeinkommen.de/en)
-- Apr 09 - [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
-- Apr 09 - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
+- Apr 09 - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
+- Apr 09 - [Show HN: Git Game Show – Multiplayer Game in Your Repo](https://justinpaulson.github.io/git_game_show/)
+- Apr 09 - [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
+- Apr 09 - [Show HN: LLM Based Spark Profiler](https://datasre.ai/)
+- Apr 09 - [Whistleblower tells senators that Meta undermined U.S. security, interests](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/)
 <!--END_SECTION:hn-->
 
 <!--
