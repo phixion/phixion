@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Linux on Samsung Chromebook Plus (Kevin) with Rockchip RK3399 ARM SoC (2024)](https://www.devkitsune.net/blog/wordpress/2024/01/04/linux-on-arm-chromebooks/)
-- Apr 10 - [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
-- Apr 10 - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
-- Apr 10 - [Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site)](http://hi.telli.com/eng)
-- Apr 10 - [LLM Benchmark for 'Longform Creative Writing'](https://eqbench.com/creative_writing_longform.html)
+- Apr 10 - [China-Based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/)
+- Apr 10 - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
+- Apr 10 - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
+- Apr 10 - [.localhost Domains](https://inclouds.space/localhost-domains)
+- Apr 10 - [Arroyo (YC W23) has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
 <!--END_SECTION:hn-->
 
 <!--
