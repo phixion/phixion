@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [China-Based SMS Phishing Triad Pivots to Banks](https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/)
-- Apr 10 - [Why Tap a Wheel of Cheese?](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping)
-- Apr 10 - [ELD: A new open-source embedded linker tool for embedded systems](https://www.qualcomm.com/developer/blog/2025/04/eld-new-open-source-embedded-linker-tool-for-embedded-systems)
-- Apr 10 - [.localhost Domains](https://inclouds.space/localhost-domains)
-- Apr 10 - [Arroyo (YC W23) has been acquired by Cloudflare](https://www.arroyo.dev/blog/arroyo-is-joining-cloudflare)
+- Apr 10 - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
+- Apr 10 - [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
+- Apr 10 - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
+- Apr 10 - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
+- Apr 10 - [Suffering-Oriented Programming (2012)](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 <!--END_SECTION:hn-->
 
 <!--
