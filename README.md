@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Roame (YC S23) Is Hiring: Founding Product Designer](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer)
-- Apr 11 - [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
-- Apr 11 - [Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
-- Apr 11 - [Why I Program in Lisp](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html)
-- Apr 11 - [Why lead is still bad for your brain](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/)
+- Apr 11 - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
+- Apr 11 - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
+- Apr 11 - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
+- Apr 11 - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
+- Apr 11 - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
 <!--END_SECTION:hn-->
 
 <!--
