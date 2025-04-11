@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
-- Apr 10 - [Trustworthy AI Without Trusted Data](https://actu.epfl.ch/news/trustworthy-ai-without-trusted-data/)
-- Apr 10 - [How a $2k 'Made in the USA' Phone Is Manufactured](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/)
-- Apr 10 - [Demystifying the (Shebang): Kernel Adventures](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/)
-- Apr 10 - [Suffering-Oriented Programming (2012)](http://nathanmarz.com/blog/suffering-oriented-programming.html)
+- Apr 10 - [Fintech founder charged with fraud; AI app found to be humans in the Philippines](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/)
+- Apr 10 - [White House may seek binding control over Columbia through consent decree](https://www.theguardian.com/us-news/2025/apr/10/trump-columbia-consent-decree)
+- Apr 10 - [Black Mirror's pessimism porn won't lead us to a better future](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism)
+- Apr 10 - [What Your Sleep Tracker Gets Wrong About Sleep](https://www.affectablesleep.com/blog/what-your-sleep-tracker-gets-wrong-about-sleep)
+- Apr 10 - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF)](https://www.ycombinator.com/companies/parity/jobs)
 <!--END_SECTION:hn-->
 
 <!--
