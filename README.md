@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
-- Apr 11 - [She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her](https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html)
-- Apr 11 - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
-- Apr 11 - [Show HN: Building better base images](https://github.com/avkcode/container-tools)
-- Apr 11 - [Pentagon to terminate $5.1B in IT contracts with Accenture, Deloitte](https://www.reuters.com/world/us/pentagon-terminate-51-billion-it-contracts-with-accenture-deloitte-others-2025-04-11/)
+- Apr 11 - [Education Secretary Wants 'A1' in Classrooms](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380)
+- Apr 11 - [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
+- Apr 11 - [Stop using e for compound interest](https://blog.danielh.cc/blog/e)
+- Apr 11 - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
+- Apr 11 - [Show HN: Lunon – Instant model switching across LLMs](https://lunon.com/)
 <!--END_SECTION:hn-->
 
 <!--
