@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
-- Apr 12 - [Why Your 'Harmonious' Team Is Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/)
-- Apr 12 - [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
-- Apr 12 - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
-- Apr 12 - [Google Is Winning on Every AI Front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
+- Apr 12 - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
+- Apr 12 - [Which countries would benefit most from an American brain drain?](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain)
+- Apr 12 - [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
+- Apr 12 - ["Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
+- Apr 12 - [Open source and self hostable/private file converter](https://vert.sh)
 <!--END_SECTION:hn-->
 
 <!--
