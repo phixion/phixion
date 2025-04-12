@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Education Secretary Wants 'A1' in Classrooms](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380)
-- Apr 11 - [Mark Klein, a Whistleblower Who Revealed Domestic Spying, Dies at 79](https://www.wsj.com/us-news/mark-klein-whistleblower-dies-73f434c7)
-- Apr 11 - [Stop using e for compound interest](https://blog.danielh.cc/blog/e)
-- Apr 11 - [Social Security Administration Moving Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
-- Apr 11 - [Show HN: Lunon – Instant model switching across LLMs](https://lunon.com/)
+- Apr 11 - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
+- Apr 11 - [Vacheron Constantin Breaks the World Record for Most Complicated Wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
+- Apr 11 - [Our Best Customers Are Now Robots](https://fly.io/blog/fuckin-robots/)
+- Apr 11 - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
+- Apr 11 - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 <!--END_SECTION:hn-->
 
 <!--
