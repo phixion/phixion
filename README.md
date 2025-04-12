@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [That groan you hear is users' reaction to Recall going back into Windows](https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/)
+- Apr 12 - [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
+- Apr 12 - [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
+- Apr 12 - [Google Is Winning on Every AI Front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
 - Apr 11 - [You might not need WebSockets](https://hntrl.io/posts/you-dont-need-websockets/)
 - Apr 11 - [Vacheron Constantin breaks the world record for most complicated wristwatch](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria)
-- Apr 11 - [AI Coding and the Peanut Butter and Jelly Problem](https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and)
-- Apr 11 - [Key principles on in-game virtual currencies in the EU](https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies)
 <!--END_SECTION:hn-->
 
 <!--
