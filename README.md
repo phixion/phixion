@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Tunarr: Create and configure live TV channels from media on your servers](https://tunarr.com/)
-- Apr 12 - [Which countries would benefit most from an American brain drain?](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain)
-- Apr 12 - [Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules](https://www.barrons.com/articles/tariffs-exclusions-exemptions-apple-nvidia-dell-smartphones-pcs-b2e069ff)
-- Apr 12 - ["Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors)
-- Apr 12 - [Open source and self hostable/private file converter](https://vert.sh)
+- Apr 12 - [A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/)
+- Apr 12 - [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP/)
+- Apr 12 - [Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode](https://gitea.bubbletea.dev/shibao/memex)
+- Apr 12 - [The Solid-State Shift: Reinventing the Transformer for Modern Grids](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/)
+- Apr 12 - [Nice Things with SVG](https://fuma-nama.vercel.app/blog/svg-art)
 <!--END_SECTION:hn-->
 
 <!--
