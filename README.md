@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Using bad hardware: why I work in the terminal (2024)](https://colean.cc/journal/2024/08sep.html)
-- Apr 13 - [Skywork-OR1: new SOTA 32B thinking model with open weight](https://github.com/SkyworkAI/Skywork-OR1)
-- Apr 13 - [Half the men in Seattle are never-married singles, census data shows](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/)
-- Apr 13 - [Making SNES ROMs using C#](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX)
-- Apr 13 - [Why Pascal Is Not My Favorite Programming Language (1981) [pdf]](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
+- Apr 13 - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
+- Apr 13 - [The self-castrated hatmaker who killed John Wilkes Booth (2015)](https://www.washingtonian.com/2015/04/12/the-man-who-killed-john-wilkes-booth/)
+- Apr 13 - [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
+- Apr 13 - [Show HN: Crystal, the most accurate U.S. gov't data search tool](https://askcrystal.info/)
+- Apr 13 - [Don't sell space in your homelab (2023)](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/)
 <!--END_SECTION:hn-->
 
 <!--
