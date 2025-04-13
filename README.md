@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
-- Apr 13 - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
-- Apr 13 - [Hunger shifts attention towards less healthy food options, study finds](https://medicalxpress.com/news/2025-03-hunger-shifts-attention-healthy-food.html)
-- Apr 12 - [How to Structure a B2B Marketplace Venture](https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/)
-- Apr 12 - [Anubis Works](https://xeiaso.net/notes/2025/anubis-works/)
+- Apr 13 - [Show HN: BSE – Semantic Zip Engine for Text, Image and Audio](https://news.ycombinator.com/item?id=43670527)
+- Apr 13 - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
+- Apr 13 - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
+- Apr 13 - [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
+- Apr 13 - [How to not build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 <!--END_SECTION:hn-->
 
 <!--
