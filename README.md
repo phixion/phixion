@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Show HN: BSE – Semantic Zip Engine for Text, Image and Audio](https://news.ycombinator.com/item?id=43670527)
+- Apr 13 - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
+- Apr 13 - [Go channels are bad (2016)](https://www.jtolio.com/2016/03/go-channels-are-bad-and-you-should-feel-bad/)
 - Apr 13 - [33-year-old AmigaOS for Commodore computers gets an unexpected update News](https://www.tomshardware.com/software/operating-systems/33-year-old-amigaos-for-commodore-computers-gets-an-unexpected-update)
 - Apr 13 - [Cross-Entropy and KL Divergence](https://eli.thegreenplace.net/2025/cross-entropy-and-kl-divergence/)
 - Apr 13 - [A Farewell to the ArcoLinux University](https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/)
-- Apr 13 - [How to not build a two stage model rocket](https://knowone08.gitbook.io/vgecrocketry)
 <!--END_SECTION:hn-->
 
 <!--
