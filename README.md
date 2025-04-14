@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [She was chatting with friends in a Lyft. Then someone texted her what they said](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106)
-- Apr 14 - [Zotero Fullscreen Mode by Script](https://github.com/windingwind/zotero-actions-tags/discussions/385)
-- Apr 14 - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
-- Apr 14 - [Zig's new LinkedList API (it's time to learn fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
-- Apr 14 - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
+- Apr 14 - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine)
+- Apr 14 - [How to Bike Across the Country](https://www.brooks.team/posts/how-to-bike-across-the-country/)
+- Apr 14 - [Dead trees keep surprisingly large amounts of carbon out of atmosphere](https://phys.org/news/2025-03-dead-trees-large-amounts-carbon.html)
+- Apr 14 - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
+- Apr 14 - [DolphinGemma: How Google AI is helping decode dolphin communication](https://blog.google/technology/ai/dolphingemma/)
 <!--END_SECTION:hn-->
 
 <!--
