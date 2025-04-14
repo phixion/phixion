@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Everything Wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
-- Apr 13 - [Quick Primer on MCP Using Ollama and LangChain](https://www.polarsparc.com/xhtml/MCP.html)
-- Apr 13 - [Regime Change in the West](https://www.lrb.co.uk/the-paper/v47/n06/perry-anderson/regime-change-in-the-west)
-- Apr 13 - [Math 13 – An Introduction to Abstract Mathematics [pdf]](https://www.math.uci.edu/~ndonalds/math13/notes.pdf)
-- Apr 13 - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
+- Apr 14 - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
+- Apr 14 - [Show HN: Nissan's Leaf app doesn't have a home screen widget so I made my own](https://kevintechnology.com/posts/leaf-widget/)
+- Apr 14 - [Small Towns in Japan](https://japanstartshere.com/2020/04/06/small-towns-in-japan/)
+- Apr 14 - [Calypso: LLMs as Dungeon Masters' Assistants [pdf]](https://andrewhead.info/assets/pdf/calypso.pdf)
+- Apr 14 - [Why-everything-in-the-universe-turns-more-complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
 <!--END_SECTION:hn-->
 
 <!--
