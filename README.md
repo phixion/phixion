@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Hertz says customers' personal data and driver's licenses stolen in data breach](https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/)
-- Apr 14 - [Temu pauses Google Ads, falls from #2 to #19 in app store](https://searchengineland.com/temu-pulls-us-google-shopping-ads-454260)
+- Apr 15 - [Cloud-free connection of ESP32-based air purifier to Home Assistant (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
+- Apr 15 - [The Problem with "Vibe Coding"](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 - Apr 14 - [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
 - Apr 14 - [Tomb Engine](https://tombengine.com/)
 - Apr 14 - [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
