@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Cloud-free connection of ESP32-based air purifier to Home Assistant (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
-- Apr 15 - [The Problem with "Vibe Coding"](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
-- Apr 14 - [The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization)
-- Apr 14 - [Tomb Engine](https://tombengine.com/)
-- Apr 14 - [Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025)
+- Apr 15 - [Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland)](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x)
+- Apr 15 - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
+- Apr 15 - [The Industrialization of IT](https://benn.substack.com/p/the-industrialization-of-it)
+- Apr 15 - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
+- Apr 15 - [Important open source projects should not use GitHub (2020)](https://unixdigest.com/articles/important-open-source-projects-should-not-use-github.html)
 <!--END_SECTION:hn-->
 
 <!--
