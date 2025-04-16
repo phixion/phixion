@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html)
-- Apr 15 - [What the hell is a target triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
+- Apr 15 - [How dairy robots are changing work for cows and farmers](https://spectrum.ieee.org/lely-dairy-robots)
+- Apr 15 - [Show HN: Particle - News, Organized](https://apps.apple.com/us/app/particle-news/id6683283775)
+- Apr 15 - [Liquid: Language models are scalable and unified multi-modal generators](https://foundationvision.github.io/Liquid/)
+- Apr 15 - [Somehash: A Blurhash-Inspired Exploration](https://travisbumgarner.dev/blog/somehash)
 - Apr 15 - [METS, the Middle English Texts Series](https://metseditions.org)
-- Apr 15 - [The last RadioShack in Maryland is closing](https://marylandmatters.org/2025/04/14/end-of-an-era-the-last-radioshack-in-maryland-is-closing-its-doors/)
-- Apr 15 - [Post-Silicon Validation of Static Lockstep Mode](https://www.intel.com/content/www/us/en/content-details/851929/post-silicon-validation-of-static-lockstep-mode-on-intel-xeon-6-processor-e-core-architecture.html)
 <!--END_SECTION:hn-->
 
 <!--
