@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends](https://www.streak.com/careers/staff-ui-engineer)
-- Apr 16 - [European Union Vulnerability Database (EUVD)](https://euvd.enisa.europa.eu/)
-- Apr 16 - [Anonymous Release 10TB Leaked Data Exposing Kremlin Assets, Russian Businesses](https://trendsnewsline.com/2025/04/15/anonymous-leaks-10tb-of-data-on-russia-shocking-revelations/)
-- Apr 16 - [A Postmortem of a Startup](https://buildwithtract.com/)
-- Apr 16 - [An Introduction to Stochastic Calculus](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/)
+- Apr 16 - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
+- Apr 16 - [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
+- Apr 16 - [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
+- Apr 16 - [Future Chips Will Be Hotter Than Ever](https://spectrum.ieee.org/hot-chips)
+- Apr 16 - [Darwin's Children Drew All over the "On the Origin of Species" Manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
 <!--END_SECTION:hn-->
 
 <!--
