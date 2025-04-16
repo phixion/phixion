@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [Attention K-Mart Shoppers](https://archive.org/details/attentionkmartshoppers)
-- Apr 16 - [Rust-IoT-Platform](https://github.com/iot-ecology/rust-iot-platform)
-- Apr 16 - [How to Optimize Rust for Slowness: Inspired by New Turing Machine Results](https://medium.com/@carlmkadie/how-to-optimize-your-rust-program-for-slowness-eb2c1a64d184)
-- Apr 16 - [Future Chips Will Be Hotter Than Ever](https://spectrum.ieee.org/hot-chips)
-- Apr 16 - [Darwin's Children Drew All over the "On the Origin of Species" Manuscript (2014)](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species)
+- Apr 16 - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
+- Apr 16 - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
+- Apr 16 - [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/)
+- Apr 16 - [Replacing CVE](https://gavinhoward.com/2025/04/replacing-cve)
+- Apr 16 - [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 <!--END_SECTION:hn-->
 
 <!--
