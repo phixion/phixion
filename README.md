@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [The Halting Problem is a terrible example of NP-Harder](https://buttondown.com/hillelwayne/archive/the-halting-problem-is-a-terrible-example-of-np/)
-- Apr 17 - [Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure](https://www.ycombinator.com/companies/formance/jobs)
-- Apr 17 - [Manga Guide To Databases (2004) [pdf]](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
-- Apr 17 - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
-- Apr 17 - [GPT o3 frequently fabricates actions, then elaborately justifies these actions](https://xcancel.com/TransluceAI/status/1912552046269771985)
+- Apr 17 - [Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote)](https://www.tesorio.com/careers#job-openings)
+- Apr 17 - [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
+- Apr 17 - [Daily Pill May Work as Well as Ozempic for Weight Loss and Blood Sugar](https://www.nytimes.com/2025/04/17/health/pill-glp-1-eli-lilly.html)
+- Apr 17 - [As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/)
+- Apr 17 - [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 <!--END_SECTION:hn-->
 
 <!--
