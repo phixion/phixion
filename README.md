@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [RakuAST Grant Report](https://niner.name/blog/rakuast_grant_report/index.html)
-- Apr 16 - [Terak Museum](https://www.threedee.com/jcm/terak/index.html)
-- Apr 16 - [Aerial Minesweeping (2021)](https://www.historynet.com/aerial-minesweeping/)
-- Apr 16 - [Replacing CVE](https://gavinhoward.com/2025/04/replacing-cve)
-- Apr 16 - [OpenAI Codex CLI: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+- Apr 17 - [Jellyfin as a Spotify Alternative](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/)
+- Apr 16 - [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html)
+- Apr 16 - [Microsoft researchers developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
+- Apr 16 - [How a Forgotten Battle Created a More Peaceful World](https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a)
+- Apr 16 - [Show HN: Plandex v2 – open source AI coding agent for large projects and tasks](https://github.com/plandex-ai/plandex)
 <!--END_SECTION:hn-->
 
 <!--
