@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote)](https://www.tesorio.com/careers#job-openings)
-- Apr 17 - [Cutting down Rust compile times from 30 to 2 minutes with one thousand crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
-- Apr 17 - [Daily Pill May Work as Well as Ozempic for Weight Loss and Blood Sugar](https://www.nytimes.com/2025/04/17/health/pill-glp-1-eli-lilly.html)
-- Apr 17 - [As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/)
-- Apr 17 - [Development on Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
+- Apr 17 - [Google Is a Monopolist in Online Advertising Tech, Judge Says](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html)
+- Apr 17 - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
+- Apr 17 - [Stainless steel strengthened: Twisting creates submicron 'anti-crash wall'](https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html)
+- Apr 17 - [This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
+- Apr 17 - [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
 <!--END_SECTION:hn-->
 
 <!--
