@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
-- Apr 18 - [Soldiers in combat can kill without moral injury](https://www.bps.org.uk/research-digest/soldiers-combat-can-kill-without-moral-injury)
+- Apr 18 - [Viral ChatGPT trend is doing 'reverse location search' from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
+- Apr 18 - [Resist, eggheads Universities are not as weak as they have chosen to be](https://arstechnica.com/culture/2025/04/resist-eggheads-universities-are-not-as-weak-as-they-have-chosen-to-be/)
+- Apr 18 - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
 - Apr 18 - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
 - Apr 17 - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
-- Apr 17 - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 <!--END_SECTION:hn-->
 
 <!--
