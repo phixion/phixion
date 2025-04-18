@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Viral ChatGPT trend is doing 'reverse location search' from photos](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/)
-- Apr 18 - [Resist, eggheads Universities are not as weak as they have chosen to be](https://arstechnica.com/culture/2025/04/resist-eggheads-universities-are-not-as-weak-as-they-have-chosen-to-be/)
-- Apr 18 - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
-- Apr 18 - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
-- Apr 17 - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
+- Apr 18 - [Startup Exercise: What can't be solved with money? (2011)](https://longform.asmartbear.com/startup-money/)
+- Apr 18 - [Curiosity rover finds large carbon deposits on Mars](https://phys.org/news/2025-04-curiosity-rover-large-carbon-deposits.html)
+- Apr 18 - [arXiv moving from Cornell servers to Google Cloud](https://info.arxiv.org/hiring/index.html)
+- Apr 18 - [Deafening Silence from the Cybersecurity Industry](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/)
+- Apr 18 - [Free high-performance cross-platform game engine](https://defold.com)
 <!--END_SECTION:hn-->
 
 <!--
