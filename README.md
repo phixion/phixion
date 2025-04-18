@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [A new ChatGPT version just dropped and GeoGuesser is now a solved problem](https://flausch.social/@piegames/114352447253793517)
+- Apr 18 - [Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/)
+- Apr 18 - [Soldiers in combat can kill without moral injury](https://www.bps.org.uk/research-digest/soldiers-combat-can-kill-without-moral-injury)
+- Apr 18 - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
+- Apr 17 - [ChatGPT now performs well at GeoGuesser](https://flausch.social/@piegames/114352447253793517)
 - Apr 17 - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
-- Apr 17 - [CN Tower, Behind the Scenes (2014)](https://site.roadwolf.ca/categories/ue/cntower/)
-- Apr 17 - [I Analyzed Chord Progressions in 680k Songs](https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in)
-- Apr 17 - [Memory Size Matters to PostgreSQL](https://pgdba.org/post/2025/04/size_matter/)
 <!--END_SECTION:hn-->
 
 <!--
