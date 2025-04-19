@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [UML diagram for the DDD example in Evans' book](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book)
-- Apr 18 - [Loglan'82: programming language for object-oriented and distributed programming](https://lem12.uksw.edu.pl/wiki/Loglan%2782_project)
-- Apr 18 - [The Good Karma Kit](https://archivebox.github.io/good-karma-kit/)
-- Apr 18 - [Judge Rules Blanket Search of Cell Tower Data Unconstitutional](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/)
-- Apr 18 - [Show HN: (bits) of a Libc, Optimized for Wasm](https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc)
+- Apr 18 - [Hypertext TV](https://hypertext.tv/)
+- Apr 18 - [OpenAI's new reasoning AI models hallucinate more](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/)
+- Apr 18 - [I passionately hate hype, especially the AI hype](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html)
+- Apr 18 - [Hextraction, a free and open source board game](https://www.playhextraction.com/)
+- Apr 18 - [Full Text Search of US Court records](https://www.judyrecords.com/)
 <!--END_SECTION:hn-->
 
 <!--
