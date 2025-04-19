@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Librarians Are Dangerous](https://bradmontague.substack.com/p/librarians-are-dangerous)
-- Apr 19 - [Against Transparency](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer)
-- Apr 19 - [Inferring the Phylogeny of Large Language Models](https://arxiv.org/abs/2404.04671)
-- Apr 19 - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
-- Apr 19 - [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
+- Apr 19 - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
+- Apr 19 - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
+- Apr 19 - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
+- Apr 19 - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
+- Apr 19 - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
 <!--END_SECTION:hn-->
 
 <!--
