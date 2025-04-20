@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [The Web Is Broken – Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
-- Apr 19 - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
-- Apr 19 - [Ssl.com: DCV bypass and issue fake certificates for any MX hostname](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406)
-- Apr 19 - [Inside ArXiv](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
-- Apr 19 - [Infisical (YC W23) Is Hiring Design Engineer in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco)
+- Apr 19 - [Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents](https://arxiv.org/abs/2502.15840)
+- Apr 19 - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
+- Apr 19 - [Ultrathink is a Claude Code a magic word](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/)
+- Apr 19 - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
+- Apr 19 - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
 <!--END_SECTION:hn-->
 
 <!--
