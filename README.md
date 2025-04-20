@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents](https://arxiv.org/abs/2502.15840)
-- Apr 19 - [A unique sound alleviates motion sickness](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html)
-- Apr 19 - [Ultrathink is a Claude Code a magic word](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/)
-- Apr 19 - [Computational Complexity of Air Travel Planning [pdf]](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
-- Apr 19 - [Electromagnetism as a Purely Geometric Theory](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001)
+- Apr 20 - [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
+- Apr 20 - [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
+- Apr 20 - [Novel color via stimulation of individual photoreceptors at population scale](https://www.science.org/doi/10.1126/sciadv.adu1052)
+- Apr 20 - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
+- Apr 20 - [Welcome to the Era of Experience [pdf]](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 <!--END_SECTION:hn-->
 
 <!--
