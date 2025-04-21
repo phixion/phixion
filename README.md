@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Falsify: Hypothesis-Inspired Shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
-- Apr 20 - [Find the Odd Disk](https://colors2.alessandroroussel.com/)
-- Apr 20 - [First hormone-free male birth control pill enters human trials](https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/)
-- Apr 20 - [New Proof Settles Decades-Old Bet About Connected Networks](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/)
-- Apr 20 - [The Movie Mistake Mystery from "Revenge of the Sith"](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html)
+- Apr 20 - [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
+- Apr 20 - [Demystifying decorators: They don't need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
+- Apr 20 - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
+- Apr 20 - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
+- Apr 20 - [Better Error Handling](https://meowbark.dev/Better-error-handling)
 <!--END_SECTION:hn-->
 
 <!--
