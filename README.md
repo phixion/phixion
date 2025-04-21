@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Fossil fuels fall below 50% of US electricity for the first month on record](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/)
-- Apr 21 - [Getting Forked by Microsoft](https://philiplaine.com/posts/getting-forked-by-microsoft/)
-- Apr 21 - [Android 16 lets the Linux Terminal use your phone's entire storage](https://www.androidauthority.com/android-16-terminal-disk-resize-3546144/)
-- Apr 21 - [Official abuse of state security has always been bad, now it's horrifying](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a)
-- Apr 21 - [Pope Francis has died](https://www.reuters.com/world/pope-francis-has-died-vatican-says-video-statement-2025-04-21/)
+- Apr 21 - [Inner Loop Agents](https://timkellogg.me/blog/2025/04/19/inner-loops)
+- Apr 21 - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
+- Apr 21 - [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
+- Apr 21 - [PlanetMath](https://planetmath.org/)
+- Apr 21 - [Handwriting activates broader brain networks than typing](https://www.psypost.org/handwriting-activates-broader-brain-networks-than-typing-study-shows/)
 <!--END_SECTION:hn-->
 
 <!--
