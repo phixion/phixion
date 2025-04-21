@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Inner Loop Agents](https://timkellogg.me/blog/2025/04/19/inner-loops)
-- Apr 21 - [Out of the Fog](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational)
-- Apr 21 - [Why LLM-Powered Programming Is More Mech Suit Than Artificial Human](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human)
-- Apr 21 - [PlanetMath](https://planetmath.org/)
-- Apr 21 - [Handwriting activates broader brain networks than typing](https://www.psypost.org/handwriting-activates-broader-brain-networks-than-typing-study-shows/)
+- Apr 21 - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
+- Apr 21 - [Is 1 Prime, and Does It Matter?](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/)
+- Apr 21 - [An update to our pricing](https://windsurf.com/blog/pricing-v2)
+- Apr 21 - [Propositional Parlor Puzzle](https://buttondown.com/jaffray/archive/propositional-parlor-puzzle/)
+- Apr 21 - [Astronomers confirm the existence of a lone black hole](https://phys.org/news/2025-04-astronomers-lone-black-hole.html)
 <!--END_SECTION:hn-->
 
 <!--
