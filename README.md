@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 21 - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
+- Apr 21 - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
+- Apr 21 - [I thought I bought a camera, but no DJI sold me a LICENSE to use their camera [video]](https://www.youtube.com/watch?v=aUOnQ_boqCw)
+- Apr 21 - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 - Apr 21 - [Show HN: Keep your PyTorch model in VRAM by hot swapping code](https://github.com/valine/training-hot-swap/)
-- Apr 20 - [Juicyjam: Thai Authorities Use Online Doxxing to Suppress Dissent](https://citizenlab.ca/2025/04/how-thai-authorities-use-online-doxxing-to-suppress-dissent/)
-- Apr 20 - [TikZJax: Embedding LaTeX Drawings in HTML](https://tikzjax.com/)
-- Apr 20 - [Demystifying decorators: They don't need to be cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
-- Apr 20 - [FurtherAI (YC W24) Is Hiring Software and AI Engineers](https://www.ycombinator.com/companies/furtherai/jobs)
 <!--END_SECTION:hn-->
 
 <!--
