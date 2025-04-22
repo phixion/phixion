@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [The Value of Differences: Jennifer Lindsay on Noticing Translation](https://sydneyreviewofbooks.com/essays/the-value-of-differences)
-- Apr 21 - [Is 1 Prime, and Does It Matter?](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/)
-- Apr 21 - [An update to our pricing](https://windsurf.com/blog/pricing-v2)
-- Apr 21 - [Propositional Parlor Puzzle](https://buttondown.com/jaffray/archive/propositional-parlor-puzzle/)
-- Apr 21 - [Astronomers confirm the existence of a lone black hole](https://phys.org/news/2025-04-astronomers-lone-black-hole.html)
+- Apr 21 - [101 Basic Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
+- Apr 21 - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
+- Apr 21 - [The Future of Compute: Nvidia's Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
+- Apr 21 - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
+- Apr 21 - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 <!--END_SECTION:hn-->
 
 <!--
