@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [GiveCampus (YC S15) Is Hiring Sr engineers passionate about education](https://givecampus.breezy.hr/p/0c4a97691730)
-- Apr 22 - [Whistleblower: DOGE Siphoned NLRB Case Data](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/)
-- Apr 22 - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
-- Apr 22 - [RISC-V RVA23 Profile: A major milestone](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/)
-- Apr 22 - [Marijuana hospital visits linked to dementia diagnosis within 5 years – a study](https://www.cnn.com/2025/04/20/health/marijuana-dementia-wellness/index.html)
+- Apr 22 - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
+- Apr 22 - [Surprises in Logic (2016)](https://math.ucr.edu/home/baez/surprises.html)
+- Apr 22 - [Supabase raises $200M Series D at $2B valuation](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html)
+- Apr 22 - [David Tong Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/books.html)
+- Apr 22 - [Launch HN: Infra.new (YC W23) – DevOps Copilot with Guardrails Built In](https://news.ycombinator.com/item?id=43763026)
 <!--END_SECTION:hn-->
 
 <!--
