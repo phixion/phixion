@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
-- Apr 21 - [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
-- Apr 21 - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
-- Apr 21 - [The Future of Compute: Nvidia's Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
-- Apr 21 - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
+- Apr 22 - [Fujitsu and RIKEN develop world-leading 256-qubit sup quantum computer](https://www.fujitsu.com/global/about/resources/news/press-releases/2025/0422-01.html)
+- Apr 22 - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
+- Apr 22 - [Welcome to our website for the 1963 BBC MCR21 OB Van](https://mcr21.org.uk/)
+- Apr 22 - ['World War Zoos' Review: Of Bombs and Beasts](https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6)
+- Apr 22 - [Forecaster reacts: METR's bombshell paper about AI acceleration](https://peterwildeford.substack.com/p/forecaster-reacts-metrs-bombshell)
 <!--END_SECTION:hn-->
 
 <!--
