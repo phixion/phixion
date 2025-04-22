@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [101 Basic Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
+- Apr 22 - [Prolog Adventure Game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
+- Apr 21 - [101 BASIC Computer Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
 - Apr 21 - [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
 - Apr 21 - [The Future of Compute: Nvidia's Crown Is Slipping](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia)
 - Apr 21 - [Pydrofoil: Accelerating Sail-based instruction set simulators](https://arxiv.org/abs/2503.04389)
-- Apr 21 - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 <!--END_SECTION:hn-->
 
 <!--
