@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [A study of lightning fatalities inside buildings while using smartphones [pdf] (2024)](https://electricalsafetyworkshop.org/wp-content/uploads/sites/255/ESW2024-19.pdf)
-- Apr 22 - [Everyday life improvements since the 90s (2022)](https://gwern.net/improvement)
-- Apr 22 - [Can a single AI model advance any field of science?](https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai)
-- Apr 22 - [It Does Not Take 21 Days to Form a Habit](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/)
-- Apr 22 - [Ping, You've Got Whale: AI detection system alerts ships of whales in their path](https://www.biographic.com/ping-youve-got-whale/)
+- Apr 22 - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
+- Apr 22 - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
+- Apr 22 - [Google won't ditch third-party cookies in Chrome after all](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/)
+- Apr 22 - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+- Apr 22 - [CSS Hell](https://csshell.com/)
 <!--END_SECTION:hn-->
 
 <!--
