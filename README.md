@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Mozilla blocks UAE for internet security guardian after hacking reports (2019)](https://www.reuters.com/article/us-usa-cyber-mozilla/mozilla-blocks-uae-bid-to-become-an-internet-security-guardian-after-hacking-reports-idUSKCN1U42CA/)
-- Apr 23 - [Collatz's Ant](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
-- Apr 23 - [Geocoding APIs compared: Pricing, free tiers and terms of use](https://www.bitoff.org/geocoding-apis-comparison/)
-- Apr 23 - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
-- Apr 23 - [EU fines Apple €500M and Meta €200M](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/)
+- Apr 23 - [Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents](https://github.com/trycua/cua)
+- Apr 23 - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
+- Apr 23 - [Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf)
+- Apr 23 - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
+- Apr 23 - [How I Blog with Obsidian, Hugo, GitHub, and Cloudflare – Zero Cost, Fully Owned](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/)
 <!--END_SECTION:hn-->
 
 <!--
