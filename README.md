@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [The Rise and Fall and Rise Again of Lionel Trains (1997)](http://spikesys.com/Modelrr/lionel.html)
-- Apr 23 - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
-- Apr 22 - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
-- Apr 22 - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
-- Apr 22 - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
+- Apr 23 - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
+- Apr 23 - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
+- Apr 23 - [The Ghosts of Gaelic](https://www.historytoday.com/archive/behind-times/ghosts-gaelic)
+- Apr 23 - [Where did the false "equal transit-time" explanation of lift originate from?](https://hsm.stackexchange.com/questions/9931/where-did-the-false-equal-transit-time-explanation-of-lift-originate-from)
+- Apr 23 - [Native visionOS platform support](https://github.com/godotengine/godot/pull/105628)
 <!--END_SECTION:hn-->
 
 <!--
