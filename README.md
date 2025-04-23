@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 23 - [The Rise and Fall and Rise Again of Lionel Trains (1997)](http://spikesys.com/Modelrr/lionel.html)
+- Apr 23 - [Projects for Old OS X](https://jonathanalland.com/old-osx-projects.html)
 - Apr 22 - [Meaning Machine – Visualize how LLMs break down and simulate meaning](https://meaning-machine.streamlit.app)
 - Apr 22 - [Show HN: Durable Python Workflows](https://github.com/autokitteh/autokitteh)
-- Apr 22 - [Google won't ditch third-party cookies in Chrome after all](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/)
 - Apr 22 - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
-- Apr 22 - [CSS Hell](https://csshell.com/)
 <!--END_SECTION:hn-->
 
 <!--
