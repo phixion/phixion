@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon "In the Roadmap"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
-- Apr 24 - [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)
-- Apr 24 - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
-- Apr 24 - [Woman who tricked her way into men-only Magic Circle allowed in](https://www.bbc.com/news/articles/cwy79nq4yz4o)
-- Apr 24 - [Efficient Code Search with Nvidia DGX](https://developer.nvidia.com/blog/spotlight-qodo-innovates-efficient-code-search-with-nvidia-dgx/)
+- Apr 24 - [Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go)](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution)
+- Apr 24 - [Cars and Key Fobs: Attacks on Car Remotes](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html)
+- Apr 24 - [On loyalty to Your Employer](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
+- Apr 24 - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
+- Apr 24 - [Vim Language, Motions, and Modes Explained (2023)](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/)
 <!--END_SECTION:hn-->
 
 <!--
