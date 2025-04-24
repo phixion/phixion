@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
-- Apr 24 - [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
-- Apr 24 - [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
-- Apr 24 - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
-- Apr 23 - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
+- Apr 24 - [AMD Publishes Open-Source Driver for GPU Virtualization, Radeon "In the Roadmap"](https://www.phoronix.com/news/AMD-GIM-Open-Source)
+- Apr 24 - [Llama 4 Smells Bad](https://fastml.com/llama-4-smells-bad/)
+- Apr 24 - [Daily driving a Linux phone, but why?](https://thefoggiest.dev/2025/04/24/daily-driving-a-linux-phone-but-why)
+- Apr 24 - [Woman who tricked her way into men-only Magic Circle allowed in](https://www.bbc.com/news/articles/cwy79nq4yz4o)
+- Apr 24 - [Efficient Code Search with Nvidia DGX](https://developer.nvidia.com/blog/spotlight-qodo-innovates-efficient-code-search-with-nvidia-dgx/)
 <!--END_SECTION:hn-->
 
 <!--
