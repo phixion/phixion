@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 24 - [Yaakov Kirschen’s other legacy](https://www.jns.org/yaakov-kirschens-other-legacy/)
+- Apr 24 - [Clinical trial: novel nutritional formula treats gut microbial overgrowth](https://medicalxpress.com/news/2025-04-clinical-trial-nutritional-formula-effectively.html)
+- Apr 24 - [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
+- Apr 24 - [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
 - Apr 23 - [CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU](https://github.com/tracel-ai/cubecl)
-- Apr 23 - [Don't make it "like Google"](https://rakhim.exotext.com/dont-make-it-like-google)
-- Apr 23 - [Echoplayer: Echo – Open Hardware Music Player](https://github.com/amachronic/echoplayer)
-- Apr 23 - [Yagri: You are gonna read it](https://www.scottantipa.com/yagri)
-- Apr 23 - [FontDiffuser: Text to Font](https://yeungchenwa.github.io/fontdiffuser-homepage/)
 <!--END_SECTION:hn-->
 
 <!--
