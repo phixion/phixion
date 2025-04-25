@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Google Maps Doesn't Know How Street Addresses Work](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
-- Apr 24 - [Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/)
-- Apr 24 - [Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/)
-- Apr 24 - [National Airspace System Status](https://nasstatus.faa.gov/)
-- Apr 24 - [You Can Be a Great Designer and Be Completely Unknown](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown)
+- Apr 25 - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
+- Apr 25 - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
+- Apr 25 - [I used simple rules to make DFAs that kinda match accepted physics models](https://keweizhou1996-df477.web.app/dfa.html)
+- Apr 25 - [Swift Container Plugin](https://github.com/apple/swift-container-plugin)
+- Apr 25 - [Street address errors in Google Maps](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/)
 <!--END_SECTION:hn-->
 
 <!--
