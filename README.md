@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Privacy folks – what's your take on using LLMs at work?](https://news.ycombinator.com/item?id=43791843)
-- Apr 25 - [Avoiding Skill Atrophy in the Age of AI](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age)
-- Apr 25 - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
-- Apr 25 - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
-- Apr 25 - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
+- Apr 25 - [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
+- Apr 25 - [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
+- Apr 25 - [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
+- Apr 25 - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
+- Apr 25 - [Century-old genetics mystery of Mendel's peas solved](https://www.nature.com/articles/d41586-025-01269-8)
 <!--END_SECTION:hn-->
 
 <!--
