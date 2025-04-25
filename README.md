@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [FBI arrests Wisconsin judge on charges of obstructing immigrant arrest](https://www.washingtonpost.com/national-security/2025/04/25/wisconsin-judge-arrest-fbi-ice-immigration-enforcement/)
-- Apr 25 - [The $20k American-made electric pickup with no paint, no stereo, no screen](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos)
-- Apr 25 - [I made a college punching bag for rejected highschoolers](https://ex.plor.ing/blog/post/college-punch)
-- Apr 25 - [Tumor-derived erythropoietin acts as immunosuppressive switch in cancer immunity](https://www.science.org/doi/10.1126/science.adr3026)
-- Apr 25 - [Century-old genetics mystery of Mendel's peas solved](https://www.nature.com/articles/d41586-025-01269-8)
+- Apr 25 - [The Secretary of Transportation Got Rid of Too Many Workers; Now Needs Them Back](https://www.jalopnik.com/1843532/too-many-dot-workers-quit/)
+- Apr 25 - [Done in by Time](https://thelampmagazine.com/issues/issue-27/done-in-by-time)
+- Apr 25 - [Show HN: Formalizing Principia Mathematica using Lean](https://github.com/ndrwnaguib/principia)
+- Apr 25 - [Curry: A functional logic programming language](https://curry-lang.org/)
+- Apr 25 - [Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g)
 <!--END_SECTION:hn-->
 
 <!--
