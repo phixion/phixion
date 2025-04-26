@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
-- Apr 26 - [Thank you for holding my duck (2021)](https://naml.us/post/thank-you-for-holding-my-duck/)
-- Apr 26 - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
-- Apr 26 - [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
-- Apr 26 - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
+- Apr 26 - [California's $20 fast-food minimum wage improves pay at small cost to consumers](https://www.axios.com/local/san-francisco/2025/02/27/uc-berkeley-fast-food-worker-study-minimum-wage)
+- Apr 26 - [Economists don't know what's going on](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on)
+- Apr 26 - [Tech Workers Are Just Like the Rest of Us: Miserable at Work](https://www.wsj.com/tech/tech-careers-job-market-changes)
+- Apr 26 - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
+- Apr 26 - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
 <!--END_SECTION:hn-->
 
 <!--
