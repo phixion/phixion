@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Freshpaint (YC S19) is hiring back end and front end engineers (Remote, US only)](https://news.ycombinator.com/item?id=43802839)
-- Apr 26 - [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
-- Apr 26 - [Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling](https://www.morpheus-research.com/backblaze/)
-- Apr 26 - [First and 2nd gen Nest Thermostats will lose support in Oct 2025](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/)
-- Apr 26 - [Mark Zuckerberg personally lost the Facebook antitrust case](https://pluralistic.net/2025/04/18/chatty-zucky/)
+- Apr 26 - [Stuffed-Na(a)N: stuff your NaNs](https://github.com/si14/stuffed-naan-js)
+- Apr 26 - [Thank you for holding my duck (2021)](https://naml.us/post/thank-you-for-holding-my-duck/)
+- Apr 26 - [LLMs can see and hear without any training](https://github.com/facebookresearch/MILS)
+- Apr 26 - [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
+- Apr 26 - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 <!--END_SECTION:hn-->
 
 <!--
