@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Colossal Cave Adventure (1976)](https://github.com/wh0am1-dev/adventure)
-- Apr 26 - [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
-- Apr 26 - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
-- Apr 26 - [I wrote a book called "Crap Towns". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
-- Apr 26 - [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
+- Apr 26 - [MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
+- Apr 26 - [Apparently Bluesky has one centralized service, the "relay"](https://mastodon.online/@mastodonmigration/114399534536933573)
+- Apr 26 - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
+- Apr 26 - [Cloth](https://www.cloudofoz.com/verlet-test/)
+- Apr 26 - [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
 <!--END_SECTION:hn-->
 
 <!--
