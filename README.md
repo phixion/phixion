@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote)](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote)
-- Apr 26 - [Apparently Bluesky has one centralized service, the "relay"](https://mastodon.online/@mastodonmigration/114399534536933573)
-- Apr 26 - [Australian who ordered radioactive materials walks away from court](https://www.chemistryworld.com/news/australian-who-ordered-radioactive-materials-over-the-internet-walks-away-from-court/4021306.article)
-- Apr 26 - [Cloth](https://www.cloudofoz.com/verlet-test/)
-- Apr 26 - [Amazon Japan ordered to pay 35M. yen for allowing listing of fakes](https://mainichi.jp/english/articles/20250425/p2g/00m/0bu/047000c)
+- Apr 26 - [Freshpaint (YC S19) is hiring back end and front end engineers (Remote, US only)](https://news.ycombinator.com/item?id=43802839)
+- Apr 26 - [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
+- Apr 26 - [Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling](https://www.morpheus-research.com/backblaze/)
+- Apr 26 - [First and 2nd gen Nest Thermostats will lose support in Oct 2025](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/)
+- Apr 26 - [Mark Zuckerberg personally lost the Facebook antitrust case](https://pluralistic.net/2025/04/18/chatty-zucky/)
 <!--END_SECTION:hn-->
 
 <!--
