@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Wikipedia’s nonprofit status questioned by D.C. U.S. attorney](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/)
-- Apr 25 - [Simons Foundation Launches Collaboration on Ecological Neuroscience](https://www.simonsfoundation.org/2025/04/24/simons-foundation-launches-collaboration-on-ecological-neuroscience)
-- Apr 25 - [I designed my LED matrix PCB with code](https://docs.tscircuit.com/tutorials/building-led-matrix)
-- Apr 25 - [World Emulation via DNN](https://madebyoll.in/posts/world_emulation_via_dnn/)
-- Apr 25 - [Gym Class (YC W22) Is Hiring Character Animation Engineering Lead](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal)
+- Apr 26 - [Colossal Cave Adventure (1976)](https://github.com/wh0am1-dev/adventure)
+- Apr 26 - [Mathematicians just solved a 125-year-old problem, uniting 3 theories in physics](https://www.scientificamerican.com/article/lofty-math-problem-called-hilberts-sixth-closer-to-being-solved/)
+- Apr 26 - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
+- Apr 26 - [I wrote a book called "Crap Towns". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
+- Apr 26 - [Reading RSS content is a skilled activity](https://www.doliver.org/articles/rss-as-a-skill)
 <!--END_SECTION:hn-->
 
 <!--
