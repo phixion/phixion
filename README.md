@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Taxonomy of Failure Mode in Agentic AI Systems [pdf]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
-- Apr 27 - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
-- Apr 27 - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
-- Apr 27 - [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
-- Apr 27 - [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
+- Apr 27 - [GPU Price Tracker](https://www.unitedcompute.ai/gpu-price-tracker)
+- Apr 27 - [Meta's 'Digital Companions' Will Talk Sex with Users–Even Children](https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf)
+- Apr 27 - [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
+- Apr 27 - [ZFS: Apple's New Filesystem that wasn't (2016)](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/)
+- Apr 27 - [U.S. autism data project sparks uproar over ethics, privacy and intent](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/)
 <!--END_SECTION:hn-->
 
 <!--
