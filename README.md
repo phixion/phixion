@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
-- Apr 27 - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
-- Apr 27 - [CONL: "Markdown" for your config files](https://cirw.in/blog/conl)
-- Apr 27 - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
-- Apr 27 - [IcôNES](https://icones.js.org/)
+- Apr 27 - [Taxonomy of Failure Mode in Agentic AI Systems [pdf]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+- Apr 27 - [Chongqing, the Largest City – In Pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures)
+- Apr 27 - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
+- Apr 27 - [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
+- Apr 27 - [Moving Beyond Containers – Introducing Boxer by Daniel Phillips WASM I/O 2025 [video]](https://www.youtube.com/watch?v=rHOwhkHv21U)
 <!--END_SECTION:hn-->
 
 <!--
