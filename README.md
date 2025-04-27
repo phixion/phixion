@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [California's $20 fast-food minimum wage improves pay at small cost to consumers](https://www.axios.com/local/san-francisco/2025/02/27/uc-berkeley-fast-food-worker-study-minimum-wage)
-- Apr 26 - [Economists don't know what's going on](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on)
-- Apr 26 - [Tech Workers Are Just Like the Rest of Us: Miserable at Work](https://www.wsj.com/tech/tech-careers-job-market-changes)
-- Apr 26 - [Barlow's Principles of Adult Behaviour](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html)
-- Apr 26 - [Robot Dexterity Still Seems Hard](https://www.construction-physics.com/p/robot-dexterity-still-seems-hard)
+- Apr 26 - [Solar Orbiter's widest high-res view of the Sun](https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun)
+- Apr 26 - [SDR Television](https://www.sdr-radio.com/sdr-television-beta-1)
+- Apr 26 - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
+- Apr 26 - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
+- Apr 26 - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
 <!--END_SECTION:hn-->
 
 <!--
