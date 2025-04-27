@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Earth's oceans used to be green, and they could turn purple next](https://newatlas.com/science/earths-oceans-used-to-be-green-and-they-could-turn-purple-next/)
-- Apr 27 - [What Porn Did to American Culture](https://www.theatlantic.com/newsletters/archive/2025/04/what-porn-did-to-american-culture/682610/)
-- Apr 27 - [We're building a dystopia just to make people click on ads [video]](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
-- Apr 27 - [Reverse Geocoding Is Hard](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/)
-- Apr 27 - [Former Disney employee who hacked Disney World menus sentenced to 3 years](https://databreaches.net/2025/04/24/former-disney-employeedwho-hacked-disney-world-restaurant-menus-in-revenge-sentenced-to-3-years-in-federal-prison/)
+- Apr 27 - [NSA sought to curb university cryptography research in 1983 (MIT report, PDF)](https://archive.org/details/1983-03-09-27-27_202504)
+- Apr 27 - [Walmart plans EV Charging network which will blanket the US within a few years](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/)
+- Apr 27 - [Show HN: Flow.diy – a super duper simple flowchart maker](https://www.flow.diy)
+- Apr 27 - [Show HN: Daily Jailbreak – Prompt Engineer's Wordle](https://www.vaultbreak.ai/daily-jailbreak)
+- Apr 27 - [OpenBSD 7.7 Released](https://www.openbsd.org/77.html)
 <!--END_SECTION:hn-->
 
 <!--
