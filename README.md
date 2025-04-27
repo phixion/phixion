@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Solar Orbiter's widest high-res view of the Sun](https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun)
-- Apr 26 - [SDR Television](https://www.sdr-radio.com/sdr-television-beta-1)
-- Apr 26 - [Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF)](https://www.ycombinator.com/companies/parity/jobs)
-- Apr 26 - [Bare metal printf – C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
-- Apr 26 - [CosAE: Learnable Fourier Series for Image Restoration](https://sifeiliu.net/CosAE-page/)
+- Apr 27 - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
+- Apr 27 - [Found a simple tool for database modeling: dbdiagram.io](https://dbdiagram.io)
+- Apr 27 - [CONL: "Markdown" for your config files](https://cirw.in/blog/conl)
+- Apr 27 - [Sigbovik Conference Proceedings 2025 [pdf]](https://sigbovik.org/2025/proceedings.pdf)
+- Apr 27 - [IcôNES](https://icones.js.org/)
 <!--END_SECTION:hn-->
 
 <!--
