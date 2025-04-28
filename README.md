@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 28 - [The hospital where staff treat fear of death as well as physical pain](https://www.theguardian.com/society/2025/apr/22/palliative-care-denmark-hospital-death-dying)
+- Apr 28 - [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
+- Apr 28 - [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
+- Apr 28 - [New material gives copper superalloy-like strength](https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0)
 - Apr 27 - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
-- Apr 27 - [Here's how to get ChatGPT to stop being an overly flattering yes man](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/)
-- Apr 27 - [AI Helps Find a Cause of Alzheimer's Disease and Identify Therapeutic Candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
-- Apr 27 - [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
-- Apr 27 - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
 <!--END_SECTION:hn-->
 
 <!--
