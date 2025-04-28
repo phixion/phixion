@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam)](https://jobs.ashbyhq.com/optery)
-- Apr 28 - [Making a game from scratch using only a guitar [video]](https://www.youtube.com/watch?v=wesICmc48UE)
-- Apr 28 - [Reports of widespread power cuts in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
-- Apr 28 - [Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain](https://twitter.com/CloudflareRadar/status/1916811587408536055)
-- Apr 28 - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
+- Apr 28 - [Reanimation of the original Logic Theorist, the first AI, in IPL-V](https://www.youtube.com/watch?v=qmE5o2ezqBg)
+- Apr 28 - [Show HN: Autarkie – Instant Grammar Fuzzing Using Rust Macros](https://github.com/R9295/autarkie)
+- Apr 28 - [China's Clinical Trial Boom](https://www.asimov.press/p/china-trials)
+- Apr 28 - [Anthropic Economic Index: AI's Impact on Software Development](https://www.anthropic.com/research/impact-software-development)
+- Apr 28 - [We Found Insurance Fraud in Our Crash Data](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/)
 <!--END_SECTION:hn-->
 
 <!--
