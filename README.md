@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Why do electrons not fall into the nucleus?](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom/Atomic_Theory/Why_atoms_do_not_Collapse)
-- Apr 28 - [East German Stasi Tactics – Zersetzung (2021)](https://www.maxhertzberg.co.uk/background/politics/stasi-tactics/)
-- Apr 28 - [Show HN: Cleverb.ee – open-source agent that writes a cited research report](https://github.com/SureScaleAI/cleverbee)
-- Apr 28 - [Inference-Aware Fine-Tuning for Best-of-N Sampling in Large Language Models](https://arxiv.org/abs/2412.15287)
-- Apr 28 - [To 'Reclaim Future-Making', Amazon Workers Published Collection of SciFi Stories](https://afteramazon.world/)
+- Apr 28 - [Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam)](https://jobs.ashbyhq.com/optery)
+- Apr 28 - [Making a game from scratch using only a guitar [video]](https://www.youtube.com/watch?v=wesICmc48UE)
+- Apr 28 - [Reports of widespread power cuts in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
+- Apr 28 - [Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain](https://twitter.com/CloudflareRadar/status/1916811587408536055)
+- Apr 28 - [Reversing the Fossilization of Computer Science Conferences](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
 <!--END_SECTION:hn-->
 
 <!--
