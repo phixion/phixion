@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Reanimation of the original Logic Theorist, the first AI, in IPL-V](https://www.youtube.com/watch?v=qmE5o2ezqBg)
-- Apr 28 - [Show HN: Autarkie – Instant Grammar Fuzzing Using Rust Macros](https://github.com/R9295/autarkie)
-- Apr 28 - [China's Clinical Trial Boom](https://www.asimov.press/p/china-trials)
-- Apr 28 - [Anthropic Economic Index: AI's Impact on Software Development](https://www.anthropic.com/research/impact-software-development)
-- Apr 28 - [We Found Insurance Fraud in Our Crash Data](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/)
+- Apr 28 - [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
+- Apr 28 - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
+- Apr 28 - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
+- Apr 28 - [It's Not the Incentives – It's You](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
+- Apr 28 - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 <!--END_SECTION:hn-->
 
 <!--
