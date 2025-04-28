@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [NSA sought to curb university cryptography research in 1983 (MIT report, PDF)](https://archive.org/details/1983-03-09-27-27_202504)
-- Apr 27 - [Walmart plans EV Charging network which will blanket the US within a few years](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/)
-- Apr 27 - [Show HN: Flow.diy – a super duper simple flowchart maker](https://www.flow.diy)
-- Apr 27 - [Show HN: Daily Jailbreak – Prompt Engineer's Wordle](https://www.vaultbreak.ai/daily-jailbreak)
-- Apr 27 - [OpenBSD 7.7 Released](https://www.openbsd.org/77.html)
+- Apr 27 - [Restoring a Sinclair C5](https://woof.tech/@crashtestdev/114411537491626882)
+- Apr 27 - [Here's how to get ChatGPT to stop being an overly flattering yes man](https://old.reddit.com/r/ChatGPT/comments/1k8vomo/heres_how_to_get_chatgpt_to_stop_being_an_overly/)
+- Apr 27 - [AI Helps Find a Cause of Alzheimer's Disease and Identify Therapeutic Candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
+- Apr 27 - [The suburban office park that launched Silicon Valley](https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley)
+- Apr 27 - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/)
 <!--END_SECTION:hn-->
 
 <!--
