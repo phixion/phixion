@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
-- Apr 29 - [Spain is about to face the challenge of a "black start"](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
-- Apr 29 - [The Homebrew Channel repository is archived (Apr 28, 2025)](https://github.com/fail0verflow/hbc)
-- Apr 29 - [Dear "Security Researchers"](https://ftp.bit.nl/pub/debian/)
-- Apr 29 - [Implement Flash Attention Back End in SGLang – Basics and KV Cache](https://hebiao064.github.io/fa3-attn-backend-basic)
+- Apr 29 - [Amazon to display tariff costs for consumers](https://punchbowl.news/article/tech/amazon-display-tariff-costs/)
+- Apr 29 - [Spain and Portugal power outage: what caused it, and was there a cyber-attack?](https://www.theguardian.com/business/2025/apr/28/spain-and-portugal-power-outage-cause-cyber-attack-electricity)
+- Apr 29 - [Canadians give Liberals 4th mandate as Carney leads party to minority win](https://www.ctvnews.ca/politics/article/canadians-give-liberals-4th-mandate-as-carney-leads-party-to-minority-win/)
+- Apr 29 - [Generative AI is not replacing jobs or hurting wages at all, say economists](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/)
+- Apr 29 - [Vibe Coding: Developer Slot Machines (Cursor, Windsurf)](https://prototypr.io/note/vibe-coding-cursor-windsurf-slot-machine)
 <!--END_SECTION:hn-->
 
 <!--
