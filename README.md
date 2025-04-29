@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Backblaze responds to claims of "sham accounting," customer backups at risk](https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/)
+- Apr 29 - [Greek Particles (1990)](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
+- Apr 29 - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
+- Apr 29 - [An Ode to the Thigh](https://ponnekanti.net/posts/an-ode-to-the-thigh/)
+- Apr 28 - [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
 - Apr 28 - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
-- Apr 28 - [Amazon launches first Kuiper internet satellites in bid to take on Starlink](https://www.cnbc.com/2025/04/28/amazon-launches-first-kuiper-satellites-in-bid-to-take-on-starlink.html)
-- Apr 28 - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
-- Apr 28 - [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
 <!--END_SECTION:hn-->
 
 <!--
