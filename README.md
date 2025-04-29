@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
-- Apr 29 - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
-- Apr 29 - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
-- Apr 29 - [What Is "Induced Atmospheric Vibration"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
-- Apr 29 - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
+- Apr 29 - [I can't pay rent because devs just don't care](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/)
+- Apr 29 - [Why is AI so popular when nobody wants it?](https://newslttrs.com/why-is-ai-so-popular-when-nobody-wants-it/)
+- Apr 29 - [Show HN: Neurox – GPU Observability for AI Infra](https://github.com/neuroxhq/helm-chart-neurox-control)
+- Apr 29 - [Beyond Performance: Measuring the Environmental Impact of Analytical Databases](https://arxiv.org/abs/2504.18980)
+- Apr 29 - [Show HN: Beatsync – perfect audio sync across multiple devices](https://github.com/freeman-jiang/beatsync)
 <!--END_SECTION:hn-->
 
 <!--
