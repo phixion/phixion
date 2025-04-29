@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Amazon to display tariff costs for consumers](https://punchbowl.news/article/tech/amazon-display-tariff-costs/)
-- Apr 29 - [Spain and Portugal power outage: what caused it, and was there a cyber-attack?](https://www.theguardian.com/business/2025/apr/28/spain-and-portugal-power-outage-cause-cyber-attack-electricity)
-- Apr 29 - [Canadians give Liberals 4th mandate as Carney leads party to minority win](https://www.ctvnews.ca/politics/article/canadians-give-liberals-4th-mandate-as-carney-leads-party-to-minority-win/)
-- Apr 29 - [Generative AI is not replacing jobs or hurting wages at all, say economists](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/)
-- Apr 29 - [Vibe Coding: Developer Slot Machines (Cursor, Windsurf)](https://prototypr.io/note/vibe-coding-cursor-windsurf-slot-machine)
+- Apr 29 - [Firefox tab groups are here](https://blog.mozilla.org/en/firefox/tab-groups-community/)
+- Apr 29 - [ArkFlow: High-performance Rust stream processing engine](https://github.com/arkflow-rs/arkflow)
+- Apr 29 - [One-sixth of the planet's cropland has toxic levels of one or more metals](https://english.elpais.com/science-tech/2025-04-17/one-sixth-of-the-planets-cropland-has-toxic-levels-of-one-or-more-metals.html)
+- Apr 29 - [What Is "Induced Atmospheric Vibration"?](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration)
+- Apr 29 - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 <!--END_SECTION:hn-->
 
 <!--
