@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Greek Particles (1990)](https://specgram.com/Babel.I.2/07.sriyatha.greek.html)
-- Apr 29 - [Show HN: Rad Type - Can we make gamepad typing fast?](https://www.tyleo.com/projects/rad-type)
-- Apr 29 - [An Ode to the Thigh](https://ponnekanti.net/posts/an-ode-to-the-thigh/)
-- Apr 28 - [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
-- Apr 28 - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
+- Apr 29 - [Try Switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
+- Apr 29 - [Spain is about to face the challenge of a "black start"](https://arstechnica.com/science/2025/04/why-restarting-a-power-grid-is-so-hard/)
+- Apr 29 - [The Homebrew Channel repository is archived (Apr 28, 2025)](https://github.com/fail0verflow/hbc)
+- Apr 29 - [Dear "Security Researchers"](https://ftp.bit.nl/pub/debian/)
+- Apr 29 - [Implement Flash Attention Back End in SGLang – Basics and KV Cache](https://hebiao064.github.io/fa3-attn-backend-basic)
 <!--END_SECTION:hn-->
 
 <!--
