@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Migrating Away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
-- Apr 28 - [Show HN: Heart Rate Zones Plus – The first iOS app I ever developed](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232)
-- Apr 28 - [Reports of the death of California High-Speed Rail have been greatly exaggerated](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated)
-- Apr 28 - [It's Not the Incentives – It's You](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
-- Apr 28 - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
+- Apr 28 - [Backblaze responds to claims of "sham accounting," customer backups at risk](https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/)
+- Apr 28 - [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
+- Apr 28 - [Amazon launches first Kuiper internet satellites in bid to take on Starlink](https://www.cnbc.com/2025/04/28/amazon-launches-first-kuiper-satellites-in-bid-to-take-on-starlink.html)
+- Apr 28 - [What the heck is AEAD again?](https://ochagavia.nl/blog/what-the-heck-is-aead-again/)
+- Apr 28 - [The One-Person Framework in Practice](https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o)
 <!--END_SECTION:hn-->
 
 <!--
