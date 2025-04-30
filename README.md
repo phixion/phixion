@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 30 - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
+- Apr 30 - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 - Apr 30 - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
-- Apr 29 - [Waymo and Toyota outline partnership to advance autonomous driving deployment](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
-- Apr 29 - [Path Isn't Real on Linux](https://blog.danielh.cc/blog/path)
-- Apr 29 - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
-- Apr 29 - [Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
+- Apr 30 - [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
+- Apr 30 - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 <!--END_SECTION:hn-->
 
 <!--
