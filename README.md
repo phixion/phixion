@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
-- Apr 30 - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)
-- Apr 30 - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
-- Apr 30 - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
-- Apr 30 - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
+- Apr 30 - [Someone at YouTube Needs Glasses](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html)
+- Apr 30 - [Joining Sun Microsystems – 40 years ago (2022)](https://akapugs.blog/2022/05/03/674/)
+- Apr 30 - [Wikipedia says it will use AI, but not to replace human volunteers](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/)
+- Apr 30 - ["AI-first" is the new Return To Office](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/)
+- Apr 30 - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
 <!--END_SECTION:hn-->
 
 <!--
