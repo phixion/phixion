@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Dataframely: A polars-native data frame validation library](https://tech.quantco.com/blog/dataframely)
-- Apr 30 - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
-- Apr 30 - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
-- Apr 30 - [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
-- Apr 30 - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
+- Apr 30 - [Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html)
+- Apr 30 - [Amazon Rules Out Displaying Tariff Impact After White House Attack](https://www.wsj.com/business/retail/amazon-considered-displaying-import-charges-on-its-ultracheap-site-f5cf7a8b)
+- Apr 30 - [Finland Bans Smartphones in Schools](https://yle.fi/a/74-20158886)
+- Apr 30 - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
+- Apr 30 - [The Leaderboard Illusion](https://arxiv.org/abs/2504.20879)
 <!--END_SECTION:hn-->
 
 <!--
