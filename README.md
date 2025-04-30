@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Help ChatGPT discover your products](https://openai.com/chatgpt/search-product-discovery/)
-- Apr 29 - [Amazon Doesn't Want You to Know How Much the Trade War Costs](https://www.bloomberg.com/opinion/newsletters/2025-04-29/amazon-should-show-tariff-price-increases-despite-trump-bezos-call)
-- Apr 29 - [Waymo partners with Toyota to bring autonomous driving to personal vehicles](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
+- Apr 30 - [Sycophancy in GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/)
+- Apr 29 - [Waymo and Toyota outline partnership to advance autonomous driving deployment](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership)
 - Apr 29 - [Path Isn't Real on Linux](https://blog.danielh.cc/blog/path)
 - Apr 29 - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
+- Apr 29 - [Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule](https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/)
 <!--END_SECTION:hn-->
 
 <!--
