@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Redis is open source again](https://antirez.com/news/151)
-- May 01 - [Why some Mac apps launch slowly: A follow-up](https://lapcatsoftware.com/articles/2025/5/1.html)
-- May 01 - [The term "vegetative electron microscopy" keeps showing up in scientific papers](https://www.sciencealert.com/a-strange-phrase-keeps-turning-up-in-scientific-papers-but-why)
-- May 01 - [Starting July 1, Academic Publishers Can't Paywall NIH-Funded Research](https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy)
-- May 01 - [Something Alarming Is Happening to the Job Market](https://www.theatlantic.com/economy/archive/2025/04/job-market-youth/682641/)
+- May 01 - [Oxide's compensation model: how's it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
+- May 01 - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
+- May 01 - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
+- May 01 - [Making of Monkeys.zip](https://www.lukeschaefer.dev/posts/making-of-monkeys/)
+- May 01 - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
 <!--END_SECTION:hn-->
 
 <!--
