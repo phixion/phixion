@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/)
-- Apr 30 - [Reversible computing with mechanical links and pivots](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html)
-- Apr 30 - [The Mira Pro Color is Boox's first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)
-- Apr 30 - [NotebookLM Audio Overviews are now available in over 50 languages](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/)
-- Apr 30 - [Archil (YC F24) Is Hiring a Distributed Systems Engineer (In-Person, SF)](https://news.ycombinator.com/item?id=43848007)
+- May 01 - [RFK Jr.'S HHS Orders Lab Studying Deadly Infectious Diseases to Stop Research](https://www.wired.com/story/hhs-niaid-irf-ebola-disease-research-stop/)
+- May 01 - [Office is too slow, so Microsoft is making it load at Windows startup](https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html)
+- May 01 - [Apple Violated Antitrust Ruling, Judge Finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
+- Apr 30 - [Pwning the Ladybird Browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
+- Apr 30 - [Espressif's ESP32-C5 Is Now in Mass Production](https://www.espressif.com/en/news/ESP32-C5_Mass_Production)
 <!--END_SECTION:hn-->
 
 <!--
