@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Git Commands That Cover 90% of a Developer's Daily Workflow](https://jsdev.space/15-git-commands/)
-- May 02 - [The language brain matters more for learning programming than the math brain](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
-- May 02 - [Why our waistlines expand in middle age: aging stem cells shift into overdrive](https://medicalxpress.com/news/2025-04-waistlines-middle-age-aging-stem.html)
-- May 02 - [The un-celebrity president: Jimmy Carter shuns riches, lives modestly (2018)](https://www.washingtonpost.com/news/national/wp/2018/08/17/feature/the-un-celebrity-president-jimmy-carter-shuns-riches-lives-modestly-in-his-georgia-hometown/)
-- May 02 - [Lessons from Harlem](https://theamericanscholar.org/lessons-from-harlem/)
+- May 02 - [VR Design Unpacked: The Secret to Beat Saber's Fun Isn't What You Think](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
+- May 02 - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
+- May 02 - [Images of Soviet Venus lander falling to Earth suggest its parachute may be out](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
+- May 02 - [The Impossible Contradictions of Mark Twain](https://www.newyorker.com/magazine/2025/05/05/mark-twain-ron-chernow-book-review)
+- May 02 - [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
 <!--END_SECTION:hn-->
 
 <!--
