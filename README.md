@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
-- May 01 - [Deno's Decline](https://dbushell.com/2025/04/28/denos-decline/)
-- May 01 - [Google Wallet launches new age and identity verification features (ZK proofs)](https://blog.google/products/google-pay/google-wallet-age-identity-verifications/)
-- May 01 - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
-- May 01 - [Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization](https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/)
+- May 02 - [Quebec refuses to reinvest in Lion Electric (busses); US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
+- May 02 - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
+- May 02 - [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
+- May 02 - [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
+- May 02 - [XAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/)
 <!--END_SECTION:hn-->
 
 <!--
