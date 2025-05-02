@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Quebec refuses to reinvest in Lion Electric (busses); US factory auction](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
-- May 02 - [Chrome Origin Trial: Device Bound Session Credentials](https://developer.chrome.com/blog/dbsc-origin-trial)
-- May 02 - [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
-- May 02 - [Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages](https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/)
-- May 02 - [XAI Dev Leaks API Key for Private SpaceX, Tesla LLMs](https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/)
+- May 02 - [Show HN: OSle – A 510 bytes OS in x86 assembly](https://github.com/shikaan/osle)
+- May 02 - [Zoho halts $700M semiconductor plan](https://semiconductorsinsight.com/zoho-halts-700-million-semiconductor-plan/)
+- May 02 - [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters/)
+- May 02 - [Reflecting on a Year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
+- May 02 - [Quebec refuses to reinvest in Lion Electric](https://www.thecanadianpressnews.ca/politics/quebec-raises-doubts-about-electrification-as-it-refuses-to-reinvest-in-lion-electric/article_db74eea8-2ec8-5d06-b965-7ea97dd99751.html)
 <!--END_SECTION:hn-->
 
 <!--
