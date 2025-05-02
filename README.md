@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Meta's Reality Labs Has Now Lost over $60B Since 2020](https://meta.slashdot.org/story/25/05/01/206224/metas-reality-labs-has-now-lost-over-60-billion-since-2020)
-- May 02 - [De minimis: US small parcels loophole closes pushing up Shein, Temu prices](https://www.bbc.com/news/articles/cwy79j2n7d4o)
-- May 02 - [Altair at 50: Remembering the first Personal Computer](https://www.goto10retro.com/p/altair-at-50-remembering-the-first)
-- May 02 - [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
-- May 02 - [The Totalitarian Buddhist Who Beat SIM City (2010)](https://web.archive.org/web/20211117094441/https://www.vice.com/en/article/4w4kg3/the-totalitarian-buddhist-who-beat-sim-city)
+- May 02 - [Git Commands That Cover 90% of a Developer's Daily Workflow](https://jsdev.space/15-git-commands/)
+- May 02 - [The language brain matters more for learning programming than the math brain](https://massivesci.com/articles/programming-math-language-python-women-in-science/)
+- May 02 - [Why our waistlines expand in middle age: aging stem cells shift into overdrive](https://medicalxpress.com/news/2025-04-waistlines-middle-age-aging-stem.html)
+- May 02 - [The un-celebrity president: Jimmy Carter shuns riches, lives modestly (2018)](https://www.washingtonpost.com/news/national/wp/2018/08/17/feature/the-un-celebrity-president-jimmy-carter-shuns-riches-lives-modestly-in-his-georgia-hometown/)
+- May 02 - [Lessons from Harlem](https://theamericanscholar.org/lessons-from-harlem/)
 <!--END_SECTION:hn-->
 
 <!--
