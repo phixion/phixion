@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Oxide's compensation model: how's it going?](https://oxide.computer/blog/oxides-compensation-model-how-is-it-going)
-- May 01 - [New Study: Waymo is reducing serious crashes and making streets safer](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
-- May 01 - [C++26: more constexpr in the standard library](https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes)
-- May 01 - [Making of Monkeys.zip](https://www.lukeschaefer.dev/posts/making-of-monkeys/)
-- May 01 - [Dopamine signals when a fear can be forgotten](https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten)
+- May 01 - [The Day Anubis Saved Our Websites from a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
+- May 01 - [Deno's Decline](https://dbushell.com/2025/04/28/denos-decline/)
+- May 01 - [Google Wallet launches new age and identity verification features (ZK proofs)](https://blog.google/products/google-pay/google-wallet-age-identity-verifications/)
+- May 01 - [Show HN: Kubetail – Real-time log search for Kubernetes](https://github.com/kubetail-org/kubetail)
+- May 01 - [Ancient DNA Unveils the Cosmopolitan Heart of the Phoenician-Punic Civilization](https://allthathistory.com/archaeology-discoveries/phoenician-punic-civilization/2622/)
 <!--END_SECTION:hn-->
 
 <!--
