@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [The number of new apartments is at a 50-year high, but states expect a slowdown](https://oregoncapitalchronicle.com/2025/05/02/the-number-of-new-apartments-is-at-a-50-year-high-but-states-expect-a-slowdown/)
+- May 03 - [We know a little more about Amazon's super-secret satellites](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/)
+- May 03 - [Minimum Viable Blog](https://ostwilkens.se/blog/setting-up-blog)
 - May 03 - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 - May 03 - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
 - May 03 - [I put sheet music into smart glasses [video]](https://www.youtube.com/watch?v=j36u2i7PKKE)
-- May 02 - [ePub-utils: A Python library and CLI tool for inspecting ePub from the terminal](https://github.com/ernestofgonzalez/epub-utils)
 <!--END_SECTION:hn-->
 
 <!--
