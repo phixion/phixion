@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [VR Design Unpacked: The Secret to Beat Saber's Fun Isn't What You Think](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
+- May 02 - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
+- May 02 - [OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer](https://news.ycombinator.com/item?id=43874534)
+- May 02 - [VR Design Unpacked: The secret to Beat Saber's fun](https://www.roadtovr.com/beat-saber-instructed-motion-until-you-fall-inside-xr-design/)
 - May 02 - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
-- May 02 - [Images of Soviet Venus lander falling to Earth suggest its parachute may be out](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
-- May 02 - [The Impossible Contradictions of Mark Twain](https://www.newyorker.com/magazine/2025/05/05/mark-twain-ron-chernow-book-review)
-- May 02 - [Show HN: I built a synthesizer based on 3D physics](https://anukari.com)
+- May 02 - [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
 <!--END_SECTION:hn-->
 
 <!--
