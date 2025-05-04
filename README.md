@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [The latest AI scaling graph – and why it hardly makes sense](https://garymarcus.substack.com/p/the-latest-ai-scaling-graph-and-why)
+- May 04 - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
+- May 04 - [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
 - May 04 - [Brian Eno's Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
 - May 04 - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
 - May 04 - [Programmers Guide to the AMIBIOS (1993) [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
-- May 04 - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 <!--END_SECTION:hn-->
 
 <!--
