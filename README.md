@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
-- May 04 - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
-- May 04 - [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
-- May 04 - ['Bizarro World'](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
-- May 04 - [Nevermind, an album on major chords](https://farina00.github.io/essays/nevermind/)
+- May 04 - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
+- May 04 - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
+- May 04 - ['Dangerous nonsense': AI-authored books about ADHD for sale on Amazon](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon)
+- May 04 - [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
+- May 04 - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
 <!--END_SECTION:hn-->
 
 <!--
