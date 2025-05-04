@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [Ask HN: Anyone else roll eyes at startups that went from "X" to "AI-powered X"?](https://news.ycombinator.com/item?id=43881396)
-- May 03 - [Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit](https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit)
-- May 03 - [Spain-Portugal blackouts: what happened](https://theconversation.com/spain-portugal-blackouts-what-actually-happened-and-what-can-iberia-and-europe-learn-from-it-255666)
-- May 03 - [Deadly Screwworm Parasite's Comeback Threatens Texas Cattle, US Beef Supply](http://www.bloomberg.com/news/features/2025-05-02/deadly-screwworm-parasite-s-comeback-threatens-texas-cattle-us-beef-supply)
-- May 03 - [We Fell Out of Love with Next.js and Back in Love with Ruby on Rails](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
+- May 03 - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
+- May 03 - [FAA offering more incentives as air traffic controller shortage worsens](https://ktla.com/news/travel/faa-offering-more-incentives-as-air-traffic-controller-shortage-worsens/)
+- May 03 - [Google Gemini has the worst LLM API](https://venki.dev/notes/google-gemini-is-bad)
+- May 03 - [Why I Am Not Going to Buy a Computer (1987) [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
+- May 03 - [Numerical Linear Algebra Class in Julia TUM](https://venkovic.github.io/NLA-for-CS-and-IE.html)
 <!--END_SECTION:hn-->
 
 <!--
