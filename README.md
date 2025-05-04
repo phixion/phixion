@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Oberon Pi](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/)
-- May 04 - [Switch bouncing reference traces for a variety of different switches](https://github.com/gsuberland/switch_bouncing)
-- May 04 - [Brian Eno's Theory of Democracy](https://www.programmablemutter.com/p/brian-enos-theory-of-democracy)
-- May 04 - [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736)
-- May 04 - [Programmers Guide to the AMIBIOS (1993) [pdf]](http://bitsavers.org/pdf/americanMegatrends/Programmers_Guide_to_the_AMIBIOS_1993.pdf)
+- May 04 - [Why Flatpak Apps Use So Much Disk Space on Linux](https://ostechnix.com/why-flatpak-apps-use-so-much-disk-space/)
+- May 04 - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
+- May 04 - [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
+- May 04 - ['Bizarro World'](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
+- May 04 - [Nevermind, an album on major chords](https://farina00.github.io/essays/nevermind/)
 <!--END_SECTION:hn-->
 
 <!--
