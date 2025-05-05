@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
-- May 05 - [Effects of repetitive transcranial magnetic stimulation on sleep bruxism](https://pmc.ncbi.nlm.nih.gov/articles/PMC4822180/)
-- May 05 - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
-- May 05 - [Trump announces 100% tariffs on movies ‘produced in foreign lands’](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies)
-- May 05 - [Show HN: CodeCafé – A real-time collaborative code editor in the browser](https://github.com/mrktsm/codecafe)
+- May 05 - [No Instagram, No Privacy](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/)
+- May 05 - [Show HN: VectorVFS, your filesystem as a vector database](https://vectorvfs.readthedocs.io/en/latest/)
+- May 05 - [Geometrically understanding calculus of inverse functions (2023)](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1)
+- May 05 - [A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html)
+- May 05 - [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
 <!--END_SECTION:hn-->
 
 <!--
