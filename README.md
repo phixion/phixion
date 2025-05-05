@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 05 - [Apple Shortcuts is falling into "the automation gap"](https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/)
+- May 05 - [Modern Latex](https://github.com/mrkline/modern-latex)
+- May 05 - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
+- May 05 - [Driving Compilers (2023)](https://fabiensanglard.net/dc/index.php)
 - May 05 - [Show HN: My AI Native Resume](https://ai.jakegaylor.com/)
-- May 04 - [People are losing loved ones to AI-fueled spiritual fantasies](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/)
-- May 04 - [Matrix-vector multiplication implemented in off-the-shelf DRAM for Low-Bit LLMs](https://arxiv.org/abs/2503.23817)
-- May 04 - [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
-- May 04 - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 <!--END_SECTION:hn-->
 
 <!--
