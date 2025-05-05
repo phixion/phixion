@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
-- May 04 - [The complicated business of electing a Doge](https://www.theballotboy.com/electing-the-doge)
-- May 04 - ['Dangerous nonsense': AI-authored books about ADHD for sale on Amazon](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon)
-- May 04 - [LLMs as Unbiased Oracles](https://jazzberry.ai/blog/test-generation-as-the-foundation)
-- May 04 - [How Riot Games is fighting the war against video game hackers](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/)
+- May 04 - [People are losing loved ones to AI-fueled spiritual fantasies](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/)
+- May 04 - [On Not Carrying a Camera – Cultivating memories instead of snapshots](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera)
+- May 04 - [An appeal to companies doing AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
+- May 04 - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
+- May 04 - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 <!--END_SECTION:hn-->
 
 <!--
