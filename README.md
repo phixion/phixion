@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Show HN: Sheet Music in Smart Glasses](https://news.ycombinator.com/item?id=43906442)
-- May 06 - [Show HN: Plexe – ML Models from a Prompt](https://github.com/plexe-ai/plexe)
-- May 06 - [Gemini 2.5 Pro Preview: even better coding performance](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/)
-- May 06 - [Show HN: Clippy, 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
-- May 06 - [Accents in Latent Spaces: How AI Hears Accent Strength in English](https://accent-strength.boldvoice.com/)
+- May 06 - [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
+- May 06 - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
+- May 06 - [Show HN: Feedsmith — Fast parser & generator for RSS, Atom, OPML feed namespaces](https://github.com/macieklamberski/feedsmith)
+- May 06 - [GenAI-Accelerated TLA+ Challenge](https://foundation.tlapl.us/challenge/index.html)
+- May 06 - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
 <!--END_SECTION:hn-->
 
 <!--
