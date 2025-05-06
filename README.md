@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Searching for black swans](https://upgradingcapitalism.substack.com/p/searching-for-black-swans)
+- May 06 - [Keeping Open WebUI Free, Fair, and Sustainable](https://docs.openwebui.com/license/)
+- May 06 - [Google has most of my email because it has all of yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
 - May 05 - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
 - May 05 - [Show HN: I built a 7-day calendar app – no months or years, just the next 7 days](https://weeklong.life/)
-- May 05 - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
 - May 05 - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 <!--END_SECTION:hn-->
 
