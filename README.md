@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Keeping Open WebUI Free, Fair, and Sustainable](https://docs.openwebui.com/license/)
-- May 06 - [Google has most of my email because it has all of yours (2014)](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours)
-- May 05 - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
-- May 05 - [Show HN: I built a 7-day calendar app – no months or years, just the next 7 days](https://weeklong.life/)
-- May 05 - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
+- May 06 - [Hyper – Outperform React on every metric](https://nuejs.org/blog/introducing-hyper/)
+- May 06 - [Sneakers (1992) – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
+- May 06 - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
+- May 06 - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
+- May 06 - [An Appeal to Apple from Anukari: one tiny macOS detail to make Anukari fast](https://anukari.com/blog/devlog/an-appeal-to-apple)
 <!--END_SECTION:hn-->
 
 <!--
