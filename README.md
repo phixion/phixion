@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Possibly a Serious Possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
-- May 05 - [Evolving OpenAI's Structure](https://openai.com/index/evolving-our-structure/)
-- May 05 - [Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python](https://github.com/leontrolski/tkintergalactic)
-- May 05 - [As an experienced LLM user, I don't use generative LLMs often](https://minimaxir.com/2025/05/llm-use/)
-- May 05 - [Instant (YC S22) Is Hiring a Founding TypeScript Engineer](https://www.instantdb.com/hiring/ts-hacker)
+- May 06 - [Searching for black swans](https://upgradingcapitalism.substack.com/p/searching-for-black-swans)
+- May 05 - [Analyzing Modern Nvidia GPU Cores](https://arxiv.org/abs/2503.20481)
+- May 05 - [Show HN: I built a 7-day calendar app – no months or years, just the next 7 days](https://weeklong.life/)
+- May 05 - [Why it is (nearly) impossible that we live in a simulation](https://arxiv.org/abs/2504.08461)
+- May 05 - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 <!--END_SECTION:hn-->
 
 <!--
