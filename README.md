@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)](https://github.com/ciromattia/kcc)
-- May 07 - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
-- May 07 - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
-- May 07 - [Using tests as a debugging tool for logic errors](https://www.qodo.ai/blog/java-unit-testing-how-to-use-tests-as-a-debugging-tool-for-logic-errors/)
-- May 07 - [Jargonic Sets New SOTA for Japanese ASR](https://aiola.ai/blog/jargonic-japanese-asr/)
+- May 07 - [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
+- May 07 - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
+- May 07 - [Ty: A fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
+- May 07 - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+- May 07 - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
 <!--END_SECTION:hn-->
 
 <!--
