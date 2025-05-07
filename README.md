@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Will Supercapacitors Come to AI's Rescue?](https://spectrum.ieee.org/supercapacitor-2671883490)
-- May 06 - [Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust](https://github.com/reubeno/brush)
-- May 06 - [Show HN: Feedsmith — Fast parser & generator for RSS, Atom, OPML feed namespaces](https://github.com/macieklamberski/feedsmith)
-- May 06 - [GenAI-Accelerated TLA+ Challenge](https://foundation.tlapl.us/challenge/index.html)
-- May 06 - [Matt Godbolt sold me on Rust by showing me C++](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/)
+- May 06 - [FTC bans hidden fees for live events and short-term rentals, effective May 12](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/)
+- May 06 - [DEA Once Touted Body Cameras, Now Abandoning Them](https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump)
+- May 06 - [Show HN: Whippy Term - GUI terminal for embedded development (Linux and Windows)](https://whippyterm.com)
+- May 06 - [Sutton and Barto Book Implementation](https://github.com/ivanbelenky/RL)
+- May 06 - [Continue (YC S23) is hiring software engineers in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 <!--END_SECTION:hn-->
 
 <!--
