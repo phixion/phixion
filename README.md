@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Vagus Nerve Stimulation Erases PTSD](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/)
-- May 07 - [Open source Google Analytics replacement](https://github.com/rybbit-io/rybbit)
-- May 07 - [Ty: A fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
-- May 07 - [Motion (YC W20) Is Hiring a Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-- May 07 - [Create and edit images with Gemini 2.0 in preview](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/)
+- May 07 - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
+- May 07 - [Doctors Warn Accountants of Private-Equity Drain on Quality: You Could Be Next](https://www.wsj.com/articles/doctors-warn-accountants-of-private-equity-drain-on-quality-you-could-be-next-1be0f0fd)
+- May 07 - [Pakistani firm shipped fentanyl analogs, scams to us](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/)
+- May 07 - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
+- May 07 - [June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 <!--END_SECTION:hn-->
 
 <!--
