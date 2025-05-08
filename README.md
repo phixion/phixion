@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 08 - [OnRPG - 1,047,640 breached accounts](https://haveibeenpwned.com/PwnedWebsites#OnRPG)
 - May 01 - [TehetségKapu - 54,357 breached accounts](https://haveibeenpwned.com/PwnedWebsites#TehetsegKapu)
 - Apr 13 - [Samsung Germany Customer Tickets - 216,333 breached accounts](https://haveibeenpwned.com/PwnedWebsites#SamsungGermany)
 - Apr 09 - [Qraved - 984,519 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Qraved)
 - Apr 08 - [Boulanger - 2,077,078 breached accounts](https://haveibeenpwned.com/PwnedWebsites#Boulanger)
-- Mar 30 - [German Doner Kebab - 162,373 breached accounts](https://haveibeenpwned.com/PwnedWebsites#GermanDonerKebab)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Parametric Modeling with Grasshopper](https://baharmon.github.io/basics)
-- May 07 - [Show HN: US Routing – Python library for fast local routing in the United States](https://github.com/ivanbelenky/us-routing)
-- May 07 - [Yggdrasil is an experimental compact routing scheme that is fully decentralised](https://yggdrasil-network.github.io/about.html)
-- May 07 - [Foundation DB Record Layer SQL API](https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html)
-- May 07 - [June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
+- May 08 - [Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer)
+- May 08 - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
+- May 08 - [Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP](https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html)
+- May 08 - [I can't understand Apple's Critical Alert policy](https://jhan.bearblog.dev/i-cant-understand-apples-critical-alert-policy/)
+- May 07 - [Show HN: US Routing – Python library for fast local routing in the US](https://github.com/ivanbelenky/us-routing)
 <!--END_SECTION:hn-->
 
 <!--
