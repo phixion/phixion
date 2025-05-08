@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Artifact (YC W25) Is Hiring](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer)
-- May 08 - [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
-- May 08 - [Secret Messages Detected on Egyptian Obelisk in Paris](https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/)
-- May 08 - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
-- May 07 - [Show HN: US Routing – Python library for fast local routing in the US](https://github.com/ivanbelenky/us-routing)
+- May 08 - [Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires)
+- May 08 - [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
+- May 08 - [Trump's NIH Axed Research Grants Even After a Judge Blocked the Cuts](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants)
+- May 08 - [Google to Back Three New Advanced Nuclear Projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
+- May 08 - [QueryHub](https://www.queryhub.ai/blog/introducing-queryhub)
 <!--END_SECTION:hn-->
 
 <!--
