@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
-- May 09 - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
-- May 09 - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
-- May 09 - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
-- May 09 - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
+- May 09 - [Why 536 was 'the worst year to be alive'](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
+- May 09 - [Inventing the Adventure Game (1984)](http://www.warrenrobinett.com/inventing_adventure/)
+- May 09 - [New Tool: lsds – List All Linux Block Devices and Settings in One Place](https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/)
+- May 09 - [In the Network of the Conclav: How we "guessed" the Pope using network science](https://www.unibocconi.it/en/news/network-conclave)
+- May 09 - [Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
 <!--END_SECTION:hn-->
 
 <!--
