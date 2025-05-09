@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Amazon's Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
-- May 09 - [How async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)
-- May 09 - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
-- May 09 - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
-- May 09 - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
+- May 09 - [Entire BART system is down due to computer systems failure](https://www.bart.gov/)
+- May 09 - [ALICE detects the conversion of lead into gold at the LHC](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc)
+- May 09 - [Itter.sh – Micro-Blogging via Terminal](https://www.itter.sh/)
+- May 09 - [Dasung Paperlike 13K is a 13.3 inch E Ink color monitor](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/)
+- May 09 - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
 <!--END_SECTION:hn-->
 
 <!--
