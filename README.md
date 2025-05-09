@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Newsreels from the UCLA Film and Television Archive](https://newsreels.net/)
-- May 08 - [Show HN: Req Update Check](https://github.com/ontherivt/req-update-check)
+- May 09 - [Hill or High Water](https://royalsociety.org/blog/2025/05/hill-or-high-water/)
+- May 09 - [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
+- May 09 - [A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
+- May 09 - [Cogentcore: Open-source framework for building multi-platform apps with Go](https://github.com/cogentcore/core)
 - May 08 - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
-- May 08 - [Fui: C library for interacting with the framebuffer in a TTY context](https://github.com/martinfama/fui)
-- May 08 - [A flat pricing subscription for Claude Code](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
 <!--END_SECTION:hn-->
 
 <!--
