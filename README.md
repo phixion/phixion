@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues.](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
-- May 09 - [Doge software engineer's computer infected by info-stealing malware](https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/)
-- May 09 - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual (1980)](https://www.pagetable.com/?p=1798)
-- May 09 - [Verification, the Key to AI (2001)](http://incompleteideas.net/IncIdeas/KeytoAI.html)
-- May 09 - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
+- May 09 - [Amazon's Vulcan Robots Now Stow Items Faster Than Humans](https://spectrum.ieee.org/amazon-stowing-robots)
+- May 09 - [How async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)
+- May 09 - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
+- May 09 - [Show HN: Hyvector – A fast and modern SVG editor](https://www.hyvector.com)
+- May 09 - [WASM 2.0](https://www.w3.org/TR/wasm-core-2/)
 <!--END_SECTION:hn-->
 
 <!--
