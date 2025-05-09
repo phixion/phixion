@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Hill or High Water](https://royalsociety.org/blog/2025/05/hill-or-high-water/)
-- May 09 - [Starlink User Terminal Teardown](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
-- May 09 - [A Formal Analysis of Apple's iMessage PQ3 Protocol [pdf]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
-- May 09 - [Cogentcore: Open-source framework for building multi-platform apps with Go](https://github.com/cogentcore/core)
-- May 08 - [Podfox: First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
+- May 09 - [Boy Accidentally Orders 70k Lollipops on Amazon. Panic Ensues.](https://www.nytimes.com/2025/05/08/business/dum-dums-amazon-order-kentucky.html)
+- May 09 - [Doge software engineer's computer infected by info-stealing malware](https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/)
+- May 09 - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual (1980)](https://www.pagetable.com/?p=1798)
+- May 09 - [Verification, the Key to AI (2001)](http://incompleteideas.net/IncIdeas/KeytoAI.html)
+- May 09 - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
 <!--END_SECTION:hn-->
 
 <!--
