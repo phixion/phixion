@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [The Fallacy of Techno-Feudalism](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism)
-- May 10 - [Cosmos 482 Descent Craft tracker](http://astria.tacc.utexas.edu/AstriaGraph/)
-- May 10 - [Ash (Almquist Shell) Variants](https://www.in-ulm.de/~mascheck/various/ash/)
-- May 10 - [Not a three-year-old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
-- May 10 - [Slow software for a burning world](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
+- May 10 - [Farewell to Lee Gold's Alarums and Excursions](https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/)
+- May 10 - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
+- May 10 - [Show HN: Code Claude Code](https://github.com/RVCA212/codesys)
+- May 10 - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
+- May 10 - [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 <!--END_SECTION:hn-->
 
 <!--
