@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Using Git-upload-pack for a simpler CI integration](https://blog.screenshotbot.io/2025/05/09/using-git-upload-pack-for-a-simpler-ci-integration/)
-- May 09 - [Charles Baudelaire's Flowers of Evil](https://fleursdumal.org)
-- May 09 - [Business books are entertainment, not strategic tools](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste)
-- May 09 - [What’s new in Swift 6.2](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
-- May 09 - [Why 536 was 'the worst year to be alive' (2018)](https://www.science.org/content/article/why-536-was-worst-year-be-alive)
+- May 10 - [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
+- May 10 - [Charles Bukowski, William Burroughs, and the Computer (2009)](https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/)
+- May 10 - [Brandon's Semiconductor Simulator](https://brandonli.net/semisim/)
+- May 10 - [WebGL Water (2010)](https://madebyevan.com/webgl-water/)
+- May 09 - [PlainBudget – Minimalist Plain Text Budgeting](https://plainbudget.com/)
 <!--END_SECTION:hn-->
 
 <!--
