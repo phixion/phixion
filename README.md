@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Farewell to Lee Gold's Alarums and Excursions](https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/)
-- May 10 - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
-- May 10 - [Show HN: Code Claude Code](https://github.com/RVCA212/codesys)
-- May 10 - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
-- May 10 - [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
+- May 10 - [Microsoft Teams will soon block screen capture during meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/)
+- May 10 - [Update turns Google Gemini into a prude, breaking apps for trauma survivors](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/)
+- May 10 - [Even Tesla's Insurance Arm Is Getting Wrecked](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/)
+- May 10 - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
+- May 10 - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 <!--END_SECTION:hn-->
 
 <!--
