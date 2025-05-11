@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
-- May 11 - [Show HN: I’m 16 years old and working on my first startup, a study app](https://www.notiv.app/)
-- May 11 - [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
-- May 11 - [Fan Service](https://flak.tedunangst.com/post/fan-service)
-- May 11 - [NetBSD 10.x Kernel Math_emulation](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
+- May 11 - [Roame (YC S23) Is Hiring Lead Fullstack Engineer](https://www.ycombinator.com/companies/roame/jobs/oNlw7Nf-lead-full-stack-engineer)
+- May 11 - [The Epochalypse Project](https://epochalypse-project.org/)
+- May 11 - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df)
+- May 11 - [Absolute Zero: Reinforced Self-Play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
+- May 11 - [On thinkers and doers (2022)](https://www.strangeloopcanon.com/p/on-thinkers-and-doers)
 <!--END_SECTION:hn-->
 
 <!--
