@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Observations from people watching](https://skincontact.substack.com/p/21-observations-from-people-watching)
-- May 10 - [Sierpiński Triangle? In My Bitwise and?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
-- May 10 - [Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand Pass](https://github.com/danielcota/LoopMix128)
-- May 10 - [Why the Apple II Didn't Support Lowercase Letters (2020)](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters)
-- May 10 - [Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants](https://github.com/blackrabbit17/xenolab)
+- May 11 - [Leaving Google](https://www.airs.com/blog/archives/670)
+- May 11 - [The AI jobs crisis is here, now](https://www.bloodinthemachine.com/p/the-ai-jobs-crisis-is-here-now)
+- May 11 - [Dotless Domains](https://lab.avl.la/dotless/)
+- May 11 - [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
+- May 10 - [The History and Legacy of Visual Basic](https://retool.com/visual-basic)
 <!--END_SECTION:hn-->
 
 <!--
