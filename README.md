@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
-- May 12 - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
-- May 12 - [OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information](https://openeox.org/)
-- May 12 - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
-- May 12 - [Reviving a Modular Cargo Bike Design from the 1930s](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s)
+- May 12 - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
+- May 12 - [Can You Really Trust That Permission Pop-Up on macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
+- May 12 - [Toward a Sparse and Interpretable Audio Codec](https://arxiv.org/abs/2505.05654)
+- May 12 - [HealthBench](https://openai.com/index/healthbench/)
+- May 12 - [Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
 <!--END_SECTION:hn-->
 
 <!--
