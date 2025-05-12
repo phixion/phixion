@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 12 - [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
+- May 12 - [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
+- May 12 - [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
 - May 12 - [Avoiding AI is hard – but our freedom to opt out must be protected](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873)
 - May 11 - [I hacked my clock to control my focus](https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/)
-- May 11 - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
-- May 11 - [Burrito Now, Pay Later](https://enterprisevalue.substack.com/p/burrito-now-pay-later)
-- May 11 - [ToyDB rewritten: a distributed SQL database in Rust, for education](https://github.com/erikgrinaker/toydb)
 <!--END_SECTION:hn-->
 
 <!--
