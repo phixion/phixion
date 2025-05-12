@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
-- May 12 - [US Copyright Office found AI companies breach copyright. Its boss was fired](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/)
-- May 12 - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
-- May 12 - [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
-- May 12 - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
+- May 12 - [The Barbican](https://arslan.io/2025/05/12/barbican-estate/)
+- May 12 - [Embeddings Are Underrated](https://technicalwriting.dev/ml/embeddings/overview.html)
+- May 12 - [OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information](https://openeox.org/)
+- May 12 - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
+- May 12 - [Reviving a Modular Cargo Bike Design from the 1930s](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s)
 <!--END_SECTION:hn-->
 
 <!--
