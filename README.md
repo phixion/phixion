@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 12 - [Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+- May 12 - [US Copyright Office found AI companies breach copyright. Its boss was fired](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/)
+- May 12 - [Armbian Updates: OMV support, boot improvents, Rockchip optimizations](https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/)
 - May 12 - [Ask HN: Cursor or Windsurf?](https://news.ycombinator.com/item?id=43959710)
 - May 12 - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
-- May 12 - [The Academic Pipeline Stall: Why Industry Must Stand for Academia](https://www.sigarch.org/the-academic-pipeline-stall-why-industry-must-stand-for-academia/)
-- May 12 - [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
-- May 12 - [Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL](https://www.primeintellect.ai/blog/intellect-2-release)
 <!--END_SECTION:hn-->
 
 <!--
