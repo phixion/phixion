@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Multiple Security Issues in GNU Screen](https://www.openwall.com/lists/oss-security/2025/05/12/1)
-- May 13 - [The world could run on older hardware if software optimization was a priority](https://twitter.com/ID_AA_Carmack/status/1922100771392520710)
-- May 13 - [Nextcloud cries foul over Google Play Store app rejection](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/)
-- May 13 - [Ask HN: How are you acquiring your first hundred users?](https://news.ycombinator.com/item?id=43970837)
-- May 13 - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
+- May 13 - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
+- May 13 - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
+- May 13 - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
+- May 13 - [Bosses weren't being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
+- May 13 - [Why I'm Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
 <!--END_SECTION:hn-->
 
 <!--
