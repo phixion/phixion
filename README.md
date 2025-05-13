@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [Show HN: Lumoar – Free SOC 2 tool for SaaS startups](https://www.lumoar.com)
-- May 12 - [Can You Really Trust That Permission Pop-Up on macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
-- May 12 - [Toward a Sparse and Interpretable Audio Codec](https://arxiv.org/abs/2505.05654)
-- May 12 - [HealthBench](https://openai.com/index/healthbench/)
-- May 12 - [Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI](https://www.workatastartup.com/jobs/75011)
+- May 12 - [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
+- May 12 - [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
+- May 12 - [What if humanity forgot how to make CPUs?](https://twitter.com/lauriewired/status/1922015999118680495)
+- May 12 - [Why National Labs are investing (heavily) in AI](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
+- May 12 - [Build your own Siri locally and on-device](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device)
 <!--END_SECTION:hn-->
 
 <!--
