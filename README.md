@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Tariffs Drive Honda to Move SUV Production from Canada to U.S.](https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html)
-- May 13 - [PDF to Text, a Challenging Problem](https://www.marginalia.nu/log/a_119_pdf/)
-- May 13 - [Understanding Java's Asynchronous Journey](https://amritpandey.io/understanding-javas-asynchronous-journey/)
-- May 13 - [Bosses weren't being paranoid: Remote workers more likely to start their own biz](https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/)
-- May 13 - [Why I'm Resigning from the National Science Foundation](https://time.com/7285045/resigning-national-science-foundation-library-congress/)
+- May 13 - [Android and Wear OS are getting a big refresh](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
+- May 13 - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
+- May 13 - [FCC threatens EchoStar licenses for spectrum that SpaceX wants to use](https://arstechnica.com/tech-policy/2025/05/fcc-threatens-echostar-licenses-for-spectrum-that-spacex-wants-to-use/)
+- May 13 - [Don't unwrap options: There are better ways (2024)](https://corrode.dev/blog/rust-option-handling-best-practices/)
+- May 13 - [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
 <!--END_SECTION:hn-->
 
 <!--
