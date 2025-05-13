@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 13 - [Persuasion methods for engineering managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
+- May 13 - [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
+- May 13 - [TransMLA: Multi-head latent attention is all you need](https://arxiv.org/abs/2502.07864)
 - May 13 - [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
-- May 13 - [FedRAMP 20x – One Month in and Moving Fast](https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/)
 - May 12 - [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)
-- May 12 - [Wtfis: Passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
-- May 12 - [A conversation about AI for science with Jason Pruet](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet)
 <!--END_SECTION:hn-->
 
 <!--
