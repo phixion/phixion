@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [VPN firm says it didn't know customers had lifetime subscriptions, cancels them](https://arstechnica.com/gadgets/2025/05/vpn-firm-says-it-didnt-know-customers-had-lifetime-subscriptions-cancels-them/)
-- May 14 - [Bus stops here: Shanghai lets riders design their own routes](https://www.sixthtone.com/news/1017072)
-- May 14 - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
-- May 14 - [Replicube: A puzzle game about writing code to create shapes](https://store.steampowered.com/app/3401490/Replicube/)
-- May 13 - [Fingers wrinkle the same way every time they’re in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
+- May 14 - [Show HN: acmsg (automated commit message generator)](https://github.com/quinneden/acmsg)
+- May 14 - [UK's Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
+- May 14 - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
+- May 14 - [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
+- May 14 - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 <!--END_SECTION:hn-->
 
 <!--
