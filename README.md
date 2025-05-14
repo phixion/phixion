@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Show HN: acmsg (automated commit message generator)](https://github.com/quinneden/acmsg)
-- May 14 - [UK's Ancient Tree Inventory](https://ati.woodlandtrust.org.uk/)
-- May 14 - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
-- May 14 - [$20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
-- May 14 - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
+- May 14 - [Launch HN: Jazzberry (YC X25) – AI agent for finding bugs](https://news.ycombinator.com/item?id=43985994)
+- May 14 - [Show HN: Lumier – Run macOS VMs in a Docker](https://github.com/trycua/cua/tree/main/libs/lumier)
+- May 14 - [Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US)
+- May 14 - [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
+- May 14 - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 <!--END_SECTION:hn-->
 
 <!--
