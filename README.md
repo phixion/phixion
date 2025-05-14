@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Android and Wear OS are getting a big refresh](https://blog.google/products/android/material-3-expressive-android-wearos-launch/)
-- May 13 - [Why are banks still getting authentication so wrong?](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/)
-- May 13 - [FCC threatens EchoStar licenses for spectrum that SpaceX wants to use](https://arstechnica.com/tech-policy/2025/05/fcc-threatens-echostar-licenses-for-spectrum-that-spacex-wants-to-use/)
-- May 13 - [Don't unwrap options: There are better ways (2024)](https://corrode.dev/blog/rust-option-handling-best-practices/)
-- May 13 - [OpenTelemetry protocol with Apache Arrow](https://opentelemetry.io/blog/2025/otel-arrow-phase-2/)
+- May 14 - [Map of Palaeohispanic Coins and Inscriptions](http://hesperia.ucm.es/consulta_hesperia/mapas.php)
+- May 13 - [Your fingers wrinkle the same way every time you're in the water too long](https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes)
+- May 13 - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+- May 13 - [Type-constrained code generation with language models](https://arxiv.org/abs/2504.09246)
+- May 13 - [How (memory) safe is Zig? (2021)](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 <!--END_SECTION:hn-->
 
 <!--
