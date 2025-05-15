@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Show HN: Semantic Calculator (King-Man+woman=?)](https://calc.datova.ai)
+- May 14 - [Copaganda: How Police and the Media Manipulate Our News](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news)
+- May 14 - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
+- May 14 - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
+- May 14 - [Show HN: Semantic Calculator (king-man+woman=?)](https://calc.datova.ai)
 - May 14 - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
-- May 14 - [The Perverse Incentives of Vibe Coding](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee)
-- May 14 - [David Hilbert's radio address (2014)](https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address)
-- May 14 - [Various Things in MetaPost (2019)](https://habr.com/en/articles/454376/)
 <!--END_SECTION:hn-->
 
 <!--
