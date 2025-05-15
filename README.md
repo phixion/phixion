@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Copaganda: How Police and the Media Manipulate Our News](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news)
+- May 15 - [Human](https://quarter--mile.com/Human)
+- May 15 - [LLMs Get Lost in Multi-Turn Conversation](https://arxiv.org/abs/2505.06120)
+- May 15 - [MicroPython v1.25.0](https://github.com/micropython/micropython/releases/tag/v1.25.0)
+- May 15 - [Why agency and cognition are fundamentally not computational](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1362658/full)
 - May 14 - [Migrating to Postgres](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d)
-- May 14 - [StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer)
-- May 14 - [Show HN: Semantic Calculator (king-man+woman=?)](https://calc.datova.ai)
-- May 14 - [Show HN: Muscle-Mem, a behavior cache for AI agents](https://github.com/pig-dot-dev/muscle-mem)
 <!--END_SECTION:hn-->
 
 <!--
