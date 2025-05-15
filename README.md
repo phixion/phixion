@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Tiptap (YC S23) Is Hiring](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager)
-- May 15 - [EU ruling: tracking-based advertising [...] across Europe has no legal basis](https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/)
-- May 15 - [Critical Warning for External Purchases in Apple App Store](https://mjtsai.com/blog/2025/05/14/critical-warning-for-external-purchases-in-app-store/)
-- May 15 - [Human](https://quarter--mile.com/Human)
-- May 15 - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
+- May 15 - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+- May 15 - [In the US, a rotating detonation rocket engine takes flight](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/)
+- May 15 - [Tesla has yet to start testing its robotaxi without driver weeks before launch](https://electrek.co/2025/05/14/tesla-yet-start-testing-robotaxi-service-without-driver-weeks-before-launch/)
+- May 15 - [XAI's Grok suddenly can't stop bringing up "white genocide" in South Africa](https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/)
+- May 15 - [Moving Forth: a series on writing Forth kernels](https://www.bradrodriguez.com/papers/index.html)
 <!--END_SECTION:hn-->
 
 <!--
