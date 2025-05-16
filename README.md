@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
-- May 16 - [Wasmer (YC S19) Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
-- May 16 - [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
-- May 16 - [The Awful German Language (1880)](https://faculty.georgetown.edu/jod/texts/twain.german.html)
-- May 16 - [Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
+- May 16 - [Dalus (YC W25) is hiring a founding engineer for hardware system design software](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1)
+- May 16 - [Grok's white genocide fixation caused by 'unauthorized modification'](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
+- May 16 - [Ollama violating llama.cpp license for over a year](https://github.com/ollama/ollama/issues/3185)
+- May 16 - [After months of coding with LLMs, I'm going back to using my brain](https://albertofortin.com/writing/coding-with-ai)
+- May 16 - [Apple Blocks Fortnite's Return to iOS App Store, Epic Claims](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/)
 <!--END_SECTION:hn-->
 
 <!--
