@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
-- May 16 - [Ollama's new engine for multimodal models](https://ollama.com/blog/multimodal-models)
-- May 16 - [I was a Theranos whistleblower. Here's what I think Elizabeth Holmes is up to](https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/)
-- May 16 - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
-- May 16 - [Sitting for a long time shrinks your brain even if you exercise](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157)
+- May 16 - [Coinbase 8K SEC filing for breach](https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978825000094/coin-20250514.htm)
+- May 16 - [Wasmer (YC S19) Is Hiring a Rust Compiler Engineer](https://www.workatastartup.com/jobs/15822)
+- May 16 - [BuyMeACoffee silently dropped support for many countries, and nobody cares](https://zverok.space/blog/2024-08-08-bmac-snafu.html)
+- May 16 - [The Awful German Language (1880)](https://faculty.georgetown.edu/jod/texts/twain.german.html)
+- May 16 - [Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
 <!--END_SECTION:hn-->
 
 <!--
