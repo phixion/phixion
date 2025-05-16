@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop)
-- May 15 - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
-- May 15 - [Dr. Dobb's Journal Interviews Jef Raskin (1986)](https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin)
-- May 15 - [New paradigm for psychology just dropped](https://www.experimental-history.com/p/new-paradigm-for-psychology-just)
-- May 15 - [Harvard Law paid $27 for a copy of Magna Carta. It's an original](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html)
+- May 15 - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+- May 15 - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
+- May 15 - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
+- May 15 - [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
+- May 15 - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
 <!--END_SECTION:hn-->
 
 <!--
