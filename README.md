@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
-- May 15 - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
-- May 15 - [Tek – A music making program for 24-bit Unicode terminals](https://codeberg.org/unspeaker/tek)
-- May 15 - [The unreasonable effectiveness of an LLM agent loop with tool use](https://sketch.dev/blog/agent-loop)
-- May 15 - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
+- May 16 - [Cracked - method chaining/CSS-style selector web audio library](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked)
+- May 16 - [Ollama's new engine for multimodal models](https://ollama.com/blog/multimodal-models)
+- May 16 - [I was a Theranos whistleblower. Here's what I think Elizabeth Holmes is up to](https://www.statnews.com/2025/05/15/theranos-whistleblower-tyler-shultz-commentary-elizabeth-holmes-billy-evans-haemanthus-startup/)
+- May 16 - [Teal – A statically-typed dialect of Lua](https://teal-language.org/)
+- May 16 - [Sitting for a long time shrinks your brain even if you exercise](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.70157)
 <!--END_SECTION:hn-->
 
 <!--
