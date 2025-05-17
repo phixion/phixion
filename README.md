@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [The Collapse of GPT](https://cacm.acm.org/news/the-collapse-of-gpt/)
-- May 16 - [They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More](https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html)
-- May 16 - [Show HN: Solidis – Tiny TS Redis client, no deps, for serverless](https://github.com/vcms-io/solidis)
-- May 16 - [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
-- May 16 - [Methodical Banality](https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam)
+- May 17 - [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
+- May 17 - [Postman for MCP](https://usetexture.com/##)
+- May 17 - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
+- May 17 - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
+- May 17 - [Show HN: Roast My Dish – AI roasts your food photos with brutal honesty](https://www.roastmydish.online/)
 <!--END_SECTION:hn-->
 
 <!--
