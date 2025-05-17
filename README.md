@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 17 - [MinorMiner: We turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
+- May 17 - [Transformer neural net learns to run Conway's Game of Life just from examples](https://sidsite.com/posts/life-transformer/)
+- May 17 - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
+- May 17 - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
 - May 17 - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
-- May 17 - [Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java](https://github.com/moustafa-nasr/fahmatrix)
-- May 17 - [A Linux kernel developer plays with Home Assistant: general impressions](https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/)
-- May 17 - [Behind Silicon Valley and the GOP’s campaign to ban state AI laws](https://www.bloodinthemachine.com/p/de-democratizing-ai)
-- May 17 - [XTool – Cross-platform Xcode replacement](https://github.com/xtool-org/xtool)
 <!--END_SECTION:hn-->
 
 <!--
