@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [MinorMiner: We turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
-- May 17 - [Transformer neural net learns to run Conway's Game of Life just from examples](https://sidsite.com/posts/life-transformer/)
-- May 17 - [Implementing a RISC-V Hypervisor](https://seiya.me/blog/riscv-hypervisor)
-- May 17 - [Catalog of Novel Operating Systems](https://github.com/prathyvsh/os-catalog)
-- May 17 - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
+- May 17 - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
+- May 17 - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
+- May 17 - [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
+- May 17 - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
+- May 17 - [OBNC – Oberon-07 Compiler](https://miasap.se/obnc/)
 <!--END_SECTION:hn-->
 
 <!--
