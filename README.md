@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
-- May 17 - [Steepest Descent Density Control for Compact 3D Gaussian Splatting](https://arxiv.org/abs/2505.05587)
-- May 17 - [The Japanese method of creating forests comes to Mexico](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html)
-- May 17 - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
-- May 17 - [OBNC – Oberon-07 Compiler](https://miasap.se/obnc/)
+- May 17 - [Racket – the Language-Oriented Programming Language – 8.17 is now available](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
+- May 17 - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
+- May 17 - [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
+- May 17 - [Dead Stars Don't Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
+- May 17 - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
 <!--END_SECTION:hn-->
 
 <!--
