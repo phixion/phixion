@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [US loses last perfect credit rating amid rising debt](https://www.bbc.com/news/articles/c4ge0xk4ld1o)
-- May 18 - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
+- May 18 - [Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead](https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour)
+- May 18 - [Pglocks.org](https://pglocks.org/)
+- May 18 - [Climbing trees 1: what are decision trees?](https://mathpn.com/posts/climbing-trees-1/)
+- May 18 - [Confessions about my smart home](https://frenck.dev/confessions-about-my-smart-home/)
 - May 18 - [Experts have it easy (2024)](https://boydkane.com/essays/experts)
-- May 18 - [Memetics – A Growth Industry in US Military Operations (2006) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA507172.pdf)
-- May 17 - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
 <!--END_SECTION:hn-->
 
 <!--
