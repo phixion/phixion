@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Solar grants held hostage in Pennsylvania legislature – as demand soars](https://capitalandmain.com/solar-grants-held-hostage-in-pennsylvania-legislature-as-demand-soars)
-- May 18 - [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account)
-- May 18 - [How the Sun Enterprise 10000 was born (2007)](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html)
-- May 18 - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
-- May 18 - [Show HN: Hardtime.nvim – break bad habits and master Vim motions](https://github.com/m4xshen/hardtime.nvim)
+- May 18 - [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
+- May 18 - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
+- May 18 - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
+- May 18 - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
+- May 18 - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
 <!--END_SECTION:hn-->
 
 <!--
