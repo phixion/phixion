@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Racket – the Language-Oriented Programming Language – 8.17 is now available](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
-- May 17 - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
-- May 17 - [Lufthansa plane flown by autopilot after pilot faints in cockpit](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit)
-- May 17 - [Dead Stars Don't Radiate](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/)
-- May 17 - [The longest train journey is epic – but nobody's ever taken it](https://bigthink.com/strange-maps/portugal-to-singapore-train/)
+- May 17 - [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
+- May 17 - [Federal agencies continue terminating all funding to Harvard](https://arstechnica.com/science/2025/05/feds-continue-effort-to-defund-research-at-harvard/)
+- May 17 - [Can V Deliver on Its Promises?](http://bitshifters.cc/2025/05/17/vlang.html)
+- May 17 - [The Lost Japanese ROM of the Macintosh Plus](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/)
+- May 17 - [FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux](https://freebasic.net/)
 <!--END_SECTION:hn-->
 
 <!--
