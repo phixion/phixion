@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron](https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron)
-- May 19 - [Zod 4](https://zod.dev/v4)
-- May 19 - [SDB Scans the Ruby Stack Without the GVL](https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md)
-- May 19 - [Kelp – simple replacement for homebrew on macOS](https://github.com/crhuber/kelp)
-- May 19 - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
+- May 19 - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
+- May 19 - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
+- May 19 - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
+- May 19 - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
+- May 19 - [Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
 <!--END_SECTION:hn-->
 
 <!--
