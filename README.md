@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Show HN: Stack Error – ergonomic error handling for Rust](https://github.com/gmcgoldr/stackerror)
-- May 18 - [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
-- May 18 - [Show HN: Vaev – A browser engine built from scratch (It renders google.com)](https://github.com/skift-org/vaev)
-- May 18 - [Show HN: Racketmeter – Measure Badminton String Tension Using Sound Frequency](https://www.racketmeter.com/)
-- May 18 - [$30 Homebrew Automated Blinds Opener](https://sifter.org/~simon/journal/20240718.html)
+- May 18 - [A New Headache for Honest Students: Proving They Didn't Use A.I](https://www.nytimes.com/2025/05/17/style/ai-chatgpt-turnitin-students-cheating.html)
+- May 18 - [California vanity license plate applications with reasons for rejection](https://github.com/veltman/ca-license-plates)
+- May 18 - [Severed Fingers and 'Wrench Attacks' Rattle the Crypto Elite](https://www.wsj.com/finance/currencies/crypto-industry-robberies-attacks-32c2867a)
+- May 18 - [The effect of physical fitness on mortality is overestimated](https://www.uu.se/en/press/press-releases/2025/2025-05-15-the-effect-of-physical-fitness-on-mortality-is-overestimated)
+- May 18 - [KDE is finally getting a native virtual machine manager called "Karton"](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
 <!--END_SECTION:hn-->
 
 <!--
