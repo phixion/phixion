@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [A New Headache for Honest Students: Proving They Didn't Use A.I](https://www.nytimes.com/2025/05/17/style/ai-chatgpt-turnitin-students-cheating.html)
-- May 18 - [California vanity license plate applications with reasons for rejection](https://github.com/veltman/ca-license-plates)
-- May 18 - [Severed Fingers and 'Wrench Attacks' Rattle the Crypto Elite](https://www.wsj.com/finance/currencies/crypto-industry-robberies-attacks-32c2867a)
-- May 18 - [The effect of physical fitness on mortality is overestimated](https://www.uu.se/en/press/press-releases/2025/2025-05-15-the-effect-of-physical-fitness-on-mortality-is-overestimated)
-- May 18 - [KDE is finally getting a native virtual machine manager called "Karton"](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/)
+- May 19 - [America's College Towns Go from Boom to Bust](https://www.wsj.com/us-news/education/college-towns-economy-macomb-illinois-aae84dcc)
+- May 19 - [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/)
+- May 19 - [Layers All the Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
+- May 19 - [The Utter Flimsiness of XAI's Processes](https://smol.news/p/the-utter-flimsiness-of-xais-processes)
+- May 19 - [“There are people who can see and others who cannot even look”](https://worldhistory.substack.com/p/there-are-people-who-can-see-and)
 <!--END_SECTION:hn-->
 
 <!--
