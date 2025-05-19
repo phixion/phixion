@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - ['Significant amount' of private data stolen in UK Legal Aid hack](https://www.bbc.co.uk/news/articles/cgr5g4pv2l0o)
-- May 19 - [You're Worshipping Your Phone](https://etymology.substack.com/p/youre-literally-worshipping-your)
-- May 19 - [Is Winter Coming? (2024)](https://www.datagubbe.se/winter/)
-- May 19 - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
-- May 19 - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
+- May 19 - [23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron](https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron)
+- May 19 - [Zod 4](https://zod.dev/v4)
+- May 19 - [SDB Scans the Ruby Stack Without the GVL](https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md)
+- May 19 - [Kelp – simple replacement for homebrew on macOS](https://github.com/crhuber/kelp)
+- May 19 - [Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript](https://news.ycombinator.com/item?id=44030492)
 <!--END_SECTION:hn-->
 
 <!--
