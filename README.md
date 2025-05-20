@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Show HN: Claude Code in the Cloud](https://cloudcoding.ai/)
-- May 19 - [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
-- May 19 - [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)
-- May 19 - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
-- May 19 - [Jules: An Asynchronous Coding Agent](https://jules.google/)
+- May 20 - [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
+- May 20 - [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195)
+- May 20 - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
+- May 20 - [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
+- May 20 - [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/)
 <!--END_SECTION:hn-->
 
 <!--
