@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [The forbidden railway: Vienna-Pyongyang (2008)](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html)
-- May 19 - [Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk)
-- May 19 - [Microsoft's ICC blockade: digital dependence comes at a cost](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/)
-- May 19 - [Show HN: Windows 98 themed website in 1 HTML file for my post punk band](https://corp.band)
-- May 19 - [Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/)
+- May 19 - [Show HN: Claude Code in the Cloud](https://cloudcoding.ai/)
+- May 19 - [Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse](https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose)
+- May 19 - [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server)
+- May 19 - [Have I Been Pwned 2.0 is Now Live](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
+- May 19 - [Jules: An Asynchronous Coding Agent](https://jules.google/)
 <!--END_SECTION:hn-->
 
 <!--
