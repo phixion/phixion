@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [27000 Dragons and 10'000 Lights: GPU-Driven Clustered Forward Renderer](https://logdahl.net/p/gpu-driven)
-- May 20 - [The Fractured Entangled Representation Hypothesis](https://github.com/akarshkumar0101/fer)
-- May 20 - [Launch HN: Opusense (YC X25) – AI assistant for construction inspectors on site](https://news.ycombinator.com/item?id=44042791)
-- May 20 - [Show HN: A Tiling Window Manager for Windows, Written in Janet](https://agent-kilo.github.io/jwno/)
-- May 20 - [Show HN: 90s.dev - game maker that runs on the web](https://90s.dev/blog/finally-releasing-90s-dev.html)
+- May 20 - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
+- May 20 - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
+- May 20 - [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
+- May 20 - [Red Programming Language](https://www.red-lang.org/p/about.html)
+- May 20 - [Gemma 3n preview: Mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 <!--END_SECTION:hn-->
 
 <!--
