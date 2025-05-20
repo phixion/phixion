@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [Show HN: A free, privacy preserving, archive of public Discord servers](https://searchcord.io)
-- May 20 - [Ask HN: When will managers be replaced by AI?](https://news.ycombinator.com/item?id=44037195)
-- May 20 - [What are people doing? Live-ish estimates based on global population dynamics](https://humans.maxcomperatore.com/)
-- May 20 - [Memory Consistency Models: A Tutorial](https://jamesbornholt.com/blog/memory-models/)
-- May 20 - [A shower thought turned into a Collatz visualization](https://abstractnonsense.com/collatz/)
+- May 20 - [The Entropy of Thought: Why Our Minds Gravitate Toward Divided Realities](https://victoranastasiu.medium.com/the-entropy-of-thought-why-our-minds-gravitate-toward-divided-realities-7ce43c83b785)
+- May 20 - [Questioning Representational Optimism in Deep Learning](https://github.com/akarshkumar0101/fer)
+- May 20 - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
+- May 20 - [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
+- May 20 - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 <!--END_SECTION:hn-->
 
 <!--
