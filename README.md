@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [The Value Isn't in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
-- May 20 - [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
-- May 20 - [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
-- May 20 - [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
-- May 20 - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
+- May 21 - [What if Vintage and Modern got together](https://www.jaydip.me/)
+- May 21 - [Magnus Carlsen forced into a draw by more than 143000 people playing against him](https://apnews.com/article/chess-magnus-carlsen-match-world-freestyle-grandmaster-963a977765fa02d05a14d701666dfcd7)
+- May 21 - [A Secret Trove of Rare Guitars Heads to the Met](https://www.newyorker.com/magazine/2025/05/26/a-secret-trove-of-rare-guitars-heads-to-the-met)
+- May 21 - [Show HN: TitleBridge - A FinalCut Workflow Plugin](https://bustin.tech/apps/titlebridge/)
+- May 21 - [Show HN: apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
 <!--END_SECTION:hn-->
 
 <!--
