@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Overlap (YC S24) Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
-- May 21 - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
-- May 21 - [EU startups fail because their press refuses to hype them up](https://twitter.com/RnaudBertrand/status/1925029185052917791)
-- May 21 - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
-- May 21 - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
+- May 21 - [What if Making Cartoons Becomes 90% Cheaper?](https://www.nytimes.com/2025/05/21/business/media/ai-cartoons-animation.html)
+- May 21 - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
+- May 21 - [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api)
+- May 21 - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
+- May 21 - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
 <!--END_SECTION:hn-->
 
 <!--
