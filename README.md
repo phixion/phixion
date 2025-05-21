@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [What if Making Cartoons Becomes 90% Cheaper?](https://www.nytimes.com/2025/05/21/business/media/ai-cartoons-animation.html)
-- May 21 - [Show HN: Evolved.lua – An Evolved Entity Component System for Lua](https://github.com/BlackMATov/evolved.lua)
-- May 21 - [New tools and features in the Responses API](https://openai.com/index/new-tools-and-features-in-the-responses-api)
-- May 21 - [Lune: Standalone Luau Runtime](https://github.com/lune-org/lune)
-- May 21 - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
+- May 21 - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
+- May 21 - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
+- May 21 - [Ratatoi is a C libary that wraps stdlib's strtol (as atoi does), but it's evil.](https://github.com/rept0id/ratatoi)
+- May 21 - [Show HN: Test your license plate identification skills](https://shub.club/games/good-or-bad-plate)
+- May 21 - [The curious tale of Bhutan's playable record postage stamps (2015)](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
 <!--END_SECTION:hn-->
 
 <!--
