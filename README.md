@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 20 - [The Value Isn't in the Code](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/)
+- May 20 - [“ZLinq”, a Zero-Allocation LINQ Library for .NET](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749)
+- May 20 - [Semantic search engine for ArXiv, biorxiv and medrxiv](https://arxivxplorer.com/)
+- May 20 - [Show HN: A Simple Server to Match Long/Lat to a TimeZone](https://github.com/LittleGreenViper/LGV_TZ_Lookup)
 - May 20 - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
-- May 20 - [The NSA Selector](https://github.com/wenzellabs/the_NSA_selector)
-- May 20 - [Google AI Ultra](https://blog.google/products/google-one/google-ai-ultra/)
-- May 20 - [Red Programming Language](https://www.red-lang.org/p/about.html)
-- May 20 - [Gemma 3n preview: Mobile-first AI](https://developers.googleblog.com/en/introducing-gemma-3n/)
 <!--END_SECTION:hn-->
 
 <!--
