@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 21 - [Overlap (YC S24) Is Hiring](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer)
+- May 21 - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
+- May 21 - [EU startups fail because their press refuses to hype them up](https://twitter.com/RnaudBertrand/status/1925029185052917791)
 - May 21 - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
-- May 21 - [Show HN: Kraa.io – Markdown editor for notes, blogs, chats](https://kraa.io)
 - May 21 - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
-- May 21 - [The Future of Junior Software Engineering Roles](https://adventuresincoding.substack.com/p/the-future-of-junior-software-engineering)
-- May 21 - [Disabling kernel functions in your process (2009)](https://chadaustin.me/2009/03/disabling-functions/)
 <!--END_SECTION:hn-->
 
 <!--
