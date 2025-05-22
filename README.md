@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
-- May 21 - [Should I Block ICMP?](http://shouldiblockicmp.com/)
-- May 21 - [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
-- May 21 - [The Machine Stops (1909)](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
-- May 21 - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
+- May 22 - [Indian police trying to read minds of suspects, over neuroscientists' objections](https://www.science.org/content/article/indian-police-are-trying-read-minds-suspects-over-neuroscientists-objections)
+- May 22 - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
+- May 22 - [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
+- May 22 - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
+- May 22 - [How AppHarvest’s indoor farming scheme imploded (2023)](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
 <!--END_SECTION:hn-->
 
 <!--
