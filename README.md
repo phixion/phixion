@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [New Privacy Principles for a more trustworthy web](https://www.w3.org/blog/2025/new-privacy-principles-for-a-more-trustworthy-web/)
-- May 22 - [Planetfall](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/)
-- May 22 - [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
-- May 22 - [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
-- May 22 - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
+- May 22 - [That fractal that's been up on my wall for 12 years](https://chriskw.xyz/2025/05/21/Fractal/)
+- May 22 - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
+- May 22 - [Near-infrared spatiotemporal color vision enabled by upconversion contact lenses](https://www.cell.com/cell/fulltext/S0092-8674(25)00454-4)
+- May 22 - [Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts](https://news.ycombinator.com/item?id=44063000)
+- May 22 - [Show HN: Whenish – Plan Group Events in iMessages](https://apps.apple.com/us/app/whenish/id6745035749)
 <!--END_SECTION:hn-->
 
 <!--
