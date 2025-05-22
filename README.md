@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Indian police trying to read minds of suspects, over neuroscientists' objections](https://www.science.org/content/article/indian-police-are-trying-read-minds-suspects-over-neuroscientists-objections)
+- May 22 - [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
+- May 22 - [Direct TLS can speed up your connections](https://marc-bowes.com/postgres-direct-tls.html)
+- May 22 - [Decibels Are Ridiculous](https://lcamtuf.substack.com/p/decibels-are-ridiculous)
+- May 22 - [ChatGPT Is a Gimmick](https://hedgehogreview.com/web-features/thr/posts/chatgpt-is-a-gimmick)
 - May 22 - [Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
-- May 22 - [Getting a paper accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/)
-- May 22 - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
-- May 22 - [How AppHarvest’s indoor farming scheme imploded (2023)](https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth)
 <!--END_SECTION:hn-->
 
 <!--
