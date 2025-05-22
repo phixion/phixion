@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Show HN: I've built online video editor](https://clipjs.vercel.app/)
-- May 21 - [For Algorithms, a Little Memory Outweighs a Lot of Time](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/)
-- May 21 - [Ratatoi is a C libary that wraps stdlib's strtol (as atoi does), but it's evil.](https://github.com/rept0id/ratatoi)
-- May 21 - [Show HN: Test your license plate identification skills](https://shub.club/games/good-or-bad-plate)
-- May 21 - [The curious tale of Bhutan's playable record postage stamps (2015)](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/)
+- May 22 - [Tales from Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
+- May 21 - [Should I Block ICMP?](http://shouldiblockicmp.com/)
+- May 21 - [ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction](https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/)
+- May 21 - [The Machine Stops (1909)](https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops)
+- May 21 - [Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6)
 <!--END_SECTION:hn-->
 
 <!--
