@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Show HN: rtcollector - A modular, RedisTimeSeries-native observability agent](https://github.com/xe-nvdk/rtcollector)
-- May 22 - [Does Earth have two high-tide bulges on opposite sides? (2014)](http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides)
-- May 22 - [Kangaroo: A flash cache optimized for tiny objects (2021)](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
-- May 22 - [Practicing graphical debugging using visualizations of the Hilbert curve](https://akkartik.name/debugUIs.html)
-- May 22 - [How to cheat at settlers by loading the dice (2017)](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
+- May 23 - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
+- May 23 - [Venezuelans Imprisoned in El Salvador Came to US Legally](https://www.cato.org/blog/50-venezuelans-imprisoned-el-salvador-came-us-legally-never-violated-immigration-law)
+- May 22 - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
+- May 22 - [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
+- May 22 - [Stargate and the AI Industrial Revolution](https://davefriedman.substack.com/p/stargate-and-the-ai-industrial-revolution)
 <!--END_SECTION:hn-->
 
 <!--
