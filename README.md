@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 23 - [Why I no longer have an old-school cert on my HTTPS site](https://rachelbythebay.com/w/2025/05/22/ssl/)
+- May 23 - [OpenAI: Scaling PostgreSQL to the Next Level](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level)
 - May 23 - [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
-- May 23 - [John Carmack at Upper Bound 2025 (slides and notes)](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
+- May 23 - [John Carmack talk at Upper Bound 2025 – slides and notes](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 - May 23 - [Lockheed Martin and IBM combine quantum computing with HPC in new research](https://www.ibm.com/quantum/blog/lockheed-martin-sqd)
-- May 23 - [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
-- May 22 - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
 <!--END_SECTION:hn-->
 
 <!--
