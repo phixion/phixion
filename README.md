@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
-- May 23 - [Venezuelans Imprisoned in El Salvador Came to US Legally](https://www.cato.org/blog/50-venezuelans-imprisoned-el-salvador-came-us-legally-never-violated-immigration-law)
+- May 23 - [CRDTs #2: Turtles All the Way Down](https://jhellerstein.github.io/blog/crdt-turtles/)
+- May 23 - [Silly job interview questions in Haskell](https://chrispenner.ca/posts/interview)
 - May 22 - [The Future of Flatpak](https://lwn.net/Articles/1020571/)
-- May 22 - [32 Bits That Changed Microprocessor Design](https://spectrum.ieee.org/bellmac-32-ieee-milestone)
-- May 22 - [Stargate and the AI Industrial Revolution](https://davefriedman.substack.com/p/stargate-and-the-ai-industrial-revolution)
+- May 22 - [Management = Bullshit (LLM Edition)](http://funcall.blogspot.com/2025/05/management-bullshit.html)
+- May 22 - [Sketchy Calendar](https://www.inkandswitch.com/ink/notes/sketchy-calendar/)
 <!--END_SECTION:hn-->
 
 <!--
