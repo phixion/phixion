@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Root for Your Friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
-- May 23 - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
-- May 23 - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
-- May 23 - [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
-- May 23 - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
+- May 24 - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
+- May 24 - [Boeing reaches deal to avoid prosecution over deadly 737 MAX crashes](https://www.cnbc.com/2025/05/23/boeing-737-max-crashes-doj.html)
+- May 24 - [Show HN: Web Apps for Python Devs with Auto-Generated UI](https://davia.ai/)
+- May 24 - [Show HN: HNRelevant – Add a "related" section to Hacker News](https://github.com/imdj/HNRelevant)
+- May 24 - [Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/)
 <!--END_SECTION:hn-->
 
 <!--
