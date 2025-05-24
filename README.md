@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Genetic Boids Web Simulation](https://attentionmech.github.io/genetic-boids/)
-- May 23 - [Show HN: DoubleMemory – more efficient local-first read-it-later app](https://doublememory.com)
-- May 23 - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
-- May 23 - [Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page](https://hcker.news)
-- May 23 - [Google's AI Mode is 'the definition of theft,' publishers say](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/)
+- May 23 - [Root for Your Friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html)
+- May 23 - [The world of Japan's PC-98 computer](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/)
+- May 23 - [Show HN: I built a more productive way to manage AI chats](https://contextch.at)
+- May 23 - [UndoDB – The interactive time travel debugger for Linux C/C++ for debugging](https://undo.io/)
+- May 23 - [A Formal Proof of Complexity Bounds on Diophantine Equations](https://arxiv.org/abs/2505.16963)
 <!--END_SECTION:hn-->
 
 <!--
