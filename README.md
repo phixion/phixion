@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Show HN: Lnk – Git-native dotfiles manager](https://github.com/yarlson/lnk)
-- May 24 - [A boy who came back: the near-death, and changed life, of my son Max](https://www.theguardian.com/lifeandstyle/2025/may/24/the-boy-who-came-back-the-near-death-and-changed-life-of-my-son-max)
-- May 24 - [How to Make a Living as a Writer](https://thewalrus.ca/how-to-make-a-living-as-a-writer/)
-- May 24 - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
-- May 24 - [Show HN: SweepIQ – A simple AI tool to help you learn more, faster](https://www.sweepiq.com)
+- May 24 - [From Hosts.txt to Modern Internet Infrastructure](https://axonshield.com/from-hoststxt-to-modern-internet-infrastructure)
+- May 24 - [Good Writing](https://paulgraham.com/goodwriting.html)
+- May 24 - [You're a little company, now act like one](https://longform.asmartbear.com/little-company/)
+- May 24 - [DIY Cybersickness Remedies](https://spectrum.ieee.org/diy-cybersickness-remedies)
+- May 24 - [The legacy of the iconic Nakagin capsule tower](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/)
 <!--END_SECTION:hn-->
 
 <!--
