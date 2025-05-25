@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Why Top Posting Has Won](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn)
-- May 25 - [Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game](https://schaoss.github.io/wall-go/)
-- May 25 - [Lottie is an open format for animated vector graphics](https://lottie.github.io/)
-- May 25 - ['Strange metals' point to a whole new way to understand electricity](https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity)
-- May 25 - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
+- May 25 - [Beware the Complexity Merchants](https://chrlschn.dev/blog/2025/05/beware-the-complexity-merchants/)
+- May 25 - [Gemma 3n Architectural Innovations – Speculation and poking around in the model](https://old.reddit.com/r/LocalLLaMA/comments/1kuy45r/gemma_3n_architectural_innovations_speculation/)
+- May 25 - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
+- May 25 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+- May 25 - [The Newark airport crisis is about to become everyone's problem](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
 <!--END_SECTION:hn-->
 
 <!--
