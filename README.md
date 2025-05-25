@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [What I discovered when I asked Amazon to tell me everything Alexa had heard](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard)
-- May 24 - [Bash implementation of Tabloid, the clickbait programming language](https://github.com/notweerdmonk/tabloid.bash)
-- May 24 - [Please Fund More Science (2020)](https://blog.samaltman.com/please-fund-more-science)
-- May 24 - [Lone coder cracks 50-year puzzle to find Boggle's top-scoring board](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1)
-- May 24 - [Exposed Industrial Control Systems and Honeypots in the Wild [pdf]](https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf)
+- May 24 - ['Crypto king' turned NYC townhouse into torture chamber to gain partner Bitcoin](https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/)
+- May 24 - [Is America Headed for an Age of Dumb Phones?](https://www.businessinsider.com/appstinence-movement-tech-lovers-dumping-smartphones-age-of-dumb-phones-2025-5)
+- May 24 - [Scientific conferences are leaving the US amid border fears](https://www.nature.com/articles/d41586-025-01636-5)
+- May 24 - [Using the Apple ][+ with the RetroTink-5X](https://nicole.express/2025/apple-ii-more-like-apple-5x.html)
+- May 24 - [The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
 <!--END_SECTION:hn-->
 
 <!--
