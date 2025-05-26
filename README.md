@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer)
-- May 26 - [The truth about soft plastic recycling points](https://www.everydayplastic.org/softplastic)
-- May 26 - [Lieferando.de has captured 5.7% of restaurant related domain names](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/)
-- May 26 - [Ask HN: Anyone struggling to get value out of coding LLMs?](https://news.ycombinator.com/item?id=44095189)
-- May 26 - [Show HN: A minimalist web timer for focus and time tracking](https://iamlockedin.com/)
+- May 26 - [How I found a Star Wars website made by the CIA](https://ourbigbook.com/cirosantilli/cia-2010-covert-communication-websites)
+- May 26 - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; "I Pray No One Dies"](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
+- May 26 - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
+- May 26 - [Ask HN: Building LLM apps? How are you handling user context?](https://news.ycombinator.com/item?id=44097699)
+- May 26 - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
 <!--END_SECTION:hn-->
 
 <!--
