@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Ten Years of JSON Web Token and Preparing for the Future](https://self-issued.info/?p=2708)
-- May 25 - [We broke down the Sam Altman and Jony Ive video](https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/)
+- May 25 - [Ten years of JSON Web Token and preparing for the future](https://self-issued.info/?p=2708)
 - May 25 - [Advice to Tenstorrent](https://github.com/geohot/tt-tiny)
 - May 25 - [Ask HN: What are you working on? (May 2025)](https://news.ycombinator.com/item?id=44090387)
 - May 25 - [Plwm – An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
+- May 25 - [Chomsky on what ChatGPT is good for (2023)](https://chomsky.info/20230503-2/)
 <!--END_SECTION:hn-->
 
 <!--
