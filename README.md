@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [How I found a Star Wars website made by the CIA](https://ourbigbook.com/cirosantilli/cia-2010-covert-communication-websites)
-- May 26 - [Cloudflare CEO: Football Piracy Blocks Will Claim Lives; "I Pray No One Dies"](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/)
-- May 26 - [German court sends VW execs to prison over Dieselgate scandal](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/)
-- May 26 - [Ask HN: Building LLM apps? How are you handling user context?](https://news.ycombinator.com/item?id=44097699)
-- May 26 - [Demoting i686-PC-windows-gnu to Tier 2](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/)
+- May 26 - [Britain's police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
+- May 26 - [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
+- May 26 - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
+- May 26 - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
+- May 26 - [TSMC bets on unorthodox optical tech](https://spectrum.ieee.org/microled-optical-chiplet)
 <!--END_SECTION:hn-->
 
 <!--
