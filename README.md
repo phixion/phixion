@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 27 - [Show HN: Maestro – A Framework to Orchestrate and Ground Competing AI Models](https://news.ycombinator.com/item?id=44109664)
+- May 27 - [Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming](https://nathan.rs/posts/gpu-shader-programming/)
+- May 27 - [Roundtable (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff)
+- May 27 - [I salvaged $6k of luxury items discarded by Duke students](https://indyweek.com/culture/duke-students-dumpster-diving/)
 - May 27 - [Launch HN: Relace (YC W23) – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
-- May 27 - [Square Theory](https://aaronson.org/blog/square-theory)
-- May 27 - [Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
-- May 27 - [Show HN: Malai – securely share local TCP services (database/SSH) with others](https://malai.sh/hello-tcp/)
-- May 27 - [Mistral Agents API](https://mistral.ai/news/agents-api)
 <!--END_SECTION:hn-->
 
 <!--
