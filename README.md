@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 27 - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
+- May 27 - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
+- May 27 - [The Myth of Developer Obsolescence](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
+- May 27 - [Revisiting the Algorithm That Changed Horse Race Betting](https://actamachina.com/posts/annotated-benter-paper)
 - May 27 - [Diligent (YC S23) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer)
-- May 27 - [Mesa3D Drivers for Windows](https://github.com/pal1000/mesa-dist-win)
-- May 27 - [Show HN: Lazy Tetris](https://lazytetris.com/)
-- May 27 - [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
-- May 27 - [The UI future is colourful and dimensional](https://www.flarup.email/p/the-future-is-colourful-and-dimensional)
 <!--END_SECTION:hn-->
 
 <!--
