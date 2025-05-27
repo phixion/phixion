@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Britain's police are restricting speech in worrying ways](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways)
-- May 26 - [Lossless video compression using Bloom filters](https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md)
-- May 26 - [Claude 4 and GitHub MCP will leak your private GitHub repositories](https://twitter.com/lbeurerkellner/status/1926991491735429514)
-- May 26 - [Duolingo CEO tries to walk back AI-first comments, fails](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/)
-- May 26 - [TSMC bets on unorthodox optical tech](https://spectrum.ieee.org/microled-optical-chiplet)
+- May 26 - [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
+- May 26 - [Power Failure](https://www.gwintrob.com/power-failure-review/)
+- May 26 - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
+- May 26 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
+- May 26 - [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
 <!--END_SECTION:hn-->
 
 <!--
