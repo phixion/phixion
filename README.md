@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [GitHub MCP Exploited: Accessing Private Repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
-- May 26 - [Power Failure](https://www.gwintrob.com/power-failure-review/)
-- May 26 - [Shenandoah Students Creating VR Experience Following the Lewis and Clark Trail](https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/)
-- May 26 - [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/)
-- May 26 - [Get PC BIOS back on UEFI only system](https://github.com/FlyGoat/csmwrap)
+- May 27 - [Grammars of Formal Uncertainty](https://arxiv.org/abs/2505.20047)
+- May 27 - [Show HN: I made a running app that turns your runs to a virtual garden](https://www.runandgrow.com/)
+- May 27 - [Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command](https://github.com/jedisct1/yes-rs)
+- May 27 - [Calendars, Contacts and Files in Stalwart](https://stalw.art/blog/collaboration/)
+- May 27 - [Forester, a tool for scientific and mathematical hypertexts](https://www.forester-notes.org/index/index.xml)
 <!--END_SECTION:hn-->
 
 <!--
