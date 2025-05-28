@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Show HN: Maestro – A Framework to Orchestrate and Ground Competing AI Models](https://news.ycombinator.com/item?id=44109664)
-- May 27 - [Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming](https://nathan.rs/posts/gpu-shader-programming/)
-- May 27 - [Roundtable (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff)
-- May 27 - [I salvaged $6k of luxury items discarded by Duke students](https://indyweek.com/culture/duke-students-dumpster-diving/)
-- May 27 - [Launch HN: Relace (YC W23) – Models for fast and reliable codegen](https://news.ycombinator.com/item?id=44108206)
+- May 27 - [Starship Flight 9 launches successfully, booster explodes on impact [video]](https://www.youtube.com/watch?v=okOzxHN9NOA)
+- May 27 - [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)](https://github.com/UCSBarchlab/OpenTPU)
+- May 27 - [Mustard Watches (1990)](https://girard.perso.math.cnrs.fr/mustard/article.html)
+- May 27 - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
+- May 27 - [In Vietnam, an unlikely outpost for Chicano culture](https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam)
 <!--END_SECTION:hn-->
 
 <!--
