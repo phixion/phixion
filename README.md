@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
-- May 28 - [Show HN: Connecting People Through AI-Powered Video Sentiment Matching](https://www.loom.com/share/9b7618a67e7347d9a7a539e89327cc77?sid=26adde55-432c-4cec-a7dd-f2ffad134161)
-- May 28 - [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
-- May 28 - [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
-- May 28 - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
+- May 28 - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
+- May 28 - [Another way electric cars clean the air: study says brake dust reduced by 83%](https://electrek.co/2025/05/27/another-way-electric-cars-clean-the-air-study-says-brake-dust-reduced-by-83/)
+- May 28 - [As a developer, my most important tools are a pen and a notebook](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
+- May 28 - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
+- May 28 - [Singularities in Space-Time Prove Hard to Kill](https://www.quantamagazine.org/singularities-in-space-time-prove-hard-to-kill-20250527/)
 <!--END_SECTION:hn-->
 
 <!--
