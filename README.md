@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/)
-- May 28 - [Driverless Semi Trucks Are Here, with Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
-- May 28 - [CheerpJ 4.1: Java in the browser, now supporting Java 17 (preview)](https://labs.leaningtech.com/blog/cheerpj-4.1)
-- May 28 - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
-- May 28 - [DWARF as a Shared Reverse Engineering Format](https://lief.re/blog/2025-05-27-dwarf-editor/)
+- May 28 - [Launch HN: MindFort (YC X25) – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
+- May 28 - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
+- May 28 - [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
+- May 28 - [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)
+- May 28 - [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
 <!--END_SECTION:hn-->
 
 <!--
