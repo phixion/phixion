@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Launch HN: MindFort (YC X25) – AI agents for continuous pentesting](https://news.ycombinator.com/item?id=44117465)
-- May 28 - [Getting a Cease and Desist from Waffle House](https://www.jack.bio/blog/wafflehouse)
-- May 28 - [Show HN: Tesseral – Open-Source Auth](https://github.com/tesseral-labs/tesseral)
-- May 28 - [XAI to pay Telegram $300M to integrate Grok into the chat app](https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/)
-- May 28 - [The mysterious Gobi wall uncovered](https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html)
+- May 28 - [What does "Undecidable" mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
+- May 28 - [Ice Cream Replaced Booze in the US Navy](https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/)
+- May 28 - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
+- May 28 - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
+- May 28 - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
 <!--END_SECTION:hn-->
 
 <!--
