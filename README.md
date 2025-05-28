@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Starship Flight 9 launches successfully, booster explodes on impact [video]](https://www.youtube.com/watch?v=okOzxHN9NOA)
-- May 27 - [OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)](https://github.com/UCSBarchlab/OpenTPU)
-- May 27 - [Mustard Watches (1990)](https://girard.perso.math.cnrs.fr/mustard/article.html)
-- May 27 - [Show HN: My LLM CLI tool can run tools now, from Python code or plugins](https://simonwillison.net/2025/May/27/llm-tools/)
-- May 27 - [In Vietnam, an unlikely outpost for Chicano culture](https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam)
+- May 28 - [Global high-performance proof-of-stake blockchain with erasure coding](https://github.com/qkniep/alpenglow)
+- May 28 - [Show HN: Connecting People Through AI-Powered Video Sentiment Matching](https://www.loom.com/share/9b7618a67e7347d9a7a539e89327cc77?sid=26adde55-432c-4cec-a7dd-f2ffad134161)
+- May 28 - [Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning](https://news.ycombinator.com/item?id=44112326)
+- May 28 - [Theory of Stupidity [pdf]](https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf)
+- May 28 - [Using Postgres pg_test_fsync tool for testing low latency writes](https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/)
 <!--END_SECTION:hn-->
 
 <!--
