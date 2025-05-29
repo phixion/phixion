@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
+- May 29 - [dotnet run app.cs](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
+- May 29 - [Show HN: Handover.ai – Knowledge transfer made easy](https://www.handover.ai/)
+- May 29 - [US Trade Court finds Trump tariffs illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
 - May 28 - [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
-- May 28 - [Long live American Science and Surplus (which needs your help)](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
-- May 28 - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
-- May 28 - [The anomalous magnetic moment of the muon in the Standard Model: an update](https://arxiv.org/abs/2505.21476)
+- May 28 - [Long live American Science and Surplus](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
 <!--END_SECTION:hn-->
 
 <!--
