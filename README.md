@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [What does "Undecidable" mean, anyway](https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/)
-- May 28 - [Ice Cream Replaced Booze in the US Navy](https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/)
-- May 28 - [Deepseek R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528)
-- May 28 - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
-- May 28 - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=44118127)
+- May 29 - [US Trade Court Finds Trump Tariffs Illegal](https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court)
+- May 28 - [HTAP Databases Are Dead](https://www.mooncake.dev/blog/htap-is-dead)
+- May 28 - [Long live American Science and Surplus (which needs your help)](https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/)
+- May 28 - [A toy RTOS inside Super Mario Bros. using emulator save states](https://prettygoodblog.com/p/what-threads-are-part-2)
+- May 28 - [The anomalous magnetic moment of the muon in the Standard Model: an update](https://arxiv.org/abs/2505.21476)
 <!--END_SECTION:hn-->
 
 <!--
