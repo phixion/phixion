@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [Google Is Using AI to Censor Independent Websites Like Mine](https://travellemming.com/perspectives/ftc-letter-google-censors-indie-publishers-with-ai/)
-- May 29 - [Simple programming language with offline usable browser IDE](https://tiki.li/apps/tut_learn.html?v=2505e)
-- May 29 - [What Every Programmer Should Know about How CPUs Work – Matt Godbolt [video]](https://www.youtube.com/watch?v=-HNpim5x-IE)
-- May 29 - [Show HN: I made a Zero-config tool to visualize your code](https://staying.fun/en)
-- May 29 - [Data Breach at LexisNexis Risk Solutions](https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/)
+- May 29 - [Civil War in 3D: Stereographs from the New-York Historical Society (2015)](https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society)
+- May 29 - [The flip phone web: browsing with the original Opera Mini](https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/)
+- May 29 - [ClickHouse raises $350M Series C](https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era)
+- May 29 - [Show HN: I wrote a modern Command Line Handbook](https://commandline.stribny.name/)
+- May 29 - [Nova: A JavaScript and WebAssembly engine written in Rust](https://trynova.dev/)
 <!--END_SECTION:hn-->
 
 <!--
