@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [Caffeine induces age-dependent brain complexity and criticality during sleep](https://www.nature.com/articles/s42003-025-08090-z)
-- May 29 - [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
-- May 29 - [Untrusted chatbot AI between you & the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
-- May 29 - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
-- May 29 - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
+- May 30 - [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
+- May 30 - [U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
+- May 30 - [What is Humphrey's Executor? A look at the 90-year-old Supreme Court decision](https://www.theusconstitution.org/news/what-is-humphreys-executor-a-look-at-the-90-year-old-supreme-court-decision-trump-is-targeting/)
+- May 30 - [Practical SDR: Getting started with software-defined radio](https://nostarch.com/practical-sdr)
+- May 29 - [I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
 <!--END_SECTION:hn-->
 
 <!--
