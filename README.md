@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Japan's govt launches Minecraft map to educate about flood disaster prevention](https://www.ktr.mlit.go.jp/edogawa/edogawa01318.html)
-- May 30 - [De Bruijn notation, and why it's useful](https://blueberrywren.dev/blog/debruijn-explanation/)
-- May 30 - [The Surveilled Student](https://www.chronicle.com/article/the-surveilled-student)
-- May 30 - [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
-- May 30 - [The Nobel Prize Winner Who Thinks We Have the Universe All Wrong](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/)
+- May 30 - [Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now](https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/)
+- May 30 - [Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)](https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c)
+- May 30 - [Stop Vibe Coding Every Damn Time!](https://newsletter.oberai.dev/p/stop-vibe-coding-every-damn-time)
+- May 30 - [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
+- May 30 - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
 <!--END_SECTION:hn-->
 
 <!--
