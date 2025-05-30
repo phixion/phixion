@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [An untrusted layer of chatbot AI is an obvious disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
-- May 29 - [Sam Altman and Jony Ive Will Force A.I. Into Your Life](https://www.newyorker.com/culture/infinite-scroll/sam-altman-and-jony-ive-will-force-ai-into-your-life)
-- May 29 - [The Headlines Are Evil, and They're Bringing Us Down](https://writing.kemitchell.com/2025/05/29/Trump-Tariffs-Decision-Headlines)
+- May 29 - [Caffeine induces age-dependent brain complexity and criticality during sleep](https://www.nature.com/articles/s42003-025-08090-z)
+- May 29 - [California has got good at building giant batteries](https://www.economist.com/united-states/2025/05/22/california-has-got-really-good-at-building-giant-batteries)
+- May 29 - [Untrusted chatbot AI between you & the internet is a disaster waiting to happen](https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster)
 - May 29 - [Airlines are charging solo passengers higher fares than groups](https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/)
 - May 29 - [FLUX.1 Kontext](https://bfl.ai/models/flux-kontext)
 <!--END_SECTION:hn-->
