@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Player Piano Rolls](https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing)
-- May 30 - [U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/)
-- May 30 - [What is Humphrey's Executor? A look at the 90-year-old Supreme Court decision](https://www.theusconstitution.org/news/what-is-humphreys-executor-a-look-at-the-90-year-old-supreme-court-decision-trump-is-targeting/)
-- May 30 - [Practical SDR: Getting started with software-defined radio](https://nostarch.com/practical-sdr)
-- May 29 - [I'm starting a social club to solve the male loneliness epidemic](https://wave3.social)
+- May 30 - [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
+- May 30 - [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006)
+- May 30 - [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
+- May 30 - [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
+- May 30 - [Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)](https://github.com/muthuishere/mcp-server-bash-sdk)
 <!--END_SECTION:hn-->
 
 <!--
