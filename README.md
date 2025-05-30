@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [What is currently the best LLM model for consumer grade hardware? Is it phi-4?](https://news.ycombinator.com/item?id=44134896)
-- May 30 - [Bridged Indexes in OrioleDB: architecture, internals and everyday use?](https://www.orioledb.com/blog/orioledb-bridged-indexes)
-- May 30 - [I let Claude Code write an entire book](https://github.com/JayDoubleu/agentic-book)
-- May 30 - [What Happens When AI-Generated Lies Are More Compelling Than the Truth?](https://behavioralscientist.org/what-happens-when-ai-generated-lies-are-more-compelling-than-the-truth/)
-- May 30 - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
+- May 30 - [Japan's govt launches Minecraft map to educate about flood disaster prevention](https://www.ktr.mlit.go.jp/edogawa/edogawa01318.html)
+- May 30 - [De Bruijn notation, and why it's useful](https://blueberrywren.dev/blog/debruijn-explanation/)
+- May 30 - [The Surveilled Student](https://www.chronicle.com/article/the-surveilled-student)
+- May 30 - [Investigating AI Manipulation in Viral Chinese Paraglider Video](https://blog.hyperknot.com/p/investigating-ai-manipulation-in)
+- May 30 - [The Nobel Prize Winner Who Thinks We Have the Universe All Wrong](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/)
 <!--END_SECTION:hn-->
 
 <!--
