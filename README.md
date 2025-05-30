@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Buttplug MCP](https://github.com/ConAcademy/buttplug-mcp)
-- May 30 - [High vitamin B6 doses over a long period could cause irreversible nerve damage](https://www.abc.net.au/news/2025-01-08/vitamin-b6-toxicity-peripheral-neuropathy-health-supplements/104793006)
-- May 30 - [The David Lynch Collection](https://www.juliensauctions.com/en/auctions/julien-s-auctions-turner-classic-movies-present-the-david-lynch-collection)
-- May 30 - [How to Do Ambitious Research in the Modern Era [video]](https://www.youtube.com/watch?v=w7DVlI_Ztq8)
-- May 30 - [Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)](https://github.com/muthuishere/mcp-server-bash-sdk)
+- May 30 - [What is currently the best LLM model for consumer grade hardware? Is it phi-4?](https://news.ycombinator.com/item?id=44134896)
+- May 30 - [Bridged Indexes in OrioleDB: architecture, internals and everyday use?](https://www.orioledb.com/blog/orioledb-bridged-indexes)
+- May 30 - [I let Claude Code write an entire book](https://github.com/JayDoubleu/agentic-book)
+- May 30 - [What Happens When AI-Generated Lies Are More Compelling Than the Truth?](https://behavioralscientist.org/what-happens-when-ai-generated-lies-are-more-compelling-than-the-truth/)
+- May 30 - [Radio Astronomy Software Defined Radio (Rasdr)](https://radio-astronomy.org/rasdr)
 <!--END_SECTION:hn-->
 
 <!--
