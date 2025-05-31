@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 31 - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
+- May 31 - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
 - May 31 - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 - May 31 - [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
-- May 31 - [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
 - May 31 - [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)](https://fontofweb.com)
-- May 31 - [The Two Ideals of Fields](https://susam.net/two-ideals-of-fields.html)
 <!--END_SECTION:hn-->
 
 <!--
