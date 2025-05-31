@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now](https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/)
-- May 30 - [Colour and Shape: Using Computer Vision to Explore the Science Museum (2020)](https://lab.sciencemuseum.org.uk/colour-shape-using-computer-vision-to-explore-the-science-museum-c4b4f1cbd72c)
-- May 30 - [Stop Vibe Coding Every Damn Time!](https://newsletter.oberai.dev/p/stop-vibe-coding-every-damn-time)
-- May 30 - [Show HN: Asdf Overlay – High performance in-game overlay library for Windows](https://github.com/storycraft/asdf-overlay)
-- May 30 - [Weave (YC W25) is hiring a founding engineer](https://www.ycombinator.com/companies/weave-3/jobs)
+- May 30 - [Valkey Turns One: How the Community Fork Left Redis in the Dust](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
+- May 30 - [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
+- May 30 - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+- May 30 - [How to Automate Software Engineering](https://www.mechanize.work/blog/how-to-fully-automate-software-engineering/)
+- May 30 - [Photos taken inside musical instruments](https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments)
 <!--END_SECTION:hn-->
 
 <!--
