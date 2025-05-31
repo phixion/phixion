@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
-- May 31 - [Every 5x5 Nonogram](https://pixelogic.app/every-5x5-nonogram)
-- May 30 - [Valkey Turns One: Community fork of Redis](https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/)
-- May 30 - [Silicon Valley finally has a big electronics retailer again: Micro Center opens](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx)
-- May 30 - [StackAI (YC W23) Is Looking for SWR and Tailwind Wizards](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer)
+- May 31 - [Google Duo will be replaced by Google Meet in Sept 2025](https://9to5google.com/2025/05/27/google-meet-legacy-duo-calling/)
+- May 31 - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
+- May 31 - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
+- May 31 - [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/)
+- May 31 - [Simpler Backoff](https://commaok.xyz/post/simple-backoff/)
 <!--END_SECTION:hn-->
 
 <!--
