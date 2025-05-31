@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Google Duo will be replaced by Google Meet in Sept 2025](https://9to5google.com/2025/05/27/google-meet-legacy-duo-calling/)
+- May 31 - [Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/)
+- May 31 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- May 31 - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
+- May 31 - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 - May 31 - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
-- May 31 - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
-- May 31 - [AI Responses May Include Mistakes](https://www.os2museum.com/wp/ai-responses-may-include-mistakes/)
-- May 31 - [Simpler Backoff](https://commaok.xyz/post/simple-backoff/)
 <!--END_SECTION:hn-->
 
 <!--
