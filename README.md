@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/)
-- May 31 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- May 31 - [The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/)
-- May 31 - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
-- May 31 - [Beware of Fast-Math](https://simonbyrne.github.io/notes/fastmath/)
+- May 31 - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
+- May 31 - [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
+- May 31 - [Ask HN: Anyone making a living from a paid API?](https://news.ycombinator.com/item?id=44144473)
+- May 31 - [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)](https://fontofweb.com)
+- May 31 - [The Two Ideals of Fields](https://susam.net/two-ideals-of-fields.html)
 <!--END_SECTION:hn-->
 
 <!--
