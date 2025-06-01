@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [A Lean companion to Analysis I](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
-- May 31 - [Show HN: PunchCard Key Backup](https://github.com/volution/punchcard-key-backup)
-- May 31 - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
-- May 31 - [Acclimation of Osmoregulatory Function in Salmon](https://www.unm.edu/~toolson/salmon_osmoregulation.html)
-- May 31 - [Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)](https://fontofweb.com)
+- Jun 01 - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
+- May 31 - [The NFS 4 Freezer Spacer In Science Fiction Sets](https://kolektiva.social/@beka_valentine/114600567753999701)
+- May 31 - [New Adaptive Optics Shows Details of Our Star's Atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
+- May 31 - [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
+- May 31 - [Plutonium Powered Pacemaker (From 1974)](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html)
 <!--END_SECTION:hn-->
 
 <!--
