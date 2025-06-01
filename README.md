@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [A Beautiful Technique for Some XOR Related Problems](https://codeforces.com/blog/entry/68953)
-- Jun 01 - [I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
-- Jun 01 - [Father Ted Kilnettle Shrine Tape Dispenser](https://stephencoyle.net/kilnettle)
-- Jun 01 - [Reviving Astoria – Windows's Lost Android](https://trungnt2910.com/astoria-windows-android/)
-- Jun 01 - [Structured Errors in Go](https://southcla.ws/structured-errors-in-go)
+- Jun 01 - [Atari Means Business with the Mega ST – By Paul Lefebvre](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
+- Jun 01 - [Cinematography of "Andor"](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
+- Jun 01 - [Why DeepSeek is cheap at scale but expensive to run locally](https://www.seangoedecke.com/inference-batching-and-deepseek/)
+- Jun 01 - [An optimizing compiler doesn't help much with long instruction dependencies](https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/)
+- Jun 01 - [Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex](https://github.com/einaregilsson/Redirector)
 <!--END_SECTION:hn-->
 
 <!--
