@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 01 - [US authorities are collecting DNA information of children in criminal database](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants)
+- Jun 01 - [Elevenlabs Conversational AI 2.0](https://elevenlabs.io/blog/conversational-ai-2-0)
+- Jun 01 - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
+- Jun 01 - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
 - Jun 01 - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
-- Jun 01 - [How I got a Root Shell on a Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
-- Jun 01 - [RSC for Lisp Developers](https://overreacted.io/rsc-for-lisp-developers/)
-- Jun 01 - [Atari Means Business with the Mega ST](https://www.goto10retro.com/p/atari-means-business-with-the-mega)
-- Jun 01 - [Cinematography of "Andor"](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html)
 <!--END_SECTION:hn-->
 
 <!--
