@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Show HN: Patio – Rent tools, learn DIY, reduce waste](https://patio.so)
-- May 31 - [The NFS 4 Freezer Spacer In Science Fiction Sets](https://kolektiva.social/@beka_valentine/114600567753999701)
-- May 31 - [New Adaptive Optics Shows Details of Our Star's Atmosphere](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/)
-- May 31 - [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2401.17270)
-- May 31 - [Plutonium Powered Pacemaker (From 1974)](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html)
+- Jun 01 - [RenderFormer: Neural Rendering of Triangle Meshes with Global Illumination](https://microsoft.github.io/renderformer/)
+- Jun 01 - [Of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
+- Jun 01 - [Enhancing MySQL: MySQL improvement project](https://github.com/enhancedformysql/enhancedformysql)
+- Jun 01 - [Stepping Back](https://rjp.io/blog/2025-05-31-stepping-back)
+- Jun 01 - [Progressive JSON](https://overreacted.io/progressive-json/)
 <!--END_SECTION:hn-->
 
 <!--
