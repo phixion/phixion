@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Show HN: MBCompass - Android Compass App](https://github.com/MubarakNative/MBCompass)
-- Jun 02 - [How Can AI Researchers Save Energy? By Going Backward](https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/)
-- Jun 02 - [The Princeton INTERCAL Compiler's source code](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code)
-- Jun 02 - [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
-- Jun 01 - [Show HN: Moon Phase Algorithms for C, Lua, Awk, JavaScript, etc.](https://github.com/oliverkwebb/moonphase)
+- Jun 02 - [Rethinking PostgreSQL Storage](https://www.ubicloud.com/blog/time-to-rethink-postgresql-storage)
+- Jun 02 - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
+- Jun 02 - [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
+- Jun 02 - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
+- Jun 02 - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 <!--END_SECTION:hn-->
 
 <!--
