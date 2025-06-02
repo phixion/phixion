@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
-- Jun 02 - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
-- Jun 02 - [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
-- Jun 02 - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
-- Jun 02 - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
+- Jun 02 - [Can I stop drone delivery companies flying over my property?](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/)
+- Jun 02 - [CVE 2025 31200](https://blog.noahhw.dev/posts/cve-2025-31200/)
+- Jun 02 - [Disaster awaits if we don't secure IoT now](https://spectrum.ieee.org/iot-security-root-of-trust)
+- Jun 02 - [Decorative Text Within HTML](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/)
+- Jun 02 - [Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer)
 <!--END_SECTION:hn-->
 
 <!--
