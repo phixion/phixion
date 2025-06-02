@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Rethinking PostgreSQL Storage](https://www.ubicloud.com/blog/time-to-rethink-postgresql-storage)
-- Jun 02 - [0.9999 ≊ 1](https://lcamtuf.substack.com/p/09999-1)
-- Jun 02 - [Euro execs mull use of US clouds](https://www.theregister.com/2025/05/28/uk_execs_cloud/)
-- Jun 02 - [How reliable are MicroSD cards?](https://old.reddit.com/r/raspberry_pi/comments/1l0v25s/how_reliable_are_microsd_cards_well_as_it_turns/)
-- Jun 02 - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
+- Jun 02 - [Whatever Happened to Cheap EReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
+- Jun 02 - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
+- Jun 02 - [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782)
+- Jun 02 - [Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
+- Jun 02 - [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv)
 <!--END_SECTION:hn-->
 
 <!--
