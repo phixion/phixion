@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [US authorities are collecting DNA information of children in criminal database](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants)
-- Jun 01 - [Elevenlabs Conversational AI 2.0](https://elevenlabs.io/blog/conversational-ai-2-0)
-- Jun 01 - [M8.2 solar flare, Strong G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html)
-- Jun 01 - [AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware](https://blog.talosintelligence.com/fake-ai-tool-installers/)
-- Jun 01 - [Learning from the Amiga API/ABI](https://asm-basic-coder.neocities.org/rants/amigaapilearn)
+- Jun 01 - [Ask HN: Why are dating apps so bad? Why hasn't anyone made a good one?](https://news.ycombinator.com/item?id=44154162)
+- Jun 01 - [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
+- Jun 01 - [Why Blender Changing to Vulkan Is Groundbreaking [video]](https://www.youtube.com/watch?v=7cta91Y53gs)
+- Jun 01 - [LibriVox](https://librivox.org/)
+- Jun 01 - [“Bugs are 100x more expensive to fix in production” study might not exist (2021)](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
 <!--END_SECTION:hn-->
 
 <!--
