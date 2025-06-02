@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Whatever Happened to Cheap EReaders?](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/)
-- Jun 02 - [Beyond the Black Box: Interpretability of LLMs in Finance](https://arxiv.org/abs/2505.24650)
-- Jun 02 - [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782)
-- Jun 02 - [Kan.bn – An open-source alterative to Trello](https://github.com/kanbn/kan)
-- Jun 02 - [Awesome-ArXiv: curated tools for discovering and working with ArXiv papers](https://github.com/artnitolog/awesome-arxiv)
+- Jun 02 - [Show HN: Penny-1.7B Irish Penny Journal style transfer](https://huggingface.co/dleemiller/Penny-1.7B)
+- Jun 02 - [Mesh Edge Construction](https://maxliani.wordpress.com/2025/03/01/mesh-edge-construction/)
+- Jun 02 - [Show HN: A toy version of Wireshark](https://news.ycombinator.com/item?id=44159758)
+- Jun 02 - [A Hidden Weakness](https://serge-sans-paille.github.io/pythran-stories/a-hidden-weakness.html)
+- Jun 02 - [Cloudlflare builds OAuth with Claude and publishes all the prompts](https://github.com/cloudflare/workers-oauth-provider/commits/main/)
 <!--END_SECTION:hn-->
 
 <!--
