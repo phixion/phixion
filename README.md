@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [The Small World of English](https://www.inotherwords.app/linguabase/)
-- Jun 03 - [Claude Code Is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
-- Jun 03 - [Mario Kart designers had to rethink everything to make it open world](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki)
-- Jun 03 - [Show HN: Controlling 3D models with voice and hand gestures](https://github.com/collidingScopes/3d-model-playground)
-- Jun 03 - [Show HN: PinSend – Share text between devices using a PIN(P2P, no login)](https://pinsend.app)
+- Jun 03 - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
+- Jun 03 - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
+- Jun 03 - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
+- Jun 03 - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
+- Jun 03 - [Don't just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
 <!--END_SECTION:hn-->
 
 <!--
