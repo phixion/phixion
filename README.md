@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [215 Department Store Catalogs 1908-2019](https://archive.org/details/departmentstorecatalogs)
-- Jun 04 - [The Right to Repair Is Law in Washington State](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state)
-- Jun 04 - [From Steam to Silicon: Patterns of Technological Revolutions](https://ianreppel.org/from-steam-to-silicon/)
-- Jun 04 - ["AI Will Replace All the Jobs " Is Just Tech Execs Doing Marketing](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/)
-- Jun 04 - [The Gutting of America's Medical Research](https://www.nytimes.com/interactive/2025/06/04/health/trump-cuts-nih-grants-research.html)
+- Jun 04 - [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
+- Jun 04 - [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)
+- Jun 04 - [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
+- Jun 04 - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
+- Jun 04 - [The History of R2E and the Micral - The second personal computer](https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral)
 <!--END_SECTION:hn-->
 
 <!--
