@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Destination: Jupiter](https://clarkesworldmagazine.com/liptak_06_25/)
-- Jun 03 - [Show HN: An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
-- Jun 03 - [Ask HN: Options for One-Handed Typing](https://news.ycombinator.com/item?id=44173581)
-- Jun 03 - [When the sun dies, could life survive on the Jupiter ocean moon Europa?](https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa)
-- Jun 03 - [Don't just check errors, handle them gracefully (2016)](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+- Jun 03 - [Brain aging shows nonlinear transitions, suggesting a midlife "critical window"](https://www.pnas.org/doi/10.1073/pnas.2416433122)
+- Jun 03 - [Precious Plastic Is in Trouble](https://www.preciousplastic.com//news/problems-in-precious-plastic)
+- Jun 03 - [Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today](https://github.com/unvalley/ephe)
+- Jun 03 - [Polish engineer creates postage stamp-sized 1980s Atari computer](https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/)
+- Jun 03 - [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 <!--END_SECTION:hn-->
 
 <!--
