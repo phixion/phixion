@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Merlin Bird ID](https://merlin.allaboutbirds.org/)
-- Jun 04 - [Binary Wordle](https://wordle.chengeric.com/)
-- Jun 04 - [DiffX – Next-Generation Extensible Diff Format](https://diffx.org/)
-- Jun 04 - [Why is PS3 emulation so fast: RPCS3 optimizations explained [video]](https://www.youtube.com/watch?v=19ae5Mq2lJE)
-- Jun 04 - [Ask HN: Has anybody built search on top of Anna's Archive?](https://news.ycombinator.com/item?id=44176514)
+- Jun 04 - [X's new "encrypted" XChat feature doesn't seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
+- Jun 04 - [Depot (YC W23) is hiring an enterprise support engineer (UK/EU)](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
+- Jun 04 - [Meta buys a nuclear power plant (more or less)](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
+- Jun 04 - [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
+- Jun 04 - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
 <!--END_SECTION:hn-->
 
 <!--
