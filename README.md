@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [X's new "encrypted" XChat feature doesn't seem to be any more secure](https://www.theregister.com/2025/06/03/xs_new_encrypted_xchat_feature/)
-- Jun 04 - [Depot (YC W23) is hiring an enterprise support engineer (UK/EU)](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer)
-- Jun 04 - [Meta buys a nuclear power plant (more or less)](https://techcrunch.com/2025/06/03/meta-buys-a-nuclear-power-plant-more-or-less/)
-- Jun 04 - [A critical look at NetBSD’s installer](https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/)
-- Jun 04 - [Show HN: Hacker News historic upvote and score data](https://hn.dunkirk.sh/)
+- Jun 04 - [Claude Code is now available to Pro plans](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan)
+- Jun 04 - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
+- Jun 04 - [Porn sites go dark in France over new age verification rules](https://www.rfi.fr/en/france/20250604-porn-sites-go-dark-in-france-over-new-age-verification-rules)
+- Jun 04 - [Tellico – Collection management software, free and simple](https://tellico-project.org/)
+- Jun 04 - [Just how bad are we at treating age-related diseases?](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases)
 <!--END_SECTION:hn-->
 
 <!--
