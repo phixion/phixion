@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Curtis Yarvin's Plot Against America](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile)
-- Jun 04 - [Show HN: Cloudflare Workers Compatible MCP Boilerplate with OAuth & PostgreSQL](https://github.com/f/mcp-cloudflare-boilerplate)
-- Jun 04 - [The Echo in the Machine](https://radiolab.org/podcast/the-echo-in-the-machine)
-- Jun 04 - [A proposal to restrict sites from accessing a users' local network](https://github.com/explainers-by-googlers/local-network-access)
-- Jun 04 - [The History of R2E and the Micral - The second personal computer](https://www.abortretry.fail/p/the-history-of-r2e-and-the-micral)
+- Jun 04 - [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
+- Jun 04 - [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
+- Jun 04 - [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
+- Jun 04 - [PromptArmor (YC W24) Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
+- Jun 04 - [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
 <!--END_SECTION:hn-->
 
 <!--
