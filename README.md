@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Extreme Super-Resolution via Scale Autoregression and Preference Alignment](https://arxiv.org/abs/2505.18600)
-- Jun 05 - [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
-- Jun 05 - [Claude Gov Models for U.S. National Security Customers](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers)
-- Jun 05 - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
-- Jun 05 - [Twitter's new encrypted DMs aren't better than the old ones](https://mjg59.dreamwidth.org/71646.html)
+- Jun 05 - [Not Boring Camera App](https://notbor.ing/product/camera)
+- Jun 05 - [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
+- Jun 05 - [Eleven v3](https://elevenlabs.io/v3)
+- Jun 05 - [Neuromorphic computing](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
+- Jun 05 - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
 <!--END_SECTION:hn-->
 
 <!--
