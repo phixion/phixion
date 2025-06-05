@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 05 - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
+- Jun 05 - [NoteGen is a cross-platform Markdown note-taking application](https://github.com/codexu/note-gen)
 - Jun 04 - [Tesla seeks to guard crash data from public disclosure](https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/)
+- Jun 04 - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
 - Jun 04 - [A Spiral Structure in the Inner Oort Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b)
-- Jun 04 - [Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)
-- Jun 04 - [PromptArmor (YC W24) Is Hiring in San Francisco](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack)
-- Jun 04 - [After court order, OpenAI is now preserving all ChatGPT user logs](https://mastodon.laurenweinstein.org/@lauren/114627064774788581)
 <!--END_SECTION:hn-->
 
 <!--
