@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation)
-- Jun 05 - [Old payphones get new life, thanks to Vermont engineer](https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public)
-- Jun 05 - [Differences in link hallucination and source comprehension across different LLM](https://mikecaulfield.substack.com/p/differences-in-link-hallucination)
-- Jun 05 - [Show HN: I made a 3D SVG Renderer that projects textures without rasterization](https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects)
-- Jun 05 - [Magnus Carlsen might walk away from classical chess](https://lichess.org/@/MeTooSlow/blog/is-this-the-end-or-the-beginning/9aJj08zM)
+- Jun 05 - [AtoB (YC S20) – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
+- Jun 05 - [Sodern launches Astradia, a star tracker for GNSS-denied navigation](https://sodern.com/fr/astradia-le-viseur-detoiles-diurne-pour-un-systeme-de-navigation-sur-et-robuste/)
+- Jun 05 - [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
+- Jun 05 - [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
+- Jun 05 - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
 <!--END_SECTION:hn-->
 
 <!--
