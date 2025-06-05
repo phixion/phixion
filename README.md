@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [AtoB (YC S20) – Stripe for Transportation – is hiring engineers](https://jobs.ashbyhq.com/atob)
-- Jun 05 - [Sodern launches Astradia, a star tracker for GNSS-denied navigation](https://sodern.com/fr/astradia-le-viseur-detoiles-diurne-pour-un-systeme-de-navigation-sur-et-robuste/)
-- Jun 05 - [10 Years of Betting on Rust](https://tably.com/tably/10-years-of-betting-on-rust)
-- Jun 05 - [DNS4EU for Public Is Available](https://www.joindns4.eu/for-public)
-- Jun 05 - [Phptop: Simple PHP ressource profiler, safe and useful for production sites](https://github.com/bearstech/phptop)
+- Jun 05 - [Extreme Super-Resolution via Scale Autoregression and Preference Alignment](https://arxiv.org/abs/2505.18600)
+- Jun 05 - [Longevity Is Now a Factor When Picking an Embryo for IVF](https://www.wsj.com/health/embryo-ivf-screening-longevity-2b1f096a)
+- Jun 05 - [Claude Gov Models for U.S. National Security Customers](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers)
+- Jun 05 - [The impossible predicament of the death newts](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/)
+- Jun 05 - [Twitter's new encrypted DMs aren't better than the old ones](https://mjg59.dreamwidth.org/71646.html)
 <!--END_SECTION:hn-->
 
 <!--
