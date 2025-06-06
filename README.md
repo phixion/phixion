@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
-- Jun 06 - [Open Source Distilling](https://opensourcedistilling.com/)
-- Jun 06 - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
-- Jun 06 - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
-- Jun 05 - [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
+- Jun 06 - [The bizarre story of a maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
+- Jun 06 - [Google confirms more ads on your paid YouTube Premium Lite soon](https://www.neowin.net/news/google-confirms-more-ads-on-your-paid-youtube-premium-lite-soon/)
+- Jun 06 - [Germany: Digital Minister wants open source etc. as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
+- Jun 06 - [Homeless but self taught full stack developer](https://news.ycombinator.com/item?id=44198076)
+- Jun 06 - [Neuroscience How Much Energy Does It Take to Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
 <!--END_SECTION:hn-->
 
 <!--
