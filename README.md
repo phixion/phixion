@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [The bizarre story of a maths proof that is only true in Japan](https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/)
-- Jun 06 - [Google confirms more ads on your paid YouTube Premium Lite soon](https://www.neowin.net/news/google-confirms-more-ads-on-your-paid-youtube-premium-lite-soon/)
-- Jun 06 - [Germany: Digital Minister wants open source etc. as guiding principle](https://www.heise.de/en/news/Digital-Minister-wants-open-standards-and-open-source-as-guiding-principle-10414632.html)
-- Jun 06 - [Homeless but self taught full stack developer](https://news.ycombinator.com/item?id=44198076)
-- Jun 06 - [Neuroscience How Much Energy Does It Take to Think?](https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/)
+- Jun 06 - [Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook](https://deepnote.com/join-us)
+- Jun 06 - [Swift and Cute 2D Game Framework: Setting Up a Project with CMake](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake)
+- Jun 06 - [Fuzzer Blind Spots (Meet Jepsen)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
+- Jun 06 - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
+- Jun 06 - [AMD Radeon 8050S "Strix Halo" Linux Graphics Performance Review](https://www.phoronix.com/review/amd-radeon-8050s-graphics)
 <!--END_SECTION:hn-->
 
 <!--
