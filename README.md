@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
-- Jun 05 - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
-- Jun 05 - [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
-- Jun 05 - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
-- Jun 05 - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
+- Jun 06 - [Building an AI Server on a Budget](https://www.informationga.in/blog/building-an-ai-server-on-a-budget)
+- Jun 06 - [Open Source Distilling](https://opensourcedistilling.com/)
+- Jun 06 - [Test Postgres in Python Like SQLite](https://github.com/wey-gu/py-pglite)
+- Jun 06 - [How we’re responding to The NYT’s data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)
+- Jun 05 - [Show HN: Lambduck, a Functional Programming Brainfuck](https://imjakingit.github.io/lambduck/)
 <!--END_SECTION:hn-->
 
 <!--
