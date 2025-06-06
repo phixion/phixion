@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Not Boring Camera App](https://notbor.ing/product/camera)
-- Jun 05 - [Aurora, a foundation model for the Earth system](https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html)
-- Jun 05 - [Eleven v3](https://elevenlabs.io/v3)
-- Jun 05 - [Neuromorphic computing](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing)
-- Jun 05 - [Show HN: iOS Screen Time from a REST API](https://www.thescreentimenetwork.com/api/)
+- Jun 05 - [Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations](https://masonyarbrough.com/blog/ask-human)
+- Jun 05 - [Show HN: Claude Composer](https://github.com/possibilities/claude-composer)
+- Jun 05 - [Machine Learning: The Native Language of Biology](https://decodingbiology.substack.com/p/machine-learning-the-native-language)
+- Jun 05 - [What a developer needs to know about SCIM](https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim)
+- Jun 05 - [Show HN: String Flux – Simplify everyday string transformations for developers](https://stringflux.io)
 <!--END_SECTION:hn-->
 
 <!--
