@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Switching to Mojo gave a 14% improvement over CUDA](https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/)
-- Jun 06 - [SaaS is just vendor lock-in with better branding](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding)
-- Jun 06 - [Great Question (YC W21) Is Hiring a Director of Customer Success](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success)
-- Jun 06 - [Series C and Scale (Cursor)](https://www.cursor.com/en/blog/series-c)
-- Jun 06 - [Researchers find a way to make the HIV virus visible within white blood cells](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed)
+- Jun 06 - [Food additive titanium dioxide likely has more toxic effects than thought](https://www.theguardian.com/us-news/2025/jun/06/titanium-dioxide-food-additive-toxic)
+- Jun 06 - [What "Working" Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)
+- Jun 06 - [Medieval Africans Had a Unique Process for Purifying Gold with Glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold)
+- Jun 06 - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
+- Jun 06 - [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
 <!--END_SECTION:hn-->
 
 <!--
