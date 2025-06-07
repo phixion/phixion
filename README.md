@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Food additive titanium dioxide likely has more toxic effects than thought](https://www.theguardian.com/us-news/2025/jun/06/titanium-dioxide-food-additive-toxic)
-- Jun 06 - [What "Working" Means in the Era of AI Apps](https://a16z.com/revenue-benchmarks-ai-apps/)
-- Jun 06 - [Medieval Africans Had a Unique Process for Purifying Gold with Glass (2019)](https://www.atlasobscura.com/articles/medieval-african-gold)
-- Jun 06 - [Researchers develop ‘transparent paper’ as alternative to plastics](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
-- Jun 06 - [Supreme Court allows DOGE to access social security data](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-doge-social-security-data-access-elon-musk-rcna206515)
+- Jun 07 - [Why are front end dev demand so high if front end development is easier? (2012)](https://simonwillison.net/2012/Feb/13/why-are-front-end/)
+- Jun 07 - [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)
+- Jun 07 - [Why Are Smokestacks So Tall?](https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall)
+- Jun 07 - [Weebly is decaying](https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly)
+- Jun 06 - [What “working” means in the era of AI apps](https://a16z.com/revenue-benchmarks-ai-apps/)
 <!--END_SECTION:hn-->
 
 <!--
