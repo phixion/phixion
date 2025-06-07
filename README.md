@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [Gander (YC F24) Is Hiring Founding Engineers and Interns](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer)
-- Jun 07 - [Low-Level Optimization with Zig](https://alloc.dev/2025/06/07/zig_optimization)
-- Jun 07 - [The FAIR Package Manager: Decentralized WordPress infrastructure](https://joost.blog/path-forward-for-wordpress/)
-- Jun 07 - [NASA delays next flight of Boeing's alternative to SpaceX Dragon](https://theedgemalaysia.com/node/758199)
-- Jun 07 - [Getting Past Procrastination](https://spectrum.ieee.org/getting-past-procastination)
+- Jun 07 - [Asimov and the Disease of Boredom (1964)](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
+- Jun 07 - [Unfit for Work – The startling rise of disability in America](https://apps.npr.org/unfit-for-work/)
+- Jun 07 - [Hate Radio](https://rwandanstories.org/genocide/hate_radio.html)
+- Jun 07 - [If it works, it's not AI: a commercial look at AI startups (1999)](https://dspace.mit.edu/handle/1721.1/80558)
+- Jun 07 - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 <!--END_SECTION:hn-->
 
 <!--
