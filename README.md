@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 08 - [Tapping into the World’s largest gold reserves](https://www.uni-goettingen.de/en/3240.html?id=7808)
+- Jun 08 - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
+- Jun 08 - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
+- Jun 08 - [Launching the BeOS on Hitachi Flora Prius Systems (1999)](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
 - Jun 08 - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
-- Jun 08 - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
-- Jun 08 - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
-- Jun 08 - [A look at Cloudflare's AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
-- Jun 08 - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 <!--END_SECTION:hn-->
 
 <!--
