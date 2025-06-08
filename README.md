@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Louis Rossmann: We've started a foundation to bring back ownership [video]](https://www.youtube.com/watch?v=WBG6Vw3nxZs)
-- Jun 08 - [Should I Use a Carousel? (2013)](https://shouldiuseacarousel.com/)
-- Jun 08 - [An innovative superfamily of fonts for code (2023)](https://monaspace.githubnext.com/)
-- Jun 07 - [Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
-- Jun 07 - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
+- Jun 08 - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
+- Jun 08 - [A Knockout Blow for LLMs?](https://garymarcus.substack.com/p/a-knockout-blow-for-llms)
+- Jun 08 - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
+- Jun 08 - [Reverse engineering Claude Code (April 2025)](https://kirshatrov.com/posts/claude-code-internals)
+- Jun 08 - [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
 <!--END_SECTION:hn-->
 
 <!--
