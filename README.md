@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [FAA to eliminate floppy disks used in air traffic control systems](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)
-- Jun 08 - [A Knockout Blow for LLMs?](https://garymarcus.substack.com/p/a-knockout-blow-for-llms)
-- Jun 08 - [Fray: A Controlled Concurrency Testing Framework for the JVM](https://github.com/cmu-pasta/fray)
-- Jun 08 - [Reverse engineering Claude Code (April 2025)](https://kirshatrov.com/posts/claude-code-internals)
-- Jun 08 - [Maintaining an Android app in Google Play Store is a lot of work](https://ashishb.net/programming/maintaining-android-app/)
+- Jun 08 - [Ask HN: How to learn CUDA to professional level](https://news.ycombinator.com/item?id=44216123)
+- Jun 08 - [Apple Is on Defense at WWDC](https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence)
+- Jun 08 - [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
+- Jun 08 - [A look at Cloudflare's AI-coded OAuth library](https://neilmadden.blog/2025/06/06/a-look-at-cloudflares-ai-coded-oauth-library/)
+- Jun 08 - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 <!--END_SECTION:hn-->
 
 <!--
