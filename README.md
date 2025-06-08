@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [Europe's Climate Urgency: Driven by Green Ideals or Fear of an African Refugees?](https://masatoshinishimura.com/europes-climate-urgency-driven-by-green-ideals-or-fear-of-an-african-refugees/)
-- Jun 07 - [Hollywood Is Already Using AI (and Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html)
-- Jun 07 - [Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray](https://aoli.al/blogs/jdk-bug/)
-- Jun 07 - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
-- Jun 07 - [I'm Wirecutter's water-quality expert. I don't filter my water](https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/)
+- Jun 07 - [You need much less memory than time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
+- Jun 07 - [Coventry Very Light Rail](https://www.coventry.gov.uk/coventry-light-rail)
+- Jun 07 - [Why Understanding Software Cycle Time Is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
+- Jun 07 - [Math Symbol Frequencies](https://leancrew.com/all-this/2025/06/math-symbol-frequencies/)
+- Jun 07 - [Convert photos to Atkinson dithering](https://gazs.github.io/canvas-atkinson-dither/)
 <!--END_SECTION:hn-->
 
 <!--
