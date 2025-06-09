@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Tapping into the World’s largest gold reserves](https://www.uni-goettingen.de/en/3240.html?id=7808)
-- Jun 08 - [Administering immunotherapy in the morning seems to matter. Why?](https://www.owlposting.com/p/the-time-of-day-that-immunotherapy)
-- Jun 08 - [Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer](https://letsbend.de)
-- Jun 08 - [Launching the BeOS on Hitachi Flora Prius Systems (1999)](http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html)
-- Jun 08 - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
+- Jun 08 - [I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
+- Jun 08 - [OpenBSD IO Benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
+- Jun 08 - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
+- Jun 08 - [Building supercomputers for autocrats probably isn't good for democracy](https://helentoner.substack.com/p/supercomputers-for-autocrats)
+- Jun 08 - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 <!--END_SECTION:hn-->
 
 <!--
