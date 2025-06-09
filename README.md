@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 09 - [So Long, Figma. Thanks for Everything](https://jondaiello.medium.com/so-long-figma-thanks-for-everything-f606e5f75b7c)
+- Jun 09 - [Finding Shawn Mendes](https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/)
 - Jun 09 - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
 - Jun 09 - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
 - Jun 09 - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
-- Jun 09 - [Web designs are getting too complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
-- Jun 09 - [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
 <!--END_SECTION:hn-->
 
 <!--
