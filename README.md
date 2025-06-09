@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 09 - [Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs](https://www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/)
+- Jun 09 - [Forests offset warming more than thought: study](https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet)
+- Jun 09 - [Kagi Reaches 50k Users](https://kagi.com/stats?stat=members)
+- Jun 09 - [Web designs are getting too complicated](https://websmith.studio/blog/website-designs-are-getting-too-complicated/)
 - Jun 09 - [FSE meets the FBI](https://blog.freespeechextremist.com/blog/fse-vs-fbi.html)
-- Jun 09 - [Analyzing IPv4 Trades with Gnuplot](https://ipv4a-5539ad.gitlab.io/)
-- Jun 09 - [Software Is About Promises](https://www.bramadams.dev/software-is-about-promises/)
-- Jun 08 - [Riding high in Germany on the world's oldest suspended railway](https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway)
-- Jun 08 - [I used AI-powered calorie counting apps, and they were even worse than expected](https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected)
 <!--END_SECTION:hn-->
 
 <!--
