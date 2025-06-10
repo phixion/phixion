@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
-- Jun 10 - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
-- Jun 10 - [Dubious Math in Infinite Jest (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
-- Jun 10 - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
-- Jun 10 - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
+- Jun 10 - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
+- Jun 10 - [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
+- Jun 10 - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
+- Jun 10 - [Show HN: MidWord – A Word-Guessing Game](https://midword.com/)
+- Jun 10 - [Android 16 Is Here](https://blog.google/products/android/android-16/)
 <!--END_SECTION:hn-->
 
 <!--
