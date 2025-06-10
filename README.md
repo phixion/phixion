@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [The Posse Comitatus Act Explained](https://www.brennancenter.org/our-work/research-reports/posse-comitatus-act-explained)
-- Jun 09 - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-- Jun 09 - [Google battling 'fox infestation' on roof of £1B London office](https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office)
-- Jun 09 - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI (2017)](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
-- Jun 09 - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
+- Jun 10 - [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
+- Jun 10 - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
+- Jun 10 - [Las Vegas is embracing a simple climate solution: More trees](https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees)
+- Jun 09 - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
+- Jun 09 - [Marines being mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)
 <!--END_SECTION:hn-->
 
 <!--
