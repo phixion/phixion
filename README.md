@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [Discrete Mathematics: An Open Introduction [pdf]](https://discrete.openmathbooks.org/pdfs/dmoi4.pdf)
-- Jun 10 - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
-- Jun 10 - [Las Vegas is embracing a simple climate solution: More trees](https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees)
-- Jun 09 - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
-- Jun 09 - [Marines being mobilized in response to LA protests](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests)
+- Jun 10 - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
+- Jun 10 - [Ada Continues to Climb in June Tiobe Index and PYPL](https://forum.ada-lang.io/t/ada-continues-to-climb-in-june-tiobe-index-and-pypl/2126)
+- Jun 10 - [Successful people set constraints rather than chasing goals](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
+- Jun 10 - [Micrographia (1665) [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
+- Jun 10 - [Scientific Papers: Innovation or Imitation?](https://www.johndcook.com/blog/2025/06/05/scientific-papers-innovation-or-imitation/)
 <!--END_SECTION:hn-->
 
 <!--
