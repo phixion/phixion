@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [Onlook (YC W25) Is Hiring a a Founding Engineer in SF](https://news.ycombinator.com/item?id=44235716)
-- Jun 10 - [IBM to build first large-scale, error-corrected quantum computer by 2028](https://www.technologyreview.com/2025/06/10/1118297/ibm-large-scale-error-corrected-quantum-computer-by-2028/)
-- Jun 10 - [Show HN: A MCP server and client implementing the latest spec](https://github.com/hemanth/paws-on-mcp)
-- Jun 10 - [Successful people set constraints rather than chasing goals](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
-- Jun 10 - [Micrographia (1665) [pdf]](https://arhipa.org/libros/Hooke_Robert_Micrographia-1665.pdf)
+- Jun 10 - [Show HN: Chili3d – A open-source, browser-based 3D CAD application](https://news.ycombinator.com/item?id=44238171)
+- Jun 10 - [Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices](https://news.ycombinator.com/item?id=44237769)
+- Jun 10 - [Dubious Math in Infinite Jest (2009)](https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html)
+- Jun 10 - [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
+- Jun 10 - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 <!--END_SECTION:hn-->
 
 <!--
