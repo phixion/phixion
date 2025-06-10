@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Object firing signals at Earth every 44 minutes](https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes)
-- Jun 09 - [A bit more on Twitter/X's new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
-- Jun 09 - [Show HN: Somo – a human friendly alternative to netstat](https://github.com/theopfr/somo)
-- Jun 09 - [Apple Announces Foundation Models and Containerization frameworks, etc.](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
-- Jun 09 - [Show HN: Munal OS: a graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
+- Jun 09 - [The Posse Comitatus Act Explained](https://www.brennancenter.org/our-work/research-reports/posse-comitatus-act-explained)
+- Jun 09 - [Sly Stone has died](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
+- Jun 09 - [Google battling 'fox infestation' on roof of £1B London office](https://www.theguardian.com/uk-news/2025/jun/09/google-foxes-roof-london-kings-cross-office)
+- Jun 09 - [The Xerox Alto, Smalltalk, and Rewriting a Running GUI (2017)](https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html)
+- Jun 09 - [Containerization is a Swift package for running Linux containers on macOS](https://github.com/apple/containerization)
 <!--END_SECTION:hn-->
 
 <!--
