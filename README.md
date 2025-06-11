@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Why Koreans ask what year you were born](https://bryanhogan.com/blog/korean-age)
-- Jun 11 - [It's the end of observability as we know it (and I feel fine)](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
-- Jun 10 - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
-- Jun 10 - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
-- Jun 10 - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
+- Jun 11 - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
+- Jun 11 - [NASA raises the odds that an asteroid could hit the moon in 2032](https://www.space.com/astronomy/asteroids/nasa-raises-the-odds-that-an-asteroid-could-hit-the-moon-in-2032)
+- Jun 11 - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
+- Jun 11 - [Left-Pad (2024)](https://azerkoculu.com/posts/left-pad)
+- Jun 11 - [AlphaWrite: AI that improves at writing by evolving its own stories](https://tobysimonds.com/research/2025/06/06/AlphaWrite.html)
 <!--END_SECTION:hn-->
 
 <!--
