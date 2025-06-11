@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Firefox OS's story from a Mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
-- Jun 11 - [NASA raises the odds that an asteroid could hit the moon in 2032](https://www.space.com/astronomy/asteroids/nasa-raises-the-odds-that-an-asteroid-could-hit-the-moon-in-2032)
-- Jun 11 - [Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready](https://github.com/good-lly/s3mini)
-- Jun 11 - [Left-Pad (2024)](https://azerkoculu.com/posts/left-pad)
-- Jun 11 - [AlphaWrite: AI that improves at writing by evolving its own stories](https://tobysimonds.com/research/2025/06/06/AlphaWrite.html)
+- Jun 11 - [Drawing on Tradition: Elena Izcue's Peruvian Art in the School](https://publicdomainreview.org/collection/peruvian-art-in-the-school/)
+- Jun 11 - [V-JEPA 2 world model and new benchmarks for physical reasoning](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
+- Jun 11 - [AI at Amazon: A case study of brittleness](https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/)
+- Jun 11 - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
+- Jun 11 - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
 <!--END_SECTION:hn-->
 
 <!--
