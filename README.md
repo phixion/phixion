@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills](https://news.ycombinator.com/item?id=44240302)
-- Jun 10 - [You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers](https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers)
-- Jun 10 - [Xeneva Operating System](https://github.com/manaskamal/XenevaOS)
-- Jun 10 - [Show HN: MidWord – A Word-Guessing Game](https://midword.com/)
-- Jun 10 - [Android 16 Is Here](https://blog.google/products/android/android-16/)
+- Jun 10 - [Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536)
+- Jun 10 - [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
+- Jun 10 - [Chatbots are replacing Google's search, devastating traffic for some publishers](https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141)
+- Jun 10 - [Show HN: I made a 3D printed VTOL drone](https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can)
+- Jun 10 - [Show HN: A "Course" as an MCP Server](https://mastra.ai/course)
 <!--END_SECTION:hn-->
 
 <!--
