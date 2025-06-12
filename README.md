@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job](https://www.gauntletai.com/)
-- Jun 12 - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
-- Jun 12 - [My Mac Contacted 63 Different Apple Owned Domains in One Hour – While Not Is Use](https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use)
-- Jun 12 - [Next.js 15.1 is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
-- Jun 12 - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
+- Jun 12 - [You can now legally walk with drinks on SF's Valencia St](https://missionlocal.org/2025/06/valencia-drinking-san-francisco/)
+- Jun 12 - [Researchers confirm two journalists were hacked with Paragon spyware](https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/)
+- Jun 12 - [Why Does My Ripped CD Have Messed Up Track Names? and Why Is One Track Missing?](https://www.akpain.net/blog/inside-a-cd/)
+- Jun 12 - [Seedance 1.0](https://seed.bytedance.com/en/seedance)
+- Jun 12 - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
 <!--END_SECTION:hn-->
 
 <!--
