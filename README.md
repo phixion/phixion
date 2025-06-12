@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [You can now legally walk with drinks on SF's Valencia St](https://missionlocal.org/2025/06/valencia-drinking-san-francisco/)
-- Jun 12 - [Researchers confirm two journalists were hacked with Paragon spyware](https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/)
-- Jun 12 - [Why Does My Ripped CD Have Messed Up Track Names? and Why Is One Track Missing?](https://www.akpain.net/blog/inside-a-cd/)
-- Jun 12 - [Seedance 1.0](https://seed.bytedance.com/en/seedance)
-- Jun 12 - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
+- Jun 12 - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
+- Jun 12 - [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
+- Jun 12 - [GCP Outage](https://status.cloud.google.com/)
+- Jun 12 - [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)
+- Jun 12 - [Builder.ai did not "fake AI with 700 engineers"](https://newsletter.pragmaticengineer.com/p/the-pulse-137)
 <!--END_SECTION:hn-->
 
 <!--
