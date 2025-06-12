@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
-- Jun 12 - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
-- Jun 12 - [Sam Altman's Lies About ChatGPT Are Growing Bolder](https://gizmodo.com/sam-altmans-lies-about-chatgpt-are-growing-bolder-2000614431)
-- Jun 12 - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
-- Jun 12 - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
+- Jun 12 - [GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job](https://www.gauntletai.com/)
+- Jun 12 - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
+- Jun 12 - [My Mac Contacted 63 Different Apple Owned Domains in One Hour – While Not Is Use](https://appaddict.app/post/my-mac-contacted-63-different-apple-owned-domains-in-one-hour-while-not-is-use)
+- Jun 12 - [Next.js 15.1 is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
+- Jun 12 - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 <!--END_SECTION:hn-->
 
 <!--
