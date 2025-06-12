@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
-- Jun 12 - [Amiga 4000T: The Best Amiga in the World](https://forgottencomputer.com/retro/a4000t/)
-- Jun 12 - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
-- Jun 12 - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
-- Jun 11 - [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
+- Jun 12 - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
+- Jun 12 - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
+- Jun 12 - [Sam Altman's Lies About ChatGPT Are Growing Bolder](https://gizmodo.com/sam-altmans-lies-about-chatgpt-are-growing-bolder-2000614431)
+- Jun 12 - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
+- Jun 12 - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
 <!--END_SECTION:hn-->
 
 <!--
