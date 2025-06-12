@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [What if the Big Bang wasn't the beginning?](https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole)
-- Jun 11 - [EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
-- Jun 11 - [Spice Data (YC S19) Is Hiring a Junior Software Engineer – Back End (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad)
-- Jun 11 - [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954)
-- Jun 11 - [Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js](https://sparkjs.dev/)
+- Jun 11 - [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
+- Jun 11 - [The first big AI disaster is yet to happen](https://www.seangoedecke.com/the-first-big-ai-disaster/)
+- Jun 11 - [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
+- Jun 11 - [Institutional Books: A 242B token dataset from Harvard Library's collections](https://arxiv.org/abs/2506.08300)
+- Jun 11 - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
 <!--END_SECTION:hn-->
 
 <!--
