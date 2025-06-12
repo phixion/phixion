@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [The Seymour Cray Era of Supercomputers](https://ztoz.blog/posts/cray-era-supercomputers/)
-- Jun 11 - [The first big AI disaster is yet to happen](https://www.seangoedecke.com/the-first-big-ai-disaster/)
-- Jun 11 - [Congratulations on creating the one billionth repository on GitHub](https://github.com/AasishPokhrel/shit/issues/1)
-- Jun 11 - [Institutional Books: A 242B token dataset from Harvard Library's collections](https://arxiv.org/abs/2506.08300)
-- Jun 11 - [Shaped (YC W22) Is Hiring](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering)
+- Jun 12 - [TV Fool: See OTA channels you can receive](https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29)
+- Jun 12 - [Amiga 4000T: The Best Amiga in the World](https://forgottencomputer.com/retro/a4000t/)
+- Jun 12 - [Show HN: Eyesite - experimental website combining computer vision and web design](https://blog.andykhau.com/blog/eyesite)
+- Jun 12 - [Microsoft Office migration from Source Depot to Git](https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/)
+- Jun 11 - [Show HN: The Roman Industrial Revolution that could have been](https://thelydianstone.com/)
 <!--END_SECTION:hn-->
 
 <!--
