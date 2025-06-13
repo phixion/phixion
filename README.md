@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Ask HN: Can anybody clarify why OpenAI reasoning now shows non-English thoughts?](https://news.ycombinator.com/item?id=44264325)
-- Jun 12 - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
-- Jun 12 - [The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
-- Jun 12 - [Roundtable (YC S23) Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
-- Jun 12 - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
+- Jun 13 - [Rendering Crispy Text on the GPU](https://osor.io/text)
+- Jun 13 - [Three Algorithms for YSH Syntax Highlighting](https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md)
+- Jun 13 - [Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore](https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores)
+- Jun 13 - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
+- Jun 12 - [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
 <!--END_SECTION:hn-->
 
 <!--
