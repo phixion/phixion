@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 13 - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
+- Jun 13 - [They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html)
+- Jun 13 - [The European public DNS that makes your Internet safer](https://www.dns0.eu)
+- Jun 13 - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - Jun 13 - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
-- Jun 13 - [Show HN: I wrote a BitTorrent Client from scratch](https://github.com/piyushgupta53/go-torrent-client)
-- Jun 13 - [Show HN: GetHooky – a language-agnostic Git hook manager](https://ezpieco.github.io/GetHooky/)
-- Jun 13 - [Rendering Crispy Text on the GPU](https://osor.io/text)
-- Jun 13 - [Three Algorithms for YSH Syntax Highlighting](https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md)
 <!--END_SECTION:hn-->
 
 <!--
