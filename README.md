@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
-- Jun 13 - [Luxe Game Engine](https://luxeengine.com/)
-- Jun 13 - [Ask HN: Is ageism in tech still a problem?](https://news.ycombinator.com/item?id=44269225)
-- Jun 13 - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
-- Jun 13 - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
+- Jun 13 - [Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
+- Jun 13 - [Simulink (Matlab) Copilot](https://github.com/Kaamuli/Bloxi)
+- Jun 13 - [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
+- Jun 13 - [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#)
+- Jun 13 - [I convinced HP's board to buy Palm and watched them kill it](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
 <!--END_SECTION:hn-->
 
 <!--
