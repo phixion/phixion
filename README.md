@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Kyber (YC W23) Is Hiring a Technical Account Manager](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam)
-- Jun 13 - [They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html)
-- Jun 13 - [The European public DNS that makes your Internet safer](https://www.dns0.eu)
-- Jun 13 - [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-- Jun 13 - [Slow and steady, this poem will win your heart](https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html)
+- Jun 13 - [The Hat, the Spectre and SAT Solvers (2024)](https://www.nhatcher.com/post/on-hats-and-sats/)
+- Jun 13 - [Luxe Game Engine](https://luxeengine.com/)
+- Jun 13 - [Ask HN: Is ageism in tech still a problem?](https://news.ycombinator.com/item?id=44269225)
+- Jun 13 - [100 years of Zermelo's axiom of choice: What was the problem with it? (2006)](https://research.mietek.io/mi.MartinLof2006.html)
+- Jun 13 - [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
 <!--END_SECTION:hn-->
 
 <!--
