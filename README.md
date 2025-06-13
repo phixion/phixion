@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
-- Jun 12 - [Cloudflare Investigating Incident](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
-- Jun 12 - [GCP Outage](https://status.cloud.google.com/)
-- Jun 12 - [Show HN: ChatToSTL – AI text-to-CAD for 3D printing](https://huggingface.co/spaces/flowfulai/ChatToSTL)
-- Jun 12 - [Builder.ai did not "fake AI with 700 engineers"](https://newsletter.pragmaticengineer.com/p/the-pulse-137)
+- Jun 12 - [Ask HN: Can anybody clarify why OpenAI reasoning now shows non-English thoughts?](https://news.ycombinator.com/item?id=44264325)
+- Jun 12 - [A Dark Adtech Empire Fed by Fake CAPTCHAs](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/)
+- Jun 12 - [The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins](https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins)
+- Jun 12 - [Roundtable (YC S23) Is Hiring a President / CRO](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding)
+- Jun 12 - [Worldwide power grid with glass insulated HVDC cables](https://omattos.com/2025/06/12/glass-hvdc-cables.html)
 <!--END_SECTION:hn-->
 
 <!--
