@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
-- Jun 14 - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
-- Jun 14 - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
-- Jun 14 - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
-- Jun 14 - [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
+- Jun 14 - [Solidroad (YC W25) Is Hiring](https://solidroad.com/careers)
+- Jun 14 - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
+- Jun 14 - [Man Killed by Police After Spiraling into ChatGPT-Driven Psychosis](https://futurism.com/man-killed-police-chatgpt)
+- Jun 14 - [Saab achieves AI milestone with Gripen E](https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e)
+- Jun 14 - [Last fifty years of integer linear programming: Recent practical advances](https://inria.hal.science/hal-04776866v1)
 <!--END_SECTION:hn-->
 
 <!--
