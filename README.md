@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Building a WordPress MCP Server for Claude: Automating Blog Posts with AI](https://val.demar.in/2025/06/building-a-wordpress-mcp-server-for-claude-automating-blog-posts-with-ai/)
-- Jun 14 - [UK unis to cough up to £10M on Java to keep Oracle off their backs](https://www.theregister.com/2025/06/13/jisc_java_oracle/)
-- Jun 14 - [Anne Wojcicki to buy back 23andMe and its data for $305M](https://www.cnbc.com/2025/06/13/anne-wojcicki-to-buy-back-23andme-and-its-data-for-305-million.html)
-- Jun 14 - [Filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
-- Jun 14 - [The Tech Job Meltdown](https://www.professoraxelrod.com/p/the-tech-job-meltdown)
+- Jun 14 - [AI agent startups at Y Combinator’s Spring ’25 Demo Day](https://www.businessinsider.com/y-combinator-yc-demo-day-spring-ai-agent-startups-2025-6)
+- Jun 14 - [Caltrain official lived in secret apartment built illegally inside train station](https://sfstandard.com/2025/06/12/caltrain-employee-secret-apartment-burlingame-station-photos/)
+- Jun 14 - [Green Tea Garbage Collector](https://github.com/golang/go/issues/73581)
+- Jun 14 - [$100 Hamburger](https://en.wikipedia.org/wiki/$100_hamburger)
+- Jun 14 - [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 <!--END_SECTION:hn-->
 
 <!--
