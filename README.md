@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh](https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass)
-- Jun 13 - [Simulink (Matlab) Copilot](https://github.com/Kaamuli/Bloxi)
-- Jun 13 - [The Claude Bliss Attractor](https://www.astralcodexten.com/p/the-claude-bliss-attractor)
-- Jun 13 - [Radio pulses detected coming from ice in Antarctica](https://www.psu.edu/news/research/story/strange-radio-pulses-detected-coming-ice-antarctica#)
-- Jun 13 - [I convinced HP's board to buy Palm and watched them kill it](https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm)
+- Jun 13 - [U.S. Army bringing in big tech executives as lieutenant colonels](https://taskandpurpose.com/military-life/army-reserve-lt-col-tech-execs/)
+- Jun 13 - [The Emperor's New LLM](https://dayafter.substack.com/p/the-emperors-new-llm)
+- Jun 13 - [How the Alzheimer's Research Scandal Set Back Treatment 16 Years (2022)](https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years)
+- Jun 13 - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
+- Jun 13 - [MUMPS](https://en.wikipedia.org/wiki/MUMPS)
 <!--END_SECTION:hn-->
 
 <!--
