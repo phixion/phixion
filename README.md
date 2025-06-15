@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
-- Jun 15 - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
-- Jun 15 - [The Algebra of an Infinite Grid of Resistors](https://www.mathpages.com/home/kmath669/kmath669.htm)
-- Jun 15 - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
-- Jun 14 - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
+- Jun 15 - [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
+- Jun 15 - [FAA pick has claimed 'commercial' pilot license he doesn't have](https://www.politico.com/news/2025/06/15/trumps-faa-pick-has-claimed-commercial-pilot-license-he-doesnt-have-00406090)
+- Jun 15 - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
+- Jun 15 - [The Keyset](https://dougengelbart.org/content/view/273/)
+- Jun 15 - [Canyon.mid](https://canyonmid.com/)
 <!--END_SECTION:hn-->
 
 <!--
