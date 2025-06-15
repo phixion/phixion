@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [How the Final Cartridge III Freezer Works](https://www.pagetable.com/?p=1810)
-- Jun 14 - [Waymo's market share in San Francisco exceeds Lyft's](https://underscoresf.com/in-san-francisco-waymo-has-now-bested-lyft-uber-is-next/)
-- Jun 14 - [SSHTron: A multiplayer lightcycle game that runs through SSH](https://github.com/zachlatta/sshtron)
-- Jun 14 - [Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)](https://www.righto.com/2025/06/inside-apollo-fdai.html)
-- Jun 14 - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
+- Jun 14 - [Fixing the mechanics of my bullet chess](https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/)
+- Jun 14 - [Clinical knowledge in LLMs does not translate to human interactions](https://arxiv.org/pdf/2504.18919)
+- Jun 14 - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
+- Jun 14 - [Seven replies to the viral Apple reasoning paper and why they fall short](https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple)
+- Jun 14 - [Infineon security microcontroller flaw enabled extraction of TPM secret keys](https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers)
 <!--END_SECTION:hn-->
 
 <!--
