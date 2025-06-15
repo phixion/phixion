@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Journalists Wary of Travelling to US Due to Palantir Surveillance](https://bsky.app/profile/alistairkitchen.bsky.social/post/3lrjsdecc5c2x)
-- Jun 15 - [FAA pick has claimed 'commercial' pilot license he doesn't have](https://www.politico.com/news/2025/06/15/trumps-faa-pick-has-claimed-commercial-pilot-license-he-doesnt-have-00406090)
-- Jun 15 - [Nvidia CEO criticizes Anthropic boss over his statements on AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-slams-anthropic-chief-over-claims-of-job-eliminations-says-many-jobs-are-going-to-be-created)
-- Jun 15 - [The Keyset](https://dougengelbart.org/content/view/273/)
-- Jun 15 - [Canyon.mid](https://canyonmid.com/)
+- Jun 15 - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
+- Jun 15 - [Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift](https://www.infoq.com/news/2025/06/apple-swift-migration/)
+- Jun 15 - [Show HN: Tikt.com – Remove the "OK" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
+- Jun 15 - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
+- Jun 15 - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
 <!--END_SECTION:hn-->
 
 <!--
