@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 16 - [Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)](https://infracost.io/join-the-team)
+- Jun 16 - [Changes to the Kubernetes Slack](https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/)
 - Jun 16 - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
-- Jun 16 - [Nanonets-OCR-s – OCR model transforms documents into structured markdown](https://huggingface.co/nanonets/Nanonets-OCR-s)
-- Jun 16 - [NesDev.org – A community of homebrew game devs for NES and other retro consoles](https://www.nesdev.org/)
-- Jun 16 - [Accumulation of cognitive debt when using an AI assistant for essay writing task](https://arxiv.org/abs/2506.08872)
 - Jun 16 - [The Hewlett-Packard Archive](https://hparchive.com)
+- Jun 16 - [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
 <!--END_SECTION:hn-->
 
 <!--
