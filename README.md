@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Writing Toy Software Is a Joy](https://www.jsbarretto.com/blog/software-is-joy/)
-- Jun 15 - [Apple Completes Migration of Key Service to Swift, Gains 40% Performance Uplift](https://www.infoq.com/news/2025/06/apple-swift-migration/)
-- Jun 15 - [Show HN: Tikt.com – Remove the "OK" from TikTok URL's to Download as MP3 or MP4](https://tikt.com/)
-- Jun 15 - [Simplest C++ Callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
-- Jun 15 - [I want to be a Journey Programmer Again](https://hexhowells.com/posts/journey.html)
+- Jun 15 - [First-Ever Supercritical CO2 Circuit Breaker Debuts](https://spectrum.ieee.org/sf6-gas-replacement)
+- Jun 15 - [Coding agents have crossed a chasm](https://blog.singleton.io/posts/2025-06-14-coding-agents-cross-a-chasm/)
+- Jun 15 - [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
+- Jun 15 - [It’s nearly impossible to buy an original Bob Ross painting (2021)](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
+- Jun 15 - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
 <!--END_SECTION:hn-->
 
 <!--
