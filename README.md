@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [First-Ever Supercritical CO2 Circuit Breaker Debuts](https://spectrum.ieee.org/sf6-gas-replacement)
-- Jun 15 - [Coding agents have crossed a chasm](https://blog.singleton.io/posts/2025-06-14-coding-agents-cross-a-chasm/)
-- Jun 15 - [David Attenborough at 99: 'I will not see how the story ends'](https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7)
-- Jun 15 - [It’s nearly impossible to buy an original Bob Ross painting (2021)](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
-- Jun 15 - [Twin – A Textmode WINdow Environment](https://github.com/cosmos72/twin)
+- Jun 16 - [The Hewlett-Packard Archive](https://hparchive.com)
+- Jun 16 - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
+- Jun 15 - [A new high-voltage breaker can clear grid-scale faults without greenhouse gas](https://spectrum.ieee.org/sf6-gas-replacement)
+- Jun 15 - [DARPA program sets distance record for power beaming](https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming)
+- Jun 15 - [Let's Talk About ChatGPT-Induced Spiritual Psychosis](https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual)
 <!--END_SECTION:hn-->
 
 <!--
