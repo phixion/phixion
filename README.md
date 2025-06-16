@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)](https://infracost.io/join-the-team)
-- Jun 16 - [Changes to the Kubernetes Slack](https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/)
-- Jun 16 - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
-- Jun 16 - [The Hewlett-Packard Archive](https://hparchive.com)
-- Jun 16 - [Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look](https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/)
+- Jun 16 - [Object personification in autism: This paper will be sad if you don't read](https://pubmed.ncbi.nlm.nih.gov/30101594/)
+- Jun 16 - [Benzene at 200](https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article)
+- Jun 16 - [ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development](https://arxiv.org/abs/2506.11016)
+- Jun 16 - [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
+- Jun 16 - [How the first electric grid was built](https://www.worksinprogress.news/p/how-the-worlds-first-electric-grid)
 <!--END_SECTION:hn-->
 
 <!--
