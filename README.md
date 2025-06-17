@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 17 - [Finland warms up the world's largest sand battery, the economics look appealing](https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/)
+- Jun 17 - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+- Jun 17 - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
+- Jun 17 - [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
 - Jun 16 - [OpenAI wins $200M U.S. defense contract](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
-- Jun 16 - [DRM Can Watch You Too: Privacy Effects of Browsers' Widevine EME (2023)](https://hal.science/hal-04179324v1/document)
-- Jun 16 - [What Happens When Clergy Take Psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
-- Jun 16 - [Blaze (YC S24) Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
-- Jun 16 - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
 <!--END_SECTION:hn-->
 
 <!--
