@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
-- Jun 17 - [No Hello](https://nohello.net/en/)
-- Jun 17 - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
-- Jun 17 - [Show HN: FaynoSync Self-Hosted API for Automatic App Updates](https://github.com/ku9nov/faynoSync)
-- Jun 17 - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
+- Jun 17 - [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
+- Jun 17 - [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
+- Jun 17 - [Why JPEGs Still Rule the Web After 30 Years (2024)](https://spectrum.ieee.org/jpeg-image-format-history)
+- Jun 17 - [O3 Turns Pro](https://thezvi.substack.com/p/o3-turns-pro)
+- Jun 17 - [What I Wish Someone Told Me When I Was Getting into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
 <!--END_SECTION:hn-->
 
 <!--
