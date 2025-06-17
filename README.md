@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Show HN: I recreated 90s Mode X demoscene effects in JavaScript and Canvas](https://jdfio.com/pages-output/demos/x-mode/)
-- Jun 17 - [The Humble Programmer (1972)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
-- Jun 17 - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
-- Jun 17 - [Generative AI coding tools and agents do not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
-- Jun 17 - [The drawbridges come up: the dream of a interconnected context ecosystem is over](https://www.dbreunig.com/2025/06/16/drawbridges-go-up.html)
+- Jun 17 - [Threat in Your Medicine Cabinet: The FDA's Gamble on America's Drugs](https://www.propublica.org/article/fda-drug-loophole-sun-pharma)
+- Jun 17 - [No Hello](https://nohello.net/en/)
+- Jun 17 - [The magic of through running](https://www.worksinprogress.news/p/the-magic-of-through-running)
+- Jun 17 - [Show HN: FaynoSync Self-Hosted API for Automatic App Updates](https://github.com/ku9nov/faynoSync)
+- Jun 17 - [Fossify – A suite of open-source, ad-free apps](https://github.com/FossifyOrg)
 <!--END_SECTION:hn-->
 
 <!--
