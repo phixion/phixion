@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Honda Conducts Successful Launch and Landing of Experimental Reusable Rocket](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
-- Jun 17 - [Rules, Not Renewables, Might Explain the Iberian Blackout](https://spectrum.ieee.org/spain-grid-failure)
-- Jun 17 - [Why JPEGs Still Rule the Web After 30 Years (2024)](https://spectrum.ieee.org/jpeg-image-format-history)
-- Jun 17 - [O3 Turns Pro](https://thezvi.substack.com/p/o3-turns-pro)
-- Jun 17 - [What I Wish Someone Told Me When I Was Getting into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
+- Jun 17 - [Texas electricity maximum renewables record](https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables)
+- Jun 17 - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
+- Jun 17 - [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
+- Jun 17 - [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
+- Jun 17 - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
 <!--END_SECTION:hn-->
 
 <!--
