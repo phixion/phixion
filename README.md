@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Transparent peer review to be extended to all of Nature's research papers](https://www.nature.com/articles/d41586-025-01880-9)
-- Jun 16 - [Show HN: Canine – A Heroku alternative built on Kubernetes](https://github.com/czhu12/canine)
-- Jun 16 - [Scientists genetically engineer a lethal mosquito STD to combat malaria](https://newatlas.com/biology/genetically-engineered-lethal-mosquito-std-combat-malaria/)
-- Jun 16 - [The Members of the Dull Men's Club](https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you)
-- Jun 16 - [Getting free internet on a cruise, saving $170](https://angad.me/blog/2025/getting-free-cruise-internet/)
+- Jun 16 - [OpenAI wins $200M U.S. defense contract](https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html)
+- Jun 16 - [DRM Can Watch You Too: Privacy Effects of Browsers' Widevine EME (2023)](https://hal.science/hal-04179324v1/document)
+- Jun 16 - [What Happens When Clergy Take Psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
+- Jun 16 - [Blaze (YC S24) Is Hiring](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer)
+- Jun 16 - [Show HN: Chawan TUI web browser](https://chawan.net/news/chawan-0-2-0.html)
 <!--END_SECTION:hn-->
 
 <!--
