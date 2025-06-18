@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
-- Jun 18 - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
-- Jun 18 - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
-- Jun 18 - [Benchmark: snapDOM vs html2canvas](https://zumerlab.github.io/snapdom/)
-- Jun 18 - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
+- Jun 18 - [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
+- Jun 18 - [Framework Laptop 12: I'm excited to see what the 2nd generation looks like](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
+- Jun 18 - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
+- Jun 18 - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
+- Jun 18 - [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 <!--END_SECTION:hn-->
 
 <!--
