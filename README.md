@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Benchmark: SnapDOM may be a serious alternative to html2canvas](https://zumerlab.github.io/snapdom/)
+- Jun 18 - [Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier](https://www.workatastartup.com/companies/jiga)
+- Jun 18 - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
+- Jun 18 - [I counted all of the yurts in Mongolia using machine learning](https://monroeclinton.com/counting-all-yurts-in-mongolia/)
+- Jun 18 - [Benchmark: snapDOM vs html2canvas](https://zumerlab.github.io/snapdom/)
 - Jun 18 - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
-- Jun 18 - [AI is eating our brains. MIT study: Your brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
-- Jun 18 - [Windows x86-64 System Call Table (XP/2003/Vista/7/8/10/11 and Server)](https://j00ru.vexillium.org/syscalls/nt/64/)
-- Jun 18 - [Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant](https://fermatslibrary.com/s/your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant-for-essay-writing-task)
 <!--END_SECTION:hn-->
 
 <!--
