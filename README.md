@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Texas electricity maximum renewables record](https://www.gridstatus.io/records/ercot?record=Maximum%20Renewables)
-- Jun 17 - [Real-time action chunking with large models](https://www.pi.website/research/real_time_chunking)
-- Jun 17 - [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
-- Jun 17 - [Iran asks its people to delete WhatsApp from their devices](https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1)
-- Jun 17 - [Long live Xorg, I mean Xlibre](https://www.dedoimedo.com/computers/xlibre.html)
+- Jun 17 - [Dinesh's Mid-Summer Death Valley Walk (1998)](https://dineshdesai.info/dv/photos.html)
+- Jun 17 - [Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level)
+- Jun 17 - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
+- Jun 17 - [Bzip2 crate switches from C to 100% Rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
+- Jun 17 - [What Google Translate Can Tell Us About Vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
 <!--END_SECTION:hn-->
 
 <!--
