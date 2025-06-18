@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Show HN: I built a tensor library from scratch in C++/CUDA](https://github.com/nirw4nna/dsc)
-- Jun 18 - [Framework Laptop 12: I'm excited to see what the 2nd generation looks like](https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/)
-- Jun 18 - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
-- Jun 18 - [Reasoning by Superposition: A Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)
-- Jun 18 - [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
+- Jun 18 - [Yes I Will Read Ulysses Yes](https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/)
+- Jun 18 - [Game Hacking – Valve Anti-Cheat (VAC)](https://codeneverdies.github.io/posts/gh-2/)
+- Jun 18 - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer)
+- Jun 18 - [Andrej Karpathy's YC AI SUS talk on the future of the industry](https://www.donnamagi.com/articles/karpathy-yc-talk)
+- Jun 18 - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 <!--END_SECTION:hn-->
 
 <!--
