@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 19 - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
+- Jun 19 - [Elliptic Curves as Art](https://elliptic-curves.art/)
 - Jun 19 - [Dr. Demento Announces Retirement After 55-Year Radio Career](https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/)
+- Jun 19 - [The Zed Debugger Is Here](https://zed.dev/blog/debugger)
 - Jun 19 - [TI to invest $60B to manufacture foundational semiconductors in the U.S.](https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html)
-- Jun 19 - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
-- Jun 19 - [It's true, “we” don't care about accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
-- Jun 18 - [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
 <!--END_SECTION:hn-->
 
 <!--
