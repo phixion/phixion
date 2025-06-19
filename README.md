@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 19 - [Brain activity much lower when using AI chatbots, MIT boffins find](https://www.theregister.com/2025/06/18/is_ai_changing_our_brains/)
+- Jun 19 - [How Close to Black Mirror Are We?](https://www.howclosetoblackmirror.com/)
+- Jun 19 - [Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+- Jun 19 - [From LLM to AI Agent: What's the Real Journey Behind AI System Development?](https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent)
 - Jun 19 - [SpaceX Starship 36 Anomaly](https://twitter.com/NASASpaceflight/status/1935548909805601020)
-- Jun 19 - [Elliptic Curves as Art](https://elliptic-curves.art/)
-- Jun 19 - [Dr. Demento Announces Retirement After 55-Year Radio Career](https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/)
-- Jun 19 - [The Zed Debugger Is Here](https://zed.dev/blog/debugger)
-- Jun 19 - [TI to invest $60B to manufacture foundational semiconductors in the U.S.](https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html)
 <!--END_SECTION:hn-->
 
 <!--
