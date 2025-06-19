@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Student Visa Applicants Must Set Social-Media Accts to "Public" State Dept Says](https://www.wsj.com/politics/policy/student-visa-applicants-must-set-social-media-accounts-to-public-state-department-says-ff71bdd5)
-- Jun 18 - [Show HN: Unregistry – "docker push" directly to servers without a registry](https://github.com/psviderski/unregistry)
-- Jun 18 - [Fang, the CLI Starter Kit](https://github.com/charmbracelet/fang)
-- Jun 18 - [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
-- Jun 18 - [The Missing 11th of the Month](https://drhagen.com/blog/the-missing-11th-of-the-month/)
+- Jun 19 - [Dr. Demento Announces Retirement After 55-Year Radio Career](https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/)
+- Jun 19 - [TI to invest $60B to manufacture foundational semiconductors in the U.S.](https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html)
+- Jun 19 - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+- Jun 19 - [It's true, “we” don't care about accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
+- Jun 18 - [MCP Specification – version 2025-06-18 changes](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
 <!--END_SECTION:hn-->
 
 <!--
