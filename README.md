@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Geochronology supports LGM age for human tracks at White Sands, New Mexico](https://www.science.org/doi/10.1126/sciadv.adv4951)
-- Jun 19 - [Posit floating point numbers: thin triangles and other tricks (2019)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
-- Jun 19 - [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
-- Jun 19 - [Show HN: A DOS-like hobby OS written in Rust and x86 assembly](https://github.com/krustowski/rou2exOS)
-- Jun 19 - [Microsoft wants you to buy a new computer. Make your current one secure again?](https://endof10.org/)
+- Jun 19 - [Compiling LLMs into a MegaKernel: A Path to Low-Latency Inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
+- Jun 19 - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
+- Jun 19 - [In praise of "normal" engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
+- Jun 19 - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
+- Jun 19 - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 <!--END_SECTION:hn-->
 
 <!--
