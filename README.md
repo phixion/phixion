@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 20 - [Our crisis is not loneliness but human beings becoming invisible Essays](https://aeon.co/essays/our-crisis-is-not-loneliness-but-human-beings-becoming-invisible)
+- Jun 20 - [How would a passing gravitational wave look or feel?](https://physics.stackexchange.com/questions/338912/how-would-a-passing-gravitational-wave-look-or-feel)
+- Jun 20 - [Learn Makefiles](https://makefiletutorial.com/)
+- Jun 20 - [Break Up Big Tech: Civil Society Declaration](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
 - Jun 20 - [Qfex (YC X25) – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
-- Jun 20 - [Cannabis scientists are trying to find a predictable, reliable product (2020)](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
-- Jun 20 - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
-- Jun 20 - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
-- Jun 20 - [Asterinas: A new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
 <!--END_SECTION:hn-->
 
 <!--
