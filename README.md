@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Compiling LLMs into a MegaKernel: A Path to Low-Latency Inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
-- Jun 19 - [Juneteenth in Photos](https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/)
-- Jun 19 - [In praise of "normal" engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
+- Jun 19 - [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
+- Jun 19 - [Literate programming tool for any language](https://github.com/zyedidia/Literate)
+- Jun 19 - [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
 - Jun 19 - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
 - Jun 19 - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 <!--END_SECTION:hn-->
