@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [How to Design Programs 2nd Ed (2024)](https://htdp.org)
-- Jun 20 - [Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä](https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/)
-- Jun 20 - [Malware-Laced GitHub Repos Found Masquerading as Developer Tools](https://klarrio.com/klarrio-discovers-large-scale-malware-network-on-github/)
-- Jun 20 - [Rise in 'alert fatigue' risks phone users disabling news notifications](https://www.theguardian.com/media/2025/jun/20/increase-alert-fatigue-phone-users-disable-news-notifications-study-finds)
-- Jun 20 - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
+- Jun 20 - [Amazon says it will reduce its workforce as AI replaces human employees](https://www.cnn.com/2025/06/17/business/amazon-ai-human-employees-jobs)
+- Jun 20 - [EU Eyes Ditching Microsoft Azure for France's OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
+- Jun 20 - [Ask HN: How can we keep (part of) the web human?](https://news.ycombinator.com/item?id=44330815)
+- Jun 20 - [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
+- Jun 20 - [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
 <!--END_SECTION:hn-->
 
 <!--
