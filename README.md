@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 20 - [Qfex (YC X25) – Founding Back End Engineer for a 24/7 Stock Exchange](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)
+- Jun 20 - [Cannabis scientists are trying to find a predictable, reliable product (2020)](https://www.nytimes.com/2020/04/01/magazine/cannabis-science.html)
+- Jun 20 - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
 - Jun 20 - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
-- Jun 20 - [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
-- Jun 20 - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
-- Jun 20 - [Open source can't coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
-- Jun 20 - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
+- Jun 20 - [Asterinas: A new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
 <!--END_SECTION:hn-->
 
 <!--
