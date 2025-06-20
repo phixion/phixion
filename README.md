@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Show HN: I wrote a new BitTorrent tracker in Elixir](https://github.com/Dahrkael/ExTracker)
-- Jun 19 - [Literate programming tool for any language](https://github.com/zyedidia/Literate)
-- Jun 19 - [Compiling LLMs into a MegaKernel: A path to low-latency inference](https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17)
-- Jun 19 - [Show HN: EnrichMCP – A Python ORM for Agents](https://github.com/featureform/enrichmcp)
-- Jun 19 - [Homegrown Closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
+- Jun 20 - [Show HN: Tool to Automatically Create Organized Commits for PRs](https://github.com/edverma/git-smart-squash)
+- Jun 20 - [Show HN: ATAC, an event verification platform evidence based](https://atac.seraum.com)
+- Jun 20 - [FedFlix — Public Domain Stock Footage Library](https://public.resource.org/ntis.gov/index.html)
+- Jun 20 - [Open source can't coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
+- Jun 20 - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
 <!--END_SECTION:hn-->
 
 <!--
