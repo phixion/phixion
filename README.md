@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [Amazon says it will reduce its workforce as AI replaces human employees](https://www.cnn.com/2025/06/17/business/amazon-ai-human-employees-jobs)
-- Jun 20 - [EU Eyes Ditching Microsoft Azure for France's OVHcloud](https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/)
-- Jun 20 - [Ask HN: How can we keep (part of) the web human?](https://news.ycombinator.com/item?id=44330815)
-- Jun 20 - [Malicious AI swarms can threaten democracy](https://osf.io/preprints/osf/qm9yk_v2)
-- Jun 20 - [Career advice, or something like it](https://brooker.co.za/blog/2025/06/20/career.html)
+- Jun 20 - [Drinks in glass bottles contain more microplastics than those in other container](https://www.anses.fr/en/content/drinks-glass-bottles-contain-more-microplastics-those-other-containers)
+- Jun 20 - [AbsenceBench: Language models can't tell what's missing](https://arxiv.org/abs/2506.11440)
+- Jun 20 - [AMD's Freshly-Baked MI350: An Interview with the Chief Architect](https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview)
+- Jun 20 - [Wiki Radio: The thrilling sound of random Wikipedia](https://www.monkeon.co.uk/wikiradio/)
+- Jun 20 - [BYD begins testing solid-state EV batteries in the Seal](https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/)
 <!--END_SECTION:hn-->
 
 <!--
