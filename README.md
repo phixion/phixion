@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 21 - [Behind the scenes: Redpanda Cloud's response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
+- Jun 21 - [Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic](https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/)
+- Jun 21 - [Microsoft suspended the email account of an ICC prosecutor at The Hague](https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html)
+- Jun 21 - [Show HN: MMOndrian](https://mmondrian.com/)
 - Jun 21 - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
-- Jun 21 - [Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible](https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc)
-- Jun 21 - [Cosmoe: BeOS Class Library on Top of Wayland](https://cosmoe.org/index.html)
-- Jun 21 - [uBlock Origin Lite Beta for Safari iOS](https://testflight.apple.com/join/JjTcThrV)
-- Jun 21 - [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
 <!--END_SECTION:hn-->
 
 <!--
