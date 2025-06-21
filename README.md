@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 21 - [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
+- Jun 21 - [People instantly decide whether to trust a product based on design](https://www.andrewcoyle.com/blog/beauty-is-objective)
+- Jun 21 - [Augmented Vertex Block Descent (AVBD)](https://graphics.cs.utah.edu/research/projects/avbd/)
 - Jun 21 - [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
 - Jun 21 - [Tiny Undervalued Hardware Companions (2024)](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
-- Jun 21 - [Texas Sheriffs Crack Bitcoin ATM with Power Tools to Retrieve $32,000](https://decrypt.co/326308/texas-sheriffs-crack-bitcoin-atm-with-power-tools-to-retrieve-32000)
-- Jun 21 - [Learn You Galois Fields for Great Good (00)](https://xorvoid.com/galois_fields_for_great_good_00.html)
-- Jun 20 - [AbsenceBench: Language models can't tell what's missing](https://arxiv.org/abs/2506.11440)
 <!--END_SECTION:hn-->
 
 <!--
