@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [U.S. strikes Iran's nuclear facilities](https://www.axios.com/2025/06/21/us-strike-iran-nuclear-israel-trump)
-- Jun 22 - [Don't Read This If You Have a Security Clearance (2023)](https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/)
-- Jun 22 - [Trump says US has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
-- Jun 21 - [See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
-- Jun 21 - [Publishing a Docker Container for MS Edit to the GitHub Container Registry](https://til.simonwillison.net/github/container-registry)
+- Jun 22 - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
+- Jun 22 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
+- Jun 22 - [U.S. has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
+- Jun 21 - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
+- Jun 21 - [AI is ushering in a 'tiny team' era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 <!--END_SECTION:hn-->
 
 <!--
