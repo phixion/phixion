@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
-- Jun 22 - [Harry Brearley, the creator of stainless steel (2016)](https://nautil.us/the-father-of-modern-metal-235939/)
-- Jun 22 - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
-- Jun 22 - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
-- Jun 22 - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
+- Jun 22 - [One million and counting: Russian casualties hit milestone in Ukraine war](https://www.theguardian.com/world/ng-interactive/2025/jun/22/one-million-and-counting-russian-casualties-hit-milestone-in-ukraine-war)
+- Jun 22 - [What would happen if you tried to land on a gas giant?](https://www.popsci.com/science/can-we-land-on-jupiter-saturn/)
+- Jun 22 - [Let's Talk About Writing in Tech](https://www.gmoniava.com/blog/lets-talk-about-writing-in-tech)
+- Jun 22 - [Show HN: A Tool to Summarize Kenya's Parliament with Rust, Whisper, and LLMs](https://github.com/c12i/bunge-bits)
+- Jun 22 - [Show HN: Report idling vehicles in NYC (and get a cut of the fines) with AI](https://apps.apple.com/us/app/idle-reporter-for-nyc-dep/id6747315971)
 <!--END_SECTION:hn-->
 
 <!--
