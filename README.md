@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
+- Jun 22 - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
+- Jun 22 - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
+- Jun 22 - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
 - Jun 22 - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
-- Jun 22 - [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
-- Jun 22 - [TPU (Tensor Processing Unit) Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
-- Jun 22 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
+- Jun 22 - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
 <!--END_SECTION:hn-->
 
 <!--
