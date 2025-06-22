@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
+- Jun 22 - [Show HN: Progressor – coach that breaks down big goals into actionable steps](https://progressor.me/)
+- Jun 22 - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
+- Jun 22 - [Linux on the Behringer X32 [video]](https://www.youtube.com/watch?v=6CfLC5xVy90)
+- Jun 22 - [TPU (Tensor Processing Unit) Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 - Jun 22 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
-- Jun 22 - [U.S. has bombed Fordo nuclear plant in attack on Iran](https://www.bbc.co.uk/news/live/ckg3rzj8emjt)
-- Jun 21 - [LaborBerlin: State-of-the-Art 16mm Projector](https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start)
-- Jun 21 - [AI is ushering in a 'tiny team' era](https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley)
 <!--END_SECTION:hn-->
 
 <!--
