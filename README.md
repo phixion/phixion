@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Denmark Is Switching to Linux](https://www.pcgamer.com/software/operating-systems/denmark-is-switching-to-linux/)
-- Jun 22 - [The AIpocalypse is here for web sites as search referrals plunge](https://www.theregister.com/2025/06/22/ai_search_starves_publishers/)
-- Jun 22 - [Show HN: I made beautiful screenshot generator, that's free forever](https://moocup.jaydip.me/)
-- Jun 22 - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
-- Jun 22 - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
+- Jun 22 - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
+- Jun 22 - [Harry Brearley, the creator of stainless steel (2016)](https://nautil.us/the-father-of-modern-metal-235939/)
+- Jun 22 - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://apps.apple.com/us/app/lungy-breathing-exercises/id1545223887)
+- Jun 22 - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- Jun 22 - [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)
 <!--END_SECTION:hn-->
 
 <!--
