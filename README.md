@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Dev jobs are about to get a hard reset and nobody's ready](https://old.reddit.com/r/ClaudeAI/comments/1lhgdbd/dev_jobs_are_about_to_get_a_hard_reset_and/)
-- Jun 22 - [Finding a billion factorials in 60 ms with SIMD](https://codeforces.com/blog/entry/143279)
-- Jun 22 - [Kastle (S24) is hiring an engineer](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24)
-- Jun 22 - [Children in England growing up 'sedentary, scrolling and alone', say experts](https://www.theguardian.com/society/2025/jun/11/children-sedentary-scrolling-alone-lack-of-play-england)
-- Jun 22 - [Radio Garden](https://radio.garden/?2025)
+- Jun 23 - [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
+- Jun 23 - [Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
+- Jun 23 - [Optifye.ai (YC W25) – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
+- Jun 23 - [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
+- Jun 23 - [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)
 <!--END_SECTION:hn-->
 
 <!--
