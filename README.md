@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Polystate: Composable Finite State Machines](https://github.com/sdzx-1/polystate)
-- Jun 23 - [Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput AI](https://arxiv.org/abs/2506.14364)
-- Jun 23 - [Optifye.ai (YC W25) – Founding Back End Engineer](https://news.ycombinator.com/item?id=44351580)
-- Jun 23 - [Using Wave Function Collapse to solve puzzle map generation at scale](https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/)
-- Jun 23 - [CF-Shield – An open source tool to protect any website with Cloudflare](https://github.com/Sakura-sx/cf-shield)
+- Jun 23 - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
+- Jun 23 - [A New Nova Just Appeared in the Night Sky – You Can See It with the Naked Eye](https://www.iflscience.com/unexpected-nova-just-appeared-in-the-night-sky-and-you-can-see-it-with-the-naked-eye-79708)
+- Jun 23 - [Nano-Vllm: lightweight vLLM implementation built from scratch](https://github.com/GeeeekExplorer/nano-vllm)
+- Jun 23 - [Show HN: Ariadne – A Rust implementation of aperiodic cryptography](https://codeberg.org/CipherNomad/Ariadne)
+- Jun 23 - [The X Window System didn't immediately have X terminals](https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate)
 <!--END_SECTION:hn-->
 
 <!--
