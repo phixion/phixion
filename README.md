@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [The Gender Attractiveness Gap](https://www.biorxiv.org/content/10.1101/2025.05.21.655261v1)
-- Jun 23 - [Germany and Italy pressed to bring $245B of gold home from US](https://www.ft.com/content/e39390cc-ea02-4197-843a-1e4c242422cc)
-- Jun 23 - [Claude Code for VSCode](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
-- Jun 23 - [Disabling Intel Graphics Security Mitigation Boosts GPU Compute Performance 20%](https://www.phoronix.com/news/Disable-Intel-Gfx-Security-20p)
-- Jun 23 - [Spectroscopic Classification of ASASSN-25cm as a Classical Nova](https://www.astronomerstelegram.org/?read=17228)
+- Jun 23 - [Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast](https://news.ycombinator.com/item?id=44356799)
+- Jun 23 - [WhatsApp banned on House staffers' devices](https://www.axios.com/2025/06/23/whatsapp-house-congress-staffers-messaging-app)
+- Jun 23 - [The AI lifestyle subsidy is going to end](https://digitalseams.com/blog/the-ai-lifestyle-subsidy-is-going-to-end)
+- Jun 23 - [DHEA-S hormone linked to shorter lifespan in men, but not women](https://medicalxpress.com/news/2025-06-dhea-hormone-linked-shorter-lifespan.html)
+- Jun 23 - [Ask HN: How to Get Rid of Gemini?](https://news.ycombinator.com/item?id=44356422)
 <!--END_SECTION:hn-->
 
 <!--
