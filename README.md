@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Information has been permanently deleted, for small values of permanently](https://devblogs.microsoft.com/oldnewthing/20250625-01/?p=111308)
-- Jun 25 - [Ask HN: Anyone Using Augmented Reality, VR, Glasses, Helmets etc. in Industry?](https://news.ycombinator.com/item?id=44378271)
-- Jun 25 - [Bot or Human? Creating the Invisible Turing Test for the Internet](https://research.roundtable.ai/proof-of-human/)
-- Jun 25 - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
-- Jun 25 - [Framework Laptop 12 press reviews are live and Framework Laptop 13 in-stock](https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock)
+- Jun 25 - [Federal judge rules copyrighted books are fair use for AI training](https://www.nbcnews.com/tech/tech-news/federal-judge-rules-copyrighted-books-are-fair-use-ai-training-rcna214766)
+- Jun 25 - [NYC's Upset Election Was Drawn Along an Odd Line: Car Ownership](https://www.jalopnik.com/1895759/nyc-mayor-election-zohran-mamdani-won-non-car-owners/)
+- Jun 25 - [Tomatoes in the Galápagos are quietly de-evolving](https://phys.org/news/2025-06-tomatoes-galpagos-quietly-de-evolving.html)
+- Jun 25 - [California's Corporate Cover-Up Act Is a Privacy Nightmare](https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare)
+- Jun 25 - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
 <!--END_SECTION:hn-->
 
 <!--
