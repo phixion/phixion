@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Federal judge rules copyrighted books are fair use for AI training](https://www.nbcnews.com/tech/tech-news/federal-judge-rules-copyrighted-books-are-fair-use-ai-training-rcna214766)
-- Jun 25 - [NYC's Upset Election Was Drawn Along an Odd Line: Car Ownership](https://www.jalopnik.com/1895759/nyc-mayor-election-zohran-mamdani-won-non-car-owners/)
-- Jun 25 - [Tomatoes in the Galápagos are quietly de-evolving](https://phys.org/news/2025-06-tomatoes-galpagos-quietly-de-evolving.html)
-- Jun 25 - [California's Corporate Cover-Up Act Is a Privacy Nightmare](https://www.eff.org/deeplinks/2025/06/californias-corporate-cover-act-privacy-nightmare)
-- Jun 25 - [LM Studio is now an MCP Host](https://lmstudio.ai/blog/lmstudio-v0.3.17)
+- Jun 25 - [QEMU: Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
+- Jun 25 - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
+- Jun 25 - [IBM's Dmitry Krotov wants to crack the 'physics' of memory](https://research.ibm.com/blog/dmitry-krotov-ai-physics)
+- Jun 25 - [CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey](https://karimsayedre.github.io/RTIOW.html)
+- Jun 25 - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 <!--END_SECTION:hn-->
 
 <!--
