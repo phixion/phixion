@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus)
-- Jun 26 - [Games That Weren't: Preserving Cancelled and Unreleased Video Game History](https://www.gamesthatwerent.com/)
-- Jun 25 - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
-- Jun 25 - [Define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
-- Jun 25 - [The Hollow Men of Hims](https://www.alexkesin.com/p/the-hollow-men-of-hims)
+- Jun 26 - [Mixed DPI in X11](https://wok.oblomov.eu/tecnologia/mixed-dpi-x11/)
+- Jun 26 - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
+- Jun 26 - [Apptainer: Application Containers for Linux](https://apptainer.org/)
+- Jun 26 - [The first non-opoid painkiller](https://www.worksinprogress.news/p/the-first-non-opioid-painkiller)
+- Jun 26 - [A brand new 68k Mac emulator dropped last night](https://oldbytes.space/@smallsco/114747196289375530)
 <!--END_SECTION:hn-->
 
 <!--
