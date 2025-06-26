@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Mixed DPI in X11](https://wok.oblomov.eu/tecnologia/mixed-dpi-x11/)
-- Jun 26 - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
-- Jun 26 - [Apptainer: Application Containers for Linux](https://apptainer.org/)
-- Jun 26 - [The first non-opoid painkiller](https://www.worksinprogress.news/p/the-first-non-opioid-painkiller)
-- Jun 26 - [A brand new 68k Mac emulator dropped last night](https://oldbytes.space/@smallsco/114747196289375530)
+- Jun 26 - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
+- Jun 26 - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
+- Jun 26 - [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
+- Jun 26 - [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
+- Jun 26 - [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
 <!--END_SECTION:hn-->
 
 <!--
