@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [A Review of Aerospike Nozzles: Current Trends in Aerospace Applications](https://www.mdpi.com/2226-4310/12/6/519)
-- Jun 26 - [FLUX.1 Kontext [Dev] – Open Weights for Image Editing](https://bfl.ai/announcements/flux-1-kontext-dev)
-- Jun 26 - [Show HN: I built an AI dataset generator](https://github.com/metabase/dataset-generator)
-- Jun 26 - [Launch HN: Issen (YC F24) – Personal AI language tutor](https://news.ycombinator.com/item?id=44387828)
-- Jun 26 - [Learnings from building AI agents](https://www.cubic.dev/blog/learnings-from-building-ai-agents)
+- Jun 26 - [Philadelphia Transit System Votes to Cut Service by 45%, Hike Fares](https://www.bloomberg.com/news/articles/2025-06-26/philly-transit-system-votes-to-cut-service-by-45-hike-fares)
+- Jun 26 - [Memory Safety Is Merely Table Stakes](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
+- Jun 26 - ["Why is the Rust compiler so slow?"](https://sharnoff.io/blog/why-rust-compiler-slow)
+- Jun 26 - [US economy shrank 0.5% in the first quarter, worse than earlier estimates](https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942)
+- Jun 26 - [SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones)
 <!--END_SECTION:hn-->
 
 <!--
