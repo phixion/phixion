@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Uv and Ray: Pain-Free Python Dependencies in Clusters](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
-- Jun 27 - [Show HN: Sink – Sync any directory with any device on your local network](https://github.com/sirbread/sink)
-- Jun 27 - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
-- Jun 27 - [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
-- Jun 27 - [Denmark to tackle deepfakes by giving people copyright to their own features](https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence)
+- Jun 27 - [New IQ research shows why smarter people make better decisions](https://phys.org/news/2025-06-iq-smarter-people-decisions.html)
+- Jun 27 - [Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails](https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak)
+- Jun 27 - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
+- Jun 27 - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
+- Jun 27 - [Apple Will Transition from the CTF to the CTC for EU Businesses](https://developer.apple.com/news/?id=awedznci)
 <!--END_SECTION:hn-->
 
 <!--
