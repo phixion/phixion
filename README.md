@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [New IQ research shows why smarter people make better decisions](https://phys.org/news/2025-06-iq-smarter-people-decisions.html)
-- Jun 27 - [Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails](https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak)
-- Jun 27 - [Show HN: Zenta – Mindfulness for Terminal Users](https://github.com/e6a5/zenta)
-- Jun 27 - [PJ5 TTL CPU](https://pj5cpu.wordpress.com/)
-- Jun 27 - [Apple Will Transition from the CTF to the CTC for EU Businesses](https://developer.apple.com/news/?id=awedznci)
+- Jun 27 - [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)
+- Jun 27 - [Weird Expressions in Rust](https://www.wakunguma.com/blog/rust-weird-expr)
+- Jun 27 - [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
+- Jun 27 - [Qwen VLo: From "Understanding" the World to "Depicting" It](https://qwenlm.github.io/blog/qwen-vlo/)
+- Jun 27 - [The Monster Inside ChatGPT](https://www.wsj.com/opinion/the-monster-inside-chatgpt-safety-training-ai-alignment-796ac9d3)
 <!--END_SECTION:hn-->
 
 <!--
