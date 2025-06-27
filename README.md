@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [Save your disk, write files directly into RAM with /dev/shm](https://hiandrewquinn.github.io/til-site/posts/save-your-disk-write-files-directly-into-ram-with-dev-shm/)
-- Jun 26 - [Senators reintroduce App Store bill to rein in 'gatekeeper power'](https://9to5mac.com/2025/06/25/senators-reintroduce-app-store-bill-to-rein-in-gatekeeper-power-in-the-app-economy/)
+- Jun 27 - [Some thoughts on my first YC Demo Day](https://billchambers.me/articles/yc-demo-day-spring-25/)
+- Jun 27 - [A lumberjack created more than 200 sculptures in Wisconsin's Northwoods](https://www.smithsonianmag.com/travel/when-a-lumberjacks-imagination-ran-wild-he-created-more-than-200-sculptures-in-wisconsins-northwoods-180986840/)
+- Jun 26 - [Show HN: PRSS Site Creator – Create Blogs and Websites from Your Desktop](https://prss.co/)
 - Jun 26 - [Kea 3.0, our first LTS version](https://www.isc.org/blogs/kea-3-0/)
-- Jun 26 - [Robots that learn](https://openai.com/index/robots-that-learn/)
 - Jun 26 - [Starcloud can’t put a data centre in space at $8.2M in one Starship](https://angadh.com/space-data-centers-1)
 <!--END_SECTION:hn-->
 
