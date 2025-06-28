@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
-- Jun 28 - [Ask HN: What are you actually using LLMs for in production?](https://news.ycombinator.com/item?id=44405067)
-- Jun 28 - [The Coming Storm: How Mediterranean Water Collapse Could Reshape Britain](https://fromtheprism.com/mediterranean-water-crisis-britain.html)
-- Jun 28 - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
-- Jun 28 - [Facebook is asking to use Meta AI on photos in your camera roll you haven't yet](https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/)
+- Jun 28 - [AI fakes duel over impeachment of Vice-President in Phillipines](https://factcheck.afp.com/doc.afp.com.63ZF9CP)
+- Jun 28 - [2025 ARRL Field Day](https://www.arrl.org/field-day)
+- Jun 28 - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
+- Jun 28 - [Life of an inference request (vLLM V1): How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
+- Jun 28 - [Meta Spends $14B to Hire a Single Guy](https://theahura.substack.com/p/tech-things-meta-spends-14b-to-hire)
 <!--END_SECTION:hn-->
 
 <!--
