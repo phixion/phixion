@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 28 - [Dubai Reality Check: An Indian VC's Year of Truth](https://www.dealflowiq.com/p/dubai-reality-check-an-indian-vcs)
+- Jun 28 - [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain)
 - Jun 28 - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
 - Jun 27 - [Multi-Stage Programming with Splice Variables](https://tsung-ju.org/icfp25/)
 - Jun 27 - [Theoretical Analysis of Positional Encodings in Transformer Models](https://arxiv.org/abs/2506.06398)
-- Jun 27 - [Rust in the Linux kernel: part 2](https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/)
-- Jun 27 - [The Journey of Bypassing Ubuntu's Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)
 <!--END_SECTION:hn-->
 
 <!--
