@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Lago (Open-Source Usage Based Billing) is hiring for 10 roles](https://www.ycombinator.com/companies/lago/jobs)
-- Jun 28 - [Swarms of robots could go up your nose, melt the mucus and clean your sinuses](https://www.zmescience.com/future/swarms-of-tiny-robots-could-go-up-your-nose-melt-the-mucus-and-clean-your-sinuses/)
-- Jun 28 - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
-- Jun 28 - [History of Cycling Maps](https://cyclemaps.blogspot.com/)
-- Jun 28 - [IDF officers ordered to fire at unarmed crowds near Gaza food distribution sites](https://www.haaretz.com/israel-news/2025-06-27/ty-article-magazine/.premium/idf-soldiers-ordered-to-shoot-deliberately-at-unarmed-gazans-waiting-for-humanitarian-aid/00000197-ad8e-de01-a39f-ffbe33780000)
+- Jun 28 - [Parsing JSON in Forty Lines of Awk](https://akr.am/blog/posts/parsing-json-in-forty-lines-of-awk)
+- Jun 28 - [Ask HN: What are you actually using LLMs for in production?](https://news.ycombinator.com/item?id=44405067)
+- Jun 28 - [The Coming Storm: How Mediterranean Water Collapse Could Reshape Britain](https://fromtheprism.com/mediterranean-water-crisis-britain.html)
+- Jun 28 - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
+- Jun 28 - [Facebook is asking to use Meta AI on photos in your camera roll you haven't yet](https://techcrunch.com/2025/06/27/facebook-is-asking-to-use-meta-ai-on-photos-in-your-camera-roll-you-havent-yet-shared/)
 <!--END_SECTION:hn-->
 
 <!--
