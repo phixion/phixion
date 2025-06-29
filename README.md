@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [AI fakes duel over impeachment of Vice-President in Phillipines](https://factcheck.afp.com/doc.afp.com.63ZF9CP)
-- Jun 28 - [2025 ARRL Field Day](https://www.arrl.org/field-day)
-- Jun 28 - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
-- Jun 28 - [Life of an inference request (vLLM V1): How LLMs are served efficiently at scale](https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1)
-- Jun 28 - [Meta Spends $14B to Hire a Single Guy](https://theahura.substack.com/p/tech-things-meta-spends-14b-to-hire)
+- Jun 29 - [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
+- Jun 28 - [US Defense Department will stop providing satellite weather data](https://text.npr.org/nx-s1-5446120)
+- Jun 28 - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
+- Jun 28 - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
+- Jun 28 - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 <!--END_SECTION:hn-->
 
 <!--
