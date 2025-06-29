@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [The Consciousness Gradient: When Machines Begin to Wonder](https://v1tali.com/ai-consciousness)
-- Jun 29 - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
-- Jun 29 - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
-- Jun 29 - [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
-- Jun 29 - [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
+- Jun 29 - [The Asymmetry of Destruction](https://passingtime.substack.com/p/the-asymmetry-of-destruction)
+- Jun 29 - [CEOs say AI is just a tool to help workers, but our jobs are already on the line](https://gizmodo.com/ceos-are-quietly-telling-us-the-truth-ai-is-replacing-you-2000621907)
+- Jun 29 - [Unhooking from Amazon Ebooks](https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks)
+- Jun 29 - [Tell HN: (dictionary|thesaurus).reference.com is now a spam site](https://news.ycombinator.com/item?id=44415289)
+- Jun 29 - [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 <!--END_SECTION:hn-->
 
 <!--
