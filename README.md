@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [Google Gemini is about to control your messages and calls, even if you say no](https://www.laptopmag.com/ai/gemini-phone-access-update)
-- Jun 29 - [It's Known as 'The List'–and It's a Secret File of AI Geniuses](https://www.wsj.com/tech/meta-ai-recruiting-mark-zuckerberg-openai-018ed7fc)
-- Jun 29 - [Brave creates new TLD on the blockchain](https://brave.com/blog/brave-tld/)
-- Jun 29 - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
-- Jun 29 - [Blackwell: Nvidia's GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
+- Jun 29 - [A Framework for Recognizing Emergent Consciousness in AI](https://habr.com/en/articles/922894/)
+- Jun 29 - [Bulgaria to Adopt the Euro](https://www.euronews.com/business/2025/06/05/bulgaria-to-adopt-the-euro-how-do-countries-join-the-eurozone)
+- Jun 29 - [Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station](https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/)
+- Jun 29 - [Did lead poisoning create a generation of serial killers?](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
+- Jun 29 - [Using the internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 <!--END_SECTION:hn-->
 
 <!--
