@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [A Framework for Recognizing Emergent Consciousness in AI](https://habr.com/en/articles/922894/)
-- Jun 29 - [Bulgaria to Adopt the Euro](https://www.euronews.com/business/2025/06/05/bulgaria-to-adopt-the-euro-how-do-countries-join-the-eurozone)
-- Jun 29 - [Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong station](https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/)
-- Jun 29 - [Did lead poisoning create a generation of serial killers?](https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers)
-- Jun 29 - [Using the internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
+- Jun 29 - [The Consciousness Gradient: When Machines Begin to Wonder](https://v1tali.com/ai-consciousness)
+- Jun 29 - [The Medley Interlisp Project: Reviving a Historical Software System [pdf]](https://interlisp.org/documentation/young-ccece2025.pdf)
+- Jun 29 - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
+- Jun 29 - [Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow](https://github.com/Miladxsar23/smartstepper)
+- Jun 29 - [Performance Debugging with LLVM-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
 <!--END_SECTION:hn-->
 
 <!--
