@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 29 - [Techie went home rather than fix mistake that caused a meltdown](https://www.theregister.com/2025/06/23/who_me/)
+- Jun 29 - [Universal pre-training by iterated random computation](https://arxiv.org/abs/2506.20057)
+- Jun 29 - [Generative AI's crippling failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
+- Jun 29 - [Blackwell: Nvidia's GPU](https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu)
 - Jun 29 - [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
-- Jun 28 - [US Defense Department will stop providing satellite weather data](https://text.npr.org/nx-s1-5446120)
-- Jun 28 - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
-- Jun 28 - [The Death of the Middle-Class Musician](https://thewalrus.ca/the-death-of-the-middle-class-musician/)
-- Jun 28 - [Show HN: Vet – A tool for safely running remote shell scripts](https://getvet.sh)
 <!--END_SECTION:hn-->
 
 <!--
