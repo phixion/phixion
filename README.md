@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [1000 Days Without Drinking](https://andrew-quinn.me/1000-days-without-drinking/)
-- Jun 30 - [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
-- Jun 30 - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
-- Jun 30 - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
-- Jun 30 - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
+- Jun 30 - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
+- Jun 30 - [Ubuntu: Introducing Debcrafters](https://discourse.ubuntu.com/t/introducing-debcrafters/63674)
+- Jun 30 - [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
+- Jun 30 - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
+- Jun 30 - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 <!--END_SECTION:hn-->
 
 <!--
