@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Donkey Kong Country 2 and Open Bus](https://jsgroth.dev/blog/posts/dkc2-open-bus/)
-- Jun 30 - [Ubuntu: Introducing Debcrafters](https://discourse.ubuntu.com/t/introducing-debcrafters/63674)
-- Jun 30 - [How urea forms spontaneously](https://ethz.ch/en/news-and-events/eth-news/news/2025/06/how-urea-forms-spontaneously.html)
-- Jun 30 - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
-- Jun 30 - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
+- Jun 30 - ['Generali' sign atop insurer's skyscraper offices collapses in Milan](https://www.reuters.com/en/generali-sign-atop-insurers-skyscraper-offices-collapses-milan-2025-06-30/)
+- Jun 30 - [Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal](https://www.bloomberg.com/news/articles/2025-06-30/apple-weighs-replacing-siri-s-ai-llms-with-anthropic-claude-or-openai-chatgpt)
+- Jun 30 - [The JTAG in your Qualcomm/Snapdragon device's USB port](https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/)
+- Jun 30 - [Datadog's $65M/year customer mystery solved](https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/)
+- Jun 30 - [Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?](https://news.ycombinator.com/item?id=44426233)
 <!--END_SECTION:hn-->
 
 <!--
