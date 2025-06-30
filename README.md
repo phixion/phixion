@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [My home servers are not a homelab](https://blog.nradk.com/posts/homelab/)
-- Jun 30 - [Ask HN: Is the header CSS broken for you?](https://news.ycombinator.com/item?id=44418222)
-- Jun 30 - [The Chan-Zuckerbergs stopped funding social causes](https://www.washingtonpost.com/technology/2025/06/29/mark-zuckerberg-priscilla-chan-school-closure/)
-- Jun 30 - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
-- Jun 29 - [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539)
+- Jun 30 - [Louvre shuts down with staff sounding the alarm on mass tourism](https://www.washingtonpost.com/world/2025/06/16/louvre-museum-paris-closed-lines-delay/2b303a16-4a9f-11f0-8fff-262d6ec54ab9_story.html)
+- Jun 30 - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
+- Jun 30 - [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
+- Jun 30 - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
+- Jun 30 - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 <!--END_SECTION:hn-->
 
 <!--
