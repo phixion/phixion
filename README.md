@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 29 - [The Asymmetry of Destruction](https://passingtime.substack.com/p/the-asymmetry-of-destruction)
-- Jun 29 - [CEOs say AI is just a tool to help workers, but our jobs are already on the line](https://gizmodo.com/ceos-are-quietly-telling-us-the-truth-ai-is-replacing-you-2000621907)
-- Jun 29 - [Unhooking from Amazon Ebooks](https://remysharp.com/2025/06/29/unhooking-from-amazon-ebooks)
-- Jun 29 - [Tell HN: (dictionary|thesaurus).reference.com is now a spam site](https://news.ycombinator.com/item?id=44415289)
-- Jun 29 - [Many ransomware strains will abort if they detect a Russian keyboard installed](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
+- Jun 29 - [Several Anker power bank models recalled: Supplier's batteries pose fire hazard](https://www.heise.de/en/news/Fire-hazard-Anker-recalls-several-power-bank-models-also-in-Germany-10463193.html)
+- Jun 29 - [Nearly 20% of cancer drugs defective in 4 African nations](https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221)
+- Jun 29 - [Finding former Australian Prime Minister Tony Abbott's passport number (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/)
+- Jun 29 - [Bitcoin's Security Budget Issue: Problems, Solutions and Myths Debunked](https://budget.day/)
+- Jun 29 - [Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)](https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security)
 <!--END_SECTION:hn-->
 
 <!--
