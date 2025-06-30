@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Louvre shuts down with staff sounding the alarm on mass tourism](https://www.washingtonpost.com/world/2025/06/16/louvre-museum-paris-closed-lines-delay/2b303a16-4a9f-11f0-8fff-262d6ec54ab9_story.html)
+- Jun 30 - [1000 Days Without Drinking](https://andrew-quinn.me/1000-days-without-drinking/)
+- Jun 30 - [A rare asteroid flyby will happen soon, but NASA may be left on the sidelines](https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/)
+- Jun 30 - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
+- Jun 30 - [Thousands in Norway told they had won life-changing sums in lottery error](https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error)
 - Jun 30 - [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
-- Jun 30 - [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
-- Jun 30 - [Bought an Ampere Altra System](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
-- Jun 30 - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 <!--END_SECTION:hn-->
 
 <!--
