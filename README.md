@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - ['Kill Bill: The Whole Bloody Affair' in 35mm – Dir's Cut 258min and Intermission](https://secretlosangeles.com/kill-bill-screening-35mm-quentin-tarantino/)
-- Jul 01 - [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
-- Jul 01 - [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
-- Jul 01 - [The Email Startup Graveyard: Why 80%+ of Email Companies Fail](https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail)
-- Jul 01 - [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
+- Jul 01 - [Age-Verification Laws Seek to Erase LGBTQ+ Identity from the Internet](https://msmagazine.com/2025/02/25/lgbtq-abortion-censorship-age-verification-laws/)
+- Jul 01 - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
+- Jul 01 - [Aging-related inflammation is not universal across human populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
+- Jul 01 - [Small language models are the future of agentic AI](https://arxiv.org/abs/2506.02153)
+- Jul 01 - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
 <!--END_SECTION:hn-->
 
 <!--
