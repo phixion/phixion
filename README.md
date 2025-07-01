@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 01 - ['Kill Bill: The Whole Bloody Affair' in 35mm – Dir's Cut 258min and Intermission](https://secretlosangeles.com/kill-bill-screening-35mm-quentin-tarantino/)
+- Jul 01 - [Rust CLIs with Clap](https://tucson-josh.com/posts/rust-clap-cli/)
+- Jul 01 - [Pluto is a unique dialect of Lua with a focus on general-purpose programming](https://github.com/PlutoLang/Pluto)
+- Jul 01 - [The Email Startup Graveyard: Why 80%+ of Email Companies Fail](https://forwardemail.net/en/blog/docs/email-startup-graveyard-why-80-percent-email-companies-fail)
 - Jul 01 - [Claude Code now supports Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks)
-- Jun 30 - [Taste Is the New Intelligence](https://wildbarestepf.substack.com/p/taste-is-the-new-intelligence)
-- Jun 30 - [Melbourne man discovers extensive model train network underneath house](https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8)
-- Jun 30 - [GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]](https://vldb.org/pvldb/vol18/p1919-wang.pdf)
-- Jun 30 - [Jim Boddie codeveloped the first successful DSP at Bell Labs](https://spectrum.ieee.org/dsp-pioneer-jim-boddie)
 <!--END_SECTION:hn-->
 
 <!--
