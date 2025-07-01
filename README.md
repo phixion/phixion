@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Age-Verification Laws Seek to Erase LGBTQ+ Identity from the Internet](https://msmagazine.com/2025/02/25/lgbtq-abortion-censorship-age-verification-laws/)
+- Jul 01 - [Cloudflare to introduce pay-per-crawl for AI bots](https://blog.cloudflare.com/introducing-pay-per-crawl/)
+- Jul 01 - [Researchers Uncover Hidden Ingredients Behind AI Creativity](https://www.quantamagazine.org/researchers-uncover-hidden-ingredients-behind-ai-creativity-20250630/)
 - Jul 01 - [Noloco (YC S21) Is Hiring a Founders Associate in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate)
+- Jul 01 - [OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine](https://github.com/stan-smith/OpenFLOW)
 - Jul 01 - [Aging-related inflammation is not universal across human populations](https://www.publichealth.columbia.edu/news/aging-related-inflammation-not-universal-across-human-populations)
-- Jul 01 - [Small language models are the future of agentic AI](https://arxiv.org/abs/2506.02153)
-- Jul 01 - [Nimtable: Open-source web UI to browse and manage Apache Iceberg tables](https://github.com/nimtable/nimtable)
 <!--END_SECTION:hn-->
 
 <!--
