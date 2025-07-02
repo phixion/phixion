@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [ICEBlock climbs to the top of the App Store charts after officials slam it](https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html)
-- Jul 02 - [Show HN: I built an AI comic generator with consistent characters](https://www.glimora.ai)
-- Jul 02 - [Firefox 120 to Firefox 141 Web Browser Benchmarks](https://www.phoronix.com/review/firefox-benchmarks-120-141)
-- Jul 02 - [Gene therapy restored hearing in deaf patients](https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients)
-- Jul 02 - [Hack IKKO "AI powered" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
+- Jul 02 - [Evolution of Minimum Viable Product](https://raspasov.posthaven.com/evolution-of-minimum-viable-product)
+- Jul 02 - [Law360 mandates reporters use AI "bias" detection on all stories](https://www.niemanlab.org/2025/07/law360-mandates-reporters-use-ai-bias-detection-on-all-stories/)
+- Jul 02 - [Couchers is officially out of beta](https://couchers.org/blog/2025/07/01/releasing-couchers-v1)
+- Jul 02 - [MindsDB (YC W20) is hiring an AI solutions engineer](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007)
+- Jul 02 - [Sony's Mark Cerny Has Worked on "Big Chunks of RDNA 5" with AMD](https://overclock3d.net/news/gpu-displays/sonys-mark-cerny-has-worked-on-big-chunks-of-rdna-5-with-amd/)
 <!--END_SECTION:hn-->
 
 <!--
