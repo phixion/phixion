@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [1KB JavaScript Demoscene Challenge Just Launched](https://news.ycombinator.com/item?id=44436838)
-- Jul 01 - [Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
-- Jul 01 - [The Hoyle State (2021)](https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/)
-- Jul 01 - [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like/)
-- Jul 01 - [Show HN: Arch-Router – 1.5B model for LLM routing by preferences, not benchmarks](https://news.ycombinator.com/item?id=44436031)
+- Jul 01 - [We've Issued Our First IP Address Certificate](https://letsencrypt.org/2025/07/01/issuing-our-first-ip-address-certificate/)
+- Jul 01 - [Using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
+- Jul 01 - [America's Hot Garbage Problem](https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills)
+- Jul 01 - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
+- Jul 01 - [Effectiveness of trees in reducing temperature & outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
 <!--END_SECTION:hn-->
 
 <!--
