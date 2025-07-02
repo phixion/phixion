@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 02 - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
+- Jul 02 - [Mandelbrot in x86 Assembly by Claude](https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/)
 - Jul 02 - [Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory](https://arxiv.org/abs/2503.01800)
 - Jul 01 - [Australians to face age checks from search engines](https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html)
 - Jul 01 - [Building a Personal AI Factory](https://www.john-rush.com/posts/ai-20250701.html)
-- Jul 01 - [Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas](https://iopscience.iop.org/article/10.1088/2752-5295/ade17d)
-- Jul 01 - [The Roman Roads Research Association](https://www.romanroads.org/)
 <!--END_SECTION:hn-->
 
 <!--
