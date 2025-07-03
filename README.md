@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Encoding Jake Gyllenhaal into one million checkboxes (2024)](https://ednamode.xyz/blogs/2.html)
-- Jul 03 - [Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase](https://github.com/zserge/pennybase)
-- Jul 03 - [Parallelizing SHA256 Calculation on FPGA](https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/)
-- Jul 03 - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
-- Jul 03 - [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
+- Jul 03 - [Mysterious life form found on ship that docked in Cleveland](https://www.cleveland.com/news/2025/07/mysterious-life-form-found-on-ship-that-docked-in-cleveland.html)
+- Jul 03 - [Opening up ‘Zero-Knowledge Proof’ technology](https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+- Jul 03 - [The End of Moore's Law for AI? Gemini Flash Offers a Warning](https://sutro.sh/blog/the-end-of-moore-s-law-for-ai-gemini-flash-offers-a-warning)
+- Jul 03 - [Stalking the Statistically Improbable Restaurant with Data](https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/)
+- Jul 03 - [Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots](https://news.ycombinator.com/item?id=44456904)
 <!--END_SECTION:hn-->
 
 <!--
