@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [The Uncertain Future of Coding Careers and Why I'm Still Hopeful](https://jonmagic.com/posts/the-uncertain-future-of-coding-careers-and-why-im-still-hopeful/)
-- Jul 03 - [Trans-Taiga Road:The farthest you can get from a town on a road in North America](https://www.jamesbayroad.com/ttr/index.html)
-- Jul 03 - [Whole-genome ancestry of an Old Kingdom Egyptian](https://www.nature.com/articles/s41586-025-09195-5)
-- Jul 03 - [Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON](https://github.com/c4pt0r/gmailtail)
-- Jul 03 - [What to build instead of AI agents](https://decodingml.substack.com/p/stop-building-ai-agents)
+- Jul 03 - [I scanned all of GitHub's "oops commits" for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
+- Jul 03 - [Abrego Garcia Was Beaten and Tortured in El Salvador Prison, Lawyers Say](https://www.nytimes.com/2025/07/02/us/politics/kilmar-abrego-garcia-el-salvador-trump-deportation.html)
+- Jul 03 - [Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021082)
+- Jul 03 - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
+- Jul 03 - [LLMs as Compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
 <!--END_SECTION:hn-->
 
 <!--
