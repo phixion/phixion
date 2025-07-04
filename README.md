@@ -20,7 +20,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Jul 03 - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
-- Jul 03 - [Michael Madsen Has Died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
+- Jul 03 - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
 - Jul 03 - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 - Jul 03 - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
 - Jul 03 - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
