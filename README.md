@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
-- Jul 04 - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
-- Jul 04 - [Is Anybody Using This Private Key](https://isanybodyusingthisprivatekey.com/)
-- Jul 04 - [We're Not Innovating, We're Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
-- Jul 04 - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
+- Jul 04 - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
+- Jul 04 - [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)
+- Jul 04 - [Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B](https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f)
+- Jul 04 - [Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers](https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds)
+- Jul 04 - [ChatGPT creates phisher's paradise by serving the wrong URLs for major companies](https://www.theregister.com/2025/07/03/ai_phishing_websites/)
 <!--END_SECTION:hn-->
 
 <!--
