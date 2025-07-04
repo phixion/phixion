@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Enhanced Radar (YC W25) is hiring a founding engineer](https://news.ycombinator.com/item?id=44463773)
-- Jul 04 - [How to render a mesh gradient using RBF interpolation](https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link)
-- Jul 04 - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
-- Jul 04 - [DRM Panic QR code generator](https://rust-for-linux.com/drm-panic-qr-code-generator)
-- Jul 04 - [As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal](https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/)
+- Jul 04 - [Mini NASes marry NVMe to Intel's efficient chip](https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip)
+- Jul 04 - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
+- Jul 04 - [Is Anybody Using This Private Key](https://isanybodyusingthisprivatekey.com/)
+- Jul 04 - [We're Not Innovating, We're Just Forgetting Slower](https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower)
+- Jul 04 - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 <!--END_SECTION:hn-->
 
 <!--
