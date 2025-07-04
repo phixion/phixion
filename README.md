@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [The US dollar is on track for its worst year in modern history](https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history)
-- Jul 04 - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
-- Jul 04 - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
-- Jul 04 - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
-- Jul 04 - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
+- Jul 04 - [Enhanced Radar (YC W25) is hiring a founding engineer](https://news.ycombinator.com/item?id=44463773)
+- Jul 04 - [How to render a mesh gradient using RBF interpolation](https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link)
+- Jul 04 - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+- Jul 04 - [DRM Panic QR code generator](https://rust-for-linux.com/drm-panic-qr-code-generator)
+- Jul 04 - [As a Labrador swam by me out to sea his owner said I hope he doesn't meet a seal](https://www.irishtimes.com/opinion/an-irish-diary/2025/07/03/all-at-sea-with-a-lockdown-labrador/)
 <!--END_SECTION:hn-->
 
 <!--
