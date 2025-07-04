@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [CO2 sequestration through accelerated weathering of limestone on ships](https://www.science.org/doi/10.1126/sciadv.adr7250)
-- Jul 03 - [Michael Madsen has died](https://www.nytimes.com/2025/07/03/movies/michael-madsen-dead.html)
-- Jul 03 - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
-- Jul 03 - [Wind Knitting Factory](https://www.merelkarhof.nl/work/wind-knitting-factory)
-- Jul 03 - [High-Fidelity Simultaneous Speech-to-Speech Translation](https://arxiv.org/abs/2502.03382)
+- Jul 04 - [The US dollar is on track for its worst year in modern history](https://www.semafor.com/article/07/03/2025/the-us-dollar-is-on-track-for-its-worst-year-in-modern-history)
+- Jul 04 - [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
+- Jul 04 - [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
+- Jul 04 - [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
+- Jul 04 - [Zig breaking change – initial Writergate](https://github.com/ziglang/zig/pull/24329)
 <!--END_SECTION:hn-->
 
 <!--
