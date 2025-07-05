@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [The story behind Caesar salad](https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad)
-- Jul 04 - [Eight dormant Satoshi-era Bitcoin wallets reactivated after 14 yrs](https://twitter.com/WatcherGuru/status/1941167512491864554)
-- Jul 04 - [Sleeping beauty Bitcoin wallets wake up after 14 years to the tune of $2B](https://www.marketwatch.com/story/sleeping-beauty-bitcoin-wallets-wake-up-after-14-years-to-the-tune-of-2-billion-79f1f11f)
-- Jul 04 - [Air Pollution May Contribute to Development of Lung Cancer in Never-Smokers](https://today.ucsd.edu/story/air-pollution-may-contribute-to-development-of-lung-cancer-in-never-smokers-new-study-finds)
-- Jul 04 - [ChatGPT creates phisher's paradise by serving the wrong URLs for major companies](https://www.theregister.com/2025/07/03/ai_phishing_websites/)
+- Jul 04 - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
+- Jul 04 - [Who is Soham Parekh, the serial moonlighter Silicon Valley can't stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
+- Jul 04 - [Show HN: Tinykv – minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
+- Jul 04 - [Ask HN: Worth leaving position over push to adopt vibe coding?](https://news.ycombinator.com/item?id=44468375)
+- Jul 04 - [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 <!--END_SECTION:hn-->
 
 <!--
