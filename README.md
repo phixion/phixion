@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [A 37-year-old wanting to learn computer science](https://initcoder.com/posts/37-year-old-learning-cs/)
-- Jul 05 - [Telli (YC F24) Is Hiring Engineers [On-Site Berlin]](https://hi.telli.com/join-us)
-- Jul 05 - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
-- Jul 05 - [ADXL345 (2024)](https://www.tinytransistors.net/2024/08/25/adxl345/)
-- Jul 05 - [Why AO3 Was Down](https://www.reddit.com/r/AO3/s/67nQid89MW)
+- Jul 05 - [Heart attacks aren't as fatal as they used to be](https://www.vox.com/future-perfect/418849/heart-attack-deaths-cardiovascular-disease-progress-medicine)
+- Jul 05 - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Positive-review-only-Researchers-hide-AI-prompts-in-papers)
+- Jul 05 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/essay/local-first/)
+- Jul 05 - [Happy Birthday, GamingOnLinux – 16 years today](https://www.gamingonlinux.com/2025/07/happy-birthday-gamingonlinux-16-years-today/)
+- Jul 05 - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 <!--END_SECTION:hn-->
 
 <!--
