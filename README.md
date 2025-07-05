@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 05 - [ADXL345 Die Analysis](https://www.tinytransistors.net/2024/08/25/adxl345/)
+- Jul 05 - [Why AO3 Was Down](https://www.reddit.com/r/AO3/s/67nQid89MW)
+- Jul 05 - [OBBB signed: Reinstates immediate expensing for U.S.-based R&D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
 - Jul 04 - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
-- Jul 04 - [Who is Soham Parekh, the serial moonlighter Silicon Valley can't stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
-- Jul 04 - [Show HN: Tinykv – minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
-- Jul 04 - [Ask HN: Worth leaving position over push to adopt vibe coding?](https://news.ycombinator.com/item?id=44468375)
-- Jul 04 - [Nvidia Is Full of Shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
+- Jul 04 - [Show HN: Tinykv – Minimal file-backed key-value store for Rust](https://crates.io/crates/tinykv)
 <!--END_SECTION:hn-->
 
 <!--
