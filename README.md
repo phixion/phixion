@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
-- Jul 06 - [Hannah Cairo has solved the Mizohata-Takeuchi conjecture](https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html)
-- Jul 06 - [Building a Mac app with Claude code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)
-- Jul 06 - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
-- Jul 06 - [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
+- Jul 06 - [Belgium Is Unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
+- Jul 06 - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
+- Jul 06 - [Micro Common Lisp](https://t3x.org/mcl/index.html)
+- Jul 06 - [Show HN: I wrote a "web OS" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
+- Jul 06 - [Lessons from 863 episodes of This American Life](https://indarktrees.com/misc/tal/)
 <!--END_SECTION:hn-->
 
 <!--
