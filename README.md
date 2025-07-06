@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [New study offers clues about what makes someone cool](https://www.nytimes.com/2025/06/30/well/mind/cool-people-traits-study.html)
-- Jul 06 - [Overthinking GIS (2024)](https://scottsexton.co/post/overthinking_gis/)
-- Jul 06 - [The Force-Feeding of AI on an Unwilling Public](https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling)
-- Jul 06 - [Are we the baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
-- Jul 06 - [July 5, 1687: When Newton explained why you don't float away](https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/)
+- Jul 06 - [Functions Are Vectors (2023)](https://thenumb.at/Functions-are-Vectors/)
+- Jul 06 - [Hannah Cairo has solved the Mizohata-Takeuchi conjecture](https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html)
+- Jul 06 - [Building a Mac app with Claude code](https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code)
+- Jul 06 - [Toys/Lag: Jerk Monitor](https://nothing.pcarrier.com/posts/lag/)
+- Jul 06 - [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
 <!--END_SECTION:hn-->
 
 <!--
