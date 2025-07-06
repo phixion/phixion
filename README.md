@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
-- Jul 05 - [RFK's proposal to let bird flu spread through poultry](https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn)
-- Jul 05 - [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
-- Jul 05 - [7-Zip 25.00](https://github.com/ip7z/7zip/releases/tag/25.00)
-- Jul 05 - [What a Hacker Stole from Me](https://mynoise.net/blog.php)
+- Jul 06 - [Chasing Hobbies over Achievement Boosts Happiness (2023)](https://neurosciencenews.com/hedonism-happiness-achievement-23923/)
+- Jul 06 - [As Floods Hit, Key Roles Were Vacant at Weather Service Offices in Texas](https://www.nytimes.com/2025/07/05/us/politics/texas-floods-warnings-vacancies.html)
+- Jul 06 - [Colombia seizes first unmanned narco-submarine with Starlink antenna](https://www.france24.com/en/americas/20250702-colombia-narco-submarine-starlink)
+- Jul 06 - [Injection Rejection (2006)](https://thedailywtf.com/articles/Injection_Rejection)
+- Jul 06 - [Basically Everyone Should Be Avoiding Docker](https://lukesmith.xyz/articles/everyone-should-be-avoiding-docker/)
 <!--END_SECTION:hn-->
 
 <!--
