@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Pet ownership and cognitive functioning in later adulthood across pet types](https://www.nature.com/articles/s41598-025-03727-9)
-- Jul 05 - [A new law in Sweden makes it illegal to buy custom adult content](https://www.euronews.com/next/2025/06/22/takes-away-our-safest-option-adult-creators-react-to-law-banning-online-sex-purchases-in-s)
-- Jul 05 - [How to not pay your taxes legally, apparently](https://mrsteinberg.com/how-to-not-pay-your-taxes-legally-apparently/)
-- Jul 05 - [Seine reopens to Paris swimmers after century-long ban](https://www.lemonde.fr/en/france/article/2025/07/05/seine-reopens-to-paris-swimmers-after-century-long-ban_6743058_7.html)
-- Jul 05 - [Speeding up PostgreSQL dump/restore snapshots](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
+- Jul 05 - [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
+- Jul 05 - [RFK's proposal to let bird flu spread through poultry](https://www.livescience.com/health/flu/rfks-proposal-to-let-bird-flu-spread-through-poultry-could-set-us-up-for-a-pandemic-experts-warn)
+- Jul 05 - [Operators, Not Users and Programmers](https://jyn.dev/operators-not-users-and-programmers/)
+- Jul 05 - [7-Zip 25.00](https://github.com/ip7z/7zip/releases/tag/25.00)
+- Jul 05 - [What a Hacker Stole from Me](https://mynoise.net/blog.php)
 <!--END_SECTION:hn-->
 
 <!--
