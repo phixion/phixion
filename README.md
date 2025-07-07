@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
-- Jul 07 - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
-- Jul 07 - [Dyson, techno-centric design and social consumption](https://2earth.github.io/website/20250707.html)
-- Jul 07 - [Show HN: Integrated System for Enhancing VIC Output](https://github.com/Bloodmosher/ISEVIC)
-- Jul 07 - [Tuning the Prusa Core One](https://arachnoid.com/3D_Printing_Prusa_Core_One/)
+- Jul 07 - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
+- Jul 07 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+- Jul 07 - [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
+- Jul 07 - [Show HN: Ossia score – a sequencer for audio-visual artists](https://github.com/ossia/score)
+- Jul 07 - [Show HN: I Got Tired of Calculator Sites, So I Built My Own](https://news.ycombinator.com/item?id=44491938)
 <!--END_SECTION:hn-->
 
 <!--
