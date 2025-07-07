@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Belgium Is Unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
-- Jul 06 - [Luigi Lineri, the Man Who Collects and Categorizes Stones (2024)](https://mossandfog.com/luigi-lineri-the-man-who-collects-and-categorizes-stones/)
-- Jul 06 - [Micro Common Lisp](https://t3x.org/mcl/index.html)
-- Jul 06 - [Show HN: I wrote a "web OS" based on the Apple Lisa's UI, with 1-bit graphics](https://alpha.lisagui.com/)
-- Jul 06 - [Lessons from 863 episodes of This American Life](https://indarktrees.com/misc/tal/)
+- Jul 07 - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
+- Jul 06 - [Centaur: A Controversial Leap Towards Simulating Human Cognition](https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/)
+- Jul 06 - [The Broken Microsoft Pact: Layoffs and Performance Management](https://danielsada.tech/blog/microsoft-pact/)
+- Jul 06 - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
+- Jul 06 - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 <!--END_SECTION:hn-->
 
 <!--
