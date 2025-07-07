@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 07 - [Why Austin Is Falling Out of Favor for Tech Workers](https://www.wsj.com/podcasts/tech-news-briefing/why-austin-is-falling-out-of-favor-for-tech-workers/8bc9e026-76ef-46c8-933e-ec6901b3eb38)
+- Jul 07 - [America has two labor markets now](https://www.axios.com/2025/07/06/unemployment-job-market-education-health-care)
+- Jul 07 - [Web3 Onboarding Was a Flop – and Thank Goodness](https://tomhadley.link/blog/web3-onboarding-flop)
+- Jul 07 - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
 - Jul 07 - [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
-- Jul 06 - [Centaur: A Controversial Leap Towards Simulating Human Cognition](https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/)
-- Jul 06 - [The Broken Microsoft Pact: Layoffs and Performance Management](https://danielsada.tech/blog/microsoft-pact/)
-- Jul 06 - [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
-- Jul 06 - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 <!--END_SECTION:hn-->
 
 <!--
