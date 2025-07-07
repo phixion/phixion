@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [Ask HN: Any resources for finding non-smart appliances?](https://news.ycombinator.com/item?id=44488810)
-- Jul 07 - [Deno 2.4](https://deno.com/blog/v2.4)
-- Jul 07 - [Poland's clean energy usage overtakes coal for first time](https://www.ft.com/content/ae920241-597e-49d9-a4b9-bfdfa9deabb6)
-- Jul 07 - [High Performance Image Sensor Processing Using FPGAs [pdf]](https://oda.uni-obuda.hu/bitstream/handle/20.500.14044/10350/Gabor_S_Becker_ertekezes.pdf)
-- Jul 07 - [Show HN: A Language Server Implementation for SystemD Unit Files](https://github.com/JFryy/systemd-lsp)
+- Jul 07 - [The Era of Exploration](https://yidingjiang.github.io/blog/post/exploration/)
+- Jul 07 - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
+- Jul 07 - [Dyson, techno-centric design and social consumption](https://2earth.github.io/website/20250707.html)
+- Jul 07 - [Show HN: Integrated System for Enhancing VIC Output](https://github.com/Bloodmosher/ISEVIC)
+- Jul 07 - [Tuning the Prusa Core One](https://arachnoid.com/3D_Printing_Prusa_Core_One/)
 <!--END_SECTION:hn-->
 
 <!--
