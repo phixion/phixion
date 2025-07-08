@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 08 - [ChatGPT testing a mysterious new feature called 'study together'](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 - Jul 08 - [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
-- Jul 08 - [BBC staff: we're forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
+- Jul 08 - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 - Jul 07 - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
-- Jul 07 - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
 - Jul 07 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 <!--END_SECTION:hn-->
 
