@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 08 - [Zorin OS](https://zorin.com/os/)
+- Jul 08 - [Cloudflare: We Will Get Google to Provide a Way to Block AI Overviews](https://www.seroundtable.com/cloudflare-block-google-ai-overviews-39718.html)
+- Jul 08 - [Show HN: I built a tool to solve window management](https://aboveaverageuser.com/smartswitcher)
+- Jul 08 - [Blind to Disruption – The CEOs Who Missed the Future](https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/)
 - Jul 08 - [Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant)
-- Jul 08 - [The Texas Flooding Tragedy: Could It Have Been Avoided?](https://cliffmass.blogspot.com/2025/07/the-texas-flooding-tragedy-could-it.html)
-- Jul 08 - [Show HN: OffChess – 100k+ Offline, Ad-Free Chess Puzzles App](https://offchess.com)
-- Jul 08 - [Is it possible to play doom on an oscilloscope using only lissajous figures?](https://forums.sufficientvelocity.com/threads/is-it-possible-to-play-doom-on-an-analog-oscilloscope-using-only-lissajous-figures.126232/)
-- Jul 08 - [SIMD.info – Reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 <!--END_SECTION:hn-->
 
 <!--
