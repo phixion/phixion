@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 08 - [Trying to find meaning in owning an old Mac](https://blog.decryption.net.au/posts/macse30.html)
+- Jul 08 - [BBC staff: we're forced to do pro-Israel PR](https://www.owenjones.news/p/bbc-staff-were-forced-to-do-pro-israel)
 - Jul 07 - [LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping](https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/)
 - Jul 07 - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
-- Jul 07 - [Tyr, a new Rust DRM driver targeting CSF-based ARM Mali GPUs](https://www.collabora.com/news-and-blog/news-and-events/introducing-tyr-a-new-rust-drm-driver.html)
 - Jul 07 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
-- Jul 07 - [My first verified imperative program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 <!--END_SECTION:hn-->
 
 <!--
