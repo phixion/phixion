@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [Million Times Million](https://susam.net/million-times-million.html)
-- Jul 09 - [Why I don't ride the AI Hype Train](https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/)
-- Jul 09 - [IKEA ditches Zigbee for Thread going all in on Matter smart homes](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
-- Jul 09 - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
-- Jul 09 - [ESIM Security](https://security-explorations.com/esim-security.html)
+- Jul 09 - [X Chief Says She Is Leaving the Social Media Platform](https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html)
+- Jul 09 - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
+- Jul 09 - [Florida is letting companies make it harder for highly paid workers to swap jobs](https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7)
+- Jul 09 - [That white guy who can't get a job at Tim Hortons? He's AI](https://www.cbc.ca/news/ai-generated-fake-marketing-1.7578772)
+- Jul 09 - [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
 <!--END_SECTION:hn-->
 
 <!--
