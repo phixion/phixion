@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [X Chief Says She Is Leaving the Social Media Platform](https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html)
-- Jul 09 - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
-- Jul 09 - [Florida is letting companies make it harder for highly paid workers to swap jobs](https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7)
-- Jul 09 - [That white guy who can't get a job at Tim Hortons? He's AI](https://www.cbc.ca/news/ai-generated-fake-marketing-1.7578772)
-- Jul 09 - [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
+- Jul 09 - [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
+- Jul 09 - [Let Kids Be Loud](https://www.afterbabel.com/p/let-kids-be-loud)
+- Jul 09 - [Perplexity Comet](https://comet.perplexity.ai/?a=b)
+- Jul 09 - [Desktop Publishing Tools That Didn't Make It](https://tedium.co/2022/10/12/forgotten-desktop-publishing-tools-history/)
+- Jul 09 - [Show HN: FlopperZiro – A DIY open-source Flipper Zero clone](https://github.com/lraton/FlopperZiro)
 <!--END_SECTION:hn-->
 
 <!--
