@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [Fast cryptographically safe GUID generator for Go](https://github.com/sdrapkin/guid)
-- Jul 08 - [Brainwash '72 [video]](https://archive.org/details/Brainwash72)
+- Jul 08 - [Xenharmlib: A music theory library that supports non-western harmonic systems](https://xenharmlib.readthedocs.io/en/latest/)
+- Jul 08 - [The Tradeoffs of SSMs and Transformers](https://goombalab.github.io/blog/2025/tradeoffs/)
 - Jul 08 - [Dynamical origin of Theia, the last giant impactor on Earth](https://arxiv.org/abs/2507.01826)
 - Jul 08 - [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
-- Jul 08 - [CVE-2025-48384: Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
+- Jul 08 - [Breaking Git with a carriage return and cloning RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
 <!--END_SECTION:hn-->
 
 <!--
