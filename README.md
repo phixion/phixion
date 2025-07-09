@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
-- Jul 09 - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
-- Jul 09 - [Bug Stories](https://500mile.email/)
-- Jul 09 - [Grow a Garden Calculator](https://growagardencalculators.net/)
-- Jul 09 - [I Deleted My Steam Account After 20 Years](https://gist.github.com/Kaldaien/c66bf3dca62a5ac63785714f686e60ad)
+- Jul 09 - [Million Times Million](https://susam.net/million-times-million.html)
+- Jul 09 - [Why I don't ride the AI Hype Train](https://mertbulan.com/2025/06/26/why-i-dont-ride-the-ai-hype-train/)
+- Jul 09 - [IKEA ditches Zigbee for Thread going all in on Matter smart homes](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
+- Jul 09 - [Astro is a return to the fundamentals of the web](https://websmith.studio/blog/astro-is-a-developers-dream/)
+- Jul 09 - [ESIM Security](https://security-explorations.com/esim-security.html)
 <!--END_SECTION:hn-->
 
 <!--
