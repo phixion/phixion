@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [RapidRAW: A non-destructive and GPU-accelerated RAW image editor](https://github.com/CyberTimon/RapidRAW)
-- Jul 09 - [US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy](https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling)
-- Jul 09 - [Libpostal: C library for parsing/normalizing street addresses around the world](https://github.com/openvenues/libpostal)
-- Jul 09 - [Swahili on the Road](https://www.historytoday.com/archive/behind-times/swahili-road)
-- Jul 09 - [Bulgaria to join euro area on 1 January 2026](https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html)
+- Jul 09 - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
+- Jul 09 - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
+- Jul 09 - [Bug Stories](https://500mile.email/)
+- Jul 09 - [Grow a Garden Calculator](https://growagardencalculators.net/)
+- Jul 09 - [I Deleted My Steam Account After 20 Years](https://gist.github.com/Kaldaien/c66bf3dca62a5ac63785714f686e60ad)
 <!--END_SECTION:hn-->
 
 <!--
