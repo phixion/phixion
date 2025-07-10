@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - ["Ripples They Cause in the World"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
-- Jul 10 - [German court rules Meta tracking technology violates European privacy laws](https://therecord.media/german-court-meta-tracking-tech)
-- Jul 10 - [Grok 4 Launch [video]](https://twitter.com/xai/status/1943158495588815072)
-- Jul 10 - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
-- Jul 09 - [I used to prefer permissive licenses and now favor copyleft](https://vitalik.eth.limo/general/2025/07/07/copyleft.html)
+- Jul 10 - [At last, a use case for AI agents with sky-high ROI: Stealing crypto](https://www.theregister.com/2025/07/10/ai_agents_automatically_steal_cryptocurrency/)
+- Jul 10 - [Magic .env files built for sharing: Human-first, AI-friendly](https://varlock.dev/)
+- Jul 10 - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
+- Jul 10 - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
+- Jul 10 - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
 <!--END_SECTION:hn-->
 
 <!--
