@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Executed Chinese prisoners likely used in UK exhibition (2021)](https://www.theartnewspaper.com/2021/01/25/executed-chinese-prisoners-likely-used-in-uk-exhibition)
-- Jul 10 - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
-- Jul 10 - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
-- Jul 10 - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
-- Jul 10 - [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
+- Jul 10 - [Holographic memory storage and information processing in Quantum Brain Dynamics](https://www.researchgate.net/publication/381542637_Quantum_Brain_Dynamics_Optical_and_Acoustic_Super-Radiance_via_a_Microtubule)
+- Jul 10 - [U.S. will review social media for foreign student visa applications](https://www.npr.org/2025/06/19/g-s1-73572/us-resumes-visas-foreign-students-access-social-media)
+- Jul 10 - [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
+- Jul 10 - [eBPF: Connecting with Container Runtimes](https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/)
+- Jul 10 - [Belkin ending support for older Wemo products](https://www.belkin.com/support-article/?articleNum=335419)
 <!--END_SECTION:hn-->
 
 <!--
