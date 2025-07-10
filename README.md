@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 10 - [A Virginia public library is fighting off a takeover by private equity](https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/)
+- Jul 10 - [Show HN: I built a playground to showcase what Flux Kontext is good at](https://fluxkontextlab.com)
 - Jul 09 - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 - Jul 09 - [Show HN: Petrichor – a free, open-source, offline music player for macOS](https://github.com/kushalpandya/Petrichor)
 - Jul 09 - [A Typology of Canadianisms](https://dchp.arts.ubc.ca/how-to-use)
-- Jul 09 - [Multi-Region Row Level Security in CockroachDB](https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/)
-- Jul 09 - [White Noise – secure and private messenger](https://www.whitenoise.chat/)
 <!--END_SECTION:hn-->
 
 <!--
