@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [At last, a use case for AI agents with sky-high ROI: Stealing crypto](https://www.theregister.com/2025/07/10/ai_agents_automatically_steal_cryptocurrency/)
-- Jul 10 - [Magic .env files built for sharing: Human-first, AI-friendly](https://varlock.dev/)
-- Jul 10 - [Computer Scientists Figure Out How to Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
-- Jul 10 - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
-- Jul 10 - [Show HN: Typeform was too expensive so I built my own forms](https://www.ikiform.com/)
+- Jul 10 - [Executed Chinese prisoners likely used in UK exhibition (2021)](https://www.theartnewspaper.com/2021/01/25/executed-chinese-prisoners-likely-used-in-uk-exhibition)
+- Jul 10 - [Underwater turbine spinning for 6 years off Scotland's coast is a breakthrough](https://apnews.com/article/tidal-energy-turbine-marine-meygen-scotland-ffff3a7082205b33b612a1417e1ec6d6)
+- Jul 10 - [Flix – A powerful effect-oriented programming language](https://flix.dev/)
+- Jul 10 - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
+- Jul 10 - [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 <!--END_SECTION:hn-->
 
 <!--
