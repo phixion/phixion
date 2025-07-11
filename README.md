@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Kimi K2](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
-- Jul 11 - [Conspiracy theorists unaware their beliefs are on the fringe](https://news.cornell.edu/stories/2025/06/conspiracy-theorists-unaware-their-beliefs-are-fringe)
-- Jul 11 - [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
-- Jul 11 - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
-- Jul 11 - [I'm Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
+- Jul 11 - [Belkin shows tech firms getting too comfortable with bricking customers' stuff](https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-bricking-customers-stuff/)
+- Jul 11 - [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html)
+- Jul 11 - [Google nerfs Pixel 6a batteries following fire hazard](https://arstechnica.com/gadgets/2025/07/a-mess-of-its-own-making-google-nerfs-second-pixel-phone-battery-this-year/)
+- Jul 11 - [Show HN: RULER – Easily apply RL to any agent](https://openpipe.ai/blog/ruler)
+- Jul 11 - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 <!--END_SECTION:hn-->
 
 <!--
