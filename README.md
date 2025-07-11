@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
-- Jul 11 - [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
-- Jul 11 - [Bill Atkinson's Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
-- Jul 11 - [FP8 is ~100 tflops faster when the kernel name has "cutlass" in it](https://twitter.com/cis_female/status/1943069934332055912)
-- Jul 11 - [At Amazon's Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
+- Jul 11 - [Kimi K2](https://twitter.com/Kimi_Moonshot/status/1943687594560332025)
+- Jul 11 - [Conspiracy theorists unaware their beliefs are on the fringe](https://news.cornell.edu/stories/2025/06/conspiracy-theorists-unaware-their-beliefs-are-fringe)
+- Jul 11 - [Top DNS domains seen on the Quad9 recursive resolver array each day](https://github.com/Quad9DNS/quad9-domains-top500)
+- Jul 11 - [Show HN: Vibe Kanban – Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)
+- Jul 11 - [I'm Done with Social Media](https://www.carolinecrampton.com/im-done-with-social-media/)
 <!--END_SECTION:hn-->
 
 <!--
