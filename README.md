@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
-- Jul 11 - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
-- Jul 11 - [LLM Inference Handbook](https://bentoml.com/llm/)
-- Jul 11 - [Grok: Searching X for "From:Elonmusk (Israel or Palestine or Hamas or Gaza)"](https://simonwillison.net/2025/Jul/11/grok-musk/)
-- Jul 10 - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
+- Jul 11 - [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
+- Jul 11 - [Recovering from AI Addiction](https://internetaddictsanonymous.org/internet-and-technology-addiction/signs-of-an-addiction-to-ai/)
+- Jul 11 - [Bill Atkinson's Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
+- Jul 11 - [FP8 is ~100 tflops faster when the kernel name has "cutlass" in it](https://twitter.com/cis_female/status/1943069934332055912)
+- Jul 11 - [At Amazon's Biggest Data Center, Everything Is Supersized for A.I](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)
 <!--END_SECTION:hn-->
 
 <!--
