@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Not So Fast: AI Coding Tools Can Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
+- Jul 11 - [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
+- Jul 11 - [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147)
+- Jul 11 - [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
+- Jul 10 - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 - Jul 10 - [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
-- Jul 10 - [Final report on Alaska Airlines Flight 1282 in-flight exit door plug separation](https://www.ntsb.gov:443/investigations/Pages/DCA24MA063.aspx)
-- Jul 10 - [Grok 4](https://simonwillison.net/2025/Jul/10/grok-4/)
-- Jul 10 - [Show HN: Cactus – Ollama for Smartphones](https://news.ycombinator.com/item?id=44524544)
 <!--END_SECTION:hn-->
 
 <!--
