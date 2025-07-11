@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Australia is quietly introducing age checks for search engines like Google](https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256)
-- Jul 11 - [The Lumina Probiotic May Cause Blindness in the Same Way as Methanol](https://substack.com/home/post/p-168042147)
-- Jul 11 - [Nerve pain drug gabapentin linked to increased dementia, cognitive impairment](https://medicalxpress.com/news/2025-07-nerve-pain-drug-gabapentin-linked.html)
+- Jul 11 - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
+- Jul 11 - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
+- Jul 11 - [LLM Inference Handbook](https://bentoml.com/llm/)
+- Jul 11 - [Grok: Searching X for "From:Elonmusk (Israel or Palestine or Hamas or Gaza)"](https://simonwillison.net/2025/Jul/11/grok-musk/)
 - Jul 10 - [AI coding tools can reduce productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
-- Jul 10 - [Turkey bans Grok over Erdoğan insults](https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/)
 <!--END_SECTION:hn-->
 
 <!--
