@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 12 - [Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX](https://www.designarena.ai/)
+- Jul 12 - [Stone–Wales Transformations](https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/)
+- Jul 12 - [The fish kick may be the fastest subsurface swim stroke yet (2015)](https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/)
+- Jul 12 - [Working through 'Writing A C Compiler'](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 - Jul 12 - [Sieve (YC X25) is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
-- Jul 12 - [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
-- Jul 12 - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
-- Jul 12 - [New Date("wtf") – How well do you know JavaScript's Date class?](https://jsdate.wtf)
-- Jul 12 - [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
 <!--END_SECTION:hn-->
 
 <!--
