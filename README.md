@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Psilocybin shows promise as anti-aging therapy](https://neurosciencenews.com/psilocybin-longevity-aging-29425/)
-- Jul 12 - [What is Incus?](https://linuxcontainers.org/incus/)
-- Jul 12 - [America's largest power grid is struggling to meet demand from AI](https://www.reuters.com/sustainability/boards-policy-regulation/americas-largest-power-grid-is-struggling-meet-demand-ai-2025-07-09/)
-- Jul 12 - [Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]](https://eprint.iacr.org/2025/1237.pdf)
-- Jul 12 - [OpenAI delays launch of open-weight model](https://twitter.com/sama/status/1943837550369812814)
+- Jul 12 - [Sieve (YC X25) is hiring researchers to build large video datasets for AI labs](https://sievedata.com/about/jobs)
+- Jul 12 - [ICANN fumes as AFRINIC offers no explanation for annulled election](https://www.theregister.com/2025/07/11/afrinic_election_annulled_why/)
+- Jul 12 - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
+- Jul 12 - [New Date("wtf") – How well do you know JavaScript's Date class?](https://jsdate.wtf)
+- Jul 12 - [Bad Actors Are Grooming LLMs to Produce Falsehoods](https://americansunlight.substack.com/cp/168074209)
 <!--END_SECTION:hn-->
 
 <!--
