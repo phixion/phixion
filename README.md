@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Drones Are Key to Winning Wars Now. The U.S. Makes Hardly Any](https://www.nytimes.com/2025/07/13/business/drones-us-military-manufacturing-lags.html)
-- Jul 13 - [Show HN: I built an LLM chat app because we shouldn't need 10 AI subscriptions](https://prismharmony.com/chat)
-- Jul 13 - [Gaming Cancer: How Citizen Science Games Could Help Cure Disease](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/)
-- Jul 13 - [Let Me Pay for Firefox](https://discourse.mozilla.org/t/let-me-pay-for-firefox/141297)
-- Jul 13 - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
+- Jul 13 - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
+- Jul 13 - [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
+- Jul 13 - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
+- Jul 13 - [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
+- Jul 13 - [The Decipherment of the Dhofari Script](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
 <!--END_SECTION:hn-->
 
 <!--
