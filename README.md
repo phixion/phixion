@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Bay Area restaurants are vetting your social media before you even walk in](https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php)
-- Jul 13 - [How does a screen even work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
-- Jul 13 - [Show HN: Learn LLMs LeetCode Style](https://github.com/Exorust/TorchLeet)
-- Jul 13 - [The North Korean fake IT worker problem is ubiquitous](https://www.theregister.com/2025/07/13/fake_it_worker_problem/)
-- Jul 13 - [The Decipherment of the Dhofari Script](https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered)
+- Jul 13 - [OpenICE: Open-Source US Immigration Detention Dashboard](https://www.openice.org/)
+- Jul 13 - [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
+- Jul 13 - [Amazon CEO says AI agents will soon reduce company's corporate workforce](https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/)
+- Jul 13 - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
+- Jul 13 - [Hungary's oldest library fighting to save 100k books from a beetle infestation](https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539)
 <!--END_SECTION:hn-->
 
 <!--
