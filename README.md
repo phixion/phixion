@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Death by a Thousand Slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
-- Jul 14 - [Impacts of Adding PV Solar System to Internal Combustion Engine Vehicles](https://www.jstor.org/stable/26169128)
-- Jul 14 - [Google is tracking you (even when using DuckDuckGo)](https://www.simpleanalytics.com/blog/google-is-tracking-you-even-when-you-use-duck-duck-go)
-- Jul 14 - [East Asian air cleanup likely contributed to acceleration in global warming](https://www.nature.com/articles/s43247-025-02527-3)
-- Jul 14 - [Telefónica DE shifts VMware support to Spinnaker due to cost](https://www.theregister.com/2025/07/11/telefnica_germany_shifts_vmware_support/)
+- Jul 14 - [Two guys hated using Comcast, so they built their own fiber ISP](https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/)
+- Jul 14 - [NetBox Labs secures $35M as demand for network infrastructure management surges](https://www.networkworld.com/article/4021829/netbox-labs-secures-35m-as-demand-for-network-infrastructure-management-surges.html)
+- Jul 14 - [What happens when a brand built for sport loses some of its focus?](https://doinghandstands.substack.com/p/the-recovery-run)
+- Jul 14 - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
+- Jul 14 - [GM, LG to upgrade Tennessee plant to make low-cost EV batteries](https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html)
 <!--END_SECTION:hn-->
 
 <!--
