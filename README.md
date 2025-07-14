@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Two guys hated using Comcast, so they built their own fiber ISP](https://arstechnica.com/tech-policy/2025/07/two-guys-hated-using-comcast-so-they-built-their-own-fiber-isp/)
-- Jul 14 - [NetBox Labs secures $35M as demand for network infrastructure management surges](https://www.networkworld.com/article/4021829/netbox-labs-secures-35m-as-demand-for-network-infrastructure-management-surges.html)
-- Jul 14 - [What happens when a brand built for sport loses some of its focus?](https://doinghandstands.substack.com/p/the-recovery-run)
-- Jul 14 - [Building Modular Rails Applications: A Deep Dive into Rails Engines](https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/)
-- Jul 14 - [GM, LG to upgrade Tennessee plant to make low-cost EV batteries](https://www.cnbc.com/2025/07/14/gm-lg-ultium-spring-hill-tennessee-plant-ev-batteries.html)
+- Jul 14 - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
+- Jul 14 - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
+- Jul 14 - [Meticulous (YC S21) is hiring in UK to redefine software dev](https://tinyurl.com/join-meticulous)
+- Jul 14 - [Embedding user-defined indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
+- Jul 14 - [Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
 <!--END_SECTION:hn-->
 
 <!--
