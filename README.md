@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [OpenICE: Open-Source US Immigration Detention Dashboard](https://www.openice.org/)
-- Jul 13 - [The Gottorf Globe and its reconstruction](https://gottorfer-globus.de/en/the-gottorf-globe)
-- Jul 13 - [Amazon CEO says AI agents will soon reduce company's corporate workforce](https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/)
-- Jul 13 - [GLP-1s Are Breaking Life Insurance](https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance)
-- Jul 13 - [Hungary's oldest library fighting to save 100k books from a beetle infestation](https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539)
+- Jul 13 - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
+- Jul 13 - [Investors bought 27% of US homes in Q1, as traditional buyers struggle to afford](https://abcnews.go.com/Business/wireStory/investors-snap-growing-share-us-homes-traditional-buyers-123560969)
+- Jul 13 - [Let's Learn x86-64 Assembly Part 0 – Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
+- Jul 13 - [Traditional Chinese Medicine Has Not Been Vindicated by Science](https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science)
+- Jul 13 - [OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
 <!--END_SECTION:hn-->
 
 <!--
