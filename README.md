@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
-- Jul 15 - [The IRS Is Building a System to Share Taxpayers' Data with ICE](https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations)
-- Jul 15 - [Blender 4.5 LTS Released](https://www.blender.org/download/releases/4-5/)
-- Jul 15 - [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
-- Jul 15 - [The Moving Assembly Line Turns 100 (2013)](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
+- Jul 15 - [Hierarchical Modeling (H-Nets)](https://cartesia.ai/blog/hierarchical-modeling)
+- Jul 15 - [A new agentic IDE by AWS](https://kiroai.net)
+- Jul 15 - [Helix Editor Release 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
+- Jul 15 - [Meta shareholders look to haul CEO Mark Zuckerberg, Sheryl Sandberg to court](https://nypost.com/2025/07/15/business/meta-shareholders-aim-to-haul-ceo-mark-zuckerberg-sheryl-sandberg-to-court/)
+- Jul 15 - [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
 <!--END_SECTION:hn-->
 
 <!--
