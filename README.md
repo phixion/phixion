@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [The New Literalism Plaguing Today's Biggest Movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
-- Jul 15 - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
-- Jul 15 - [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
-- Jul 15 - [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
-- Jul 15 - [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
+- Jul 15 - [A vulnerability that can be exploited to tamper with a train’s brakes](https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/)
+- Jul 15 - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
+- Jul 15 - [Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri](https://www.ycombinator.com/companies/martin/jobs/)
+- Jul 15 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
+- Jul 15 - [Show HN: CallFS – S3-style object store in one Go binary (MIT)](https://github.com/ebogdum/callfs)
 <!--END_SECTION:hn-->
 
 <!--
