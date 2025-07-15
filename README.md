@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Cidco MailStation as a Z80 Development Platform (2019)](https://jcs.org/2019/05/03/mailstation)
-- Jul 14 - [Cognition (Devin AI) to Acquire Windsurf](https://cognition.ai/blog/windsurf)
-- Jul 14 - [Meticulous (YC S21) is hiring in UK to redefine software dev](https://tinyurl.com/join-meticulous)
-- Jul 14 - [Embedding user-defined indexes in Apache Parquet](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
-- Jul 14 - [Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)](https://mymodernmet.com/totoro-sculpture-bus-stop/)
+- Jul 14 - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
+- Jul 14 - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
+- Jul 14 - [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
+- Jul 14 - [Dog Walk: Blender Studio's official game project](https://blenderstudio.itch.io/dogwalk)
+- Jul 14 - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
 <!--END_SECTION:hn-->
 
 <!--
