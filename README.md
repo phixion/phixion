@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [DEWLine Museum – The Distant Early Warning Radar Line](https://dewlinemuseum.com/)
-- Jul 14 - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
-- Jul 14 - [RFC: PHP license update](https://wiki.php.net/rfc/php_license_update)
-- Jul 14 - [Dog Walk: Blender Studio's official game project](https://blenderstudio.itch.io/dogwalk)
-- Jul 14 - [Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department](https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html)
+- Jul 15 - [The New Literalism Plaguing Today's Biggest Movies](https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies)
+- Jul 15 - [C++ Coroutines Advanced: Converting std:future to asio:awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/)
+- Jul 15 - [AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]](https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf)
+- Jul 15 - [Protecting My Attention at the Dopamine Carnival](https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival)
+- Jul 15 - [The Collapse of the FDA](https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html)
 <!--END_SECTION:hn-->
 
 <!--
