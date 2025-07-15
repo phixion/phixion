@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
-- Jul 15 - [Google's Reverse Acquihire of Windsurf and the Future of AI Developer Tools](https://www.qodo.ai/blog/googles-reverse-acquihire-of-windsurf-a-glimpse-into-the-future-of-ai-developer-tools/)
-- Jul 15 - [Code highlighting with Cursor AI used for $500k theft](https://securelist.com/open-source-package-for-cursor-ai-turned-into-a-crypto-heist/116908/)
-- Jul 15 - [When Sigterm Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
-- Jul 15 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
+- Jul 15 - [NIST Ion Clock Sets New Record for Most Accurate Clock in the World](https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world)
+- Jul 15 - [The IRS Is Building a System to Share Taxpayers' Data with ICE](https://www.propublica.org/article/trump-irs-share-tax-records-ice-dhs-deportations)
+- Jul 15 - [Blender 4.5 LTS Released](https://www.blender.org/download/releases/4-5/)
+- Jul 15 - [Cloudflare Starts Blocking Pirate Sites for UK Users](https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/)
+- Jul 15 - [The Moving Assembly Line Turns 100 (2013)](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100)
 <!--END_SECTION:hn-->
 
 <!--
