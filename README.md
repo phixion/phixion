@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Gauntlet AI (YC S17): All expenses paid training in AI and $200k+job](https://www.crossover.com/jobs/5597/gauntlet-ai/ai-challenger/apply)
-- Jul 16 - [Linux Reaches 5% Desktop Market Share in USA](https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/)
-- Jul 16 - [Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer](https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/)
-- Jul 16 - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
-- Jul 16 - [Nextflow: System for creating scalable, portable, reproducible workflows](https://github.com/nextflow-io/nextflow)
+- Jul 16 - [The Italian towns selling houses for €1](https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1)
+- Jul 16 - [Altermagnets: The first new type of magnet in nearly a century](https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
+- Jul 16 - [Show HN: I gave Claude a sundial and it built a calendar](https://github.com/jlumbroso/passage-of-time-mcp)
+- Jul 16 - [Chain of thought monitorability: A new and fragile opportunity for AI safety](https://arxiv.org/abs/2507.11473)
+- Jul 16 - [Show HN: Improving RAG with chess Elo scores](https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores)
 <!--END_SECTION:hn-->
 
 <!--
