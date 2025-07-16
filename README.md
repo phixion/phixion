@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Hierarchical Modeling (H-Nets)](https://cartesia.ai/blog/hierarchical-modeling)
-- Jul 15 - [A new agentic IDE by AWS](https://kiroai.net)
-- Jul 15 - [Helix Editor Release 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
-- Jul 15 - [Meta shareholders look to haul CEO Mark Zuckerberg, Sheryl Sandberg to court](https://nypost.com/2025/07/15/business/meta-shareholders-aim-to-haul-ceo-mark-zuckerberg-sheryl-sandberg-to-court/)
-- Jul 15 - [Show HN: Beyond Z²+C, Plot Any Fractal](https://www.juliascope.com/)
+- Jul 16 - [Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks](https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/)
+- Jul 15 - [OpenAI Vulnerability: 48 Days, No Response](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
+- Jul 15 - [My Family and the Flood](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
+- Jul 15 - [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services)
+- Jul 15 - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 <!--END_SECTION:hn-->
 
 <!--
