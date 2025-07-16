@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Nvidia chips become the first GPUs to fall to Rowhammer bit-flip attacks](https://arstechnica.com/security/2025/07/nvidia-chips-become-the-first-gpus-to-fall-to-rowhammer-bit-flip-attacks/)
-- Jul 15 - [OpenAI Vulnerability: 48 Days, No Response](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
-- Jul 15 - [My Family and the Flood](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/)
-- Jul 15 - [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services)
-- Jul 15 - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
+- Jul 16 - [Run LLM Agents as Microservices with One-Click Deployment](https://agentainer.io/)
+- Jul 16 - [Congress moves to reject bulk of White House's proposed NASA cuts](https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/)
+- Jul 16 - [Six Years of Gemini](https://geminiprotocol.net/news/2025_06_20.gmi)
+- Jul 16 - [GPUHammer: Rowhammer attacks on GPU memories are practical](https://gpuhammer.com/)
+- Jul 15 - [OpenAI – vulnerability responsible disclosure](https://requilence.any.org/open-ai-vulnerability-responsible-disclosure)
 <!--END_SECTION:hn-->
 
 <!--
