@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode](https://tendollaradventure.com/sample/)
-- Jul 16 - [Tsunami warning issued in Southern Alaska after 7.3 magnitude earthquake](https://www.tsunami.gov/)
-- Jul 16 - [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
-- Jul 16 - [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
-- Jul 16 - [A recap on May/June stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
+- Jul 17 - [Original Xbox Hacks: The A20 CPU Gate](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
+- Jul 17 - [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
+- Jul 17 - [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
+- Jul 17 - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
+- Jul 17 - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
 <!--END_SECTION:hn-->
 
 <!--
