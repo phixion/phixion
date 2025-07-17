@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Original Xbox Hacks: The A20 CPU Gate](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
-- Jul 17 - [Show HN: Cobble – A hard daily word game](https://wilf.live/cobble/)
-- Jul 17 - [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
-- Jul 17 - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
-- Jul 17 - [Gaslight-driven development](https://tonsky.me/blog/gaslight-driven-development/)
+- Jul 17 - [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
+- Jul 17 - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
+- Jul 17 - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
+- Jul 17 - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
+- Jul 17 - [Original Xbox Hacks: The A20 CPU Gate (2021)](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
 <!--END_SECTION:hn-->
 
 <!--
