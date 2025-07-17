@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [FDA Authorizes Juul E-Cigarettes](https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963)
-- Jul 17 - [Self-Taught Engineers Often Outperform](https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform)
-- Jul 17 - [The rise of AI as a threat to the S&P 500 [pdf]](https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf)
-- Jul 17 - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
-- Jul 17 - [My bank keeps on undermining anti-phishing education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
+- Jul 17 - [The patterns of elites who conceal their assets offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
+- Jul 17 - [The AI Replaces Labour Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
+- Jul 17 - [My Experience with Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
+- Jul 17 - [First Come First Served: The Impact of File Position on Code Review](https://arxiv.org/abs/2208.04259)
+- Jul 17 - [Apple Intelligence Foundation Language Models Tech Report 2025](https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025)
 <!--END_SECTION:hn-->
 
 <!--
