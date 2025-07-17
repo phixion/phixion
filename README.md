@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Rejoy Health (YC W21) Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
-- Jul 17 - [YouTuber faces jail time for showing off Android-based gaming handhelds](https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/)
-- Jul 17 - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
-- Jul 17 - [The AI Bubble Today Is Bigger Than the IT Bubble in the 1990s](https://www.apolloacademy.com/ai-bubble-today-is-bigger-than-the-it-bubble-in-the-1990s/)
-- Jul 17 - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
+- Jul 17 - [FDA Authorizes Juul E-Cigarettes](https://www.wsj.com/business/fda-authorizes-juul-e-cigarettes-6ad37963)
+- Jul 17 - [Self-Taught Engineers Often Outperform](https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform)
+- Jul 17 - [The rise of AI as a threat to the S&P 500 [pdf]](https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf)
+- Jul 17 - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
+- Jul 17 - [My bank keeps on undermining anti-phishing education](http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/)
 <!--END_SECTION:hn-->
 
 <!--
