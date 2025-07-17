@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Treating beef like coal would make a big dent in greenhouse-gas emissions](https://www.economist.com/graphic-detail/2021/10/02/treating-beef-like-coal-would-make-a-big-dent-in-greenhouse-gas-emissions)
-- Jul 17 - [Code Execution Through Email: How I Used Claude to Hack Itself](https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself)
-- Jul 17 - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
-- Jul 17 - [Show HN: Linux CLI tool to provide mutex locks for long running bash ops](https://github.com/bigattichouse/waitlock)
-- Jul 17 - [Original Xbox Hacks: The A20 CPU Gate (2021)](https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/)
+- Jul 17 - [Rejoy Health (YC W21) Is Hiring](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer)
+- Jul 17 - [YouTuber faces jail time for showing off Android-based gaming handhelds](https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/)
+- Jul 17 - [Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
+- Jul 17 - [The AI Bubble Today Is Bigger Than the IT Bubble in the 1990s](https://www.apolloacademy.com/ai-bubble-today-is-bigger-than-the-it-bubble-in-the-1990s/)
+- Jul 17 - [Gmail/Google starts disabling features unless you agree to data processing](https://bsky.app/profile/victor.earth/post/3lu5ovm2oy22g)
 <!--END_SECTION:hn-->
 
 <!--
