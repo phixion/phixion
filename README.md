@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [US Importers Sued for 'Greenwashing' Mexican Avocados](https://civileats.com/2025/07/09/u-s-importers-sued-for-greenwashing-mexican-avocados/)
-- Jul 16 - [Intel's retreat is unlike anything it's done before in Oregon](https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html)
-- Jul 16 - [Signs of Autism Could Be Encoded in the Way You Walk](https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk)
-- Jul 16 - [PyPI Prohibits inbox.ru email domain registrations](https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/)
-- Jul 16 - [How and where will agents ship software?](https://www.instantdb.com/essays/agents)
+- Jul 16 - [Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode](https://tendollaradventure.com/sample/)
+- Jul 16 - [Tsunami warning issued in Southern Alaska after 7.3 magnitude earthquake](https://www.tsunami.gov/)
+- Jul 16 - [Tin Can – The landline, reinvented for kids](https://tincan.kids/)
+- Jul 16 - [I want an iPhone Mini-sized Android phone (2022)](https://smallandroidphone.com/)
+- Jul 16 - [A recap on May/June stability at Neon](https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability)
 <!--END_SECTION:hn-->
 
 <!--
