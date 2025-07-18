@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Resolve (YC W15) Is Hiring an Operations and Billing Lead for Construction VR](https://news.ycombinator.com/item?id=44603739)
-- Jul 18 - [The Most Powerful Server Embiggens a Bit with Power11](https://www.nextplatform.com/2025/07/16/the-worlds-most-powerful-server-embiggens-a-bit-with-power11/)
-- Jul 18 - [Psilocybin produces substantial sustained decreases in depression and anxiety](https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/)
-- Jul 18 - [Servo Web Engine Further Tuning Performance](https://www.phoronix.com/news/Servo-June-2025-Highlights)
-- Jul 18 - [CP/M Creator Gary Kildall's Memoirs Released as Free Download](https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download)
+- Jul 18 - [In the long run, GPL code becomes irrelevant (2015)](https://josephg.com/blog/in-the-long-run-gpl-code-becomes-irrelevant/)
+- Jul 18 - [Ask HN: GCP Outage?](https://news.ycombinator.com/item?id=44605732)
+- Jul 18 - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
+- Jul 18 - [The Number go up rule: Why America refuses to fix anything](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america)
+- Jul 18 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=44605213)
 <!--END_SECTION:hn-->
 
 <!--
