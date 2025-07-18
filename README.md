@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
-- Jul 17 - [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
-- Jul 17 - [People kept working, became healthier while on basic income: report](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
-- Jul 17 - [Don't Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
-- Jul 17 - [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
+- Jul 18 - [Fully Homomorphic Encryption and the Dawn of a Truly Private Internet](https://bozmen.io/fhe)
+- Jul 18 - [NIH Is Far Cheaper Than the Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
+- Jul 18 - [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/)
+- Jul 18 - [Louisiana cancels $3B coastal repair funded by oil spill settlement](https://apnews.com/article/louisiana-coastal-restoration-gulf-oil-spill-affaae2877bf250f636a633a14fbd0c7)
+- Jul 18 - [Astronomers Discover Rare Distant Object in Sync with Neptune](https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune)
 <!--END_SECTION:hn-->
 
 <!--
