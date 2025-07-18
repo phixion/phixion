@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [The patterns of elites who conceal their assets offshore](https://home.dartmouth.edu/news/2025/07/patterns-elites-who-conceal-their-assets-offshore)
-- Jul 17 - [The AI Replaces Labour Myth](https://aimode.substack.com/p/the-ai-replaces-services-myth)
-- Jul 17 - [My Experience with Claude Code After 2 Weeks of Adventures](https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/)
-- Jul 17 - [First Come First Served: The Impact of File Position on Code Review](https://arxiv.org/abs/2208.04259)
-- Jul 17 - [Apple Intelligence Foundation Language Models Tech Report 2025](https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025)
+- Jul 17 - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
+- Jul 17 - [Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds](https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds)
+- Jul 17 - [People kept working, became healthier while on basic income: report](https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729)
+- Jul 17 - [Don't Fall for AI: Reasons for Writers to Reject Slop](https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/)
+- Jul 17 - [Anthropic tightens usage limits for Claude Code without telling users](https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/)
 <!--END_SECTION:hn-->
 
 <!--
