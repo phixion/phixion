@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [Nobody Knows How to Build with AI Yet](https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai)
-- Jul 19 - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
-- Jul 19 - [Fstrings.wtf](https://fstrings.wtf/)
-- Jul 19 - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
-- Jul 19 - [Felix Baumgartner, who jumped from stratosphere, dies in Italy](https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/)
+- Jul 19 - [TSMC to start building four new plants with 1.4nm technology](https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583)
+- Jul 19 - [2025 Infrastructure Report Card](https://infrastructurereportcard.org/)
+- Jul 19 - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
+- Jul 19 - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
+- Jul 19 - [What the Fuck Python](https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb)
 <!--END_SECTION:hn-->
 
 <!--
