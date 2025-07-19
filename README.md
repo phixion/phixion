@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Show HN: I built library management app for those who outgrew spreadsheets](https://www.librari.io/)
-- Jul 18 - [Asynchrony Is Not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
-- Jul 18 - [Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog](https://eprint.iacr.org/2025/1237)
-- Jul 18 - [Cancer DNA is detectable in blood years before diagnosis](https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening)
-- Jul 18 - [Mango Health (YC W24) Is Hiring](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer)
+- Jul 18 - [Shutting Down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
+- Jul 18 - [Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files](https://github.com/ryoppippi/ccusage)
+- Jul 18 - [EPA says it will eliminate its scientific reseach arm](https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html)
+- Jul 18 - [How to write Rust in the Linux kernel: part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/)
+- Jul 18 - [Silence Is a Commons by Ivan Illich (1983)](http://www.davidtinapple.com/illich/1983_silence_commons.html)
 <!--END_SECTION:hn-->
 
 <!--
