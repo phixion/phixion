@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 19 - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/07/16/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
-- Jul 19 - [Microsoft Office is using an artificially complex XML schema as a lock-in tool](https://blog.documentfoundation.org/blog/2025/07/18/artificially-complex-xml-schema-as-lock-in-tool/)
-- Jul 19 - [Hyatt Hotels are using algorithmic Rest “smoking detectors”](https://twitter.com/_ZachGriff/status/1945959030851035223)
-- Jul 19 - [My Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
-- Jul 19 - [Advertising Without Signal: The Rise of the Grifter Equilibrium](https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/)
+- Jul 19 - [Piramidal (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer)
+- Jul 19 - [GPT-5-reasoning alpha found in the wild](https://twitter.com/btibor91/status/1946532308896628748)
+- Jul 19 - [Fstrings.wtf](https://fstrings.wtf/)
+- Jul 19 - [I avoid using LLMs as a publisher and writer](https://lifehacky.net/prompt-0b953c089b44)
+- Jul 19 - [Felix Baumgartner, Who Jumped from Stratosphere, Dies in Italy](https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/)
 <!--END_SECTION:hn-->
 
 <!--
