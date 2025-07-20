@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [AI is killing the web. Can anything save it?](https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it)
-- Jul 20 - [I'm betting against AI agents in 2025, despite building them](https://utkarshkanwat.com/writing/betting-against-agents/)
-- Jul 20 - [Robot metabolism: Toward machines that can grow by consuming other machines](https://www.science.org/doi/10.1126/sciadv.adu6897)
-- Jul 20 - [The bewildering phenomenon of declining quality](https://english.elpais.com/culture/2025-07-20/the-bewildering-phenomenon-of-declining-quality.html)
-- Jul 20 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+- Jul 20 - [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
+- Jul 20 - [When is it the best time to post on Show HN?](https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn)
+- Jul 20 - [The old Caveman Chemistry website (1996-2000)](https://cavemanchemistry.com/oldcave/)
+- Jul 20 - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
+- Jul 20 - [Can Software Be Durable?](https://news.ycombinator.com/item?id=44625181)
 <!--END_SECTION:hn-->
 
 <!--
