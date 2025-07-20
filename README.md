@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [The landlord gutting America’s hospitals](https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/)
-- Jul 20 - [When is it the best time to post on Show HN?](https://www.myriade.ai/blogs/when-is-it-the-best-time-to-post-on-show-hn)
-- Jul 20 - [The old Caveman Chemistry website (1996-2000)](https://cavemanchemistry.com/oldcave/)
-- Jul 20 - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
-- Jul 20 - [Can Software Be Durable?](https://news.ycombinator.com/item?id=44625181)
+- Jul 20 - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
+- Jul 20 - [Payment processors' bar on Japanese adult content endangers democracy (2024)](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
+- Jul 20 - [New Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
+- Jul 20 - [Stdio(3) change: FILE is now opaque (OpenBSD)](https://undeadly.org/cgi?action=article;sid=20250717103345)
+- Jul 20 - [Amazon's Emissions Climbed 6% in 2024 on Data Center Buildout](https://www.datacenterknowledge.com/sustainability/amazon-s-emissions-climbed-6-in-2024-on-data-center-buildout)
 <!--END_SECTION:hn-->
 
 <!--
