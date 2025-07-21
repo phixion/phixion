@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 21 - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
+- Jul 21 - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
+- Jul 21 - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 - Jul 21 - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
 - Jul 21 - [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
-- Jul 21 - [Computational complexity of neural networks (2022)](https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/)
-- Jul 21 - [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
-- Jul 20 - [What birdsong and back ends can teach us about magic](https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic)
 <!--END_SECTION:hn-->
 
 <!--
