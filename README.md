@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Vibe coding service Replit deleted production database, faked data, told fibs](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
-- Jul 21 - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
+- Jul 21 - [Extend (YC W23) is hiring engineers to build SOTA document processing](https://jobs.ashbyhq.com/extend)
+- Jul 21 - [France launches criminal probe of X over alleged algorithm 'manipulation' X says](https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00)
+- Jul 21 - [How to handle people dismissing io_uring as insecure? (2024)](https://github.com/axboe/liburing/discussions/1047)
 - Jul 21 - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 - Jul 21 - [Log by time, not by count](https://johnscolaro.xyz/blog/log-by-time-not-by-count)
-- Jul 21 - [Agents built from alloys](https://xbow.com/blog/alloy-agents/)
 <!--END_SECTION:hn-->
 
 <!--
