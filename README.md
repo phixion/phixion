@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Subreply – an open source text-only social network](https://github.com/lucianmarin/subreply)
-- Jul 20 - [Payment processors' bar on Japanese adult content endangers democracy (2024)](https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/)
-- Jul 20 - [New Antimatter Physics Discovered at the Large Hadron Collider](https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/)
-- Jul 20 - [Stdio(3) change: FILE is now opaque (OpenBSD)](https://undeadly.org/cgi?action=article;sid=20250717103345)
-- Jul 20 - [Amazon's Emissions Climbed 6% in 2024 on Data Center Buildout](https://www.datacenterknowledge.com/sustainability/amazon-s-emissions-climbed-6-in-2024-on-data-center-buildout)
+- Jul 21 - [Show HN: X11 desktop widget that shows location of your network peers on a map](https://github.com/h2337/connmap)
+- Jul 20 - [What birdsong and back ends can teach us about magic](https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic)
+- Jul 20 - [The Genius Device That Rocked F1](https://www.youtube.com/watch?v=FhmLb2DhNYM)
+- Jul 20 - [IPv6 Based Canvas](https://canvas.openbased.org/)
+- Jul 20 - [Australia Wants to See Your Papers Before You Press Play](https://reclaimthenet.org/australia-wants-to-see-your-papers-before-you-press-play)
 <!--END_SECTION:hn-->
 
 <!--
