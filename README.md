@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 22 - [The Hater's Guide to the AI Bubble](https://www.wheresyoured.at/the-haters-gui/)
+- Jul 22 - [How to Firefox](https://kau.sh/blog/how-to-firefox/)
+- Jul 22 - ['Shameful' CBA hiring Indian ICT workers after firing Australians](https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html)
+- Jul 22 - [How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference](https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/)
 - Jul 22 - [Kapa.ai (YC S23) is hiring a software engineers (EU remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack)
-- Jul 22 - [Complete silence is always hallucinated as "ترجمة نانسي قنقر" in Arabic](https://github.com/openai/whisper/discussions/2608)
-- Jul 22 - [Workers at Snopes.com win voluntary recognition](https://newsguild.org/workers-at-snopes-com-win-voluntary-union-recognition/)
-- Jul 22 - [We have made the decision to not continue paying for BBB accreditation](https://mycherrytree.com/blogs/news/why-we-have-made-the-decision-to-not-continue-paying-for-accreditation-from-the-better-business-bureau-bbb)
-- Jul 22 - [AI could have written this: Birth of a classist slur in knowledge work [pdf]](https://advait.org/files/sarkar_2025_ai_shaming.pdf)
 <!--END_SECTION:hn-->
 
 <!--
