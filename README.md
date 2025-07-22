@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets](https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/)
-- Jul 21 - [12ft.io Taken Down](https://www.newsmediaalliance.org/takedown-of-12ftio/)
-- Jul 21 - [I know genomes. Don't delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
-- Jul 21 - [The Fundamentals of Asyncio](https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md)
-- Jul 21 - [MIPS – The hyperactive history and legacy of the pioneering RISC architecture](https://thechipletter.substack.com/p/mips)
+- Jul 21 - [If writing is thinking then what happens if AI is doing the writing and reading?](https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking)
+- Jul 21 - [uv Running a Script with Dependencies](https://docs.astral.sh/uv/guides/scripts/)
+- Jul 21 - [How to break the 'AI hype cycle'](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization)
+- Jul 21 - [LetsEncrypt – Complete Outage](https://letsencrypt.status.io/)
+- Jul 21 - [Spice Data (YC S19) Is Hiring a Product Associate (New Grad)](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad)
 <!--END_SECTION:hn-->
 
 <!--
