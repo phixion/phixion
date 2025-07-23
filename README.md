@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
-- Jul 22 - [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
-- Jul 22 - [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
-- Jul 22 - [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
-- Jul 22 - [Firebender (YC W24) Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
+- Jul 23 - [Czech president signs law criminalising communist propaganda](https://www.euractiv.com/section/politics/news/czech-president-signs-law-criminalising-communist-propaganda/)
+- Jul 23 - [Earthquake Causes 2.5-Meter Ground Slip in First-Ever Footage](https://www.vice.com/en/article/earthquake-causes-2-5-meter-ground-slip-in-first-ever-footage/)
+- Jul 23 - [CAMARA: Open-source API for telecom and 5G networks](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/camara-2/)
+- Jul 23 - [A media company demanded a license fee for an Open Graph image I used](https://alistairshepherd.uk/writing/open-graph-licensing/)
+- Jul 22 - [TapTrap: Animation‑Driven Tapjacking on Android](https://taptrap.click/)
 <!--END_SECTION:hn-->
 
 <!--
