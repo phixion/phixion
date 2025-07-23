@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Depot (YC W23) Is Hiring a Technical Content Writer (Remote)](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer)
-- Jul 23 - [Rescuing two PDP-11s from a former British Telecom underground shelter (2023)](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
-- Jul 23 - [Extending Emacs with Fennel (2024)](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
-- Jul 23 - [When Is WebAssembly Going to Get DOM Support?](https://queue.acm.org/detail.cfm?id=3746174)
-- Jul 23 - [Project Lyra – Exploring Interstellar Objects](https://i4is.org/what-we-do/technical/project-lyra/)
+- Jul 23 - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
+- Jul 23 - [Are we witnessing the final days of Mozilla?](https://lunduke.locals.com/post/7132314/are-we-witnessing-the-final-days-of-mozilla)
+- Jul 23 - [Show HN: Header-only GIF decoder in pure C – no malloc, easy to use](https://news.ycombinator.com/item?id=44658027)
+- Jul 23 - [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
+- Jul 23 - [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
 <!--END_SECTION:hn-->
 
 <!--
