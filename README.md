@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
-- Jul 23 - [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
-- Jul 23 - [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
-- Jul 23 - [Proxmox Donates €10k to the Perl and Raku Foundation](https://www.perl.com/article/proxmox-donates-to-tprf/)
-- Jul 23 - [Tram Trains](https://www.worksinprogress.news/p/tram-trains)
+- Jul 23 - [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)
+- Jul 23 - [Major Rule About Cooking Meat Turns Out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
+- Jul 23 - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
+- Jul 23 - [Employee – CEO pay gap historically wide](https://www.cnn.com/2025/07/23/business/afl-cio-executive-paywatch-report)
+- Jul 23 - [UdeM researchers confirm a fifth potentially habitable planet around L 98-59](https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/)
 <!--END_SECTION:hn-->
 
 <!--
