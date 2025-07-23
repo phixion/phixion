@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
-- Jul 22 - [We built an air-gapped Jira alternative for regulated industries](https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped)
-- Jul 22 - [Swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
-- Jul 22 - [Fun with gzip bombs and email clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
-- Jul 22 - [I Watched Gemini CLI Hallucinate and Delete My Files](https://anuraag2601.github.io/gemini_cli_disaster.html)
+- Jul 22 - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
+- Jul 22 - [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
+- Jul 22 - [Comparing the Glove80 and Maltron Keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
+- Jul 22 - [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
+- Jul 22 - [Firebender (YC W24) Is Hiring](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist)
 <!--END_SECTION:hn-->
 
 <!--
