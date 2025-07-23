@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.com/careers/technical-content-lead/)
-- Jul 23 - [Are we witnessing the final days of Mozilla?](https://lunduke.locals.com/post/7132314/are-we-witnessing-the-final-days-of-mozilla)
-- Jul 23 - [Show HN: Header-only GIF decoder in pure C – no malloc, easy to use](https://news.ycombinator.com/item?id=44658027)
-- Jul 23 - [Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
-- Jul 23 - [Brave blocks Microsoft Recall by default](https://brave.com/privacy-updates/35-block-recall/)
+- Jul 23 - [Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US](https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html)
+- Jul 23 - [Reverse Engineering the GHA Cache to Improve Performance](https://depot.dev/blog/github-actions-cache)
+- Jul 23 - [Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
+- Jul 23 - [Proxmox Donates €10k to the Perl and Raku Foundation](https://www.perl.com/article/proxmox-donates-to-tprf/)
+- Jul 23 - [Tram Trains](https://www.worksinprogress.news/p/tram-trains)
 <!--END_SECTION:hn-->
 
 <!--
