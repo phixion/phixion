@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer)
-- Jul 24 - [What does connecting with someone mean?](https://talk.bradwoods.io/blog/connect/)
-- Jul 24 - [Detekt – A static code analyzer for Kotlin](https://detekt.dev/)
-- Jul 24 - [VectorDB bench now support S3Vector](https://github.com/zilliztech/VectorDBBench/pull/570)
-- Jul 24 - [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
+- Jul 24 - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
+- Jul 24 - [Instagram Suspends Mamdani for 3 Hours, Cites 'National Interest'](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)
+- Jul 24 - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
+- Jul 24 - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
+- Jul 24 - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
 <!--END_SECTION:hn-->
 
 <!--
