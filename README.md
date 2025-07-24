@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 24 - [Itch.io: Update on NSFW Content](https://itch.io/updates/update-on-nsfw-content)
+- Jul 24 - [Shattering the Rotation Illusion: The Attacker View & AWSKeyLockdown](https://www.clutch.security/blog/shattering-the-rotation-illusion-part-6-the-attackers-perspective-and-introducing-awskeylockdown)
+- Jul 24 - [CVE-2025-54090: Apache HTTP Server: 'RewriteCond expr' always evaluates to true](https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b)
 - Jul 24 - [Electric cars produce far less brake dust pollution than combustion-engine cars](https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/)
 - Jul 24 - [A small web July](https://smallcypress.bearblog.dev/a-small-web-july/)
-- Jul 24 - [BYD Bets on Budget EV Boom with Atto 1 Debut in Indonesia](https://jakartaglobe.id/business/byd-bets-on-budget-ev-boom-with-atto-1-debut-in-indonesia)
-- Jul 24 - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
-- Jul 24 - [Vintage Macintosh Programming Book Library (2017)](https://vintageapple.org/macprogramming/index_year.html)
 <!--END_SECTION:hn-->
 
 <!--
