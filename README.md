@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [AccuWeather to discontinue free access to Core Weather API](https://developer.accuweather.com/new-portal)
-- Jul 23 - [Major Rule About Cooking Meat Turns Out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
+- Jul 23 - [I Drank Every Cocktail](https://aaronson.org/blog/i-drank-every-cocktail)
+- Jul 23 - [I made Tinder but it's only pictures of my wife and I can only swipe right](https://trytender.app/)
+- Jul 23 - [Jitsi privacy flaw enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
+- Jul 23 - [Major rule about cooking meat turns out to be wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 - Jul 23 - [How to increase your surface area for luck](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area)
-- Jul 23 - [Employee – CEO pay gap historically wide](https://www.cnn.com/2025/07/23/business/afl-cio-executive-paywatch-report)
-- Jul 23 - [UdeM researchers confirm a fifth potentially habitable planet around L 98-59](https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/)
 <!--END_SECTION:hn-->
 
 <!--
