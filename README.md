@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [When swiping supplants scissors: The hidden cost of touchscreens](https://caseorganic.medium.com/when-swiping-supplants-scissors-the-hidden-cost-of-touchscreens-and-how-designers-can-help-dba0fa65f5b7)
-- Jul 24 - [Instagram Suspends Mamdani for 3 Hours, Cites 'National Interest'](https://nycjournals.com/2025/07/21/instagram-suspends-zohran-mamdanis-account-leaked-memo-cites-national-interest-as-meta-tilts-right/)
-- Jul 24 - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
-- Jul 24 - [Everything Else](https://newleftreview.org/sidecar/posts/everything-else)
-- Jul 24 - [The FastLanes File Format [pdf]](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
+- Jul 24 - [Starlink is currently experiencing a service outage. Our team is investigating](https://www.starlink.com/us)
+- Jul 24 - [Air Force unit suspends use of Sig Sauer pistol after shooting death of airman](https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death)
+- Jul 24 - [Show HN: A code editor that integrates into the browser](https://tachicode.dev/)
+- Jul 24 - [Major Quantum Computing Advance Made Obsolete by Teenager (2018)](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
+- Jul 24 - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
 <!--END_SECTION:hn-->
 
 <!--
