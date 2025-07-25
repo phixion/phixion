@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
-- Jul 25 - [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
-- Jul 25 - [Google's shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
-- Jul 25 - [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)
-- Jul 25 - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
+- Jul 25 - [Stackless Traversal (2018)](https://www.dyalog.com/blog/2018/01/stackless-traversal/)
+- Jul 25 - [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
+- Jul 25 - [Monotonic and wall clock time in the Go time package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html)
+- Jul 25 - [The Tabs vs. Spaces war is over, and spaces have emerged victorious](https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/)
+- Jul 25 - [Animated Cursors](https://tattoy.sh/news/animated-cursors/)
 <!--END_SECTION:hn-->
 
 <!--
