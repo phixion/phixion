@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 25 - [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
+- Jul 25 - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 - Jul 25 - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
-- Jul 25 - [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
-- Jul 25 - [Ask HN: What is so good about MCP servers?](https://news.ycombinator.com/item?id=44678426)
-- Jul 25 - [Alto turns your Apple Notes into a website](https://alto.so/)
-- Jul 24 - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
+- Jul 25 - [Celebrating 20 Years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
+- Jul 25 - [Alto turns Apple Notes into a website](https://alto.so/)
 <!--END_SECTION:hn-->
 
 <!--
