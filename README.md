@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 25 - [Asciinema: Record and share your terminal sessions](https://asciinema.org)
+- Jul 25 - [How Anthropic teams use Claude Code](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
+- Jul 25 - [Ask HN: What is so good about MCP servers?](https://news.ycombinator.com/item?id=44678426)
+- Jul 25 - [Alto turns your Apple Notes into a website](https://alto.so/)
 - Jul 24 - [A GPU Calculator That Helps Calculate What GPU to Use](https://calculator.inference.ai/)
-- Jul 24 - [Scientists may have found a way to eliminate chromosome linked to Down syndrome](https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019)
-- Jul 24 - [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
-- Jul 24 - [Visa and Mastercard: The global payment duopoly (2024)](https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly)
-- Jul 24 - [Revisiting Moneyball](https://djpardis.medium.com/revisiting-moneyball-074fc2435b07)
 <!--END_SECTION:hn-->
 
 <!--
