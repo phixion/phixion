@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [What Even Is 'Adult' Content? [NSFW]](https://worldofmatthew.com/blog/notporn/)
-- Jul 25 - [Qwen3-235B-A22B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507)
-- Jul 25 - [Games Look Bad: HDR and Tone Mapping](https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/)
-- Jul 25 - [Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
-- Jul 25 - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
+- Jul 25 - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
+- Jul 25 - [Show HN: The Montana MiniComputer](https://mtmc.cs.montana.edu/)
+- Jul 25 - [Google's shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
+- Jul 25 - [Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside](https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756)
+- Jul 25 - [Dwl: Dwm for Wayland](https://codeberg.org/dwl/dwl)
 <!--END_SECTION:hn-->
 
 <!--
