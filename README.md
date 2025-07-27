@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
-- Jul 26 - [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
-- Jul 26 - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
-- Jul 26 - [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615)
-- Jul 26 - [Paul Dirac and the religion of mathematical beauty (2011) [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
+- Jul 27 - [Sapients paper on the concept of Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+- Jul 27 - [Beyond Food and People](https://aeon.co/essays/nietzsches-startling-provocation-youre-edible-and-delicious)
+- Jul 27 - [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
+- Jul 27 - [4k NASA employees opt to leave agency through deferred resignation program](https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304)
+- Jul 27 - [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
 <!--END_SECTION:hn-->
 
 <!--
