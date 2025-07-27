@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Test Results for AMD Zen 5 by Agner Fog](https://www.agner.org/forum/viewtopic.php?t=287&start=10)
-- Jul 26 - [What Went Wrong for Yahoo](https://dfarq.homeip.net/what-went-wrong-for-yahoo/)
-- Jul 26 - [Where Are Vacation Homes Located in the US?](https://www.construction-physics.com/p/where-are-vacation-homes-located)
-- Jul 26 - [Svalbard winter warming is reaching melting point](https://www.nature.com/articles/s41467-025-60926-8)
-- Jul 26 - [Earth Has Tilted 31.5 Inches. That Shouldn't Happen](https://www.popularmechanics.com/science/environment/a65515974/why-earth-has-tilted-science/)
+- Jul 26 - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
+- Jul 26 - [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
+- Jul 26 - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
+- Jul 26 - [Getting into Flow State with Agentic Coding](https://kau.sh/blog/agentic-coding-flow-state/)
+- Jul 26 - [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615)
 <!--END_SECTION:hn-->
 
 <!--
