@@ -22,8 +22,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Jul 26 - [Show HN: QuickTunes: Apple Music player for Mac with iPod vibes](https://furnacecreek.org/quicktunes/)
 - Jul 26 - [Asyncio: A library with too many sharp corners](https://sailor.li/asyncio)
 - Jul 26 - [Personal aviation is about to get interesting (2023)](https://www.elidourado.com/p/personal-aviation)
-- Jul 26 - [Getting into Flow State with Agentic Coding](https://kau.sh/blog/agentic-coding-flow-state/)
 - Jul 26 - [Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload](https://arxiv.org/abs/2507.17615)
+- Jul 26 - [Paul Dirac and the religion of mathematical beauty (2011) [video]](https://www.youtube.com/watch?v=jPwo1XsKKXg)
 <!--END_SECTION:hn-->
 
 <!--
