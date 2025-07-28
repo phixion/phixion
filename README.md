@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
+- Jul 28 - [ICEBlock app creator Joshua Aaron to speak at HOPE hacker conference next month](https://hope.net/talks.html#iceblock)
+- Jul 28 - [Show HN: I made a tool to generate photomosaics with your pictures](https://pictiler.com)
+- Jul 28 - [Debian switches to 64-bit time for everything](https://www.theregister.com/2025/07/25/y2k38_bug_debian/)
 - Jul 28 - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
 - Jul 28 - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
-- Jul 28 - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
-- Jul 28 - [Digitising CDs (a.k.a. using your phone as an image scanner)](https://www.hadess.net/2025/07/digitising-cds-aka-using-your-phone-as.html)
 <!--END_SECTION:hn-->
 
 <!--
