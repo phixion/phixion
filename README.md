@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Copyparty, turn almost any device into a file server](https://github.com/9001/copyparty)
-- Jul 28 - [Tao on "blue team" vs. "red team" LLMs](https://mathstodon.xyz/@tao/114915604830689046)
-- Jul 28 - [AI Companion Piece](https://thezvi.substack.com/p/ai-companion-piece)
-- Jul 28 - [The 1970s psychology experiment behind 'Star Wars' special effects (2023)](https://www.nsf.gov/science-matters/1970s-psychology-experiment-behind-star-wars-special-effects)
-- Jul 28 - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
+- Jul 28 - [Different Clocks](https://ianto-cannon.github.io/clock.html)
+- Jul 28 - [Is SoftBank still backing OpenAI?](https://www.wheresyoured.at/softbank-openai/)
+- Jul 28 - [Claude Code weekly rate limits](https://news.ycombinator.com/item?id=44713757)
+- Jul 28 - [Interstellar Comet 3I/Atlas: What We Know Now](https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/)
+- Jul 28 - [Visa and Mastercard are getting overwhelmed by gamer fury over censorship](https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games)
 <!--END_SECTION:hn-->
 
 <!--
