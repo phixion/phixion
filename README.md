@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [VPN use surges in UK as new online safety rules kick in](https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b)
-- Jul 28 - [Big agriculture mislead the public about the benefits of biofuels](https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/)
-- Jul 28 - [Why does a fire truck cost $2m](https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million)
-- Jul 28 - [Claude Code Router](https://github.com/musistudio/claude-code-router)
-- Jul 27 - [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
+- Jul 28 - [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
+- Jul 28 - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
+- Jul 28 - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
+- Jul 28 - [Multiplex: Command-Line Process Mutliplexer](https://github.com/sebastien/multiplex)
+- Jul 28 - [Digitising CDs (a.k.a. using your phone as an image scanner)](https://www.hadess.net/2025/07/digitising-cds-aka-using-your-phone-as.html)
 <!--END_SECTION:hn-->
 
 <!--
