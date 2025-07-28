@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Tom Lehrer, song satirist and mathematician, dies at 97](https://apnews.com/article/tom-lehrer-son-satirist-mathematician-dies-9caa7ee01faf4fbfb793d7ba984c179d)
-- Jul 27 - [Itch.io is the latest marketplace to crack down on adult games](https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/)
-- Jul 27 - [Disabling telemetry in ByteDance's VSCode fork increases data sent to its server](https://github.com/segmentationf4u1t/trae_telemetry_research)
-- Jul 27 - [Allianz Life says 'majority' of customers' personal data stolen in cyberattack](https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/)
-- Jul 27 - [Show HN: Windows 7 GUI for the Web](https://khang-nd.github.io/7.css/)
+- Jul 27 - [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
+- Jul 27 - [ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea](https://github.com/babycommando/zuse)
+- Jul 27 - [Enough AI Copilots, We Need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+- Jul 27 - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/s/YxmPgFes8a)
+- Jul 27 - [Designing a Flatpack Bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 <!--END_SECTION:hn-->
 
 <!--
