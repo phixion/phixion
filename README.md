@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [NSF plans abrupt end to lone U.S. Antarctic research icebreaker](https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker)
+- Jul 29 - [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
+- Jul 29 - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
+- Jul 29 - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
+- Jul 29 - [The leverage arbitrage: Why everything feels broken](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
 - Jul 29 - [Fintech dystopia](https://fintechdystopia.com/)
-- Jul 28 - [Structural-Demographic Theory](https://peterturchin.com/structural-demographic-theory/)
-- Jul 28 - [Show HN: Use Their Dd – Use your local UK MP's ID for the online safety act](https://use-their-id.com/)
-- Jul 28 - [The Vatican observatory looks to the heavens](https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens)
 <!--END_SECTION:hn-->
 
 <!--
