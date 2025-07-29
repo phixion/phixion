@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [The IPCC: Can it regain its credibility?](https://www.meer.com/en/91051-the-ipcc-can-it-regain-its-credibility)
-- Jul 29 - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
-- Jul 29 - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
-- Jul 29 - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
-- Jul 29 - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
+- Jul 29 - [More Honey Bees Dying, Even as Antibiotic Use Halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
+- Jul 29 - [Maru OS – Your phone is your PC](https://maruos.com/)
+- Jul 29 - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
+- Jul 29 - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
+- Jul 29 - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
 <!--END_SECTION:hn-->
 
 <!--
