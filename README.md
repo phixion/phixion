@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [Sendblue (YC S23) is hiring senior engineers](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer)
-- Jul 29 - [Built RL for long-horizon agents – tested on 32x H100s but too poor to train](https://github.com/Danau5tin/terminal-bench-rl)
-- Jul 29 - [Age Verification Laws Send VPN Use Soaring–and Threaten the Open Internet](https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/)
-- Jul 29 - [Amazon's AI Coding Revealed a Dirty Little Secret](https://www.bloomberg.com/opinion/articles/2025-07-29/amazon-ai-coding-revealed-a-dirty-little-secret)
-- Jul 29 - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
+- Jul 29 - [The IPCC: Can it regain its credibility?](https://www.meer.com/en/91051-the-ipcc-can-it-regain-its-credibility)
+- Jul 29 - [Show HN: Xorq – open compute catalog for AI](https://github.com/xorq-labs/xorq)
+- Jul 29 - [Project Zero – Policy and Disclosure: 2025 Edition](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
+- Jul 29 - [Show HN: ELF Injector](https://github.com/dillstead/elf_injector)
+- Jul 29 - [Observable Notebooks 2.0 Technology Preview](https://observablehq.com/notebook-kit/)
 <!--END_SECTION:hn-->
 
 <!--
