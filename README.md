@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [EU Commission finds Temu in breach of online platform rules](https://www.euronews.com/next/2025/07/28/eu-commission-finds-temu-in-breach-of-online-platform-rules)
-- Jul 29 - [The EU could be scanning your chats by October 2025](https://www.techradar.com/computing/cyber-security/the-eu-could-be-scanning-your-chats-by-october-2025-heres-everything-we-know)
-- Jul 29 - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
-- Jul 29 - [The leverage arbitrage: Why everything feels broken](https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken)
-- Jul 29 - [Fintech dystopia](https://fintechdystopia.com/)
+- Jul 29 - [Sendblue (YC S23) is hiring senior engineers](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer)
+- Jul 29 - [Built RL for long-horizon agents – tested on 32x H100s but too poor to train](https://github.com/Danau5tin/terminal-bench-rl)
+- Jul 29 - [Age Verification Laws Send VPN Use Soaring–and Threaten the Open Internet](https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/)
+- Jul 29 - [Amazon's AI Coding Revealed a Dirty Little Secret](https://www.bloomberg.com/opinion/articles/2025-07-29/amazon-ai-coding-revealed-a-dirty-little-secret)
+- Jul 29 - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
 <!--END_SECTION:hn-->
 
 <!--
