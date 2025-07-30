@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)
-- Jul 30 - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
-- Jul 30 - [Big Tech Killed the Golden Age of Programming](https://www.taylor.gl/blog/29)
-- Jul 30 - [Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons](https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK)
-- Jul 30 - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
+- Jul 30 - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
+- Jul 30 - [Scammers unleash flood of slick online gaming sites](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/)
+- Jul 30 - [Drawing for the New Yorker](https://lizadonnelly.substack.com/p/drawing-for-the-new-yorker)
+- Jul 30 - [Polarizing Parsers](https://flak.tedunangst.com/post/polarizing-parsers)
+- Jul 30 - [Emacs: The macOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 <!--END_SECTION:hn-->
 
 <!--
