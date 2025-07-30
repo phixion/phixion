@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Cedana (YC S23) Is Hiring a Systems Engineer](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration)
-- Jul 30 - [Ask HN: Why is "Tea" still on the App Store after so many data breaches?](https://news.ycombinator.com/item?id=44732995)
-- Jul 30 - [Scoop: U.S. intelligence intervened with DOJ to push HPE-Juniper merger](https://www.axios.com/2025/07/30/merger-hpe-juniper-networks-national-security)
-- Jul 30 - [Moneybadger and Peach Payments partner to enable Bitcoin payments](https://bitcoinke.io/2025/07/moneybadger-peach-payments-partnership/)
-- Jul 30 - [Qwen3 30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507)
+- Jul 30 - [Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production](https://news.ycombinator.com/item?id=44735843)
+- Jul 30 - [Words about Arrays and Tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
+- Jul 30 - [Big Tech Killed the Golden Age of Programming](https://www.taylor.gl/blog/29)
+- Jul 30 - [Show HN: A High-Altitude Low-Power Flight Computer for High-Altitude Balloons](https://github.com/New-England-Weather-Balloon-Society/Tiny4FSK)
+- Jul 30 - [Opsqueue: Lightweight batch processing queue for heavy loads – now open-source](https://www.channable.com/tech/introducing-opsqueue)
 <!--END_SECTION:hn-->
 
 <!--
