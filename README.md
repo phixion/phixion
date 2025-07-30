@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [More Honey Bees Dying, Even as Antibiotic Use Halves](https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/)
-- Jul 29 - [Maru OS – Your phone is your PC](https://maruos.com/)
-- Jul 29 - [Playing with Open Source LLMs](https://alicegg.tech//2025/07/29/open-source-llm.html)
-- Jul 29 - [Show HN: Monchromate – the best greyscale browser extension](https://monochromate.lirena.in)
-- Jul 29 - [The Secret Stanford Program No One's Heard About](https://poetsandquants.com/2025/07/28/the-secret-stanford-program-no-ones-heard-about/)
+- Jul 29 - [Someone made a 128000 line PR to opencut](https://github.com/OpenCut-app/OpenCut/pull/479)
+- Jul 29 - [Two Birds with One Tone: I/Q Signals and Fourier Transform](https://wirelesspi.com/two-birds-with-one-tone-i-q-signals-and-fourier-transform-part-1/)
+- Jul 29 - [Phenome-wide analysis of diseases in relation to sleep traits](https://spj.science.org/doi/10.34133/hds.0161)
+- Jul 29 - [Htmx and URL State Management](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
+- Jul 29 - [CodeCrafters (YC S22) is hiring first Marketing Person](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire)
 <!--END_SECTION:hn-->
 
 <!--
