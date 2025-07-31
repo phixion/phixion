@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Ursa: A Leaderless, Object Storage–Based Alternative to Kafka](https://streamnative.io/products/ursa)
-- Jul 31 - [GCP CloudQuarry: Searching for Secrets in Public GCP Images](https://trufflesecurity.com/blog/guest-post-gcp-cloudquarry-searching-for-secrets-in-public-gcp-images)
-- Jul 31 - [U.S. Senators Introduce New Pirate Site Blocking Bill: Block Beard](https://torrentfreak.com/u-s-senators-introduce-new-pirate-site-blocking-bill-block-beard/)
-- Jul 31 - [Magentic-UI: Towards Human-in-the-Loop Agentic Systems](https://arxiv.org/abs/2507.22358)
-- Jul 31 - [Carbon Language: An experimental successor to C++](https://docs.carbon-lang.dev/)
+- Jul 31 - [Show HN: SafeRate – AI chat-native mortgage lender](https://saferate.com/)
+- Jul 31 - [Slow](https://michaelnotebook.com/slow/index.html)
+- Jul 31 - [Astronomical Telescope "Hadley" – an easy assembly, high performance Newtonian](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
+- Jul 31 - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
+- Jul 31 - [Secure boot certificate rollover is real but probably won't hurt you](https://mjg59.dreamwidth.org/72892.html)
 <!--END_SECTION:hn-->
 
 <!--
