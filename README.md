@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
-- Jul 31 - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
-- Jul 31 - [I know when you're vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
-- Jul 31 - [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
-- Jul 31 - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
+- Jul 31 - [Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
+- Jul 31 - [Introduction to Computer Music an Electronic Textbook](https://cmtext.com/)
+- Jul 31 - [How was the Universal Pictures 1936 opening logo created?](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
+- Jul 31 - [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiviq.substack.com/p/gepa-reflective-prompt-evolution)
+- Jul 31 - [I tried Servo, the undercover web browser engine made with Rust](https://www.spacebar.news/servo-undercover-web-browser-engine/)
 <!--END_SECTION:hn-->
 
 <!--
