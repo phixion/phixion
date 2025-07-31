@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [The Cost of Security Debt (With Numbers)](https://rsolv.dev/blog/real-cost-security-debt-roi)
+- Jul 31 - [Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget](https://github.com/dipampaul17/AgentGuard)
+- Jul 31 - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
+- Jul 31 - [I know when you're vibe coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
+- Jul 31 - [Friction and Not Being Touched](https://tante.cc/2025/07/30/friction-and-not-being-touched/)
 - Jul 31 - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
-- Jul 31 - [Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
-- Jul 30 - [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
-- Jul 30 - [Pentagon Pizza Index](https://www.pizzint.watch/)
 <!--END_SECTION:hn-->
 
 <!--
