@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Ollama has a native front end chatbot now](https://ollama.com/blog/new-app)
-- Jul 30 - [Early universe's 'little red dots' may be black hole stars](https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars)
-- Jul 30 - [Vibe code is legacy code](https://blog.val.town/vibe-code)
-- Jul 30 - [The math is haunted](https://overreacted.io/the-math-is-haunted/)
-- Jul 30 - [The Preserving Machine by Philip K. Dick (1953)](https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06)
+- Jul 31 - [The Cost of Security Debt (With Numbers)](https://rsolv.dev/blog/real-cost-security-debt-roi)
+- Jul 31 - [Classic Common Desktop Environment coming to OpenBSD](https://undeadly.org/cgi?action=article;sid=20250730080301)
+- Jul 31 - [Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
+- Jul 30 - [Figma will IPO on July 31](https://www.figma.com/blog/ipo-pricing/)
+- Jul 30 - [Pentagon Pizza Index](https://www.pizzint.watch/)
 <!--END_SECTION:hn-->
 
 <!--
