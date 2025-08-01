@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Understanding the Complete Identity Management Ecosystem](https://guptadeepak.com/understanding-the-complete-identity-management-ecosystem/)
-- Jul 31 - [Crafting your own Static Site Generator using Phoenix (2023)](https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/)
+- Aug 01 - [LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others](https://artificialanalysis.ai/leaderboards/models)
+- Aug 01 - [Show HN: KubeForge – A GUI for Kubernetes YAMLs](https://github.com/kubenote/KubeForge)
+- Jul 31 - [Age verification doesn't need to be a privacy footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
 - Jul 31 - [The anti-abundance critique on housing is wrong](https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing)
 - Jul 31 - [Denver rent is back to 2022 prices after 20k new units hit the market](https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/)
-- Jul 31 - [Kaleidos – A portable nuclear microreactor that replaces diesel generators](https://radiantnuclear.com/)
 <!--END_SECTION:hn-->
 
 <!--
