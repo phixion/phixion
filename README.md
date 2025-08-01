@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Terence Tao's NSF grants suspended](https://bsky.app/profile/dangaristo.bsky.social/post/3lvc7ldavhk2o)
-- Aug 01 - [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-- Aug 01 - [Pride Versioning 0.3.0](https://pridever.org/)
-- Aug 01 - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
-- Aug 01 - [Every satellite orbiting earth and who owns them (2023)](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
+- Aug 01 - [Rate, Price Drops Won't Substantially Improve Affordability](https://www.zillow.com/research/rate-drops-35389/)
+- Aug 01 - [FBI seized $40k from Linda Martin without charging her with a crime](https://reason.com/2025/07/28/the-fbi-took-her-40000-without-explaining-why-she-fought-back-and-lost/)
+- Aug 01 - [Show HN: Pontoon – Open-source customer data syncs](https://github.com/pontoon-data/Pontoon)
+- Aug 01 - [Fast (2019)](https://patrickcollison.com/fast)
+- Aug 01 - [Hyrum's Law](https://www.hyrumslaw.com)
 <!--END_SECTION:hn-->
 
 <!--
