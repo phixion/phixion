@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Deep Agents](https://blog.langchain.com/deep-agents/)
-- Aug 01 - [Atlassian terminates 150 staff with pre-recorded video](https://www.cyberdaily.au/digital-transformation/12441-atlassian-terminates-150-staff-with-pre-recorded-video-will-be-largely-replaced-by-ai)
-- Aug 01 - [Philz Coffee close to closing deal to sell to private equity firm for $145M](https://missionlocal.org/2025/07/philz-coffee-private-equity-sell/)
-- Aug 01 - [If you Google 'bad UX', all the results appear in Comic Sans](https://www.google.com/search?q=bad+UX&sca_esv=3d1e29cf7e253e0e&sxsrf=AE3TifPI3Zlb9DuAvgLQfOsNJAeRxALXIQ%3A1754074055107&ei=xwuNaPmrBuyIkdUPoKuEuQQ&ved=0ahUKEwi5q9uHo-qOAxVsRKQEHaAVIUcQ4dUDCBA&uact=5&oq=bad+UX&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmJhZCBVWEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQCYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp)
-- Aug 01 - [Unemployment rising in remote-friendly occupations (2024)](https://jedkolko.com/2024/09/24/unemployment-rising-in-remote-friendly-occupations/)
+- Aug 01 - [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
+- Aug 01 - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
+- Aug 01 - [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
+- Aug 01 - [Anthropic Revokes OpenAI's Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+- Aug 01 - [JSON is not a YAML subset (2022)](https://john-millikin.com/json-is-not-a-yaml-subset)
 <!--END_SECTION:hn-->
 
 <!--
