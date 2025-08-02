@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 02 - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
+- Aug 02 - [Peak Energy just shipped the US's first grid-scale sodium-ion battery](https://electrek.co/2025/07/30/peak-energy-us-first-grid-scale-sodium-ion-battery/)
+- Aug 02 - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
+- Aug 02 - [The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos](https://rickovercorpus.org/)
 - Aug 01 - [Twentyseven 1.0](https://blog.poisson.chat/posts/2025-08-01-twentyseven.html)
-- Aug 01 - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
-- Aug 01 - [Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU](https://www.dougmacdowell.com/coffeematic-pc.html)
-- Aug 01 - [Anthropic Revokes OpenAI's Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
-- Aug 01 - [JSON is not a YAML subset (2022)](https://john-millikin.com/json-is-not-a-yaml-subset)
 <!--END_SECTION:hn-->
 
 <!--
