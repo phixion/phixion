@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Ana Marie Cox on the Shaky Foundation of Substack as a Business](https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/)
-- Aug 02 - [The /o in Ruby regex stands for "oh the humanity "](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
-- Aug 02 - [Unikernel Guide: Build and Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
-- Aug 02 - [The Rubik's Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
-- Aug 02 - [WebGPU enables local LLM in the browser. Demo site with AI chat](https://andreinwald.github.io/browser-llm/)
+- Aug 02 - [Chilling warnings from 1930s Europe: "Reality is stronger than all our wishes"](https://www.doomsdayscenario.co/p/fleeing-one-step-ahead-of-fascism-fbcf5ac4661dca77)
+- Aug 02 - [Show HN: Wordle-style game for Fermi questions](https://www.fermiquestions.org/)
+- Aug 02 - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
+- Aug 02 - [Linear Types for Programmers (2023)](https://twey.io/for-programmers/linear-types/)
+- Aug 02 - [Telo MT1](https://www.telotrucks.com/)
 <!--END_SECTION:hn-->
 
 <!--
