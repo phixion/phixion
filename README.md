@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
-- Aug 02 - [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
+- Aug 02 - [A.I. Researchers Are Negotiating $250M Pay Packages](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html&ved=2ahUKEwid9PrYg-yOAxW6i68BHZ5DJDUQxfQBKAB6BAgIEAE&usg=AOvVaw3TIWf02i_O62uVAXT2FTEp)
+- Aug 02 - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
+- Aug 02 - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
+- Aug 02 - [This Month in Ladybird](https://ladybird.org/newsletter/2025-07-31/)
 - Aug 02 - [Robert Wilson has died](https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary)
-- Aug 02 - [Hardening mode for the compiler](https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660)
-- Aug 02 - [The Rickover Corpus: A digital archive of Admiral Rickover's speeches and memos](https://rickovercorpus.org/)
 <!--END_SECTION:hn-->
 
 <!--
