@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 03 - [If You're Remote, Ramble](https://stephango.com/ramblings)
+- Aug 03 - [Self-Employed, Self-Exhausted](https://theisolationjournals.substack.com/p/self-employed-self-exhausted)
 - Aug 03 - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 - Aug 03 - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 - Aug 03 - [Seed7 – The Extensible Programming Language](https://seed7.net)
-- Aug 03 - [Writing a basic service for GNU Guix](https://tannerhoelzel.com/gnu-shepherd-simple-service.html)
-- Aug 03 - [Parsing without ASTs and Optimizing with Sea of Nodes  [video]](https://www.youtube.com/watch?v=NxiKlnUtyio)
 <!--END_SECTION:hn-->
 
 <!--
