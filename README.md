@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Time is running out for Tim Cook: Apple lacks strategic vision](https://unherd.com/2025/08/time-is-running-out-for-tim-cook/?lang=us)
-- Aug 03 - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
-- Aug 03 - [How To Make (almost) Anything (2019)](https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html)
-- Aug 03 - [If you're remote, ramble](https://stephango.com/ramblings)
-- Aug 03 - [A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
+- Aug 03 - [The Dollar Is Dead](https://mathmeetsmoney.substack.com/p/the-dollar-is-dead)
+- Aug 03 - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
+- Aug 03 - [ChatGPT chats were indexed then removed from search but still remain online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
+- Aug 03 - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
+- Aug 03 - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
