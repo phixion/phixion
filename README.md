@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Chilling warnings from 1930s Europe: "Reality is stronger than all our wishes"](https://www.doomsdayscenario.co/p/fleeing-one-step-ahead-of-fascism-fbcf5ac4661dca77)
-- Aug 02 - [Show HN: Wordle-style game for Fermi questions](https://www.fermiquestions.org/)
+- Aug 02 - [HTML-in-Canvas](https://github.com/WICG/html-in-canvas)
+- Aug 02 - [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/)
 - Aug 02 - [Great Question (YC W21) Is Hiring a VP of Engineering (Remote)](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering)
-- Aug 02 - [Linear Types for Programmers (2023)](https://twey.io/for-programmers/linear-types/)
 - Aug 02 - [Telo MT1](https://www.telotrucks.com/)
+- Aug 02 - [Browser extension and local backend that automatically archives YouTube videos](https://github.com/andrewarrow/starchive)
 <!--END_SECTION:hn-->
 
 <!--
