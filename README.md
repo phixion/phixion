@@ -21,9 +21,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 <!--START_SECTION:hn-->
 - Aug 04 - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
 - Aug 04 - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
-- Aug 04 - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 - Aug 03 - [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
 - Aug 03 - [Learnable Programming (2012)](https://worrydream.com/LearnableProgramming/)
+- Aug 03 - [How to grow almost anything](https://howtogrowalmostanything.notion.site/htgaa25)
 <!--END_SECTION:hn-->
 
 <!--
