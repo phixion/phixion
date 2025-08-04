@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
-- Aug 04 - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
-- Aug 03 - [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
-- Aug 03 - [Learnable Programming (2012)](https://worrydream.com/LearnableProgramming/)
-- Aug 03 - [How to grow almost anything](https://howtogrowalmostanything.notion.site/htgaa25)
+- Aug 04 - [Photonic SNN chip reaches 1 GHz and supports on-chip learning](https://arxiv.org/abs/2506.14272)
+- Aug 04 - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
+- Aug 04 - [ThinkBook Plus Gen 6 – Lenovo’s rollable laptop](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)
+- Aug 04 - [Lightning on Earth is sparked by a powerful chain reaction from outer space](https://www.livescience.com/physics-mathematics/lightning-on-earth-is-sparked-by-a-powerful-chain-reaction-from-outer-space-simulations-show)
+- Aug 04 - [Mastercard deflects blame for NSFW games being taken down](https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/)
 <!--END_SECTION:hn-->
 
 <!--
