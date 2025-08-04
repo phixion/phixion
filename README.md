@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [The Dollar Is Dead](https://mathmeetsmoney.substack.com/p/the-dollar-is-dead)
-- Aug 03 - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
-- Aug 03 - [ChatGPT chats were indexed then removed from search but still remain online](https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/)
-- Aug 03 - [Yosemite embodies the long war over US national park privatization](https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133)
-- Aug 03 - [Converge (YC S23) well-capitalized New York startup seeks product developers](https://www.runconverge.com/careers)
+- Aug 03 - [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
+- Aug 03 - [How to grow almost anything](https://howtogrowalmostanything.notion.site/htgaa25)
+- Aug 03 - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
+- Aug 03 - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
+- Aug 03 - ['A black hole': New graduates discover a dismal job market](https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693)
 <!--END_SECTION:hn-->
 
 <!--
