@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Every Visual Workflow Tool Is Just Excel for Developers Who Gave Up](https://medium.com/@mohamedalibenothmen1/every-visual-workflow-tool-is-just-excel-for-developers-who-gave-up-f7261090fbc8)
-- Aug 04 - [Show HN: Tiny logic and number games I built for my kids](https://quizmathgenius.com/)
-- Aug 04 - [Part 1: A Deep Dive into Rust and C Memory Interoperability](https://notashes.me/blog/part-1-memory-management/)
-- Aug 04 - [Mozilla Firefox's extension store being flooded with malware](https://www.theregister.com/2025/08/04/mozilla_add_on_phishing/)
-- Aug 04 - [Lidar-based GIS map of New Hampshire stone walls](https://nhgranit.maps.arcgis.com/apps/webappviewer/index.html?id=25930044fe2b4d8fb5cab3ec07565e83)
+- Aug 04 - [Circadian justice](https://eprints.lse.ac.uk/112431/)
+- Aug 04 - [Offline.kids – Screen-free activities for kids](https://offline.kids/)
+- Aug 04 - [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
+- Aug 04 - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
+- Aug 04 - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
 <!--END_SECTION:hn-->
 
 <!--
