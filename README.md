@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/)
-- Aug 03 - [How to grow almost anything](https://howtogrowalmostanything.notion.site/htgaa25)
-- Aug 03 - [A study of lights at night suggests dictators lie about economic growth (2022)](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
-- Aug 03 - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
-- Aug 03 - ['A black hole': New graduates discover a dismal job market](https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693)
+- Aug 04 - [A parser for TypeScript types, written in TypeScript types](https://github.com/easrng/tsints)
+- Aug 04 - [Poorest US workers hit hardest by slowing wage growth](https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25)
+- Aug 04 - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
+- Aug 03 - [Typed languages are better suited for vibecoding](https://solmaz.io/typed-languages-are-better-suited-for-vibecoding)
+- Aug 03 - [Learnable Programming (2012)](https://worrydream.com/LearnableProgramming/)
 <!--END_SECTION:hn-->
 
 <!--
