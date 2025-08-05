@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Monitor your security cameras with locally processed AI](https://frigate.video/)
-- Aug 05 - [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
-- Aug 05 - [Kyoto University team develops pain reliever comparable to morphine](https://www.japantimes.co.jp/news/2025/08/05/japan/japan-new-painkiller-comparable-to-morphine/)
-- Aug 04 - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
-- Aug 04 - [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
+- Aug 05 - [Build Your Own Lisp (In C)](https://www.buildyourownlisp.com/)
+- Aug 05 - [uBlock Origin Lite now available for Safari](https://apps.apple.com/cn/app/ublock-origin-lite/id6745342698)
+- Aug 05 - [Where to find ideas](https://howtogrow.substack.com/p/where-to-find-ideas)
+- Aug 05 - [Apache ECharts 6 New Features](https://echarts.apache.org/handbook/en/basics/release-note/v6-feature/)
+- Aug 05 - [Welcome to the IPv4 Games](https://ipv4.games/)
 <!--END_SECTION:hn-->
 
 <!--
