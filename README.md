@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [EconTeen – Financial Literacy Lessons and Tools for Teens](https://econteen.com/)
+- Aug 04 - [3D Line Drawings](https://amritkwatra.com/experiments/3d-line-drawings)
+- Aug 04 - [EconTeen – Financial literacy lessons and tools for teens](https://econteen.com/)
 - Aug 04 - [Show HN: I've been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
 - Aug 04 - [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
-- Aug 04 - [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
-- Aug 04 - [Projects evaluated to see if they're as free and open source as advertised](https://isitreallyfoss.com/)
+- Aug 04 - [Once a death sentence, cardiac amyloidosis is finally treatable](https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html)
 <!--END_SECTION:hn-->
 
 <!--
