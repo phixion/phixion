@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Circadian justice](https://eprints.lse.ac.uk/112431/)
-- Aug 04 - [Offline.kids – Screen-free activities for kids](https://offline.kids/)
-- Aug 04 - [Ask HN: What trick of the trade took you too long to learn?](https://news.ycombinator.com/item?id=44789068)
-- Aug 04 - [Show HN: Kimu – Open-Source Video Editor](https://www.trykimu.com/)
-- Aug 04 - [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
+- Aug 04 - [EconTeen – Financial Literacy Lessons and Tools for Teens](https://econteen.com/)
+- Aug 04 - [Show HN: I've been building an ERP for manufacturing for the last 3 years](https://github.com/crbnos/carbon)
+- Aug 04 - [Thingino: Open-Source Firmware for IP Cameras](https://thingino.com/)
+- Aug 04 - [What Does One Billion Dollars Look Like?](https://whatdoesonebilliondollarslooklike.website/)
+- Aug 04 - [Projects evaluated to see if they're as free and open source as advertised](https://isitreallyfoss.com/)
 <!--END_SECTION:hn-->
 
 <!--
