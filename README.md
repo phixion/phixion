@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
-- Aug 06 - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
-- Aug 06 - [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
-- Aug 06 - [Software Rot](https://permacomputing.net/software_rot/)
-- Aug 06 - [US tech rules the European market](https://proton.me/blog/us-tech-rules-europe)
+- Aug 06 - [Anthropic rejects the main developer of the library they use](https://grell.dev/blog/ai_rejection)
+- Aug 06 - [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
+- Aug 06 - [Why there are so many more South Asian CEOs than East Asian CEOs in the US](https://www.davelu.com/p/learn-to-embrace-conflict)
+- Aug 06 - [HTML Is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/)
+- Aug 06 - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
 <!--END_SECTION:hn-->
 
 <!--
