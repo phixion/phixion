@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Plain Text. With Lines](https://akkartik.name/lines.html)
-- Aug 05 - [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
-- Aug 05 - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
-- Aug 05 - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
-- Aug 05 - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
+- Aug 06 - [The Amaranth hardware description language](https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language)
+- Aug 06 - [I'm Archiving Picocrypt](https://github.com/Picocrypt/Picocrypt/issues/134)
+- Aug 06 - [Marines now have an official drone-fighting handbook](https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/)
+- Aug 06 - [Software Rot](https://permacomputing.net/software_rot/)
+- Aug 06 - [US tech rules the European market](https://proton.me/blog/us-tech-rules-europe)
 <!--END_SECTION:hn-->
 
 <!--
