@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [The AI bubble is so big it's propping up the US economy (for now)](https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping)
-- Aug 05 - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
-- Aug 05 - [Ollama Turbo](https://ollama.com/turbo)
-- Aug 05 - [Show HN: I built a tool to replace capcut audio transcription](https://meetcosmos.com/free-audio-transcription/)
-- Aug 05 - [Show HN: Whittle – A Shrinking Word Game](https://playwhittle.com/)
+- Aug 05 - [Plain Text. With Lines](https://akkartik.name/lines.html)
+- Aug 05 - [Quantum machine learning via vector embeddings](https://arxiv.org/abs/2508.00024)
+- Aug 05 - [Create personal illustrated storybooks in the Gemini app](https://blog.google/products/gemini/storybooks/)
+- Aug 05 - [Kyber (YC W23) is hiring enterprise account executives](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae)
+- Aug 05 - [What's wrong with the JSON gem API?](https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html)
 <!--END_SECTION:hn-->
 
 <!--
