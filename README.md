@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
-- Aug 06 - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
-- Aug 06 - [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
-- Aug 06 - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
-- Aug 06 - [Japan: Apple Must Lift Browser Engine Ban by December](https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/)
+- Aug 06 - [NetBird Is Embracing the AGPLv3 License](https://netbird.io/knowledge-hub/netbird-agpl-announcement)
+- Aug 06 - [Zig-Error-Patterns](https://glfmn.io/posts/zig-error-patterns/)
+- Aug 06 - [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
+- Aug 06 - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
+- Aug 06 - [Constitution.congress.gov/constitution 6/8/25 –> 8/4/25 Diff](https://web.archive.org/web/diff/20250601021212/20250806023110/https://constitution.congress.gov/constitution/)
 <!--END_SECTION:hn-->
 
 <!--
