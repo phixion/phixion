@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Anthropic rejects the main developer of the library they use](https://grell.dev/blog/ai_rejection)
-- Aug 06 - [Some thoughts on journals, refereeing, and the P vs. NP problem](https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html)
-- Aug 06 - [Why there are so many more South Asian CEOs than East Asian CEOs in the US](https://www.davelu.com/p/learn-to-embrace-conflict)
-- Aug 06 - [HTML Is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/)
-- Aug 06 - [Fire hazard of WHY2025 badge due to 18650 Li-Ion cells](https://wiki.why2025.org/Badge/Fire_hazard)
+- Aug 06 - [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
+- Aug 06 - [Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display](https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/)
+- Aug 06 - [LLM Inflation](https://tratt.net/laurie/blog/2025/llm_inflation.html)
+- Aug 06 - [About the BLOBs in Ventoy](https://github.com/ventoy/Ventoy/issues/3224)
+- Aug 06 - [Japan: Apple Must Lift Browser Engine Ban by December](https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/)
 <!--END_SECTION:hn-->
 
 <!--
