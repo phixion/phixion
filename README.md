@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [NetBird Is Embracing the AGPLv3 License](https://netbird.io/knowledge-hub/netbird-agpl-announcement)
-- Aug 06 - [Zig-Error-Patterns](https://glfmn.io/posts/zig-error-patterns/)
-- Aug 06 - [Breaking the sorting barrier for directed single-source shortest paths](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
-- Aug 06 - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
-- Aug 06 - [Constitution.congress.gov/constitution 6/8/25 –> 8/4/25 Diff](https://web.archive.org/web/diff/20250601021212/20250806023110/https://constitution.congress.gov/constitution/)
+- Aug 06 - [Litestar Is Worth a Look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
+- Aug 06 - [Is Economics education fit for the 21st Century?](https://rethinkeconomics.org/resources/educational-material/is-economics-education-fit-for-the-21st-century-executive-summary/)
+- Aug 06 - [19% of California houses are owned by investors](https://www.ocregister.com/2025/07/21/19-of-california-houses-are-owned-by-investors/)
+- Aug 06 - [Brennan Center for Justice Report: The Campaign to Undermine the Next Election](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election)
+- Aug 06 - ["This question has been retired"](https://learn.microsoft.com/en-us/answers/questions/009ae104-47ff-475c-adc1-d5f9604927de/can-i-open-16-bit-application-in-windows-8?forum=windows-all&referrer=answers)
 <!--END_SECTION:hn-->
 
 <!--
