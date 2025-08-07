@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [Out-Fibbing CPython with the Plush Interpreter](https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/)
-- Aug 06 - [Git-fetch-file – Sync files from other repos with commit tracking and safety](https://github.com/andrewmcwattersandco/git-fetch-file)
-- Aug 06 - [The new shape of Mixxx 3.0 – Open Source DJing](https://mixxx.org/news/2025-08-06-qml-project/)
-- Aug 06 - [Analyzing Control Flow More Like a Human [video]](http://wonks.github.io/germane/summer2025/2025/08/06/germane.html)
-- Aug 06 - [301party.com: Intentionally open redirect](https://301party.com/)
+- Aug 07 - [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
+- Aug 07 - [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
+- Aug 07 - [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
+- Aug 07 - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
+- Aug 06 - [Rules by Which a Great Empire May Be Reduced to a Small One (1773)](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
 <!--END_SECTION:hn-->
 
 <!--
