@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=44823354)
-- Aug 07 - [Ultra-Processed Foods Make Up More Than 60% of US Kids' Diets](https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet)
-- Aug 07 - [Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust](https://github.com/stasher-dev/stasher-cli)
-- Aug 07 - ["AI hype" is the true AI product](https://hardresetmedia.substack.com/p/machine-learning-expert-ai-hype-is)
-- Aug 07 - [The Emperor's New Trade Deal – Paul Krugman](https://paulkrugman.substack.com/p/the-emperors-new-trade-deal)
+- Aug 07 - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/)
+- Aug 07 - [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
+- Aug 07 - [Budget Car Buyers Want Automakers to K.I.S.S](https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s)
+- Aug 07 - [AWS Restored My Account: The Human Who Made the Difference](https://www.seuros.com/blog/aws-restored-account-plot-twist/)
+- Aug 07 - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
 <!--END_SECTION:hn-->
 
 <!--
