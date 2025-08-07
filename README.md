@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
-- Aug 07 - [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
-- Aug 07 - [A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A](https://arxiv.org/abs/2508.03814)
-- Aug 07 - [The Inkhaven Blogging Residency](https://www.inkhaven.blog/)
-- Aug 06 - [Rules by Which a Great Empire May Be Reduced to a Small One (1773)](https://founders.archives.gov/documents/Franklin/01-20-02-0213)
+- Aug 07 - [40 Years of the Amiga, from Commodore – By Paul Lefebvre](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
+- Aug 07 - [Cracking the Vault: How we found zero-day flaws in HashiCorp Vault](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
+- Aug 07 - ["I met a founder who writes 10k lines of code a day thanks to AI"](https://twitter.com/paulg/status/1953289830982664236)
+- Aug 07 - [How ChatGPT spoiled my semester (2024)](https://benborgers.com/chatgpt-semester)
+- Aug 07 - [Show HN: Rust framework for advanced file recognition and identification](https://crates.io/crates/magical_rs)
 <!--END_SECTION:hn-->
 
 <!--
