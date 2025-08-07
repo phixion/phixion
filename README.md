@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Building Bluesky Comments for My Blog](https://natalie.sh/posts/bluesky-comments/)
-- Aug 07 - [Google confirms it has been hacked](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
-- Aug 07 - [Budget Car Buyers Want Automakers to K.I.S.S](https://www.thedrive.com/news/budget-car-buyers-want-automakers-to-k-i-s-s)
-- Aug 07 - [AWS Restored My Account: The Human Who Made the Difference](https://www.seuros.com/blog/aws-restored-account-plot-twist/)
-- Aug 07 - [How to Sell if Your User is not the Buyer](https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the)
+- Aug 07 - [Historical Tech Tree](https://www.historicaltechtree.com/)
+- Aug 07 - [Show HN: Octofriend, a cute coding agent that can swap between GPT-5 and Claude](https://github.com/synthetic-lab/octofriend)
+- Aug 07 - [Encryption made for police and military radios may be easily cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
+- Aug 07 - [Lightweight LSAT](https://lightweightlsat.com/)
+- Aug 07 - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
 <!--END_SECTION:hn-->
 
 <!--
