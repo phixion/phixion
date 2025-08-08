@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [GPT-5 vs. Sonnet: Complex Agentic Coding](https://elite-ai-assisted-coding.dev/p/copilot-agentic-coding-gpt-5-vs-claude-4-sonnet)
-- Aug 08 - [Grok's 'spicy' video setting instantly made me Taylor Swift nude deepfakes](https://www.theverge.com/report/718975/xai-grok-imagine-taylor-swifty-deepfake-nudes)
-- Aug 08 - [AI must RTFM: Why tech writers are becoming context curators](https://passo.uno/from-tech-writers-to-ai-context-curators/)
-- Aug 08 - [AI is impressive because we've failed at personal computing](https://rakhim.exotext.com/ai-is-impressive-because-we-ve-failed-at-semantic-web-and-personal-computing)
-- Aug 08 - [Google's Genie is more impressive than GPT5](https://theahura.substack.com/p/tech-things-genies-lamp-openai-cant)
+- Aug 08 - [My ancestors fought in WWII. Hiroshima is plagued by shallow reading](https://www.washingtonpost.com/opinions/2025/08/08/world-war-ii-hiroshima-history-memories/)
+- Aug 08 - [GPU-Rich Labs Have Won: What's Left for the Rest of Us Is Distillation](https://inference.net/blog/what-s-left-is-distillation)
+- Aug 08 - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
+- Aug 08 - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
+- Aug 08 - [Apollo 13 Commander Jim Lovell has passed away](https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/)
 <!--END_SECTION:hn-->
 
 <!--
