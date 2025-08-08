@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Hubble catches sharpest image yet of 3I/ATLAS](https://www.skyatnightmagazine.com/news/hubble-3i-atlas-july-2025)
+- Aug 08 - [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
+- Aug 08 - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
+- Aug 08 - [New executive order puts all grants under political control](https://arstechnica.com/science/2025/08/new-executive-order-puts-all-grants-under-political-control/)
 - Aug 07 - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 - Aug 07 - [Vibechart](https://www.vibechart.net/)
-- Aug 07 - [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
-- Aug 07 - [Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
 <!--END_SECTION:hn-->
 
 <!--
