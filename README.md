@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 08 - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
+- Aug 08 - [Amtrak NextGen Acela Debuts on August 28](https://media.amtrak.com/2025/08/amtrak-nextgen-acela-debuts-on-august-28/)
+- Aug 08 - [I don't read your email threads](https://loganmarek.com/i-dont-read-your-threads/)
+- Aug 08 - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 - Aug 08 - [A love letter to my future employer (2020)](https://catzkorn.dev/blog/love-letter/)
-- Aug 08 - [Benchmarking GPT-5 on 400 real-world code reviews](https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/)
-- Aug 08 - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
-- Aug 08 - [The Paranoid Style in American Politics (1964)](https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/)
-- Aug 07 - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 <!--END_SECTION:hn-->
 
 <!--
