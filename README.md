@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [Historical Tech Tree](https://www.historicaltechtree.com/)
-- Aug 07 - [Show HN: Octofriend, a cute coding agent that can swap between GPT-5 and Claude](https://github.com/synthetic-lab/octofriend)
-- Aug 07 - [Encryption made for police and military radios may be easily cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
-- Aug 07 - [Lightweight LSAT](https://lightweightlsat.com/)
-- Aug 07 - [Benchmark Framework Desktop Mainboard and 4-node cluster](https://github.com/geerlingguy/ollama-benchmark/issues/21)
+- Aug 07 - [Hubble catches sharpest image yet of 3I/ATLAS](https://www.skyatnightmagazine.com/news/hubble-3i-atlas-july-2025)
+- Aug 07 - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
+- Aug 07 - [Vibechart](https://www.vibechart.net/)
+- Aug 07 - [Achieving 10,000x training data reduction with high-fidelity labels](https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/)
+- Aug 07 - [Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
 <!--END_SECTION:hn-->
 
 <!--
