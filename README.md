@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
-- Aug 09 - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
-- Aug 09 - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
-- Aug 09 - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
-- Aug 09 - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
+- Aug 09 - [ChatGPT Agent – EU Launch](https://help.openai.com/en/articles/11752874-chatgpt-agent)
+- Aug 09 - [60% of medal of honor recipients are Irish or Irish-American](https://en.wikipedia.org/wiki/List_of_Irish-American_Medal_of_Honor_recipients)
+- Aug 09 - [Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup](https://simonwillison.net/2025/Aug/9/bay-area-ai/)
+- Aug 09 - [Mexico to US Livestock Trade halted due to Screwworm spread](https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due)
+- Aug 09 - [The dead need right to delete their data so they can't be AI-ified, lawyer says](https://www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/)
 <!--END_SECTION:hn-->
 
 <!--
