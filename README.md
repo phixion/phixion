@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Dial-up Internet to be discontinued](https://help.aol.com/articles/dial-up-internet-to-be-discontinued)
-- Aug 08 - [Little-known leguminous plant can increase beef production by 60% (2022)](https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60)
-- Aug 08 - [How to safely escape JSON inside HTML SCRIPT elements](https://sirre.al/2025/08/06/safe-json-in-script-tags-how-not-to-break-a-site/)
-- Aug 08 - [Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?](https://news.ycombinator.com/item?id=44840728)
-- Aug 08 - [Build durable workflows with Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution)
+- Aug 09 - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
+- Aug 09 - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
+- Aug 09 - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
+- Aug 09 - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
+- Aug 09 - [Let's properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)
 <!--END_SECTION:hn-->
 
 <!--
