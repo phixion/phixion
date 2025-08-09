@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 09 - [I prefer human-readable file formats](https://adele.pollux.casa/check-human.php?redirect=%2Fgemlog%2F2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
+- Aug 09 - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
+- Aug 09 - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
 - Aug 09 - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
 - Aug 09 - [Sandstorm- self-hostable web productivity suite](https://sandstorm.org/)
-- Aug 09 - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
-- Aug 09 - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
-- Aug 09 - [Let's properly analyze an AI article for once](https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html)
 <!--END_SECTION:hn-->
 
 <!--
