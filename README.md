@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [JD Vance's team had water level of Ohio river raised for family's boating trip](https://www.theguardian.com/us-news/2025/aug/06/jd-vance-ohio-lake-water-levels)
-- Aug 09 - [Physical Media Is Cool Again. Streaming Services Have Themselves to Blame](https://www.rollingstone.com/culture/culture-features/physical-media-collectors-trend-viral-streamers-1235387314/)
+- Aug 10 - [GPT-5: Overdue, overhyped and underwhelming. And that's not the worst of it](https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming)
+- Aug 09 - [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
+- Aug 09 - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
+- Aug 09 - [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
 - Aug 09 - [Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API](https://ch.at/)
-- Aug 09 - [Debian 13 "Trixie"](https://www.debian.org/News/2025/20250809)
-- Aug 09 - [Residents cheer as Tucson rejects data center campus](https://www.datacenterdynamics.com/en/news/residents-cheer-as-tucson-rejects-amazons-massive-project-blue-data-center-campus-in-arizona/)
 <!--END_SECTION:hn-->
 
 <!--
