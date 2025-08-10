@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
-- Aug 10 - [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
-- Aug 10 - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
-- Aug 10 - [Try and](https://ygdp.yale.edu/phenomena/try-and)
-- Aug 10 - [Inside OS/2 (1987)](https://gitpi.us/article-archive/inside-os2/)
+- Aug 10 - [Show HN: Bolt – A super-fast, statically-typed scripting language written in C](https://github.com/Beariish/bolt)
+- Aug 10 - [Type (YC W23) is hiring a founding engineer to build an AI-native doc editor](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer)
+- Aug 10 - [Fight Chat Control](https://fightchatcontrol.eu/)
+- Aug 10 - [Sunlight-activated material turns PFAS in water into harmless fluoride](https://phys.org/news/2025-08-sunlight-material-pfas-harmless-fluoride.html)
+- Aug 10 - [Diffusion language models are super data learners](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 <!--END_SECTION:hn-->
 
 <!--
