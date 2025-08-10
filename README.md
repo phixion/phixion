@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Open Lovable](https://github.com/mendableai/open-lovable)
-- Aug 10 - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
-- Aug 10 - [Microsoft POML – Prompt Orchestration Markup Language](https://github.com/microsoft/poml)
-- Aug 10 - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
-- Aug 10 - [Melonking Website](https://melonking.net/)
+- Aug 10 - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
+- Aug 10 - [GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)
+- Aug 10 - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
+- Aug 10 - [Try and](https://ygdp.yale.edu/phenomena/try-and)
+- Aug 10 - [Inside OS/2 (1987)](https://gitpi.us/article-archive/inside-os2/)
 <!--END_SECTION:hn-->
 
 <!--
