@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 10 - [Open Lovable](https://github.com/mendableai/open-lovable)
+- Aug 10 - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
+- Aug 10 - [Microsoft POML – Prompt Orchestration Markup Language](https://github.com/microsoft/poml)
 - Aug 10 - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
 - Aug 10 - [Melonking Website](https://melonking.net/)
-- Aug 09 - [GPTs and Feeling Left Behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
-- Aug 09 - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
-- Aug 09 - [Abusing Entra OAuth for fun and access to internal Microsoft applications](https://research.eye.security/consent-and-compromise/)
 <!--END_SECTION:hn-->
 
 <!--
