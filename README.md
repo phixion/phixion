@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Compiling a Lisp: Lambda Lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
-- Aug 10 - [1910: The year the modern world lost its mind](https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost)
-- Aug 10 - [One Million Screenshots](https://onemillionscreenshots.com/?q=random)
-- Aug 10 - [Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events)
-- Aug 10 - [Conversations remotely detected from cell phone vibrations, researchers report](https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report)
+- Aug 11 - [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
+- Aug 11 - [Optimizing My Sleep Around Claude Usage Limits](https://mattwie.se/no-sleep-till-agi)
+- Aug 11 - [Show HN: Reactive: A React Book for the Reluctant (written by Claude)](https://github.com/cloudstreet-dev/React-is-Awful)
+- Aug 11 - [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
+- Aug 10 - [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 <!--END_SECTION:hn-->
 
 <!--
