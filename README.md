@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
-- Aug 11 - [Optimizing My Sleep Around Claude Usage Limits](https://mattwie.se/no-sleep-till-agi)
-- Aug 11 - [Show HN: Reactive: A React Book for the Reluctant (written by Claude)](https://github.com/cloudstreet-dev/React-is-Awful)
-- Aug 11 - [Show HN: A Sinclair ZX81 retro web assembler+simulator](https://news.ycombinator.com/item?id=44859761)
-- Aug 10 - [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
+- Aug 11 - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
+- Aug 11 - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
+- Aug 11 - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
+- Aug 11 - [Going faster than memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
+- Aug 11 - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]](https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf)
 <!--END_SECTION:hn-->
 
 <!--
