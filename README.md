@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
-- Aug 11 - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
-- Aug 11 - [Generic Containers in C: Safe Division Using Maybe](https://uecker.codeberg.page/2025-08-10.html)
-- Aug 11 - [Going faster than memcpy](https://squadrick.dev/journal/going-faster-than-memcpy)
-- Aug 11 - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]](https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf)
+- Aug 11 - [GPT-OSS-120B runs on just 8GB VRAM & 64GB+ system RAM](https://old.reddit.com/r/LocalLLaMA/comments/1mke7ef/120b_runs_awesome_on_just_8gb_vram/)
+- Aug 11 - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
+- Aug 11 - [Hand-picked selection of articles on AI fundamentals/concepts](https://aman.ai/primers/ai/)
+- Aug 11 - [Self-Guaranteeing Promises](https://stephango.com/self-guarantee)
+- Aug 11 - [The Chrome VRP Panel has decided to award $250k for this report](https://issues.chromium.org/issues/412578726)
 <!--END_SECTION:hn-->
 
 <!--
