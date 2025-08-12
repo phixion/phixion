@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
-- Aug 12 - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
-- Aug 12 - [UK government advises deleting emails to save water](https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall)
-- Aug 12 - [The ex-CIA agents deciding Facebook's content policy (2022)](https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/)
-- Aug 12 - [Why We Migrated from Neon to PlanetScale](https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/)
+- Aug 12 - [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
+- Aug 12 - [Ashet Home Computer](https://ashet.computer/)
+- Aug 12 - [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
+- Aug 12 - [Let's get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
+- Aug 12 - [The "high-level CPU" challenge (2008)](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
 <!--END_SECTION:hn-->
 
 <!--
