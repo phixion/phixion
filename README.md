@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 11 - [How Kentucky bourbon went from boom to bust](https://www.bbc.com/news/articles/ckglnk6yxlko)
+- Aug 11 - [Mouthguards that flash red with head impacts to be used at Rugby World Cup](https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup)
+- Aug 11 - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
 - Aug 11 - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-- Aug 11 - [Token growth indicates future AI spend per dev](https://blog.kilocode.ai/p/future-ai-spend-100k-per-dev)
-- Aug 11 - [The Associated Press tells its book critics that it's ending weekly reviews](https://dankennedy.net/2025/08/08/the-associated-press-tells-its-book-critics-that-its-ending-weekly-reviews/)
-- Aug 11 - [Apache Iceberg V3 Spec new features for more efficient and flexible data lakes](https://opensource.googleblog.com/2025/08/whats-new-in-iceberg-v3.html)
-- Aug 11 - [Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025)
+- Aug 11 - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
 <!--END_SECTION:hn-->
 
 <!--
