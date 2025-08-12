@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Depot (YC W23) Is Hiring a Community and Events Manager (Remote)](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager)
-- Aug 12 - [Qodo CLI agent scores 71.2% on SWE-bench Verified](https://www.qodo.ai/blog/qodo-command-swe-bench-verified/)
-- Aug 12 - [Show HN: Move to dodge the bullets. How long can you survive?](https://dodge.trickle.host)
-- Aug 12 - [LLMs' "simulated reasoning" abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
-- Aug 12 - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
+- Aug 12 - [Perplexity Makes Longshot $34.5B Offer for Chrome](https://www.wsj.com/tech/perplexity-makes-longshot-34-5-billion-offer-for-chrome-5ddb7a22)
+- Aug 12 - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
+- Aug 12 - [UK government advises deleting emails to save water](https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall)
+- Aug 12 - [The ex-CIA agents deciding Facebook's content policy (2022)](https://mronline.org/2022/07/14/meet-the-ex-cia-agents-deciding-facebooks-content-policy/)
+- Aug 12 - [Why We Migrated from Neon to PlanetScale](https://blog.opensecret.cloud/why-we-migrated-from-neon-to-planetscale/)
 <!--END_SECTION:hn-->
 
 <!--
