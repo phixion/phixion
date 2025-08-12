@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [How Kentucky bourbon went from boom to bust](https://www.bbc.com/news/articles/ckglnk6yxlko)
-- Aug 11 - [Mouthguards that flash red with head impacts to be used at Rugby World Cup](https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup)
-- Aug 11 - [Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python](https://github.com/danterolle/tilf)
-- Aug 11 - [Neki – sharded Postgres by the team behind Vitess](https://planetscale.com/blog/announcing-neki)
-- Aug 11 - [Ollama and gguf](https://github.com/ollama/ollama/issues/11714)
+- Aug 12 - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
+- Aug 12 - [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
+- Aug 12 - [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
+- Aug 12 - [Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations](https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/)
+- Aug 11 - [Show HN: Keeps – Mail a postcard that plays your voice](https://www.sendkeeps.com/)
 <!--END_SECTION:hn-->
 
 <!--
