@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [CoLoop (YC S21) Is Hiring AI Engineers in London](https://news.ycombinator.com/item?id=44873222)
+- Aug 12 - [Depot (YC W23) Is Hiring a Community and Events Manager (Remote)](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager)
+- Aug 12 - [Qodo CLI agent scores 71.2% on SWE-bench Verified](https://www.qodo.ai/blog/qodo-command-swe-bench-verified/)
+- Aug 12 - [Show HN: Move to dodge the bullets. How long can you survive?](https://dodge.trickle.host)
 - Aug 12 - [LLMs' "simulated reasoning" abilities are a brittle mirage](https://arstechnica.com/ai/2025/08/researchers-find-llms-are-bad-at-logical-inference-good-at-fluent-nonsense/)
 - Aug 12 - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
-- Aug 12 - [Weathering Software Winter](https://100r.co/site/weathering_software_winter.html)
-- Aug 12 - [Chris Simpkins, creator of Hack font, has died](https://typo.social/@Hilary/114845913381245488)
 <!--END_SECTION:hn-->
 
 <!--
