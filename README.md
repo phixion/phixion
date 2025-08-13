@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
-- Aug 13 - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
-- Aug 13 - [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
-- Aug 13 - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-- Aug 13 - [[BUG] Claude says "You're absolutely right!" about everything](https://github.com/anthropics/claude-code/issues/3382)
+- Aug 13 - [Study: Social media probably can't be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
+- Aug 13 - [OpenIndiana: Community-Driven Illumos Distribution](https://www.openindiana.org/)
+- Aug 13 - [Website Is for Humans](https://localghost.dev/blog/this-website-is-for-humans/)
+- Aug 13 - [New treatment eliminates bladder cancer in 82% of patients](https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/)
+- Aug 13 - [Coalton Playground: Type-Safe Lisp in the Browser](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/)
 <!--END_SECTION:hn-->
 
 <!--
