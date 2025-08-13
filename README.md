@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Scapegoating the Algorithm America's epistemic challenges run deeper than social](https://asteriskmag.com/issues/11/scapegoating-the-algorithm)
+- Aug 13 - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
+- Aug 13 - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
+- Aug 13 - [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
+- Aug 13 - [Search all text in New York City](https://www.alltext.nyc/)
 - Aug 12 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
-- Aug 12 - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
-- Aug 12 - [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
-- Aug 12 - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 <!--END_SECTION:hn-->
 
 <!--
