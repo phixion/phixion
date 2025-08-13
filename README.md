@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Exile Economics: If Globalisation Fails](https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang)
-- Aug 12 - [Ashet Home Computer](https://ashet.computer/)
-- Aug 12 - [The Equality Delete Problem in Apache Iceberg](https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974)
-- Aug 12 - [Let's get real about the one-person billion dollar company](https://www.marcrand.com/p/lets-get-real-about-the-one-person)
-- Aug 12 - [The "high-level CPU" challenge (2008)](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
+- Aug 12 - [Scapegoating the Algorithm America's epistemic challenges run deeper than social](https://asteriskmag.com/issues/11/scapegoating-the-algorithm)
+- Aug 12 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
+- Aug 12 - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
+- Aug 12 - [Crypto founder Do Kwon pleads guilty to US fraud charges](https://www.ft.com/content/2e6fdc73-1083-48fb-b258-d22fc7ef8ad8)
+- Aug 12 - [The Missing Protocol: Let Me Know](https://deanebarker.net/tech/blog/let-me-know/)
 <!--END_SECTION:hn-->
 
 <!--
