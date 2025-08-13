@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [A Comprehensive Survey of Self-Evolving AI Agents [pdf]](https://arxiv.org/abs/2508.07407)
-- Aug 13 - [Blender on iPad Is Finally Happening](https://www.creativebloq.com/3d/blender-on-ipad-is-finally-happening-and-it-could-be-the-app-every-artist-needs)
-- Aug 13 - [Is Meta Scraping the Fediverse for AI?](https://wedistribute.org/2025/08/is-meta-scraping-the-fediverse-for-ai/)
-- Aug 13 - [Search all text in New York City](https://www.alltext.nyc/)
-- Aug 12 - [A gentle introduction to anchor positioning](https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/)
+- Aug 13 - [Sheet0, a data agent transform webpages to structured spreadsheets](https://www.sheet0.com/)
+- Aug 13 - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
+- Aug 13 - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
+- Aug 13 - [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
+- Aug 13 - [1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”](https://historyofinformation.com/detail.php?entryid=856)
 <!--END_SECTION:hn-->
 
 <!--
