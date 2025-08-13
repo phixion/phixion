@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Sheet0, a data agent transform webpages to structured spreadsheets](https://www.sheet0.com/)
-- Aug 13 - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
-- Aug 13 - [F-Droid build servers can't build modern Android apps due to outdated CPUs](https://news.ycombinator.com/item?id=44884709)
-- Aug 13 - [Fennel libraries as single files (2023)](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
-- Aug 13 - [1948: Catholic Church publishes final edition of “Index Librorum Prohibitorum”](https://historyofinformation.com/detail.php?entryid=856)
+- Aug 13 - [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
+- Aug 13 - [Perplexity offers to buy Google Chrome for $34.5B](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
+- Aug 13 - [Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band](https://astrobites.org/2025/08/12/starlink-ska-low/)
+- Aug 13 - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
+- Aug 13 - [[BUG] Claude says "You're absolutely right!" about everything](https://github.com/anthropics/claude-code/issues/3382)
 <!--END_SECTION:hn-->
 
 <!--
