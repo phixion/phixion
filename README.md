@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
-- Aug 14 - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
-- Aug 14 - [Meta accessed women's health data from Flo app without consent, says court](https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court)
-- Aug 14 - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
-- Aug 14 - [iPhone DevOps](https://clearsky.dev/blog/iphone-devops-ssh/)
+- Aug 14 - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
+- Aug 14 - [Ask HN: How do you tune your personality to get better at interviews?](https://news.ycombinator.com/item?id=44901387)
+- Aug 14 - [Statement Regarding Misleading Media Reports](https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/)
+- Aug 14 - [Meta's flirty AI chatbot invited a retiree to New York](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/)
+- Aug 14 - [Jujutsu and Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
 <!--END_SECTION:hn-->
 
 <!--
