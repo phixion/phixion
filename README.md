@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [New downgrade attack can bypass FIDO auth in Microsoft Entra ID](https://www.bleepingcomputer.com/news/security/new-downgrade-attack-can-bypass-fido-auth-in-microsoft-entra-id/)
-- Aug 13 - [Fuse is 95% cheaper and 10x faster than NFS](https://nilesh-agarwal.com/storage-in-cloud-for-llms-2/)
-- Aug 13 - [DeepKit Story: how $160M company killed EU trademark for a small OSS project](https://old.reddit.com/r/ExperiencedDevs/comments/1mopzhz/160m_vcbacked_company_just_killed_my_eu_trademark/)
-- Aug 13 - [Job Listing Site Highlighting H-1B Positions So Americans Can Apply](https://www.newsweek.com/h1b-jobs-now-american-workers-green-cards-2041404)
-- Aug 13 - [Google Play Store Bans Wallets That Don't Have Banking License](https://www.therage.co/google-play-store-ban-wallets/)
+- Aug 13 - [Eca: Editor Code Assistant – AI pair programming capabilities agnostic of editor](https://github.com/editor-code-assistant/eca)
+- Aug 13 - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
+- Aug 13 - [Illinois bans use of artificial intelligence for mental health therapy](https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/)
+- Aug 13 - [PYX: The next step in Python packaging](https://astral.sh/pyx)
+- Aug 13 - [OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 <!--END_SECTION:hn-->
 
 <!--
