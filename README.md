@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
-- Aug 14 - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
-- Aug 14 - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
-- Aug 14 - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
-- Aug 14 - [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
+- Aug 14 - [Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer)
+- Aug 14 - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
+- Aug 14 - [Meta accessed women's health data from Flo app without consent, says court](https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court)
+- Aug 14 - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
+- Aug 14 - [iPhone DevOps](https://clearsky.dev/blog/iphone-devops-ssh/)
 <!--END_SECTION:hn-->
 
 <!--
