@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Show HN: Yet Another Memory System for LLM's](https://github.com/trvon/yams)
+- Aug 14 - [Convo-Lang: LLM Programming Language and Runtime](https://learn.convo-lang.ai/)
+- Aug 14 - [Show HN: Yet another memory system for LLMs](https://github.com/trvon/yams)
+- Aug 14 - [Funding Open Source like public infrastructure](https://dri.es/funding-open-source-like-public-infrastructure)
+- Aug 14 - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
 - Aug 14 - [What Medieval People Got Right About Learning (2019)](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
-- Aug 13 - [Igor Babuschkin, a co-founder of xAI, has announced his departure](https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/)
-- Aug 13 - [Open Banking and Payments Competition](https://www.bitsaboutmoney.com/archive/open-banking-and-payments-competition/)
-- Aug 13 - [NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 <!--END_SECTION:hn-->
 
 <!--
