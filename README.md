@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps](https://news.ycombinator.com/item?id=44901528)
-- Aug 14 - [Ask HN: How do you tune your personality to get better at interviews?](https://news.ycombinator.com/item?id=44901387)
-- Aug 14 - [Statement Regarding Misleading Media Reports](https://www.kodak.com/en/company/blog-post/statement-regarding-misleading-media-reports/)
-- Aug 14 - [Meta's flirty AI chatbot invited a retiree to New York](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/)
-- Aug 14 - [Jujutsu and Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
+- Aug 14 - [Steve Wozniak: 'I am the happiest person ever' and 'I never sold out'](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
+- Aug 14 - [What are the real numbers, really? (2024)](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
+- Aug 14 - ["Privacy preserving age verification" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
+- Aug 14 - [Axle (YC S22) is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
+- Aug 14 - [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
 <!--END_SECTION:hn-->
 
 <!--
