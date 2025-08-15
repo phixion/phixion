@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [Steve Wozniak: 'I am the happiest person ever' and 'I never sold out'](https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466)
-- Aug 14 - [What are the real numbers, really? (2024)](https://www.infinitelymore.xyz/p/what-are-the-real-numbers-really)
-- Aug 14 - ["Privacy preserving age verification" is bullshit](https://pluralistic.net/2025/08/14/bellovin/)
-- Aug 14 - [Axle (YC S22) is hiring product engineers](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer)
-- Aug 14 - [Show HN: Modelence – Supabase for MongoDB](https://github.com/modelence/modelence)
+- Aug 14 - [The AI Was Fed Sloppy Code. It Turned into Something Evil](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
+- Aug 14 - [Blurry rendering of games on Mac](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
+- Aug 14 - [We rewrote the Ghostty GTK application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
+- Aug 14 - [Time travel is self-suppressing](https://arxiv.org/abs/2508.09157)
+- Aug 14 - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
