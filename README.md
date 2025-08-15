@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-- Aug 15 - [Are you willing to pay $100k a year per developer on AI?](https://www.theregister.com/2025/08/15/are_you_willing_to_pay/)
-- Aug 15 - [Some users report their Firefox browser is scoffing CPU power](https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/)
-- Aug 15 - [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
-- Aug 15 - [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
+- Aug 15 - [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
+- Aug 15 - [The Electric Fence Stopped Working Years Ago](https://soonly.com/electric-fences/)
+- Aug 15 - [Do Things That Don't Scale](https://paulgraham.com/ds.html)
+- Aug 15 - [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
+- Aug 15 - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
 <!--END_SECTION:hn-->
 
 <!--
