@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 15 - [Should we remove XSLT from the web platform?](https://github.com/whatwg/html/issues/11523)
+- Aug 15 - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
+- Aug 15 - [South Park creator’s 2007 digital ad revenue sharing clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
+- Aug 15 - [Teenage Engineering's free computer case](https://teenage.engineering/store/computer-2)
 - Aug 15 - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
-- Aug 15 - [I used to know how to write in Japanese](https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese)
-- Aug 15 - [The secret code behind the CIA's Kryptos puzzle is up for sale](https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451)
-- Aug 14 - [The new science of “emergent misalignment”](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
-- Aug 14 - [Citybound: City building game, microscopic models to vividly simulate organism](https://aeplay.org/citybound)
 <!--END_SECTION:hn-->
 
 <!--
