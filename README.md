@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Letting inmates run the asylum: Using AI to secure AI](https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/)
-- Aug 15 - [The Electric Fence Stopped Working Years Ago](https://soonly.com/electric-fences/)
-- Aug 15 - [Do Things That Don't Scale](https://paulgraham.com/ds.html)
-- Aug 15 - [The beauty of a text only webpage](https://albanbrooke.com/the-beauty-of-a-text-only-webpage/)
-- Aug 15 - [ADHD drug treatment and risk of negative events and outcomes](https://www.bmj.com/content/390/bmj-2024-083658)
+- Aug 15 - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
+- Aug 15 - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
+- Aug 15 - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
+- Aug 15 - [Launch HN: Embedder (YC S25) – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
+- Aug 15 - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
 <!--END_SECTION:hn-->
 
 <!--
