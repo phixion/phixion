@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Should we remove XSLT from the web platform?](https://github.com/whatwg/html/issues/11523)
-- Aug 15 - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
-- Aug 15 - [South Park creator’s 2007 digital ad revenue sharing clause](https://www.readtrung.com/p/south-park-and-the-greatest-tv-contract)
-- Aug 15 - [Teenage Engineering's free computer case](https://teenage.engineering/store/computer-2)
-- Aug 15 - [Time to End Roundtripping by Big Pharma](https://www.cfr.org/blog/time-end-roundtripping-big-pharma)
+- Aug 15 - [Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+- Aug 15 - [Are you willing to pay $100k a year per developer on AI?](https://www.theregister.com/2025/08/15/are_you_willing_to_pay/)
+- Aug 15 - [Some users report their Firefox browser is scoffing CPU power](https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/)
+- Aug 15 - [The U.S. grid is so weak, the AI race may be over](https://fortune.com/2025/08/14/data-centers-china-grid-us-infrastructure/)
+- Aug 15 - [Swiss vs. UK approach to major tranport projects](https://www.freewheeling.info/blog/swiss-hs2)
 <!--END_SECTION:hn-->
 
 <!--
