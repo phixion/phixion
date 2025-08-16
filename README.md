@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
-- Aug 16 - [PuTTY has a new website](https://putty.software/)
-- Aug 16 - [Best Practices for Building Agentic AI Systems](https://userjot.com/blog/best-practices-building-agentic-ai-systems)
-- Aug 15 - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
-- Aug 15 - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
+- Aug 16 - [Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405)
+- Aug 16 - [KDE is removing all colorful third-party app icons from its Breeze icon theme](https://www.neowin.net/news/kde-is-removing-all-of-the-colorful-third-party-app-icons-from-its-breeze-icon-theme/)
+- Aug 16 - [African Union joins calls to end use of Mercator map that shrinks Africa's size](https://www.theguardian.com/world/2025/aug/15/african-union-true-size-world-map-replace-mercator-version)
+- Aug 16 - [Microsoft keeps adding stuff into Windows we don't need](https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/)
+- Aug 16 - [Traps to Developers](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers)
 <!--END_SECTION:hn-->
 
 <!--
