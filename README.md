@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [Entities enabling scientific fraud at scale are large, and growing rapidly](https://www.pnas.org/doi/10.1073/pnas.2420092122)
-- Aug 15 - [OpenBSD is so fast, I had to modify the program slightly to measure itself](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
-- Aug 15 - [Show HN: JMAP MCP – Email for your agents](https://github.com/wyattjoh/jmap-mcp)
-- Aug 15 - [Launch HN: Embedder (YC S25) – Claude code for embedded software](https://news.ycombinator.com/item?id=44915206)
-- Aug 15 - [Imagen 4 is now generally available](https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/)
+- Aug 15 - [A privacy VPN you can verify](https://vp.net/l/en-US/blog/Don%27t-Trust-Verify)
+- Aug 15 - [California unemployment rises to 5.5%, worst in the U.S. as tech falters](https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php)
+- Aug 15 - [TextKit 2 – The Promised Land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
+- Aug 15 - [F-16s lose out as Thai Air Force seals deal for Swedish Gripen jets](https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets)
+- Aug 15 - [Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot](https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/)
 <!--END_SECTION:hn-->
 
 <!--
