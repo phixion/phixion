@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 17 - [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
+- Aug 17 - [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
+- Aug 17 - [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
+- Aug 17 - [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
 - Aug 16 - [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
-- Aug 16 - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
-- Aug 16 - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
-- Aug 16 - [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
-- Aug 16 - [Apple's new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
 <!--END_SECTION:hn-->
 
 <!--
