@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Robin Lakoff, expert on language and gender, dead at 82](https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html)
-- Aug 17 - [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
-- Aug 17 - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
-- Aug 17 - [Sharp Hubble Images Confirm 3I/Atlas as Comet](https://www.sciencealert.com/nasa-probe-could-intercept-interstellar-comet-scientists-say)
-- Aug 17 - [Electricity prices are climbing more than twice as fast as inflation](https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai)
+- Aug 17 - [When Did AI Take Over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
+- Aug 17 - ['Safety Today Is a Luxury,' Giorgetto Giugiaro Says After His Crash](https://www.jalopnik.com/1930930/giorgetto-giugiaro-crash-op-ed/)
+- Aug 17 - [ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs](https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql)
+- Aug 17 - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
+- Aug 17 - [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
 <!--END_SECTION:hn-->
 
 <!--
