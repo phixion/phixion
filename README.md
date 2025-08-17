@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Hardening Systemd Services](https://us.jlcarveth.dev/post/hardening-systemd.md)
+- Aug 17 - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
+- Aug 17 - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
 - Aug 17 - [Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move](https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/)
 - Aug 17 - [Passive Microwave Repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 - Aug 17 - [GDPR meant nothing: chat control ends privacy for the EU [video]](https://www.youtube.com/watch?v=3NyUgv6dpJc)
-- Aug 16 - [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
 <!--END_SECTION:hn-->
 
 <!--
