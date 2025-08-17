@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
-- Aug 17 - [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
-- Aug 17 - [Nuvistor Valves](http://www.r-type.org/articles/art-150.htm)
-- Aug 17 - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
-- Aug 17 - [OpenAI Misled You on RLHF](https://aerial-toothpaste-34a.notion.site/How-OpenAI-Misled-You-on-RLHF-1f83f742d9dd80a68129d06503464aff)
+- Aug 17 - [Robin Lakoff, expert on language and gender, dead at 82](https://www.nytimes.com/2025/08/15/us/robin-lakoff-dead.html)
+- Aug 17 - [Show HN: Fallinorg - Offline Mac app that organizes files by meaning](https://fallinorg.com/#)
+- Aug 17 - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
+- Aug 17 - [Sharp Hubble Images Confirm 3I/Atlas as Comet](https://www.sciencealert.com/nasa-probe-could-intercept-interstellar-comet-scientists-say)
+- Aug 17 - [Electricity prices are climbing more than twice as fast as inflation](https://www.npr.org/2025/08/16/nx-s1-5502671/electricity-bill-high-inflation-ai)
 <!--END_SECTION:hn-->
 
 <!--
