@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Pirate Library Operator Arrested, Study Canceled for 330K Members](https://torrentfreak.com/pirate-library-operator-arrested-study-canceled-for-330k-members-250814/)
-- Aug 16 - [Office on HP-UX and Unix](https://www.openpa.net/hp-ux_office.html)
-- Aug 16 - [Living with 12 Strangers to Ease a Housing Crunch](http://www.bloomberg.com/news/articles/2025-08-15/cohousing-in-europe-is-helping-ease-the-housing-crunch)
-- Aug 16 - [Show HN: Lue – Terminal eBook Reader with Text-to-Speech](https://github.com/superstarryeyes/lue)
-- Aug 16 - [One person was able to claim 20M IPs, or 9% of all IPv4 hosts](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS/#MMCCEQKA4UPGGWFWEBWLYKHTYCAOQIZS)
+- Aug 16 - [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
+- Aug 16 - [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
+- Aug 16 - [Living with Williams Syndrome, the 'opposite of autism' (2014)](https://www.bbc.com/news/health-26888280)
+- Aug 16 - [Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi](http://unsafehttp.benren.au)
+- Aug 16 - [Apple's new Processor Trace instrument is incredible](https://victorwynne.com/processor-trace-instrument/)
 <!--END_SECTION:hn-->
 
 <!--
