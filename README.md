@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Unification](https://eli.thegreenplace.net/2018/unification/)
+- Aug 18 - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
+- Aug 18 - [Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner](https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/)
+- Aug 18 - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 - Aug 18 - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
-- Aug 18 - [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
-- Aug 18 - [Mangle – a language for deductive database programming](https://github.com/google/mangle)
-- Aug 18 - [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
-- Aug 17 - [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
 <!--END_SECTION:hn-->
 
 <!--
