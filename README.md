@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Why It's OK to Block Ads (2015)](https://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/)
-- Aug 17 - [The decline of high-tech manufacturing in the United States](https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing)
+- Aug 18 - [Google admits anti-competitive conduct involving Google Search in Australia](https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia)
+- Aug 18 - [NUMA Is the New Network: Reshaping Per-Socket Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
+- Aug 18 - [Mangle – a language for deductive database programming](https://github.com/google/mangle)
+- Aug 18 - [Clojure Async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
 - Aug 17 - [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
-- Aug 17 - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
-- Aug 17 - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 <!--END_SECTION:hn-->
 
 <!--
