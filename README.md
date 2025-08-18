@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [When Did AI Take Over Hacker News?](https://zachperk.com/blog/when-did-ai-take-over-hn)
-- Aug 17 - ['Safety Today Is a Luxury,' Giorgetto Giugiaro Says After His Crash](https://www.jalopnik.com/1930930/giorgetto-giugiaro-crash-op-ed/)
-- Aug 17 - [ClickHouse matches PG for single-row UPDATEs and 4000 x faster for bulk UPDATEs](https://clickhouse.com/blog/update-performance-clickhouse-vs-postgresql)
-- Aug 17 - [ArchiveTeam has finished archiving all goo.gl short links](https://tracker.archiveteam.org/goo-gl/)
-- Aug 17 - [Claudia – Desktop companion for Claude code](https://claudiacode.com/)
+- Aug 17 - [Why It's OK to Block Ads (2015)](https://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/)
+- Aug 17 - [The decline of high-tech manufacturing in the United States](https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing)
+- Aug 17 - [AI vs. Professional Authors Results](http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html)
+- Aug 17 - [Llama-Scan: Convert PDFs to Text W Local LLMs](https://github.com/ngafar/llama-scan)
+- Aug 17 - [HN Search isn't ingesting new data since Friday](https://github.com/algolia/hn-search/issues/248)
 <!--END_SECTION:hn-->
 
 <!--
