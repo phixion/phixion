@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
+- Aug 19 - [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
+- Aug 19 - [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
+- Aug 19 - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
+- Aug 19 - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 - Aug 19 - [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
-- Aug 18 - [HR Giant Workday Got Hacked](https://gizmodo.com/hr-giant-workday-got-hacked-2000644474)
-- Aug 18 - [What could have been](https://coppolaemilio.com/entries/what-could-have-been/)
-- Aug 18 - [Shamelessness as a strategy (2019)](https://nadia.xyz/shameless)
 <!--END_SECTION:hn-->
 
 <!--
