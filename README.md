@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
+- Aug 19 - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 - Aug 19 - [Prime Number Grid](https://susam.net/primegrid.html)
 - Aug 19 - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
 - Aug 19 - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
-- Aug 19 - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
-- Aug 19 - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
 <!--END_SECTION:hn-->
 
 <!--
