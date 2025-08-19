@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
-- Aug 19 - [Chrome intends to remove XSLT from the HTML spec](https://github.com/whatwg/html/pull/11563)
-- Aug 19 - [Without the Futex, It's Futile](https://h4x0r.org/futex/)
-- Aug 19 - [Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering](https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27)
-- Aug 19 - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
+- Aug 19 - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
+- Aug 19 - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
+- Aug 19 - [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
+- Aug 19 - [Medical cannabis patient data exposed by unsecured database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
+- Aug 19 - [Notion releases offline mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
 <!--END_SECTION:hn-->
 
 <!--
