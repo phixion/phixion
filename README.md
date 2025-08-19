@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Starting game development in JavaScript with no experience](https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript)
-- Aug 19 - [OpenMower – An Open Source Lawn Mower](https://github.com/ClemensElflein/OpenMower)
+- Aug 19 - [Prime Number Grid](https://susam.net/primegrid.html)
+- Aug 19 - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
+- Aug 19 - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
 - Aug 19 - [A general Fortran code for solutions of problems in space mechanics [pdf]](https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf)
 - Aug 19 - [Ted Chiang: The Secret Third Thing](https://linch.substack.com/p/ted-chiang-review)
-- Aug 19 - [Croatian freediver held breath for 29 minutes](https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/)
 <!--END_SECTION:hn-->
 
 <!--
