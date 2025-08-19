@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
-- Aug 19 - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
-- Aug 19 - [Prime Number Grid](https://susam.net/primegrid.html)
-- Aug 19 - [How to Build a Medieval Castle](https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/)
-- Aug 19 - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
+- Aug 19 - [Launch HN: Parachute (YC S25) – Guardrails for Clinical AI](https://news.ycombinator.com/item?id=44952246)
+- Aug 19 - [Chrome intends to remove XSLT from the HTML spec](https://github.com/whatwg/html/pull/11563)
+- Aug 19 - [Without the Futex, It's Futile](https://h4x0r.org/futex/)
+- Aug 19 - [Attention Is the New Big-O: A Systems Design Approach to Prompt Engineering](https://alexchesser.medium.com/attention-is-the-new-big-o-9c68e1ae9b27)
+- Aug 19 - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
 <!--END_SECTION:hn-->
 
 <!--
