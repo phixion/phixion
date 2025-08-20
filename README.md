@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Tiny Microbe Challenges the Definition of Cellular Life](https://nautil.us/a-rogue-new-life-form-1232095/)
+- Aug 20 - [We’re Not So Special: A new book challenges human exceptionalism](https://democracyjournal.org/magazine/78/were-not-so-special/)
+- Aug 20 - [Copilot broke audit logs, but Microsoft won't tell customers](https://pistachioapp.com/blog/copilot-broke-your-audit-log)
+- Aug 20 - [AGENTS.md – Open format for guiding coding agents](https://agents.md/)
+- Aug 19 - [Tiny microbe challenges the definition of cellular life](https://nautil.us/a-rogue-new-life-form-1232095/)
 - Aug 19 - [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
-- Aug 19 - [The forgotten meaning of "jerk"](https://languagehat.com/the-forgotten-meaning-of-jerk/)
-- Aug 19 - [Drunken Bishop (2023)](https://re.factorcode.org/2023/08/drunken-bishop.html)
-- Aug 19 - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
 <!--END_SECTION:hn-->
 
 <!--
