@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [Tiny Microbe Challenges the Definition of Cellular Life](https://nautil.us/a-rogue-new-life-form-1232095/)
+- Aug 19 - [How to Draw a Space Invader](https://muffinman.io/blog/invaders/)
+- Aug 19 - [The forgotten meaning of "jerk"](https://languagehat.com/the-forgotten-meaning-of-jerk/)
+- Aug 19 - [Drunken Bishop (2023)](https://re.factorcode.org/2023/08/drunken-bishop.html)
 - Aug 19 - [Perfect Freehand – Draw perfect pressure-sensitive freehand lines](https://www.perfectfreehand.com/)
-- Aug 19 - [Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life](https://github.com/openai/openai-reflect)
-- Aug 19 - [The SSO Wall of Shame – Vendors that treat SSO as luxury feature](https://sso.tax/)
-- Aug 19 - [Medical cannabis patient data exposed by unsecured database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
-- Aug 19 - [Notion releases offline mode](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know)
 <!--END_SECTION:hn-->
 
 <!--
