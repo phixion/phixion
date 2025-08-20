@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [OPA maintainers and Styra employees hired by Apple](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
-- Aug 20 - [Closer to the Metal: Leaving Playwright for CDP](https://browser-use.com/posts/playwright-to-cdp)
-- Aug 20 - [AWS in 2025: The Stuff You Think You Know That's Now Wrong](https://www.lastweekinaws.com/blog/aws-in-2025-the-stuff-you-think-you-know-thats-now-wrong/)
-- Aug 20 - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
-- Aug 20 - [Gemma 3 270M re-implemented in pure PyTorch for local tinkering](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3)
+- Aug 20 - [Introduction to Bluesky's AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
+- Aug 20 - [Zedless: Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
+- Aug 20 - [Lean proof of Fermat's Last Theorem [pdf]](https://imperialcollegelondon.github.io/FLT/blueprint.pdf)
+- Aug 20 - [Zed for Windows: What's Taking So Long?](https://zed.dev/blog/windows-progress-report)
+- Aug 20 - [Show HN: Bizcardz.ai – Custom metal business cards](https://github.com/rhodey/bizcardz.ai)
 <!--END_SECTION:hn-->
 
 <!--
