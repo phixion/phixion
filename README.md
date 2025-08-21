@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering](https://careers.activeloop.ai/)
-- Aug 21 - [Margin Debt Surges 9.5% in June to Record High](https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025)
-- Aug 21 - [Mark Zuckerberg freezes AI hiring amid bubble fears](https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/)
-- Aug 21 - [AI Mode in Search gets new agentic features and expands globally](https://blog.google/products/search/ai-mode-agentic-personalized/)
-- Aug 21 - [Using Podman, Compose and BuildKit](https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/)
+- Aug 21 - [Grug Design](https://www.grug.design/know)
+- Aug 21 - [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
+- Aug 21 - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
+- Aug 21 - [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era)
+- Aug 21 - [The unbearable slowness of AI coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
 <!--END_SECTION:hn-->
 
 <!--
