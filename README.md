@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [It's Not Wrong that " ".length == 7](https://hsivonen.fi/string-length/)
-- Aug 22 - [Is moderate drinking healthy? Scientists say the idea is outdated](https://news.stanford.edu/stories/2025/08/moderate-alcohol-consumption-drinking-health-benefits-impacts-research)
+- Aug 22 - [4chan will refuse to pay daily online safety fines, lawyer tells BBC](https://www.bbc.co.uk/news/articles/cq68j5g2nr1o)
+- Aug 22 - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
+- Aug 22 - [LabPlot: Free, open source and cross-platform Data Visualization and Analysis](https://labplot.org/)
+- Aug 22 - [The Minecraft code no one has solved (2024) [video]](https://www.youtube.com/watch?v=nz2LeXwJOyI)
 - Aug 22 - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
-- Aug 22 - [Everything Is Correlated](https://gwern.net/everything)
-- Aug 22 - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
 <!--END_SECTION:hn-->
 
 <!--
