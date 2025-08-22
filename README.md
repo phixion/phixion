@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 22 - [Vibe Debugging: Enterprises' Up and Coming Nightmare](https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and)
-- Aug 22 - [FFmpeg 8.0](https://ffmpeg.org/index.html#pr8.0)
-- Aug 22 - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
-- Aug 22 - [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
-- Aug 22 - [Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics](https://news.ycombinator.com/item?id=44984096)
+- Aug 22 - [Harper Evolves](https://elijahpotter.dev/articles/harper_evolves)
+- Aug 22 - [Scientists just found a protein that reverses brain aging](https://www.sciencedaily.com/releases/2025/08/250820000808.htm)
+- Aug 22 - [Should the web platform adopt XSLT 3.0?](https://github.com/whatwg/html/issues/11578)
+- Aug 22 - [Sprinkling self-doubt on ChatGPT](https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/)
+- Aug 22 - [XSLT removal will break multiple government and regulatory sites](https://github.com/whatwg/html/issues/11582)
 <!--END_SECTION:hn-->
 
 <!--
