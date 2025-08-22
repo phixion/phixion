@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Grug Design](https://www.grug.design/know)
-- Aug 21 - [DeepSeek-v3.1 Release](https://api-docs.deepseek.com/news/news250821)
-- Aug 21 - [AI tooling must be disclosed for contributions](https://github.com/ghostty-org/ghostty/pull/8289)
-- Aug 21 - [Building AI products in the probabilistic era](https://giansegato.com/essays/probabilistic-era)
-- Aug 21 - [The unbearable slowness of AI coding](https://joshuavaldez.com/the-unbearable-slowness-of-ai-coding/)
+- Aug 21 - [From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]](https://www.fertrevino.com/docs/gpt5_medhelm.pdf)
+- Aug 21 - [The Onion Brought Back Its Print Edition. The Gamble Is Paying Off](https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c)
+- Aug 21 - [Mirage 2 – Generative World Engine](https://demo.dynamicslab.ai/chaos)
+- Aug 21 - [Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies](https://splice-cad.com)
+- Aug 21 - [Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer)
 <!--END_SECTION:hn-->
 
 <!--
