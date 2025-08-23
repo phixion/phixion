@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
-- Aug 23 - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
-- Aug 23 - [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)
-- Aug 23 - [A visual history of Visual C++ (2017)](http://www.malsmith.net/blog/visual-c-visual-history/)
-- Aug 23 - [Measuring the environmental impact of AI inference](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
+- Aug 23 - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
+- Aug 23 - [Self-driving cars begin testing on NYC streets](https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/)
+- Aug 23 - [I Made a Floppy Disk from Scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
+- Aug 23 - [Developer's block](https://underlap.org/developers-block/)
+- Aug 23 - [Building a computer in the 90s (2019)](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
 <!--END_SECTION:hn-->
 
 <!--
