@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
-- Aug 23 - [Self-driving cars begin testing on NYC streets](https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/)
-- Aug 23 - [I Made a Floppy Disk from Scratch](https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch)
-- Aug 23 - [Developer's block](https://underlap.org/developers-block/)
-- Aug 23 - [Building a computer in the 90s (2019)](https://dfarq.homeip.net/building-a-computer-in-the-90s/)
+- Aug 23 - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
+- Aug 23 - [Using game theory to explain how institutions arise to manage limited resources](https://phys.org/news/2025-08-game-theory-naturally-limited-resources.html)
+- Aug 23 - [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
+- Aug 23 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
+- Aug 23 - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
 <!--END_SECTION:hn-->
 
 <!--
