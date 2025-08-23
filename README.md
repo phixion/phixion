@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Waitgroups: What they are, how to use them and what changed with Go 1.25](https://mfbmina.dev/en/posts/waitgroups/)
-- Aug 23 - [Using game theory to explain how institutions arise to manage limited resources](https://phys.org/news/2025-08-game-theory-naturally-limited-resources.html)
-- Aug 23 - [Show HN: I Made the Hardest Focus App](https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044)
-- Aug 23 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
-- Aug 23 - [Writing Speed-of-Light Flash Attention for 5090 in CUDA C++](https://gau-nernst.github.io/fa-5090/)
+- Aug 23 - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
+- Aug 23 - [Bild AI (YC W25) Is Hiring an Applied AI Engineer](https://www.workatastartup.com/jobs/75647)
+- Aug 23 - [Libre – An anonymous social experiment without likes, followers, or ads](https://libreantisocial.com)
+- Aug 23 - [I hacked Monster Energy](https://bobdahacker.com/blog/monster-energy)
+- Aug 23 - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
 <!--END_SECTION:hn-->
 
 <!--
