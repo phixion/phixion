@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Japan city drafts ordinance to cap smartphone use at 2 hours per day](https://english.kyodonews.net/articles/-/59582)
-- Aug 23 - [My tips for using LLM agents to create software](https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html)
-- Aug 23 - [Computer fraud laws used to prosecute leaking air crash footage to CNN](https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/)
-- Aug 22 - [Popular Japanese smartphone games have introduced external payment systems](https://english.kyodonews.net/articles/-/59689)
-- Aug 22 - [Mail Carriers Pause US Deliveries as Tariff Shift Sows Confusion](https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end)
+- Aug 23 - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+- Aug 23 - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
+- Aug 23 - [Show HN: OctaneDB – Fast, Open-Source Vector Database for Python](https://github.com/RijinRaju/octanedb)
+- Aug 23 - [A visual history of Visual C++ (2017)](http://www.malsmith.net/blog/visual-c-visual-history/)
+- Aug 23 - [Measuring the environmental impact of AI inference](https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/)
 <!--END_SECTION:hn-->
 
 <!--
