@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [What makes Claude Code so damn good](https://minusx.ai/blog/decoding-claude-code/)
-- Aug 23 - [Bild AI (YC W25) Is Hiring an Applied AI Engineer](https://www.workatastartup.com/jobs/75647)
-- Aug 23 - [Libre – An anonymous social experiment without likes, followers, or ads](https://libreantisocial.com)
-- Aug 23 - [I hacked Monster Energy](https://bobdahacker.com/blog/monster-energy)
-- Aug 23 - [Line scan camera image processing for train photography](https://daniel.lawrence.lu/blog/y2025m09d21/)
+- Aug 23 - [Actually Good Regulations](https://www.actuallygoodregulations.eu/)
+- Aug 23 - [Interruptions cost 23 minutes 15 seconds, right?](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
+- Aug 23 - [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
+- Aug 23 - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
+- Aug 23 - [The Amiga games and demo scene collection](https://amiga.vision/)
 <!--END_SECTION:hn-->
 
 <!--
