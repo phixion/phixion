@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
-- Aug 24 - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
-- Aug 24 - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
-- Aug 24 - [Valve Software handbook for new employees [pdf] (2012)](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
-- Aug 24 - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
+- Aug 24 - [Comet AI browser can get prompt injected from any site, drain your bank account](https://twitter.com/zack_overflow/status/1959308058200551721)
+- Aug 24 - [Deep Think with Confidence](https://arxiviq.substack.com/p/deep-think-with-confidence)
+- Aug 24 - [US attack on renewables will lead to power crunch that spikes electricity prices](https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html)
+- Aug 24 - [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
+- Aug 24 - [Germany's Copyright Clearing House now requires courts for website blocks](https://www.heise.de/en/news/Copyright-clearing-house-Committee-for-website-blocking-to-rely-on-judiciary-10490128.html)
 <!--END_SECTION:hn-->
 
 <!--
