@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
-- Aug 24 - [Buy a Faster CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
-- Aug 24 - [Equal Earth – Political Wall Map (2018)](https://equal-earth.com/index.html)
-- Aug 24 - [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
-- Aug 24 - [Mob Programming](https://mobprogramming.org/)
+- Aug 24 - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
+- Aug 24 - [A German ISP tampered with their DNS – specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
+- Aug 24 - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
+- Aug 24 - [Valve Software handbook for new employees [pdf] (2012)](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- Aug 24 - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
 <!--END_SECTION:hn-->
 
 <!--
