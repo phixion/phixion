@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
-- Aug 24 - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
-- Aug 24 - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
-- Aug 24 - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
-- Aug 24 - [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
+- Aug 24 - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
+- Aug 24 - [Buy a Faster CPU](https://blog.howardjohn.info/posts/buy-a-cpu/)
+- Aug 24 - [Equal Earth – Political Wall Map (2018)](https://equal-earth.com/index.html)
+- Aug 24 - [Wildthing – A model trained on role-reversed ChatGPT conversations](https://youaretheassistantnow.com/)
+- Aug 24 - [Mob Programming](https://mobprogramming.org/)
 <!--END_SECTION:hn-->
 
 <!--
