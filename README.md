@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Actually Good Regulations](https://www.actuallygoodregulations.eu/)
-- Aug 23 - [Interruptions cost 23 minutes 15 seconds, right?](https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html)
-- Aug 23 - [Gutenprint Discontinues macOS Support](https://gimp-print.sourceforge.io/p_FAQ_OS_X.php)
-- Aug 23 - [Motion (YC W20) Is Hiring Senior Software Engineers](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn)
-- Aug 23 - [The Amiga games and demo scene collection](https://amiga.vision/)
+- Aug 24 - [Show HN: How to Build a Coding Agent (free workshop)](https://ghuntley.com/agent/)
+- Aug 24 - [I built a tiny mac app to monitor and manage my development processes](https://github.com/kagehq/port-kill)
+- Aug 24 - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet](https://brave.com/blog/comet-prompt-injection/)
+- Aug 24 - [DeepCode: Open Agentic Coding](https://github.com/HKUDS/DeepCode)
+- Aug 24 - [Evaluating LLMs for my personal use case](https://darkcoding.net/software/personal-ai-evals-aug-2025/)
 <!--END_SECTION:hn-->
 
 <!--
