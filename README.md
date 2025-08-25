@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Agent-C: a 4KB AI agent](https://github.com/bravenewxyz/agent-c)
+- Aug 25 - [Cornell's world-first 'microwave brain' computes differently](https://newatlas.com/computers/cornell-microwave-brain/)
+- Aug 25 - [We Put Agentic AI Browsers to the Test – They Clicked, They Paid, They Failed](https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed)
 - Aug 25 - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
-- Aug 25 - [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
-- Aug 25 - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
 - Aug 25 - [Ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
-- Aug 25 - [Git-Annex](https://git-annex.branchable.com/)
 <!--END_SECTION:hn-->
 
 <!--
