@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye](https://dseltzer.gitlab.io/sping/docs/)
-- Aug 24 - [Vanguard hits new 'Bans-Per-Second' record](https://playvalorant.com/en-us/news/dev/vanguard-hits-new-bans-per-second-record/)
-- Aug 24 - [Ghrc.io Appears to Be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
-- Aug 24 - [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)
-- Aug 24 - [GNU cross-tools: musl-cross 313.3M](https://github.com/cross-tools/musl-cross)
+- Aug 25 - [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
+- Aug 25 - [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
+- Aug 24 - [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
+- Aug 24 - [Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
+- Aug 24 - [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 <!--END_SECTION:hn-->
 
 <!--
