@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Barking Up the Ratchet Tree – MLS Is Neither Royal nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
-- Aug 25 - [Hundreds lose water source in Colorado's poorest county with no notice](https://coloradosun.com/2025/08/25/costilla-county-water-cutoff/)
-- Aug 25 - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
-- Aug 25 - [Japan's Creepiest Station](https://www.tokyocowboy.co/articles/doai-eki-japans-creepiest-station)
-- Aug 25 - [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
+- Aug 25 - [Meta just suspended the Facebook account of Neal Stephenson](https://twitter.com/nealstephenson/status/1959759051732213812)
+- Aug 25 - [Google to require developer verification to install and sideload Android apps](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
+- Aug 25 - [With AI chatbots, Big Tech is moving fast and breaking people](https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/)
+- Aug 25 - [Google's Liquid Cooling](https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips)
+- Aug 25 - [IBM's Power11 Processor Architecture at Hot Chips 2025](https://www.servethehome.com/ibms-power11-processor-architecture-at-hot-chips-2025/)
 <!--END_SECTION:hn-->
 
 <!--
