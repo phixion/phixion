@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Paracetamol disrupts early embryogenesis by cell cycle inhibition](https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396)
-- Aug 24 - [Bring Back the Blue-Book Exam](https://www.chronicle.com/article/bring-back-the-blue-book-exam)
-- Aug 24 - [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
-- Aug 24 - [People stuck using ancient Windows computers](https://www.bbc.com/future/article/20250516-the-people-stuck-using-ancient-windows-computers)
-- Aug 24 - [Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?](https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/)
+- Aug 24 - [Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye](https://dseltzer.gitlab.io/sping/docs/)
+- Aug 24 - [Vanguard hits new 'Bans-Per-Second' record](https://playvalorant.com/en-us/news/dev/vanguard-hits-new-bans-per-second-record/)
+- Aug 24 - [Ghrc.io Appears to Be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
+- Aug 24 - [Introducing: VuIO – open-source UPNP/DLNA server written in Rust](https://github.com/vuiodev/vuio)
+- Aug 24 - [GNU cross-tools: musl-cross 313.3M](https://github.com/cross-tools/musl-cross)
 <!--END_SECTION:hn-->
 
 <!--
