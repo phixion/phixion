@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [The Unix-Haters Handbook (1994) [pdf]](https://simson.net/ref/ugh.pdf)
-- Aug 25 - [Prison isn’t set up for today’s tech so we have to do legal work the old way](https://prisonjournalismproject.org/2025/08/19/prisons-outdated-technology-hurts-our-chances-at-freedom/)
-- Aug 24 - [How to check if your Apple Silicon Mac is booting securely](https://eclecticlight.co/2025/08/21/how-to-check-if-your-apple-silicon-mac-is-booting-securely/)
-- Aug 24 - [Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye](https://dseltzer.gitlab.io/sping/docs/)
-- Aug 24 - [Ghrc.io appears to be malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
+- Aug 25 - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
+- Aug 25 - [Buypass Discontinues Issuance of TLS/SSL Certificates](https://www.buypass.com/products/tls-ssl-certificates/discontinues-issuance-of-tls-ssl-certificates)
+- Aug 25 - [MCP Gateway and Registry](https://github.com/IBM/mcp-context-forge)
+- Aug 25 - [Ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
+- Aug 25 - [Git-Annex](https://git-annex.branchable.com/)
 <!--END_SECTION:hn-->
 
 <!--
