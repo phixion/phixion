@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA&s=19)
-- Aug 26 - [Interactive Map of Paul's First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
-- Aug 26 - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
-- Aug 26 - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
-- Aug 26 - [Will Smith's concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
+- Aug 26 - [SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote)](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7)
+- Aug 26 - [US threatens extra tariffs, export bans, for nations that regulate Big Tech](https://www.theregister.com/2025/08/26/trump_tech_tax_threat/)
+- Aug 26 - ['Ten Martini' Proof Uses Number Theory to Explain Quantum Fractals](https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/)
+- Aug 26 - [Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step](https://markdown-ui.com/)
+- Aug 26 - [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 <!--END_SECTION:hn-->
 
 <!--
