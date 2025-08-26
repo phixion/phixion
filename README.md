@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Exploring the tragedy of the Counter-Strike 2 server browser](https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/)
-- Aug 25 - [A short proof of the Hairy Ball theorem (2016) [pdf]](https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf)
-- Aug 25 - [Social media's next evolution: decentralized, open-source, and scalable](https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of)
-- Aug 25 - [Llama Fund: Crowdfund AI Models](https://llama.fund)
-- Aug 25 - [Make the Easy Change Hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
+- Aug 26 - [Apple vs. Facebook Is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
+- Aug 26 - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
+- Aug 26 - [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
+- Aug 26 - [macOS 26 Tahoe's Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
+- Aug 25 - [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
 <!--END_SECTION:hn-->
 
 <!--
