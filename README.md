@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Apple vs. Facebook Is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
-- Aug 26 - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
-- Aug 26 - [Climbing catfish filmed scaling waterfalls](https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls)
-- Aug 26 - [macOS 26 Tahoe's Dead Canary Utility App Icons](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons)
-- Aug 25 - [WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi](https://github.com/MaliosDark/wifi-3d-fusion)
+- Aug 26 - [Thailand Is Using Long Range Acoustic Devices (LRAD)](https://twitter.com/BongSeiha/status/1959953357277470757?t=kKBVeXW8s6CJNg7Wv4TonA&s=19)
+- Aug 26 - [Interactive Map of Paul's First Century Travels in Roman World](https://www.intofarlands.com/map-of-pauls-journeys)
+- Aug 26 - [Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS](https://github.com/pandax381/xv6-riscv-net)
+- Aug 26 - [macOS dotfiles should not go in –/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
+- Aug 26 - [Will Smith's concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
 <!--END_SECTION:hn-->
 
 <!--
