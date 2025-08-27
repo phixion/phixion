@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
-- Aug 27 - [Whistleblower says DOGE officials copied Social Security numbers](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
-- Aug 27 - [Uncomfortable Questions About Android Developer Verification](https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html)
-- Aug 27 - [The man with a Home Computer (1967) [video]](https://www.youtube.com/watch?v=w6Ka42eyudA)
-- Aug 27 - [Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript](https://github.com/JakeRoggenbuck/regolith)
+- Aug 27 - [Ember (YC F24) Is Hiring Full Stack Engineer](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026)
+- Aug 27 - [F-35 pilot held 50-minute airborne conference call with engineers before crash](https://www.cnn.com/2025/08/27/us/alaska-f-35-crash-accident-report-hnk-ml)
+- Aug 27 - [QEMU 10.1.0](https://wiki.qemu.org/ChangeLog/10.1)
+- Aug 27 - [Monodraw](https://monodraw.helftone.com/)
+- Aug 27 - [Word documents will be saved to the cloud automatically on Windows going forward](https://www.ghacks.net/2025/08/27/your-word-documents-will-be-saved-to-the-cloud-automatically-on-windows-going-forward/)
 <!--END_SECTION:hn-->
 
 <!--
