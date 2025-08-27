@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Kiwi.com releases the first commercial Flight Search MCP server](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)
-- Aug 27 - [Show HN: React Web Camera – Fix <input type=file> single-photo limit](https://shivantra.com/react-web-camera/)
-- Aug 27 - [AI Bubble 2027](https://www.wheresyoured.at/ai-bubble-2027/)
-- Aug 27 - [Apple Revokes EU Distribution Rights for an App on the Alt Store](https://torrentfreak.com/apple-revokes-eu-distribution-rights-for-torrent-client-developer-left-in-the-dark/)
-- Aug 27 - [What We Find in the Sewers](https://www.asimov.press/p/sewers)
+- Aug 27 - [I Am An AI Hater](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
+- Aug 27 - [Firefox Has Moved to Firefox.com](https://www.firefox.com)
+- Aug 27 - [Astrophysicists find no 'hair' on black holes](https://www.quantamagazine.org/astrophysicists-find-no-hair-on-black-holes-20250827/)
+- Aug 27 - [A failure of security systems at PayPal is causing concern for German banks](https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187)
+- Aug 27 - [Show HN: Chat with Nano Banana Directly from WhatsApp](https://wassist.app/agents/07429b42-e979-41a1-be07-e7be35f404de/)
 <!--END_SECTION:hn-->
 
 <!--
