@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [What happens when ambassadors are summoned by the host country?](https://politics.stackexchange.com/questions/93401/what-happens-when-ambassadors-are-summoned-by-the-foreign-ministry-of-their-host)
-- Aug 26 - [Doge uploaded live copy of Social Security database to 'vulnerable' cloud server](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
-- Aug 26 - [Claude for Chrome](https://claude.ai/chrome)
-- Aug 26 - ["special register groups" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
-- Aug 26 - [IBM and AMD Join Forces to Build the Future of Computing](https://newsroom.ibm.com/2025-08-26-ibm-and-amd-join-forces-to-build-the-future-of-computing)
+- Aug 26 - [Starship 10T minus 10 min](https://www.spacex.com/)
+- Aug 26 - [The "Wow!" signal was likely from extraterrestrial source, and more powerful](https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561)
+- Aug 26 - [Why I'm declining your AI generated MR](https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html)
+- Aug 26 - [Proposal: AI Content Disclosure Header](https://www.ietf.org/archive/id/draft-abaris-aicdh-00.html)
+- Aug 26 - [LiteLLM (YC W23) is hiring a back end engineer](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer)
 <!--END_SECTION:hn-->
 
 <!--
