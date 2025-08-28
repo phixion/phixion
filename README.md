@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
-- Aug 28 - [Bookmarks.txt is a concept of keeping URLs in plain text files](https://github.com/soulim/bookmarks.txt)
-- Aug 28 - [White House fires CDC director Monarez after she refuses to resign](https://www.cnbc.com/2025/08/27/cdc-director-susan-monarez-.html)
-- Aug 28 - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
-- Aug 27 - [Researchers find evidence of ChatGPT buzzwords turning up in everyday speech](https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/)
+- Aug 28 - [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)
+- Aug 28 - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
+- Aug 28 - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
+- Aug 28 - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
+- Aug 28 - [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/)
 <!--END_SECTION:hn-->
 
 <!--
