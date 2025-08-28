@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
-- Aug 28 - [Mosh (Mobile Shell)](https://mosh.org)
-- Aug 28 - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
-- Aug 28 - [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
-- Aug 28 - [Rendering a Game in Real-Time with AI](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
+- Aug 28 - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
+- Aug 28 - [Engineers send quantum signals with standard Internet Protocol](https://phys.org/news/2025-08-quantum-standard-internet-protocol.html)
+- Aug 28 - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
+- Aug 28 - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
+- Aug 28 - [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
 <!--END_SECTION:hn-->
 
 <!--
