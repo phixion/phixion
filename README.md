@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Show HN: I built AI that turns 4 hours of financial analysis into 30 seconds](https://duebase.com)
-- Aug 28 - [Lesser known mobile adtech domains where data is sent](https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/)
-- Aug 28 - [Sci-Hub has been blocked in India](https://sci-hub.se/sci-hub-blocked-india)
-- Aug 28 - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
-- Aug 28 - [Certificates for Onion Services](https://onionservices.torproject.org/research/proposals/usability/certificates/)
+- Aug 28 - [Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
+- Aug 28 - [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
+- Aug 28 - [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
+- Aug 28 - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
+- Aug 28 - [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
 <!--END_SECTION:hn-->
 
 <!--
