@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC)](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8)
-- Aug 28 - [The Math Behind GANs](https://jaketae.github.io/study/gan-math/)
-- Aug 28 - [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns/)
-- Aug 28 - [Fossjobs: A job board for Free and Open Source jobs](https://www.fossjobs.net/)
-- Aug 28 - [Windows 11 Update KB5063878 Causing SSD Failures](https://old.reddit.com/r/msp/comments/1n1sgxx/windows_11_update_kb5063878_causing_ssd_failures/)
+- Aug 28 - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
+- Aug 28 - [Mosh (Mobile Shell)](https://mosh.org)
+- Aug 28 - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
+- Aug 28 - [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums)
+- Aug 28 - [Rendering a Game in Real-Time with AI](https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai)
 <!--END_SECTION:hn-->
 
 <!--
