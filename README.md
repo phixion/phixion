@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [The Synology End Game](https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/)
-- Aug 29 - [Strange CW Keys](https://sites.google.com/site/oh6dccw/strangecwkeys)
-- Aug 29 - [PSA: Libxslt is unmaintained and has 5 unpatched security bugs](https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html)
-- Aug 29 - [A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
-- Aug 29 - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
+- Aug 29 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- Aug 29 - [If you have a Claude account, they're going to train on your data moving forward](https://old.reddit.com/r/LocalLLaMA/comments/1n2ubjx/if_you_have_a_claude_personal_account_they_are/)
+- Aug 29 - [Anthropic reverses privacy stance, will train on Claude chats](https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ)
+- Aug 29 - [Tesla said it didn't have key data in a fatal crash. Then a hacker found it](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/)
+- Aug 29 - [What the interns have wrought, 2025](https://blog.janestreet.com/wrought-2025/)
 <!--END_SECTION:hn-->
 
 <!--
