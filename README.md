@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [A Deep Dive into Debian 13 /tmp: What's New, and What to Do If You Don't Like It](https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/)
+- Aug 29 - [Lucky 13: a look at Debian trixie](https://lwn.net/Articles/1033474/)
+- Aug 29 - [Claude Sonnet Will Ship in Xcode](https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes)
 - Aug 28 - [Python: The Documentary](https://lwn.net/Articles/1035537/)
-- Aug 28 - [RSS Is Awesome](https://evanverma.com/rss-is-awesome)
-- Aug 28 - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
-- Aug 28 - [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
-- Aug 28 - [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
+- Aug 28 - [RSS is awesome](https://evanverma.com/rss-is-awesome)
 <!--END_SECTION:hn-->
 
 <!--
