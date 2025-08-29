@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://www.bbc.com/news/articles/ckgyk2p55g8o)
-- Aug 29 - [Fake accounts drove the DeepSeek AI hype and distorted markets](https://www.evai.ai/en/post/disinformation-the-deepseek-hype-was-all-made-up-how-fake-accounts-managed-a-market-frenzy)
-- Aug 29 - [Deploying DeepSeek on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
-- Aug 29 - [Show HN: Find Hidden Gems on HN](https://pj4533.com/hn-overlooked/)
-- Aug 29 - [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
+- Aug 29 - [The No-CPU Amiga Demo Challenge](https://github.com/askeksa/NoCpuChallenge)
+- Aug 29 - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
+- Aug 29 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
+- Aug 29 - [Data engineering and software engineering are converging](https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure)
+- Aug 29 - [SQLite's Durability Settings Are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 <!--END_SECTION:hn-->
 
 <!--
