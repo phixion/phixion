@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [My startup banking story (2023)](https://mitchellh.com/writing/my-startup-banking-story)
-- Aug 28 - [Engineers send quantum signals with standard Internet Protocol](https://phys.org/news/2025-08-quantum-standard-internet-protocol.html)
-- Aug 28 - [Some thoughts on LLMs and software development](https://martinfowler.com/articles/202508-ai-thoughts.html)
-- Aug 28 - [Building your own CLI coding agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)
-- Aug 28 - [VLT observations of interstellar comet 3I/ATLAS II](https://arxiv.org/abs/2508.18382)
+- Aug 28 - [Python: The Documentary](https://lwn.net/Articles/1035537/)
+- Aug 28 - [RSS Is Awesome](https://evanverma.com/rss-is-awesome)
+- Aug 28 - [Rupert's Property](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
+- Aug 28 - [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx)
+- Aug 28 - [Sometimes CPU cores are odd – Anubis](https://anubis.techaro.lol/blog/2025/cpu-core-odd/)
 <!--END_SECTION:hn-->
 
 <!--
