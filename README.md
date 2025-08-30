@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 30 - [Milan's expat 'explosion' brings new buzz to Italy's financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)
+- Aug 30 - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
+- Aug 30 - [I sat down with Werner Vogels, the CTO of Amazon](https://everton.xyz/i-sat-down-with-werner-vogels/)
+- Aug 30 - [Fun and Immersive Typing Game](https://keybara.io)
 - Aug 30 - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
-- Aug 30 - [Why Romania excels in international Olympiads](https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/)
-- Aug 29 - [Nginx-CGI brings support for CGI to Nginx and angie](https://github.com/pjincz/nginx-cgi)
-- Aug 29 - [The Theoretical Limitations of Embedding-Based Retrieval](https://arxiv.org/abs/2508.21038)
-- Aug 29 - [How did .agakhan, .ismaili and .imamat get their own TLDs?](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 <!--END_SECTION:hn-->
 
 <!--
