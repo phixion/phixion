@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Tell HN: My advice after I applied to 450 positions before getting hired](https://news.ycombinator.com/item?id=45073589)
-- Aug 30 - [Amiga Hardware Reference Manual 3rd Edition (1991)](https://archive.org/details/amiga-hardware-reference-manual-3rd-edition)
-- Aug 30 - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
-- Aug 30 - [Show HN: Hacker News em dash user leaderboard pre-ChatGPT](https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html)
-- Aug 30 - [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
+- Aug 30 - [AWS has finally made SQS a viable queuing solution](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/)
+- Aug 30 - [New interpretations suggest the "heat death" hypothesis might not hold (2023)](https://www.noemamag.com/life-need-not-ever-end/)
+- Aug 30 - [Adafruit Fruit Jam – An RP2350 mini computer running classic Macintosh](https://www.cnx-software.com/2025/08/27/adafruit-fruit-jam-a-rp2350-mini-computer-running-classic-macintosh/)
+- Aug 30 - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
+- Aug 30 - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
 <!--END_SECTION:hn-->
 
 <!--
