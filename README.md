@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Sleeper AI agents and how Anthropic detects them [video]](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
-- Aug 30 - [Meta and Yandex Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io?new)
-- Aug 30 - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
-- Aug 30 - [The Rise of Hybrid PHP: Blending PHP with Go and Rust](https://yekdeveloper.com/p/4-the-rise-of-hybrid-php)
-- Aug 30 - [University of Cambridge Cognitive Ability Test](https://planning.e-psychometrics.com/test/icar60)
+- Aug 30 - [Hurricane category 6 could be introduced under new storm severity scale](https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale)
+- Aug 30 - [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
+- Aug 30 - [Affiliates flock to scam gambling machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
+- Aug 30 - [Man declares country in unclaimed pocket of land between Serbia and Croatia](https://www.nbcnews.com/world/europe/viva-verdis-man-declares-country-unclaimed-pocket-land-serbia-croatia-rcna228004)
+- Aug 30 - [Why did books start being divided into chapters? A new history](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
 <!--END_SECTION:hn-->
 
 <!--
