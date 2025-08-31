@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 31 - [Channel3 (YC S25) Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
+- Aug 31 - [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
 - Aug 31 - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 - Aug 31 - [Git Diagramming "The Weave"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
-- Aug 31 - [Rick Beato is right to rant about music copyright strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
-- Aug 31 - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
 - Aug 31 - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 <!--END_SECTION:hn-->
 
