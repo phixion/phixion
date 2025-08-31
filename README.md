@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Channel3 (YC S25) Is Hiring a Founding Engineer, NYC](https://channel3.notion.site/founding-engineer)
-- Aug 31 - [Sniffly – Claude Code Analytics Dashboard](https://github.com/chiphuyen/sniffly)
-- Aug 31 - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
-- Aug 31 - [Git Diagramming "The Weave"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
-- Aug 31 - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
+- Aug 31 - [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
+- Aug 31 - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
+- Aug 31 - [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
+- Aug 31 - [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
+- Aug 31 - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
 <!--END_SECTION:hn-->
 
 <!--
