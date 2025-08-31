@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [ETFs now hold more than $3.1T worth of just top US companies](https://www.signalbloom.ai/etf/stats)
-- Aug 31 - [Scottish brothers finish mammoth row across Pacific Ocean after 139 days](https://www.abc.net.au/news/2025-08-30/scottish-maclean-brothers-finish-pacific-ocean-row/105711488)
-- Aug 30 - [Hurricane category 6 could be introduced under new storm severity scale](https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale)
-- Aug 30 - [Enrollment at trade schools is expected to grow 6.6% a year](https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html)
-- Aug 30 - [Affiliates flock to scam gambling machine](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/)
+- Aug 31 - [My Foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
+- Aug 31 - [Git Diagramming "The Weave"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
+- Aug 31 - [Rick Beato is right to rant about music copyright strikes](https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/)
+- Aug 31 - [Intermittent fasting correlated with increased risk of cardiovascular disease](https://www.bbc.com/news/articles/c0l6ye6xe12o)
+- Aug 31 - [Sheafification – The optimal path to mathematical mastery](https://sheafification.com/the-fast-track/)
 <!--END_SECTION:hn-->
 
 <!--
