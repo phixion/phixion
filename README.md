@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [No Clicks, No Content: The Unsustainable Future of AI Search](https://bradt.ca/blog/no-clicks-no-content/)
-- Aug 31 - [Jujutsu for Everyone](https://jj-for-everyone.github.io/)
-- Aug 31 - [FDA official demands removal of YouTube videos of himself criticizing vaccines](https://www.theguardian.com/us-news/2025/aug/31/fda-official-youtube-videos)
-- Aug 31 - [Older developers are down with the vibe coding vibe](https://www.theregister.com/2025/08/28/older_developers_ai_code/)
-- Aug 31 - [Replacing a Cache Service with a Database](https://avi.im/blag/2025/db-cache/)
+- Aug 31 - [Installing UEFI Firmware on ARM SBCs](https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/)
+- Aug 31 - [It's So Easy to Prompt Inject Perplexity Comet](https://news.ycombinator.com/item?id=45086071)
+- Aug 31 - [Eternal Struggle](https://yoavg.github.io/eternal/)
+- Aug 31 - [How many HTTP requests/second can a Single Machine handle?](https://binaryigor.com/how-many-http-requests-can-a-single-machine-handle.html)
+- Aug 31 - [Code Is Debt](https://tornikeo.com/code-is-debt/)
 <!--END_SECTION:hn-->
 
 <!--
