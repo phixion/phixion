@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 01 - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
+- Sep 01 - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
 - Aug 31 - [Nintendo Switch 2 Dock USB-C Compatibility](https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock)
+- Aug 31 - [Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code](https://github.com/therepanic/spotilyrics)
 - Aug 31 - [Lewis and Clark marked their trail with laxatives](https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html)
-- Aug 31 - [A Linux version of the Procmon Sysinternals tool](https://github.com/microsoft/ProcMon-for-Linux)
-- Aug 31 - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
-- Aug 31 - [Best practices for dealing with human waste in the great outdoors](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426)
 <!--END_SECTION:hn-->
 
 <!--
