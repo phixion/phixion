@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Show HN: AfriTales – Discover the Magic of African Storytelling](https://afritales.org/)
-- Sep 01 - [Intel Patents 'Software Defined Supercore'](https://www.tomshardware.com/pc-components/cpus/intel-patents-software-defined-supercore-mimicking-ultra-wide-execution-using-multiple-cores)
-- Sep 01 - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
-- Sep 01 - [Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]](https://hi.telli.com/join-us)
-- Sep 01 - [What Is Complexity in Chess?](https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh)
+- Sep 01 - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
+- Sep 01 - [Isolated(any)](https://nshipster.com/isolated-any/)
+- Sep 01 - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
+- Sep 01 - [Effective learning: Twenty rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
+- Sep 01 - [Turns out Google made up an elaborate story about me](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
 <!--END_SECTION:hn-->
 
 <!--
