@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Cloudflare Search Engine Market Share 2025Q2](https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2)
-- Sep 01 - [Isolated(any)](https://nshipster.com/isolated-any/)
-- Sep 01 - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
-- Sep 01 - [Effective learning: Twenty rules of formulating knowledge (1999)](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
-- Sep 01 - [Turns out Google made up an elaborate story about me](https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z)
+- Sep 01 - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
+- Sep 01 - [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
+- Sep 01 - [Thoughts on (Amazonian) Leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
+- Sep 01 - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
+- Sep 01 - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 <!--END_SECTION:hn-->
 
 <!--
