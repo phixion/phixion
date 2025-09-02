@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [Patrick Winston: How to Speak (2018) [video]](https://www.youtube.com/watch?v=Unzc731iCUY)
-- Sep 01 - [Amazon has mostly sat out the AI talent war](https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8)
-- Sep 01 - [Thoughts on (Amazonian) Leadership](https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html)
-- Sep 01 - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
-- Sep 01 - [Implementing a Foil Sticker Effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
+- Sep 01 - [Anthropic to counteract usage of Claude Code for "vibe hacking"](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
+- Sep 01 - [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
+- Sep 01 - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
+- Sep 01 - [The buyer-pull and seller-push theories of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
+- Sep 01 - [Desert Graves (2021)](https://www.desertmountaineer.com/2021/08/06/graves/)
 <!--END_SECTION:hn-->
 
 <!--
