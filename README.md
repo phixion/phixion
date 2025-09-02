@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
-- Sep 02 - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
-- Sep 02 - [Corruption and Control: Turkmenistan turned internet censorship into a business](https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/)
-- Sep 01 - [Detecting and countering misuse of AI](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025)
-- Sep 01 - [Raspberry Pi 5 support (OpenBSD)](https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2)
+- Sep 02 - [Kapa.ai (YC S23) is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
+- Sep 02 - [Vibe coding as a VC](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
+- Sep 02 - [Collecting All Causal Knowledge](https://causenet.org/)
+- Sep 02 - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
+- Sep 02 - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 <!--END_SECTION:hn-->
 
 <!--
