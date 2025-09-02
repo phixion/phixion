@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [US stocks fall as bond sell-off spills into equities](https://subs.ft.com/products)
-- Sep 02 - [Static sites enable a good time travel experience](https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/)
-- Sep 02 - [Why teach calculus in the age of AI](https://mappingignorance.org/2025/08/18/why-teach-calculus-in-the-age-of-ai/)
-- Sep 02 - [You don't want to hire "the best engineers"](https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers)
-- Sep 02 - [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra)
+- Sep 02 - [iNaturalist keeps full species classification models private](https://github.com/inaturalist/inatVisionAPI)
+- Sep 02 - [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
+- Sep 02 - [FBI arrests US Army veteran for 'conspiracy' over protest against ICE](https://www.theguardian.com/us-news/2025/sep/02/fbi-arrest-us-army-veteran-ice-protest)
+- Sep 02 - [Civics Is Boring. So, Let's Encrypt Something](https://queue.acm.org/detail.cfm?id=3703126)
+- Sep 02 - [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
 <!--END_SECTION:hn-->
 
 <!--
