@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [What's New with Firefox 142](https://www.mozilla.org/en-US/firefox/142.0.1/whatsnew/?oldversion=139.0.4&utm_medium=firefox-desktop&utm_source=update&utm_campaign=142)
+- Sep 02 - [Europol said ChatControl doesn't go far enough; they want to retain data forever](https://old.reddit.com/r/europe/comments/1n6cjw1/europol_said_chat_control_doesnt_go_far_enough/)
+- Sep 02 - [Unfortunately, the ICEBlock app is activism theater](https://micahflee.com/unfortunately-the-iceblock-app-is-activism-theater/)
+- Sep 02 - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 - Sep 02 - [Kapa.ai (YC S23) is hiring research and software engineers](https://www.ycombinator.com/companies/kapa-ai/jobs)
-- Sep 02 - [Vibe coding as a VC](https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start)
-- Sep 02 - [Collecting All Causal Knowledge](https://causenet.org/)
-- Sep 02 - [WinBoat: Run Windows apps on Linux with seamless integration](https://github.com/TibixDev/winboat)
-- Sep 02 - [The Wetware Crisis: The Thermocline of Truth (2008)](https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/)
 <!--END_SECTION:hn-->
 
 <!--
