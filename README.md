@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [This blog is running on a recycled Google Pixel 5](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
-- Sep 02 - [Parallel AI agents are a game changer](https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html)
-- Sep 02 - [You're Not Interviewing for the Job. You're Auditioning for the Job Title](https://idiallo.com/blog/performing-for-the-job-title)
-- Sep 02 - [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
-- Sep 02 - [Making a Linux home server sleep on idle and wake on demand (2023)](https://dgross.ca/blog/linux-home-server-auto-sleep)
+- Sep 03 - [Zig Software Foundation 2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
+- Sep 03 - [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
+- Sep 03 - [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
+- Sep 02 - [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
+- Sep 02 - [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
 <!--END_SECTION:hn-->
 
 <!--
