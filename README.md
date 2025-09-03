@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Nuclear: Desktop music player focused on streaming from free sources](https://github.com/nukeop/nuclear)
-- Sep 03 - [Warp Code: the fastest way from prompt to production](https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod)
-- Sep 03 - [Ask HN: Why does Google word privacy settings like you agree even when off?](https://news.ycombinator.com/item?id=45116893)
-- Sep 03 - [Launch HN: Risely (YC S25) – AI Agents for Universities](https://news.ycombinator.com/item?id=45116859)
-- Sep 03 - [A Random Walk in 10 Dimensions (2021)](https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/)
+- Sep 03 - [The first Gleam Conference – Gathering 2026](https://gleamgathering.com/)
+- Sep 03 - [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
+- Sep 03 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- Sep 03 - [Another YC company was acquihired today by OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
+- Sep 03 - [6NF File Format](https://habr.com/en/articles/942516/)
 <!--END_SECTION:hn-->
 
 <!--
