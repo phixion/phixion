@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [iNaturalist keeps full species classification models private](https://github.com/inaturalist/inatVisionAPI)
-- Sep 02 - [Amazon must face US nationwide class action over third-party sales](https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/)
-- Sep 02 - [FBI arrests US Army veteran for 'conspiracy' over protest against ICE](https://www.theguardian.com/us-news/2025/sep/02/fbi-arrest-us-army-veteran-ice-protest)
-- Sep 02 - [Civics Is Boring. So, Let's Encrypt Something](https://queue.acm.org/detail.cfm?id=3703126)
-- Sep 02 - [Show HN: Amber – better Beeper, a modern all-in-one messenger](https://useamber.app/)
+- Sep 02 - [This blog is running on a recycled Google Pixel 5](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
+- Sep 02 - [Parallel AI agents are a game changer](https://morningcoffee.io/parallel-ai-agents-are-a-game-changer.html)
+- Sep 02 - [You're Not Interviewing for the Job. You're Auditioning for the Job Title](https://idiallo.com/blog/performing-for-the-job-title)
+- Sep 02 - [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
+- Sep 02 - [Making a Linux home server sleep on idle and wake on demand (2023)](https://dgross.ca/blog/linux-home-server-auto-sleep)
 <!--END_SECTION:hn-->
 
 <!--
