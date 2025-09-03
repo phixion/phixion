@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Zig Software Foundation 2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
-- Sep 03 - [Show HN: LightCycle, a FOSS game in Rust based on Tron](https://github.com/Tortured-Metaphor/LightCycle)
-- Sep 03 - [%CPU utilization is a lie](https://www.brendanlong.com/cpu-utilization-is-a-lie.html)
-- Sep 02 - [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers/)
-- Sep 02 - [This blog is running on a recycled Google Pixel 5 (2024)](https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/)
+- Sep 03 - [Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim](https://github.com/awslabs/amazonq.nvim)
+- Sep 03 - [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
+- Sep 03 - [Lit: a library for building fast, lightweight web components](https://lit.dev)
+- Sep 03 - [Finnish City Inaugurates 1 MW/100 MWh Sand Battery](https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/)
+- Sep 03 - [Comic Sans typeball designed to work with the IBM Selectric typewriters](https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit)
 <!--END_SECTION:hn-->
 
 <!--
