@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim](https://github.com/awslabs/amazonq.nvim)
-- Sep 03 - [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
-- Sep 03 - [Lit: a library for building fast, lightweight web components](https://lit.dev)
-- Sep 03 - [Finnish City Inaugurates 1 MW/100 MWh Sand Battery](https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/)
-- Sep 03 - [Comic Sans typeball designed to work with the IBM Selectric typewriters](https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit)
+- Sep 03 - [Dynamo AI (YC W22) Is Hiring for AI Product Managers](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai)
+- Sep 03 - [Tencent Open Sourced a 3D World Model](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
+- Sep 03 - [Energy Dashboard (UK)](https://www.energydashboard.co.uk/map)
+- Sep 03 - [Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
+- Sep 03 - [The 16-year odyssey it took to emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 <!--END_SECTION:hn-->
 
 <!--
