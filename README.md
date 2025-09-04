@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Not Paying with Cash](https://rubenerd.com/not-paying-with-cash/)
+- Sep 04 - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
 - Sep 03 - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
+- Sep 03 - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
 - Sep 03 - [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
-- Sep 03 - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
-- Sep 03 - [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
+- Sep 03 - [Where's the shovelware? Why AI coding claims don't add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 <!--END_SECTION:hn-->
 
 <!--
