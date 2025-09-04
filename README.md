@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Framework Making Printers](https://twitter.com/frameworkputer/status/1963343264876269979)
-- Sep 04 - [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
-- Sep 04 - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
-- Sep 04 - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
-- Sep 04 - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
+- Sep 04 - [Pump the Brakes on Your Police Department's Use of Flock Safety](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
+- Sep 04 - [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+- Sep 04 - [Hollow Knight: Silksong Causes Server Chaos on Xbox, Steam, and Nintendo](https://www.eurogamer.net/silksong-causes-server-chaos-on-xbox-steam-and-nintendo-as-platforms-grind-to-a-halt)
+- Sep 04 - [Atlassian is acquiring the Browser Company](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html)
+- Sep 04 - [Calling your boss a dickhead is not a sackable offence, UK tribunal rules](https://www.theguardian.com/money/2025/sep/04/calling-your-boss-a-dickhead-is-not-a-sackable-offence-tribunal-rules)
 <!--END_SECTION:hn-->
 
 <!--
