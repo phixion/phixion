@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
+- Sep 04 - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
+- Sep 04 - [William Wordsworth's letter: "The Law of Copyright" (1838)](https://gutenberg.org/cache/epub/76806/pg76806-images.html)
 - Sep 04 - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
-- Sep 03 - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
-- Sep 03 - [Evaluating Agents](https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/)
-- Sep 03 - [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
-- Sep 03 - [Where's the shovelware? Why AI coding claims don't add up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
+- Sep 04 - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
 <!--END_SECTION:hn-->
 
 <!--
