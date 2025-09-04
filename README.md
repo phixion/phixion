@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [The first Gleam Conference – Gathering 2026](https://gleamgathering.com/)
-- Sep 03 - [The Theoretical Limitations of Embedding-Based Retrieval](https://www.alphaxiv.org/abs/2508.21038v1)
-- Sep 03 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
-- Sep 03 - [Another YC company was acquihired today by OpenAI](https://www.alexcodes.app/blog/alex-team-joins-openai)
-- Sep 03 - [6NF File Format](https://habr.com/en/articles/942516/)
+- Sep 04 - [Not Paying with Cash](https://rubenerd.com/not-paying-with-cash/)
+- Sep 03 - [ReMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
+- Sep 03 - [Evidence that AI is destroying jobs for young people](https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying)
+- Sep 03 - [Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer)
+- Sep 03 - [The worst possible antitrust outcome](https://pluralistic.net/2025/09/03/unpunishing-process/)
 <!--END_SECTION:hn-->
 
 <!--
