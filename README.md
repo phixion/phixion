@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
-- Sep 04 - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
-- Sep 04 - [William Wordsworth's letter: "The Law of Copyright" (1838)](https://gutenberg.org/cache/epub/76806/pg76806-images.html)
-- Sep 04 - [Étoilé – desktop built on GNUStep](http://etoileos.com/)
-- Sep 04 - [Neovim Pack](https://neovim.io/doc/user/pack.html#vim.pack)
+- Sep 04 - [Framework Making Printers](https://twitter.com/frameworkputer/status/1963343264876269979)
+- Sep 04 - [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
+- Sep 04 - [Hledger 1.50](https://github.com/simonmichael/hledger/releases/tag/1.50)
+- Sep 04 - [The Color of the Future: A history of blue](https://www.hopefulmons.com/p/the-color-of-the-future)
+- Sep 04 - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
 <!--END_SECTION:hn-->
 
 <!--
