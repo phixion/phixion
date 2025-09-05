@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [LLM Visualization](https://bbycroft.net/llm)
-- Sep 04 - [The thousands of atomic bombs exploded on Earth (2015)](https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth)
-- Sep 04 - [Saquon Is Playing for Equity](https://www.readtheprofile.com/p/saquon-barkley-investment-portfolio)
-- Sep 04 - [Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM](https://www.ycombinator.com/companies/artie/jobs)
-- Sep 04 - [AI Not Affecting Job Market Much So Far, New York Fed Says](https://money.usnews.com/investing/news/articles/2025-09-04/ai-not-affecting-job-market-much-so-far-new-york-fed-says)
+- Sep 04 - [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
+- Sep 04 - [Is the decline of reading making politics dumber?](https://www.economist.com/culture/2025/09/04/is-the-decline-of-reading-making-politics-dumber)
+- Sep 04 - [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
+- Sep 04 - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
+- Sep 04 - [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
 <!--END_SECTION:hn-->
 
 <!--
