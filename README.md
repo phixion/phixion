@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [simonw has vibe-coded 124 useful tools](https://simonwillison.net/2025/Sep/4/highlighted-tools/)
+- Sep 05 - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
+- Sep 05 - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
+- Sep 05 - [Evolving the OCaml Programming Language (2025) [pdf]](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 - Sep 04 - [Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)
-- Sep 04 - [Is the decline of reading making politics dumber?](https://www.economist.com/culture/2025/09/04/is-the-decline-of-reading-making-politics-dumber)
-- Sep 04 - [I ditched Spotify and set up my own music stack](https://leshicodes.github.io/blog/spotify-migration/)
-- Sep 04 - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
-- Sep 04 - [Memory is slow, Disk is fast – Part 2](https://www.bitflux.ai/blog/memory-is-slow-part2/)
 <!--END_SECTION:hn-->
 
 <!--
