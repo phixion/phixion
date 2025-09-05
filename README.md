@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Escaping the odds and a formula for life (2024)](https://farhadg.com/blog/escaping-odds/)
-- Sep 05 - [Poisoning Well for LLMs](https://heydonworks.com/article/poisoning-well/)
-- Sep 05 - [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/)
-- Sep 05 - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
-- Sep 05 - [Forking Chrome to render in a terminal (2023)](https://fathy.fr/carbonyl)
+- Sep 05 - [Relace (YC W23) Is Hiring for Code LLM's (SF)](https://news.ycombinator.com/item?id=45137554)
+- Sep 05 - [Nepal moves to block Facebook, X, YouTube and others](https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others)
+- Sep 05 - [SAP splashes €20B on Euro sovereign cloud push](https://www.theregister.com/2025/09/04/sap_sovereign_cloud/)
+- Sep 05 - [IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing](https://www.usenix.org/conference/atc25/presentation/landsberg)
+- Sep 05 - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 <!--END_SECTION:hn-->
 
 <!--
