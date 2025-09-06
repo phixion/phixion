@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 06 - [Let us git rid of it, angry GitHub users say of forced Copilot features](https://www.theregister.com/2025/09/05/github_copilot_complaints/)
 - Sep 06 - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
 - Sep 06 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 - Sep 06 - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
-- Sep 05 - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
-- Sep 05 - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
+- Sep 05 - [Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
 <!--END_SECTION:hn-->
 
 <!--
