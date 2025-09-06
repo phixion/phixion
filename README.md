@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
+- Sep 06 - [GOP Cries Censorship over Spam Filters That Work](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/)
+- Sep 06 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
+- Sep 06 - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
 - Sep 05 - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
 - Sep 05 - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
-- Sep 05 - [Tesla offers mammoth $1T pay package to Musk, sets lofty targets](https://www.reuters.com/business/autos-transportation/tesla-offers-mammoth-1-trillion-pay-package-musk-sets-lofty-targets-2025-09-05/)
-- Sep 05 - [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
 <!--END_SECTION:hn-->
 
 <!--
