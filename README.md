@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Let us git rid of it, angry GitHub users say of forced Copilot features](https://www.theregister.com/2025/09/05/github_copilot_complaints/)
-- Sep 06 - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
-- Sep 06 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-- Sep 06 - [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5)
-- Sep 05 - [Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
+- Sep 06 - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
+- Sep 06 - [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
+- Sep 06 - [996](https://lucumr.pocoo.org/2025/9/4/996/)
+- Sep 06 - [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
+- Sep 06 - [Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5](https://github.com/b4rtaz/distributed-llama/discussions/255)
 <!--END_SECTION:hn-->
 
 <!--
