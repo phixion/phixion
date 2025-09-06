@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/)
-- Sep 06 - [DuckDuckGo founder: AI surveillance should be banned](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned)
-- Sep 06 - [996](https://lucumr.pocoo.org/2025/9/4/996/)
-- Sep 06 - [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/)
-- Sep 06 - [Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5](https://github.com/b4rtaz/distributed-llama/discussions/255)
+- Sep 06 - [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
+- Sep 06 - [Normalization of deviance (2015)](https://danluu.com/wat/)
+- Sep 06 - [Using Claude Code SDK to reduce E2E test time](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
+- Sep 06 - [Patterns, Predictions, and Actions – A story about machine learning](https://mlstory.org/)
+- Sep 06 - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 <!--END_SECTION:hn-->
 
 <!--
