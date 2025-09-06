@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [Fantastic Pretraining Optimizers and Where to Find Them](https://arxiv.org/abs/2509.02046)
-- Sep 05 - [Making a font of my handwriting](https://chameth.com/making-a-font-of-my-handwriting/)
-- Sep 05 - [Show HN: Open-sourcing our text-to-CAD app](https://github.com/Adam-CAD/CADAM)
-- Sep 05 - [Freeway guardrails are now a favorite target of thieves](https://laist.com/news/transportation/guardrails-aluminum-theft)
-- Sep 05 - [European Commission fines Google €2.95B over abusive ad tech practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992)
+- Sep 05 - [Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy](https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/)
+- Sep 05 - [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html)
+- Sep 05 - [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book)
+- Sep 05 - [Tesla offers mammoth $1T pay package to Musk, sets lofty targets](https://www.reuters.com/business/autos-transportation/tesla-offers-mammoth-1-trillion-pay-package-musk-sets-lofty-targets-2025-09-05/)
+- Sep 05 - [Should we revisit Extreme Programming in the age of AI?](https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai)
 <!--END_SECTION:hn-->
 
 <!--
