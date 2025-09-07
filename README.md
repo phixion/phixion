@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 07 - [I am giving up on Intel and have bought an AMD Ryzen 9950X3D](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
+- Sep 07 - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
+- Sep 07 - [The Claude Code Framework Wars](https://shmck.substack.com/p/claude-code-framework-wars)
+- Sep 07 - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 - Sep 07 - [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
-- Sep 07 - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
-- Sep 07 - [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
-- Sep 07 - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
-- Sep 07 - [The MVC definition has been abused](https://stlab.cc/tips/about-mvc.html)
 <!--END_SECTION:hn-->
 
 <!--
