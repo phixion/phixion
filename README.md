@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search](https://www.greppers.com/)
-- Sep 06 - [Normalization of deviance (2015)](https://danluu.com/wat/)
-- Sep 06 - [Using Claude Code SDK to reduce E2E test time](https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude)
-- Sep 06 - [Patterns, Predictions, and Actions – A story about machine learning](https://mlstory.org/)
-- Sep 06 - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
+- Sep 06 - [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
+- Sep 06 - [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
+- Sep 06 - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
+- Sep 06 - [Gloria funicular derailment initial findings report (EN) [pdf]](https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf)
+- Sep 06 - [I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
 <!--END_SECTION:hn-->
 
 <!--
