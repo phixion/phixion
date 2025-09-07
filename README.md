@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/)
-- Sep 07 - [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html)
-- Sep 07 - [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research)
-- Sep 07 - [The "impossibly small" Microdot web framework](https://lwn.net/Articles/1034121/)
-- Sep 07 - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/)
+- Sep 07 - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
+- Sep 07 - [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html)
+- Sep 07 - [The Expression Problem and its solution](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
+- Sep 07 - [AI Mode Is Good](https://simonwillison.net/2025/Sep/7/ai-mode/)
+- Sep 07 - [Delayed Security Patches for AOSP (Android Open Source Project)](https://twitter.com/grapheneos/status/1964561043906048183)
 <!--END_SECTION:hn-->
 
 <!--
