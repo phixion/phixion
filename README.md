@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/)
-- Sep 06 - [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
-- Sep 06 - [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6)
-- Sep 06 - [Gloria funicular derailment initial findings report (EN) [pdf]](https://www.gpiaaf.gov.pt/upload/processos/d054239.pdf)
-- Sep 06 - [I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese](https://kanadojo.com)
+- Sep 07 - [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28)
+- Sep 07 - [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint)
+- Sep 07 - [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html)
+- Sep 07 - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
+- Sep 07 - [The MVC definition has been abused](https://stlab.cc/tips/about-mvc.html)
 <!--END_SECTION:hn-->
 
 <!--
