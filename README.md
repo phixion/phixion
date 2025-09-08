@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
-- Sep 07 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
-- Sep 07 - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
-- Sep 07 - [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
-- Sep 07 - [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
+- Sep 08 - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
+- Sep 08 - [How Britain built some of the world’s safest roads](https://ourworldindata.org/britain-safest-roads-history)
+- Sep 08 - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
+- Sep 08 - [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
+- Sep 08 - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
 <!--END_SECTION:hn-->
 
 <!--
