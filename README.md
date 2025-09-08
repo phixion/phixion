@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [How to make metals from Martian dirt](https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt)
-- Sep 07 - [Submarine Cable Map](https://www.submarinecablemap.com/)
-- Sep 07 - [Keeping secrets out of logs (2024)](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/)
-- Sep 07 - [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
-- Sep 07 - [SQLite's Use of Tcl](https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html)
+- Sep 07 - [Using Claude Code to modernize a forgotten Linux kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
+- Sep 07 - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
+- Sep 07 - [South Korea will bring home 300 workers detained in Hyundai plant raid](https://apnews.com/article/us-south-korea-ice-raid-georgia-hyundai-ee8781d965c74a5ee18525ce87959ba4)
+- Sep 07 - [Detroit's Carmakers to Save Billions in Emissions Rollback](https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback)
+- Sep 07 - [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
 <!--END_SECTION:hn-->
 
 <!--
