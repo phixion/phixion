@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215)
-- Sep 08 - [NPM debug and chalk packages compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
-- Sep 08 - [Will Amazon S3 Vectors Kill Vector Databases–Or Save Them?](https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them)
-- Sep 08 - [Google gets away almost scot-free in US search antitrust case](https://www.computerworld.com/article/4052428/google-gets-away-almost-scot-free-in-us-search-antitrust-case.html)
-- Sep 08 - [American Flying Empty Airbus A321neo Across the Atlantic 20 Times](https://onemileatatime.com/news/american-flying-empty-airbus-a321neo-across-atlantic/)
+- Sep 08 - [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
+- Sep 08 - [Setting up a home VPN server with WireGuard (2019)](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
+- Sep 08 - [America is in a serious jobs slump](https://www.cnn.com/2025/09/03/economy/us-jolts-job-openings-layoffs-july)
+- Sep 08 - [iPhone Dumbphone](https://stopa.io/post/297)
+- Sep 08 - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 <!--END_SECTION:hn-->
 
 <!--
