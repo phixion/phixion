@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 08 - [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/)
+- Sep 08 - [RSS Beat Microsoft](https://buttondown.com/blog/rss-vs-ice)
+- Sep 08 - [How inaccurate are Nintendo's official emulators? [video]](https://www.youtube.com/watch?v=oYjYmSniQyM)
 - Sep 08 - [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US)
-- Sep 08 - [How Britain built some of the world’s safest roads](https://ourworldindata.org/britain-safest-roads-history)
-- Sep 08 - [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
-- Sep 08 - [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/)
-- Sep 08 - [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x)
+- Sep 07 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 <!--END_SECTION:hn-->
 
 <!--
