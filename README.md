@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Using Claude Code to modernize a forgotten Linux kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
+- Sep 08 - [The brompton-ness of it all](https://backofmind.substack.com/p/the-brompton-ness-of-it-all)
+- Sep 07 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 - Sep 07 - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
-- Sep 07 - [South Korea will bring home 300 workers detained in Hyundai plant raid](https://apnews.com/article/us-south-korea-ice-raid-georgia-hyundai-ee8781d965c74a5ee18525ce87959ba4)
-- Sep 07 - [Detroit's Carmakers to Save Billions in Emissions Rollback](https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback)
 - Sep 07 - [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/)
+- Sep 07 - [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/)
 <!--END_SECTION:hn-->
 
 <!--
