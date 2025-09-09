@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Setting up local LLMs for R and Python](https://posit.co/blog/setting-up-local-llms-for-r-and-python/)
-- Sep 08 - [Setting up a home VPN server with WireGuard (2019)](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
-- Sep 08 - [America is in a serious jobs slump](https://www.cnn.com/2025/09/03/economy/us-jolts-job-openings-layoffs-july)
-- Sep 08 - [iPhone Dumbphone](https://stopa.io/post/297)
-- Sep 08 - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
+- Sep 08 - [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
+- Sep 08 - [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
+- Sep 08 - [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/)
+- Sep 08 - [CATL launches LFP battery with 470 miles range and 10-minute charging](https://electrek.co/2025/09/08/catl-launches-worlds-first-lfp-battery-with-470-miles-range/)
+- Sep 08 - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 <!--END_SECTION:hn-->
 
 <!--
