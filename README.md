@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
-- Sep 09 - [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
-- Sep 09 - [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
-- Sep 09 - [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
-- Sep 09 - [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
+- Sep 09 - [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)
+- Sep 09 - [AI Darwin Awards 2025](https://aidarwinawards.org/index.html)
+- Sep 09 - [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
+- Sep 09 - [Fed helpless as US economy faces structural challenges, not monetary](https://www.bancreek.com/p/demise-of-dynamic-duo/)
+- Sep 09 - [Show HN: Superagents – connect spreadsheets to any database, API or MCP server](https://sourcetable.com/superagents)
 <!--END_SECTION:hn-->
 
 <!--
