@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84)
-- Sep 09 - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
-- Sep 09 - [Hallucination Risk Calculator](https://github.com/leochlon/hallbayes)
-- Sep 09 - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
-- Sep 09 - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
+- Sep 09 - [X open sourced their latest algorithm](https://github.com/twitter/the-algorithm)
+- Sep 09 - [We All Dodged a Bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
+- Sep 09 - [US HS students lose ground in math and reading, continuing yearslong decline](https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a)
+- Sep 09 - [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
+- Sep 09 - [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
 <!--END_SECTION:hn-->
 
 <!--
