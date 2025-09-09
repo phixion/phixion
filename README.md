@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
-- Sep 09 - [No adblocker detected](https://maurycyz.com/misc/ads/)
-- Sep 09 - [Geoffrey Hinton: 'AI will make a few people much richer and most people poorer'](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
-- Sep 08 - [The art world is in a precarious state](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
-- Sep 08 - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
+- Sep 09 - [Mistral AI raises €1.7B to accelerate technological progress with AI](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
+- Sep 09 - [ASML, Mistral AI enter strategic partnership](https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership)
+- Sep 09 - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
+- Sep 09 - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
+- Sep 09 - [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c)
 <!--END_SECTION:hn-->
 
 <!--
