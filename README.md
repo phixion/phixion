@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Mistral AI raises €1.7B to accelerate technological progress with AI](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
-- Sep 09 - [ASML, Mistral AI enter strategic partnership](https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership)
-- Sep 09 - [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
-- Sep 09 - [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
-- Sep 09 - [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c)
+- Sep 09 - [Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84)
+- Sep 09 - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
+- Sep 09 - [Hallucination Risk Calculator](https://github.com/leochlon/hallbayes)
+- Sep 09 - [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c)
+- Sep 09 - [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware)
 <!--END_SECTION:hn-->
 
 <!--
