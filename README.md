@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
-- Sep 08 - [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/)
-- Sep 08 - [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/)
-- Sep 08 - [CATL launches LFP battery with 470 miles range and 10-minute charging](https://electrek.co/2025/09/08/catl-launches-worlds-first-lfp-battery-with-470-miles-range/)
+- Sep 09 - [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt)
+- Sep 09 - [No adblocker detected](https://maurycyz.com/misc/ads/)
+- Sep 09 - [Geoffrey Hinton: 'AI will make a few people much richer and most people poorer'](https://www.ft.com/content/31feb335-4945-475e-baaa-3b880d9cf8ce)
+- Sep 08 - [The art world is in a precarious state](https://news.artnet.com/market/intelligence-report-storm-2025-2684512)
 - Sep 08 - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 <!--END_SECTION:hn-->
 
