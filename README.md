@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 10 - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
+- Sep 10 - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+- Sep 10 - [A security incident that may involve your Plex account information](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
 - Sep 10 - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
-- Sep 10 - [Three farmers on monopolies and mismanagement in U.S. agriculture](https://www.agweb.com/markets/outraged-farmers-blame-ag-monopolies-catastrophic-collapse-looms)
-- Sep 10 - [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm)
-- Sep 09 - [Hypervisor in 1k Lines](https://1000hv.seiya.me/en)
-- Sep 09 - [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
+- Sep 10 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 <!--END_SECTION:hn-->
 
 <!--
