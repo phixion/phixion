@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
-- Sep 10 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
-- Sep 10 - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
-- Sep 10 - [The Scam Called "You Don't Have to Remember Anything"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
-- Sep 10 - [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
+- Sep 10 - ['Clearest sign' yet of ancient life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
+- Sep 10 - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
+- Sep 10 - [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
+- Sep 10 - [Charlie Kirk Shot at Utah Valley University](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
+- Sep 10 - [Rayhunter: IMSI Catchers We Have Found So Far](https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far)
 <!--END_SECTION:hn-->
 
 <!--
