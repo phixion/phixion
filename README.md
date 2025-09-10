@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [News: Arm announces next Generation core family called Arm Lumex](https://www.phoronix.com/news/Arm-Lumex-Platform-C1)
-- Sep 10 - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
-- Sep 10 - [A security incident that may involve your Plex account information](https://forums.plex.tv/t/important-notice-of-security-incident/930523)
-- Sep 10 - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
-- Sep 10 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
+- Sep 10 - [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
+- Sep 10 - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
+- Sep 10 - [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
+- Sep 10 - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
+- Sep 10 - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
 <!--END_SECTION:hn-->
 
 <!--
