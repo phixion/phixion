@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager)
-- Sep 10 - [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
-- Sep 10 - [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/)
-- Sep 10 - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
-- Sep 10 - [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/)
+- Sep 10 - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
+- Sep 10 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- Sep 10 - [Zoox launches its robotaxi service to the public in Las Vegas](https://zoox.com/journal/las-vegas)
+- Sep 10 - [The Scam Called "You Don't Have to Remember Anything"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
+- Sep 10 - [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
 <!--END_SECTION:hn-->
 
 <!--
