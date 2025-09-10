@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Classic Mac OS System 1 Patterns](https://paulsmith.github.io/classic-mac-patterns/)
-- Sep 09 - [AI Darwin Awards 2025](https://aidarwinawards.org/index.html)
-- Sep 09 - [Polylaminin, promotes regeneration after spinal cord injury](https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury)
-- Sep 09 - [Fed helpless as US economy faces structural challenges, not monetary](https://www.bancreek.com/p/demise-of-dynamic-duo/)
-- Sep 09 - [Show HN: Superagents – connect spreadsheets to any database, API or MCP server](https://sourcetable.com/superagents)
+- Sep 09 - [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53)
+- Sep 09 - [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/)
+- Sep 09 - [Inflation Erased U.S. Income Gains Last Year](https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0)
+- Sep 09 - [A cryptography expert on how Web3 started, and how it’s going](https://spectrum.ieee.org/web3-hardware-security)
+- Sep 09 - [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement/)
 <!--END_SECTION:hn-->
 
 <!--
