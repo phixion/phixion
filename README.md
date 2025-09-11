@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - ['Clearest sign' yet of ancient life on Mars](https://www.nature.com/articles/s41586-025-09413-0)
-- Sep 10 - [UGMM-NN: Univariate Gaussian Mixture Model Neural Network](https://arxiv.org/abs/2509.07569)
-- Sep 10 - [Dotter: Dotfile manager and templater written in Rust](https://github.com/SuperCuber/dotter)
-- Sep 10 - [Charlie Kirk Shot at Utah Valley University](https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437)
-- Sep 10 - [Rayhunter: IMSI Catchers We Have Found So Far](https://www.eff.org/deeplinks/2025/09/rayhunter-what-we-have-found-so-far)
+- Sep 10 - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
+- Sep 10 - [Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
+- Sep 10 - [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+- Sep 10 - [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
+- Sep 10 - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
 <!--END_SECTION:hn-->
 
 <!--
