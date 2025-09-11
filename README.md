@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Piramidal (YC W24) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform)
-- Sep 11 - [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss)
-- Sep 11 - [DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking](https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/)
-- Sep 11 - [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476)
-- Sep 11 - [PgEdge Goes Open Source](https://www.pgedge.com/blog/pgedge-goes-open-source)
+- Sep 11 - [Health Insurance Costs for Businesses to Rise by Most in 15 Years](https://www.wsj.com/health/healthcare/health-insurance-costs-rise-6cc1b934)
+- Sep 11 - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
+- Sep 11 - [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
+- Sep 11 - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
+- Sep 11 - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
 <!--END_SECTION:hn-->
 
 <!--
