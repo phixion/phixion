@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Health Insurance Costs for Businesses to Rise by Most in 15 Years](https://www.wsj.com/health/healthcare/health-insurance-costs-rise-6cc1b934)
-- Sep 11 - [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/)
-- Sep 11 - [NearToilets – Airbnb of toilets, earn from toilets for rent](https://neartoilets.com/)
-- Sep 11 - [Conway's Game of Life, but Musical](https://www.hudsong.dev/digital-darwin)
-- Sep 11 - [CRISPR Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
+- Sep 11 - [Randomly selecting points inside a triangle](https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/)
+- Sep 11 - [Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app](https://news.ycombinator.com/item?id=45215032)
+- Sep 11 - [Rails on SQLite: new ways to cause outages](https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/)
+- Sep 11 - [Claude's Memory Architecture Is the Polar Opposite of ChatGPT's](https://www.shloked.com/writing/claude-memory)
+- Sep 11 - [Making io_uring pervasive in QEMU [pdf]](https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf)
 <!--END_SECTION:hn-->
 
 <!--
