@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 11 - [Seoul says US must fix its visa system if it wants Korea's investments](https://english.hani.co.kr/arti/english_edition/e_international/1218025.html)
+- Sep 11 - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/)
+- Sep 11 - [Where did the Smurfs get their hats](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/)
 - Sep 10 - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
-- Sep 10 - [Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at)
-- Sep 10 - [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
-- Sep 10 - [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257)
-- Sep 10 - [Mux (YC W16) Is Hiring Engineering ICs and Managers](https://mux.com/jobs)
+- Sep 10 - [XNEdit – fast and classic X11 text editor](https://www.unixwork.de/xnedit/)
 <!--END_SECTION:hn-->
 
 <!--
