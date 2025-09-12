@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Astrophysics Source Code Library](http://ascl.net/)
-- Sep 12 - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
-- Sep 12 - [Examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
-- Sep 12 - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
-- Sep 12 - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
+- Sep 12 - [A Beginner's Guide to Extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs/)
+- Sep 12 - [Show HN: DWS OS, a Plan 9 Inspired Web "OS"](https://dws.rip)
+- Sep 12 - [Doom-ada: Doom Emacs Ada language module with syntax, LSP and Alire support](https://github.com/tomekw/doom-ada)
+- Sep 12 - [Oq: Terminal OpenAPI Spec Viewer](https://github.com/plutov/oq)
+- Sep 12 - [Active phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 <!--END_SECTION:hn-->
 
 <!--
