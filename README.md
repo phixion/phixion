@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
+- Sep 12 - [Performance-focused forks of styled-components](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
+- Sep 12 - [Qwen3-Next: Towards Ultimate Training and Inference Efficiency](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
+- Sep 12 - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 - Sep 12 - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
-- Sep 12 - [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
 - Sep 12 - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
-- Sep 12 - [Float Exposed](https://float.exposed/)
 <!--END_SECTION:hn-->
 
 <!--
