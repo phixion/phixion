@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Senator demands to know status of 'duplicate' SSA database 'immediately'](https://www.theregister.com/2025/09/11/ssa_doge_whistleblower_demand/)
-- Sep 11 - [Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook](https://github.com/iannuttall/fartscroll-lid)
-- Sep 11 - [Danish supermarket chain is setting up "Emergency Stores"](https://swiss.social/@swaldorff/115186445638788782)
-- Sep 11 - [How Palantir is mapping the nation’s data](https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178)
-- Sep 11 - [Nano Banana image examples](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
+- Sep 12 - [Differences between stal/IX and regular Linux](https://stal-ix.github.io/STALIX.html)
+- Sep 12 - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
+- Sep 12 - [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/)
+- Sep 12 - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
+- Sep 12 - [Float Exposed](https://float.exposed/)
 <!--END_SECTION:hn-->
 
 <!--
