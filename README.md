@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Performance-focused forks of styled-components](https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort)
-- Sep 12 - [Qwen3-Next: Towards Ultimate Training and Inference Efficiency](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
-- Sep 12 - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
-- Sep 12 - [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
-- Sep 12 - [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384)
+- Sep 12 - [Astrophysics Source Code Library](http://ascl.net/)
+- Sep 12 - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
+- Sep 12 - [Examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples)
+- Sep 12 - [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/)
+- Sep 12 - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 <!--END_SECTION:hn-->
 
 <!--
