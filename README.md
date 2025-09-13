@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1)
-- Sep 13 - [OCI Registry Explorer](https://oci.dag.dev/)
-- Sep 13 - [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
-- Sep 13 - [Legal win](https://ma.tt/2025/09/legal-win/)
-- Sep 13 - [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
+- Sep 13 - [Nepal picks a new prime minister on a discord server days after social media ban](https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html)
+- Sep 13 - [The Last Days of Social Media](https://www.noemamag.com/the-last-days-of-social-media/)
+- Sep 13 - [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/)
+- Sep 13 - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
+- Sep 13 - [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/)
 <!--END_SECTION:hn-->
 
 <!--
