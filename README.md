@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - ["Learning how to Learn" will be next generation's most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
-- Sep 13 - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
-- Sep 13 - [Show HN: CLAVIER-36 (programming environment for generative music)](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
-- Sep 13 - [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
-- Sep 13 - [An Annual Blast of Pacific Cold Water Did Not Occur, Alarming Scientists](https://www.nytimes.com/2025/09/12/climate/pacific-cold-water-upwelling.html)
+- Sep 13 - [An Open-Source Maintainer's Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
+- Sep 13 - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
+- Sep 13 - [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
+- Sep 13 - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
+- Sep 13 - [Magical systems thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
 <!--END_SECTION:hn-->
 
 <!--
