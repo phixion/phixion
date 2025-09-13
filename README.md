@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
-- Sep 12 - [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/)
-- Sep 12 - [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat)
-- Sep 12 - [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/)
-- Sep 12 - [I used standard Emacs extension-points to extend org-mode](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
+- Sep 13 - [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1)
+- Sep 13 - [OCI Registry Explorer](https://oci.dag.dev/)
+- Sep 13 - [Chatbox app is back on the US app store](https://github.com/chatboxai/chatbox/issues/2644)
+- Sep 13 - [Legal win](https://ma.tt/2025/09/legal-win/)
+- Sep 13 - [California lawmakers pass SB 79, housing bill that brings dense housing](https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs)
 <!--END_SECTION:hn-->
 
 <!--
