@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans)
-- Sep 13 - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
-- Sep 13 - [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
-- Sep 13 - [I unified convolution and attention into a single framework](https://zenodo.org/records/17103133)
-- Sep 13 - [Social media promised connection, but it has delivered exhaustion](https://www.noemamag.com/the-last-days-of-social-media/)
+- Sep 13 - ["Learning how to Learn" will be next generation's most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html)
+- Sep 13 - [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/)
+- Sep 13 - [Show HN: CLAVIER-36 (programming environment for generative music)](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
+- Sep 13 - [Mago: A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
+- Sep 13 - [An Annual Blast of Pacific Cold Water Did Not Occur, Alarming Scientists](https://www.nytimes.com/2025/09/12/climate/pacific-cold-water-upwelling.html)
 <!--END_SECTION:hn-->
 
 <!--
