@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
+- Sep 14 - [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
+- Sep 14 - [Gemini (2023)](https://geminiquickst.art/)
 - Sep 14 - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
-- Sep 14 - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
-- Sep 14 - [A single, 'naked' black hole confounds theories of the young cosmos](https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/)
-- Sep 14 - [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters)
-- Sep 14 - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
+- Sep 14 - [Cat Aquariums](https://cataquariums.com/)
 <!--END_SECTION:hn-->
 
 <!--
