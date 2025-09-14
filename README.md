@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [An Open-Source Maintainer's Guide to Saying No](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
-- Sep 13 - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
-- Sep 13 - [Scientists are rethinking the immune effects of SARS-CoV-2](https://www.bmj.com/content/390/bmj.r1733)
-- Sep 13 - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
-- Sep 13 - [Magical systems thinking](https://worksinprogress.co/issue/magical-systems-thinking/)
+- Sep 13 - [Leonardo da Vinci’s Y chromosome shared by living family descendants](https://phys.org/news/2025-05-leonardo-da-vinci-dna-chromosome.html)
+- Sep 13 - [Will AI be the basis of many future industrial fortunes, or a net loser?](https://joincolossus.com/article/ai-will-not-make-you-rich/)
+- Sep 13 - [Heart attacks may be triggered by bacteria](https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease)
+- Sep 13 - [AMD's RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot)
+- Sep 13 - [An open-source maintainer's guide to saying “no”](https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no)
 <!--END_SECTION:hn-->
 
 <!--
