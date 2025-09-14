@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
-- Sep 14 - [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer)
-- Sep 14 - [Gemini (2023)](https://geminiquickst.art/)
-- Sep 14 - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
-- Sep 14 - [Cat Aquariums](https://cataquariums.com/)
+- Sep 14 - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
+- Sep 14 - [Website Is Just an SVG](https://svg.nicubunu.ro/)
+- Sep 14 - [Bank of Thailand Freezes 3M Accounts, Sets Daily Transfer Limits](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
+- Sep 14 - [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
+- Sep 14 - [We Spiral](https://behavioralscientist.org/why-we-spiral/)
 <!--END_SECTION:hn-->
 
 <!--
