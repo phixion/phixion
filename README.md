@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 14 - [ChatControl update: blocking minority held but Denmark is moving forward anyway](https://disobey.net/@yawnbox/115203365485529363)
+- Sep 14 - [How older parents divorce affects their adult children](https://www.bbc.com/future/article/20250912-how-grey-divorce-affects-adult-children)
+- Sep 14 - [Eye drops could replace glasses or surgery for longsightedness, study says](https://www.theguardian.com/society/2025/sep/14/eye-drops-could-replace-glasses-surgery-longsighted-study)
 - Sep 14 - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
-- Sep 14 - [Website Is Just an SVG](https://svg.nicubunu.ro/)
-- Sep 14 - [Bank of Thailand Freezes 3M Accounts, Sets Daily Transfer Limits](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/)
-- Sep 14 - [The AI-Scraping Free-for-All Is Coming to an End](https://nymag.com/intelligencer/article/ai-scraping-free-for-all-by-openai-google-meta-ending.html)
-- Sep 14 - [We Spiral](https://behavioralscientist.org/why-we-spiral/)
+- Sep 14 - [Nicu's test website made with SVG (2007)](https://svg.nicubunu.ro/)
 <!--END_SECTION:hn-->
 
 <!--
