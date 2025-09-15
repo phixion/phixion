@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [California age verification bill backed by Google, Meta, OpenAI heads to Newsom](https://www.politico.com/news/2025/09/13/california-advances-effort-to-check-kids-ages-online-amid-safety-concerns-00563005)
-- Sep 14 - [Titania Programming Language](https://github.com/gingerBill/titania)
-- Sep 14 - [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html)
-- Sep 14 - [Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days](https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem)
-- Sep 14 - [Website is hosted on a disposable vape](http://ewaste.fka.wtf/)
+- Sep 15 - [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
+- Sep 15 - [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
+- Sep 15 - [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
+- Sep 15 - [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
+- Sep 15 - [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
 <!--END_SECTION:hn-->
 
 <!--
