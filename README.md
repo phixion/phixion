@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Decentralized YouTube alternative adds livestream scheduling in new release](https://news.itsfoss.com/peertube-7-3/)
-- Sep 15 - [Not all browsers perform revocation checking](https://revoked-isrgrootx1.letsencrypt.org/)
-- Sep 15 - [Which NPM package has the largest version number?](https://adamhl.dev/blog/largest-number-in-npm-package/)
-- Sep 15 - [For Good First Issue – A repository of social impact and open source projects](https://forgoodfirstissue.github.com/)
-- Sep 15 - [Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework](https://daggerjs.org)
+- Sep 15 - [Celestia – real-time 3D visualization of space](https://celestiaproject.space/)
+- Sep 15 - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
+- Sep 15 - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
+- Sep 15 - [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821)
+- Sep 15 - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 <!--END_SECTION:hn-->
 
 <!--
