@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Celestia – real-time 3D visualization of space](https://celestiaproject.space/)
+- Sep 15 - [The $10 Payment That Cost Me $43.95 – The Madness of SaaS Chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc)
+- Sep 15 - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
+- Sep 15 - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
+- Sep 15 - [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
 - Sep 15 - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
-- Sep 15 - [Starlink is currently experiencing a service outage](https://www.starlink.com/)
-- Sep 15 - [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821)
-- Sep 15 - [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 <!--END_SECTION:hn-->
 
 <!--
