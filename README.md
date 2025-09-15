@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [The $10 Payment That Cost Me $43.95 – The Madness of SaaS Chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc)
-- Sep 15 - [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT)
-- Sep 15 - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
-- Sep 15 - [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/)
-- Sep 15 - [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos)
+- Sep 15 - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
+- Sep 15 - [Thought police bill introduced to revoke US passport for criticism of Israel](https://thecradle.co/articles-id/33135)
+- Sep 15 - [Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
+- Sep 15 - [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
+- Sep 15 - [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
 <!--END_SECTION:hn-->
 
 <!--
