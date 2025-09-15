@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
-- Sep 15 - [Thought police bill introduced to revoke US passport for criticism of Israel](https://thecradle.co/articles-id/33135)
-- Sep 15 - [Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps](https://news.ycombinator.com/item?id=45250720)
-- Sep 15 - [Creating a VGA Signal in Hubris](https://lasernoises.com/blog/hubris-vga/)
-- Sep 15 - [Meta bypassed Apple privacy protections, claims former employee](https://9to5mac.com/2025/08/21/meta-allegedly-bypassed-apple-privacy-measure-and-fired-employee-who-flagged-it/)
+- Sep 15 - [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
+- Sep 15 - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
+- Sep 15 - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+- Sep 15 - [AOMedia Announces Year-End Launch of Next-Gen Video Codec AV2](https://aomedia.org/press%20releases/AOMedia-Announces-Year-End-Launch-of-Next-Generation-Video-Codec-AV2-on-10th-Anniversary/)
+- Sep 15 - [GPT-5-Codex](https://openai.com/index/introducing-upgrades-to-codex/)
 <!--END_SECTION:hn-->
 
 <!--
