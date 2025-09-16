@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
-- Sep 16 - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
-- Sep 16 - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
-- Sep 16 - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
-- Sep 16 - ["Your" vs. "My" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
+- Sep 16 - [Tesla Faces US Auto Safety Investigation over Door Handles](https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles)
+- Sep 16 - [We're launching a new Google app for Windows experiment in Labs](https://blog.google/products/search/google-app-windows-labs/)
+- Sep 16 - [The old SF tech scene is dead. What it's morphing into is more sinister](https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php)
+- Sep 16 - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
+- Sep 16 - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 <!--END_SECTION:hn-->
 
 <!--
