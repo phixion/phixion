@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
+- Sep 16 - [AP Live: View from Gaza as Israel Begins Expanded Operation in Gaza City](https://www.youtube.com/watch?v=autLCRVLwsQ)
+- Sep 16 - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
+- Sep 16 - ["Your" vs. "My" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
 - Sep 16 - [Linux phones are more important now than ever](https://feddit.org/post/18353777)
-- Sep 16 - [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137)
-- Sep 15 - [Why do we keep gravitating toward complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
-- Sep 15 - [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
-- Sep 15 - [Show HN: Pooshit – Sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
 <!--END_SECTION:hn-->
 
 <!--
