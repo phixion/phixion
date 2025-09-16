@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [California reached the unthinkable: A union deal with tech giants](https://www.politico.com/news/2025/09/14/california-uber-lyft-union-00562680)
-- Sep 15 - [Addendum to GPT-5 system card: GPT-5-Codex](https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/)
-- Sep 15 - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
-- Sep 15 - [AOMedia Announces Year-End Launch of Next-Gen Video Codec AV2](https://aomedia.org/press%20releases/AOMedia-Announces-Year-End-Launch-of-Next-Generation-Video-Codec-AV2-on-10th-Anniversary/)
-- Sep 15 - [GPT-5-Codex](https://openai.com/index/introducing-upgrades-to-codex/)
+- Sep 15 - [Fighting human trafficking with self-contained applications](https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/)
+- Sep 15 - [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
+- Sep 15 - [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment)
+- Sep 15 - [Show HN: Pooshit – Sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337)
+- Sep 15 - [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf)
 <!--END_SECTION:hn-->
 
 <!--
