@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 16 - [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
+- Sep 16 - [Automating Distro Updates in CI](https://paretosecurity.com/blog/automating-distro-updates-in-ci/)
 - Sep 16 - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
-- Sep 16 - [AP Live: View from Gaza as Israel Begins Expanded Operation in Gaza City](https://www.youtube.com/watch?v=autLCRVLwsQ)
 - Sep 16 - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc)
 - Sep 16 - ["Your" vs. "My" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/)
-- Sep 16 - [Linux phones are more important now than ever](https://feddit.org/post/18353777)
 <!--END_SECTION:hn-->
 
 <!--
