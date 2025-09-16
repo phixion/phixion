@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Tesla Faces US Auto Safety Investigation over Door Handles](https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles)
-- Sep 16 - [We're launching a new Google app for Windows experiment in Labs](https://blog.google/products/search/google-app-windows-labs/)
-- Sep 16 - [The old SF tech scene is dead. What it's morphing into is more sinister](https://www.sfgate.com/tech/article/bay-area-tech-scene-dorky-now-terrifying-21042943.php)
-- Sep 16 - [Microsoft Favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
-- Sep 16 - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
+- Sep 16 - [Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video](https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/)
+- Sep 16 - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
+- Sep 16 - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
+- Sep 16 - [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
+- Sep 16 - [The Linux Process Journey (2023) [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
 <!--END_SECTION:hn-->
 
 <!--
