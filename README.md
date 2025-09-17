@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Apple Photos App Corrupts Images](https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/)
-- Sep 17 - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
-- Sep 17 - [PureVPN IPv6 Leak](https://anagogistis.com/posts/purevpn-ipv6-leak/)
-- Sep 17 - [EU Chat Control: Germany's position has been reverted to UNDECIDED](https://mastodon.social/@chatcontrol/115215006562371435)
-- Sep 17 - [Oh no, not again a meditation on NPM supply chain attacks](https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/)
+- Sep 17 - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
+- Sep 17 - [How to Motivate Yourself to Do a Thing You Don't Want to Do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
+- Sep 17 - [A single adblock filter may have caused YouTube's global view drop](https://github.com/easylist/easylist/issues/22375)
+- Sep 17 - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
+- Sep 17 - [UUIDv47: Store UUIDv7 in DB, emit UUIDv4 outside (SipHash-masked timestamp)](https://github.com/stateless-me/uuidv47)
 <!--END_SECTION:hn-->
 
 <!--
