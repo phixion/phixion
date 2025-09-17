@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Meta RayBan AR Glasses Shows Lumus Waveguide Structures in Leaked Video](https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/)
-- Sep 16 - [How to make the Framework Desktop run even quieter](https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter)
-- Sep 16 - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
-- Sep 16 - [Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out](https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out)
-- Sep 16 - [The Linux Process Journey (2023) [pdf]](https://thelearningjourneyebooks.com/wp-content/uploads/2023/09/TheLinuxProcessJourney_v6_Sep2023.pdf)
+- Sep 16 - [I launched a Mac utility; now there are 5 clones on the App Store using my story](https://news.ycombinator.com/item?id=45269827)
+- Sep 16 - [Fairchild PPS-25: 4-bit CPU for 25-digit precision](https://www.cpushack.com/2025/02/01/fairchild-pps-25-4-bit-cpu-for-25-digit-precision/)
+- Sep 16 - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
+- Sep 16 - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
+- Sep 16 - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
 <!--END_SECTION:hn-->
 
 <!--
