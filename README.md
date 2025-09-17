@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Microsoft Python Driver for SQL Server](https://github.com/microsoft/mssql-python)
-- Sep 17 - [How to Motivate Yourself to Do a Thing You Don't Want to Do](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/)
-- Sep 17 - [A single adblock filter may have caused YouTube's global view drop](https://github.com/easylist/easylist/issues/22375)
-- Sep 17 - [YouTube addresses lower view counts which seem to be caused by ad blockers](https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/)
-- Sep 17 - [UUIDv47: Store UUIDv7 in DB, emit UUIDv4 outside (SipHash-masked timestamp)](https://github.com/stateless-me/uuidv47)
+- Sep 17 - [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
+- Sep 17 - [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/)
+- Sep 17 - [Optimizing ClickHouse for Intel's 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
+- Sep 17 - [When Computer Magazines Were Everywhere](https://www.goto10retro.com/p/when-computer-magazines-were-everywhere)
+- Sep 17 - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 <!--END_SECTION:hn-->
 
 <!--
