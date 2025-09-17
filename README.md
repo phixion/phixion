@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [GNU Midnight Commander](https://midnight-commander.org/)
-- Sep 17 - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
-- Sep 17 - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
-- Sep 17 - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
-- Sep 17 - [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don't Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
+- Sep 17 - [Murex – An intuitive and content aware shell for a modern command line](https://murex.rocks/)
+- Sep 17 - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
+- Sep 17 - [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421)
+- Sep 17 - [I just want an 80×25 console, but that's no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible)
+- Sep 17 - [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 <!--END_SECTION:hn-->
 
 <!--
