@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [I launched a Mac utility; now there are 5 clones on the App Store using my story](https://news.ycombinator.com/item?id=45269827)
-- Sep 16 - [Fairchild PPS-25: 4-bit CPU for 25-digit precision](https://www.cpushack.com/2025/02/01/fairchild-pps-25-4-bit-cpu-for-25-digit-precision/)
-- Sep 16 - [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/)
-- Sep 16 - [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31)
-- Sep 16 - [SQL performance improvements: finding the right queries to fix](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1)
+- Sep 17 - [GNU Midnight Commander](https://midnight-commander.org/)
+- Sep 17 - [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip)
+- Sep 17 - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/)
+- Sep 17 - [Slow Social Media](https://herman.bearblog.dev/slow-social-media/)
+- Sep 17 - [September 15, 2025: The Day the Industry Admitted AI Subscriptions Don't Work](https://blog.kilocode.ai/p/why-ai-subscriptions-cannot-work)
 <!--END_SECTION:hn-->
 
 <!--
