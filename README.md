@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Nvidia buys $5B in Intel stock in seismic deal](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal)
+- Sep 18 - [CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer)
+- Sep 18 - [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
+- Sep 18 - [This Website Has No Class](https://aaadaaam.com/notes/no-class/)
 - Sep 18 - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
-- Sep 18 - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
-- Sep 18 - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
-- Sep 18 - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
-- Sep 18 - [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
 <!--END_SECTION:hn-->
 
 <!--
