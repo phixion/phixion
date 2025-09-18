@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 18 - [Pnpm has a new setting to stave off supply chain attacks](https://pnpm.io/blog/releases/10.16)
+- Sep 18 - [History of the Gem Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
+- Sep 18 - [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species)
 - Sep 18 - [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805)
 - Sep 18 - [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/)
-- Sep 18 - [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello)
-- Sep 18 - [Hypervisor 101 in Rust](https://tandasat.github.io/Hypervisor-101-in-Rust/)
-- Sep 18 - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
 <!--END_SECTION:hn-->
 
 <!--
