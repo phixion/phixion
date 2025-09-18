@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [New bill aims to block both online adult content and VPNs](https://www.cnet.com/tech/services-and-software/new-bill-aims-to-block-both-online-adult-content-and-vpns/)
-- Sep 18 - [American Prairie unlocks another 70k acres in Montana](https://earthhope.substack.com/p/victory-for-public-access-american)
-- Sep 18 - [Launch HN: Cactus (YC S25) – AI inference on smartphones](https://github.com/cactus-compute/cactus)
-- Sep 18 - [A better future for JavaScript that won't happen](https://drewdevault.com/2025/09/17/2025-09-17-An-impossible-future-for-JS.html)
-- Sep 18 - [TernFS – An exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
+- Sep 18 - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
+- Sep 18 - [When Knowing Someone at Meta Is the Only Way to Break Out of "Content Jail"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
+- Sep 18 - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
+- Sep 18 - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
+- Sep 18 - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
 <!--END_SECTION:hn-->
 
 <!--
