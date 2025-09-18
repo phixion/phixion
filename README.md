@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 17 - [Pg_links](https://giulianopz.github.io/pg.html)
+- Sep 17 - [Jqp: TUI Playground to Experiment with Jq](https://github.com/noahgorstein/jqp)
+- Sep 17 - [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
 - Sep 17 - [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py)
 - Sep 17 - [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/)
-- Sep 17 - [Optimizing ClickHouse for Intel's 280 core processors](https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu)
-- Sep 17 - [When Computer Magazines Were Everywhere](https://www.goto10retro.com/p/when-computer-magazines-were-everywhere)
-- Sep 17 - [WASM 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 <!--END_SECTION:hn-->
 
 <!--
