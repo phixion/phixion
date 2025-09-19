@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
+- Sep 19 - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
+- Sep 19 - [Count Folke Bernadotte: Sweden's Servant of Peace (2010)](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
+- Sep 19 - [Grow a Garden Calculator](https://grow-a-garden-calculator.xyz/)
+- Sep 19 - [Nostr](https://nostr.com/)
 - Sep 19 - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
-- Sep 19 - [Playing “Minecraft” Without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
-- Sep 19 - [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
-- Sep 19 - [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
 <!--END_SECTION:hn-->
 
 <!--
