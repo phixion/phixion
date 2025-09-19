@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [The Fake Social Binary](https://brennenputh.me/blog/the-social-binary/)
-- Sep 18 - [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
-- Sep 18 - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
-- Sep 18 - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
-- Sep 18 - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
+- Sep 19 - [Bravo Apple! Calculator app has a memory leak](https://xcancel.com/neogoose_btw/status/1968757466570621251)
+- Sep 19 - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
+- Sep 19 - [Playing “Minecraft” Without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
+- Sep 19 - [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/)
+- Sep 19 - [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale)
 <!--END_SECTION:hn-->
 
 <!--
