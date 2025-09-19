@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
+- Sep 19 - [Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer)
+- Sep 19 - [Statistical Physics with R: Ising Model with Monte Carlo](https://github.com/msuzen/isingLenzMC)
+- Sep 19 - [Ruby Central's Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
 - Sep 19 - [Count Folke Bernadotte: Sweden's Servant of Peace (2010)](https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace)
-- Sep 19 - [Grow a Garden Calculator](https://grow-a-garden-calculator.xyz/)
-- Sep 19 - [Nostr](https://nostr.com/)
 - Sep 19 - [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/)
 <!--END_SECTION:hn-->
 
