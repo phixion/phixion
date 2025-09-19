@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [tldraw SDK 4.0](https://tldraw.dev/blog/tldraw-sdk-4-0)
-- Sep 18 - [When Knowing Someone at Meta Is the Only Way to Break Out of "Content Jail"](https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail)
-- Sep 18 - [This map is not upside down](https://www.maps.com/this-map-is-not-upside-down/)
-- Sep 18 - [Learn Your Way: Reimagining Textbooks with Generative AI](https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/)
-- Sep 18 - [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view)
+- Sep 18 - [The Fake Social Binary](https://brennenputh.me/blog/the-social-binary/)
+- Sep 18 - [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory)
+- Sep 18 - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+- Sep 18 - [AI tools are making the world look weird](https://strat7.com/blogs/weird-in-weird-out/)
+- Sep 18 - [Show HN: I created a small 2D game about an ant](https://aanthonymax.github.io/ant-and-apples/)
 <!--END_SECTION:hn-->
 
 <!--
