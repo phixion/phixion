@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Restriction on Entry of Certain Nonimmigrant Workers](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/)
-- Sep 19 - [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
+- Sep 20 - [Things managers do that leaders never would](https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/)
+- Sep 20 - [Disney+ cancellation page crashes as customers rush to quit](https://creators.yahoo.com/lifestyle/story/disney-cancellation-page-crashes-as-customers-rush-to-quit-after-kimmel-suspension-033512277.html)
+- Sep 19 - [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
 - Sep 19 - [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis)
 - Sep 19 - [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion)
-- Sep 19 - [Feedmaker: URL + CSS selectors = RSS feed](https://feedmaker.fly.dev)
 <!--END_SECTION:hn-->
 
 <!--
