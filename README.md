@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Parents outraged as Meta uses photos of schoolgirls in ads targeting man](https://www.theguardian.com/technology/2025/sep/20/parents-outraged-meta-uses-photos-schoolgirls-ads-man)
+- Sep 20 - [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)
+- Sep 20 - [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
+- Sep 20 - [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/)
+- Sep 20 - [IG Nobel Prize Winners 2025](https://improbable.com/ig/winners/)
 - Sep 20 - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
-- Sep 20 - [PYREX vs. Pyrex: What's the Difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
-- Sep 20 - [If you are good at code review, you will be good at using AI agents](https://www.seangoedecke.com/ai-agents-and-code-review/)
-- Sep 20 - [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey)
 <!--END_SECTION:hn-->
 
 <!--
