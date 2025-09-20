@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [These days, systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
-- Sep 20 - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
-- Sep 20 - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
-- Sep 20 - [The dawn of the post-literate society – and the end of civilisation](https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1)
-- Sep 20 - [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive)
+- Sep 20 - [Albert Einstein Gives a Speech Praising Immigrants' Contributions to America](https://www.openculture.com/2025/09/albert-einstein-gives-a-speech-praising-diversity-immigrants-contributions.html)
+- Sep 20 - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
+- Sep 20 - [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
+- Sep 20 - [UNESCO Launches the First Virtual Museum of Stolen Cultural Objects](https://www.unesco.org/en/articles/unesco-launches-worlds-first-virtual-museum-stolen-cultural-objects-global-scale-mondiacult-2025)
+- Sep 20 - [The LLM Lobotomy?](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
 <!--END_SECTION:hn-->
 
 <!--
