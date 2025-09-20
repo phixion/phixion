@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)
-- Sep 20 - [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc)
-- Sep 20 - [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/)
-- Sep 20 - [IG Nobel Prize Winners 2025](https://improbable.com/ig/winners/)
-- Sep 20 - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
+- Sep 20 - [These days, systemd can be a cause of restrictions on daemons](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCanBeRestrictionCause)
+- Sep 20 - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/)
+- Sep 20 - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
+- Sep 20 - [The dawn of the post-literate society – and the end of civilisation](https://jmarriott.substack.com/p/the-dawn-of-the-post-literate-society-aa1)
+- Sep 20 - [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive)
 <!--END_SECTION:hn-->
 
 <!--
