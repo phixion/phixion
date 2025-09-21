@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
-- Sep 21 - [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/)
-- Sep 21 - [Vibe coding cleanup as a service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
-- Sep 21 - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
-- Sep 21 - [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
+- Sep 21 - [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
+- Sep 21 - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
+- Sep 21 - [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
+- Sep 21 - [Disk Utility still can't check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
+- Sep 21 - [Sequoia: Rust OpenPGP Implementation](https://gitlab.com/sequoia-pgp/sequoia)
 <!--END_SECTION:hn-->
 
 <!--
