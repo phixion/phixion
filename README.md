@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Albert Einstein Gives a Speech Praising Immigrants' Contributions to America](https://www.openculture.com/2025/09/albert-einstein-gives-a-speech-praising-diversity-immigrants-contributions.html)
-- Sep 20 - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
-- Sep 20 - [TV Time Machine: A Raspberry Pi That Plays Random 90s TV](https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html)
-- Sep 20 - [UNESCO Launches the First Virtual Museum of Stolen Cultural Objects](https://www.unesco.org/en/articles/unesco-launches-worlds-first-virtual-museum-stolen-cultural-objects-global-scale-mondiacult-2025)
-- Sep 20 - [The LLM Lobotomy?](https://learn.microsoft.com/en-us/answers/questions/5561465/the-llm-lobotomy)
+- Sep 20 - [macOS becomes iOS: Safari video controls](https://underpassapp.com/news/2025/9/8.html)
+- Sep 20 - [Why do some gamers invert their controls?](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think)
+- Sep 20 - [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/)
+- Sep 20 - [A brief history of threads and threading](https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/)
+- Sep 20 - [Philips announces digital pathology scanner with native DICOM JPEG XL output](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html)
 <!--END_SECTION:hn-->
 
 <!--
