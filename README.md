@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [How to Stop Functional Programming](https://brianmckenna.org/blog/howtostopfp)
-- Sep 21 - [New thermoelectric cooling breakthrough nearly doubles efficiency](https://www.sciencedaily.com/releases/2025/09/250919085242.htm)
-- Sep 21 - [UUIDv7 in Postgres 18. With time extraction](https://www.thenile.dev/blog/uuidv7)
-- Sep 21 - [Disk Utility still can't check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
-- Sep 21 - [Sequoia: Rust OpenPGP Implementation](https://gitlab.com/sequoia-pgp/sequoia)
+- Sep 21 - [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
+- Sep 21 - [Liberté, égalité, Radioactivité](https://worksinprogress.co/issue/liberte-egalite-radioactivite/)
+- Sep 21 - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
+- Sep 21 - [Timesketch: Collaborative forensic timeline analysis](https://github.com/google/timesketch)
+- Sep 21 - [Review: Project Xanadu – The Internet That Might Have Been](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet)
 <!--END_SECTION:hn-->
 
 <!--
