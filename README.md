@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/)
-- Sep 21 - [Liberté, égalité, Radioactivité](https://worksinprogress.co/issue/liberte-egalite-radioactivite/)
-- Sep 21 - [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
-- Sep 21 - [Timesketch: Collaborative forensic timeline analysis](https://github.com/google/timesketch)
-- Sep 21 - [Review: Project Xanadu – The Internet That Might Have Been](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet)
+- Sep 21 - [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
+- Sep 21 - [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/)
+- Sep 21 - [EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543)
+- Sep 21 - [Zig got a new ELF linker and it's fast](https://github.com/ziglang/zig/pull/25299)
+- Sep 21 - [Tiny reactors could one day power towns, campuses; community input will be key](https://theconversation.com/nuclear-in-your-backyard-tiny-reactors-could-one-day-power-towns-and-campuses-but-community-input-will-be-key-261225)
 <!--END_SECTION:hn-->
 
 <!--
