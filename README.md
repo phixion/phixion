@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [UK Millionaire exodus did not occur, study reveals](https://taxjustice.net/press/millionaire-exodus-did-not-occur-study-reveals/)
-- Sep 22 - [Cloudflare’s 2025 Annual Founders’ Letter](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/)
-- Sep 22 - [PlanetScale for Postgres is now GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available)
-- Sep 22 - [Anti-*: The Things We Do but Not All the Way](https://blog.jim-nielsen.com/2025/my-antis/)
-- Sep 22 - [A simple way to measure knots has come unraveled](https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/)
+- Sep 22 - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
+- Sep 22 - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
+- Sep 22 - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
+- Sep 22 - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
+- Sep 22 - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 <!--END_SECTION:hn-->
 
 <!--
