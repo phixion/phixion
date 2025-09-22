@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Download responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
-- Sep 22 - [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
-- Sep 22 - [South Korea's President says US investment demands would spark financial crisis](https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/)
-- Sep 22 - [Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/abs/2508.15884)
-- Sep 22 - [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true)
+- Sep 22 - [Tesla coast-to-coast FSD crashes after 60 miles](https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/)
+- Sep 22 - [Kmart's use of facial recognition to tackle refund fraud unlawful](https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds)
+- Sep 22 - [Tell the EU: Don't Break Encryption with "Chat Control"](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/)
+- Sep 22 - [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive)
+- Sep 22 - [LinkedIn will soon train AI models with data from European users](https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/)
 <!--END_SECTION:hn-->
 
 <!--
