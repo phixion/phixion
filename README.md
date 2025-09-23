@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Unweaving warp specialization on modern tensor core GPUs](https://rohany.github.io/blog/warp-specialization/)
-- Sep 22 - [Fine-grained HTTP filtering for Claude Code](https://ammar.io/blog/httpjail)
+- Sep 22 - [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
+- Sep 22 - [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
+- Sep 22 - [Priced out of traditional housing, more Americans are living in RVs](https://www.nbcnews.com/news/us-news/americans-choose-rv-life-economy-challenges-housing-market-cost-rcna231942)
+- Sep 22 - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
 - Sep 22 - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
-- Sep 22 - [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/)
-- Sep 22 - [Show HN: Python Audio Transcription: Convert Speech to Text Locally](https://www.pavlinbg.com/posts/python-speech-to-text-guide)
 <!--END_SECTION:hn-->
 
 <!--
