@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - ["If you are reading this obituary, it looks like I'm dead. It happened"](https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/)
-- Sep 23 - [Are Elites Meritocratic and Efficiency-Seeking? Evidence from MBA Students](https://arxiv.org/abs/2503.15443)
-- Sep 23 - [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
-- Sep 23 - [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
-- Sep 23 - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
+- Sep 23 - [consumed.today](https://consumed.today/)
+- Sep 23 - [How to draw construction equipment for kids](https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment)
+- Sep 23 - [Denmark wants to push through Chat Control](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
+- Sep 23 - [Find SF parking cops](https://walzr.com/sf-parking/)
+- Sep 23 - [Android users can now use conversational editing in Google Photos](https://blog.google/products/photos/android-conversational-editing-google-photos/)
 <!--END_SECTION:hn-->
 
 <!--
