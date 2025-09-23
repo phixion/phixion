@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Pocket Casts, You Altered the Deal, So I Will Alter Your App](https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/)
-- Sep 23 - [Selling numbered rocks, you get whatever's next in sequence](https://weight.rocks)
-- Sep 23 - [X server implementation for SIXEL-featured terminals (2010-2014)](https://github.com/saitoha/xserver-SIXEL)
-- Sep 23 - [US fall foliage map 2025](https://www.explorefall.com/fall-foliage-map)
-- Sep 22 - [In Maine, prisoners are thriving in remote jobs](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
+- Sep 23 - [Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]](https://hi.telli.com/join-us)
+- Sep 23 - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
+- Sep 23 - [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4)
+- Sep 23 - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
+- Sep 23 - [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html)
 <!--END_SECTION:hn-->
 
 <!--
