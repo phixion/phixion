@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084)
-- Sep 23 - [Cache of Devices Capable of Crashing Cell Network Is Found Near U.N](https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html)
-- Sep 23 - [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana)
-- Sep 23 - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
-- Sep 23 - [Europe's EV sales surge 26% in 2025 while Tesla faces decline](https://www.notebookcheck.net/Europe-s-EV-sales-surge-26-in-2025-while-Tesla-faces-decline.1121077.0.html)
+- Sep 23 - ["If you are reading this obituary, it looks like I'm dead. It happened"](https://framinghamsource.com/index.php/2025/09/22/linda-m-brossi-murphy/)
+- Sep 23 - [Are Elites Meritocratic and Efficiency-Seeking? Evidence from MBA Students](https://arxiv.org/abs/2503.15443)
+- Sep 23 - [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/)
+- Sep 23 - [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914)
+- Sep 23 - [Zip Code Map of the United States](https://engaging-data.com/us-zip-code-map/)
 <!--END_SECTION:hn-->
 
 <!--
