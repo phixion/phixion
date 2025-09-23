@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
-- Sep 22 - [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1)
-- Sep 22 - [Priced out of traditional housing, more Americans are living in RVs](https://www.nbcnews.com/news/us-news/americans-choose-rv-life-economy-challenges-housing-market-cost-rcna231942)
-- Sep 22 - [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917)
-- Sep 22 - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
+- Sep 23 - [Pocket Casts, You Altered the Deal, So I Will Alter Your App](https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/)
+- Sep 23 - [Selling numbered rocks, you get whatever's next in sequence](https://weight.rocks)
+- Sep 23 - [X server implementation for SIXEL-featured terminals (2010-2014)](https://github.com/saitoha/xserver-SIXEL)
+- Sep 23 - [US fall foliage map 2025](https://www.explorefall.com/fall-foliage-map)
+- Sep 22 - [In Maine, prisoners are thriving in remote jobs](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice)
 <!--END_SECTION:hn-->
 
 <!--
