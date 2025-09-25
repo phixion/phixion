@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [FTC Secures Historic $2.5B Settlement Against Amazon](https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon)
-- Sep 25 - [Microsoft blocks Israel's use of its tech. in mass surveillance of Palestinians](https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians)
-- Sep 25 - [This month in Servo: variable fonts, network tools, SVG](https://servo.org/blog/2025/09/25/this-month-in-servo/)
-- Sep 25 - [Accenture to 'exit' staff that cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)
-- Sep 25 - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
+- Sep 25 - [Can a model trained on satellite data really find brambles on the ground?](https://toao.com/blog/can-we-really-see-brambles-from-space)
+- Sep 25 - [How Amgen Lost the PCSK9 Patent War](https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war)
+- Sep 25 - [Ollama Web Search](https://ollama.com/blog/web-search)
+- Sep 25 - [Implementing UI translation in SumatraPDF, a C++ Windows application](https://blog.kowalczyk.info/a-vn0v/implementing-ui-translation-in-sumatrapdf-a-c-windows-application.html)
+- Sep 25 - [Tracing JITs in the Real World CPython Core Dev Sprint](https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/)
 <!--END_SECTION:hn-->
 
 <!--
