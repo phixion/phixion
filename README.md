@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Unlocking a Million Times More Data for AI](https://ifp.org/unlocking-a-million-times-more-data-for-ai/)
-- Sep 24 - [How fast is Go? simulating particles on a smart TV](https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv)
-- Sep 24 - [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914)
-- Sep 24 - [Show HN: Vibe Linking](https://vb.lk/)
-- Sep 24 - [Waymo for Business](https://waymo.com/blog/2025/09/waymo-for-business)
+- Sep 25 - [Fewer H-1B Visas Did Not Mean More Employment for Natives (2017)](https://www.nber.org/digest/dec17/fewer-h-1b-visas-did-not-mean-more-employment-natives)
+- Sep 24 - [Fuck Hackcyom](https://studium.dev/osib/fuck-hackcyom)
+- Sep 24 - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal)
+- Sep 24 - [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9)
+- Sep 24 - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision)
 <!--END_SECTION:hn-->
 
 <!--
