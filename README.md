@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Conspiracy content drives anti-establishment sentiment on TikTok, YouTube](https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/)
-- Sep 25 - [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html)
-- Sep 25 - [Apple Demands EU Repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/)
-- Sep 25 - [The Word Made Lifeless. Are we becoming stochastic parrots?](https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless)
-- Sep 25 - [RedoxFS is the default filesystem of Redox OS, inspired by ZFS](https://doc.redox-os.org/book/redoxfs.html)
+- Sep 26 - [Fixing Deus Ex's Lip Syncing](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
+- Sep 26 - [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
+- Sep 26 - [All British adults to require a digital ID 'Brit Card'](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
+- Sep 26 - [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
+- Sep 26 - [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit)
 <!--END_SECTION:hn-->
 
 <!--
