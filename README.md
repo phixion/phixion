@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Fixing Deus Ex's Lip Syncing](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
-- Sep 26 - [Writing Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
-- Sep 26 - [All British adults to require a digital ID 'Brit Card'](https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041)
-- Sep 26 - [Bit is all we need: binary normalized neural networks](https://arxiv.org/abs/2509.07025)
-- Sep 26 - [Exploit Allows for Takeover of Fleets of Unitree Robots](https://spectrum.ieee.org/unitree-robot-exploit)
+- Sep 26 - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
+- Sep 26 - [Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer)
+- Sep 26 - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
+- Sep 26 - [A platform-jumping prince – History of Prince of Persia's 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
+- Sep 26 - [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 <!--END_SECTION:hn-->
 
 <!--
