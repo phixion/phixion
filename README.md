@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
-- Sep 26 - [Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer)
-- Sep 26 - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
-- Sep 26 - [A platform-jumping prince – History of Prince of Persia's 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince)
-- Sep 26 - [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
+- Sep 26 - [ParadeDB (YC S23) Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
+- Sep 26 - [UK officially rolls out digital ID scheme](https://www.gov.uk/government/news/new-digital-id-scheme-to-be-rolled-out-across-uk)
+- Sep 26 - [Apple's disregard for security and privacy is mind-boggling (2020)](https://evermeet.cx/wiki/Apple%27s_disregard_for_security_and_privacy_is_mind-boggling)
+- Sep 26 - [Genode OS Framework](https://genode.org)
+- Sep 26 - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
 <!--END_SECTION:hn-->
 
 <!--
