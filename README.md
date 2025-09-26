@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [ParadeDB (YC S23) Is Hiring Database Internals Engineers](https://paradedb.notion.site/?source=copy_link)
-- Sep 26 - [UK officially rolls out digital ID scheme](https://www.gov.uk/government/news/new-digital-id-scheme-to-be-rolled-out-across-uk)
-- Sep 26 - [Apple's disregard for security and privacy is mind-boggling (2020)](https://evermeet.cx/wiki/Apple%27s_disregard_for_security_and_privacy_is_mind-boggling)
-- Sep 26 - [Genode OS Framework](https://genode.org)
-- Sep 26 - [Show HN: The Little Notebook for Learning Linear Algebra with Python](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
+- Sep 26 - [Flagship mobile phone with hardware kill switches for privacy](https://news.itsfoss.com/murena-powered-hiroh-phone/)
+- Sep 26 - [SpaceX – Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
+- Sep 26 - [Better health conversations: Research on a "wayfinding" AI agent based on Gemini](https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/)
+- Sep 26 - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
+- Sep 26 - [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
 <!--END_SECTION:hn-->
 
 <!--
