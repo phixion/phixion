@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Flagship mobile phone with hardware kill switches for privacy](https://news.itsfoss.com/murena-powered-hiroh-phone/)
-- Sep 26 - [SpaceX – Evolving the Multi-User Spaceport](https://www.spacex.com/updates#multiuser-spaceport)
-- Sep 26 - [Better health conversations: Research on a "wayfinding" AI agent based on Gemini](https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/)
-- Sep 26 - [Fast UDP I/O for Firefox in Rust](https://max-inden.de/post/fast-udp-io-in-firefox/)
-- Sep 26 - [Show HN: Dreamtap – Make your AI more creative](https://dreamtap.xyz/)
+- Sep 26 - [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
+- Sep 26 - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
+- Sep 26 - [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
+- Sep 26 - [Auth.js Joining Better Auth](https://www.better-auth.com/blog/authjs-joins-better-auth)
+- Sep 26 - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
 <!--END_SECTION:hn-->
 
 <!--
