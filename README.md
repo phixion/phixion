@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Times New Dumbass](https://timesnewdumbass.co/)
+- Sep 27 - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
+- Sep 27 - [AI Investment Is Starting to Look Like a Slush Fund](https://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html)
+- Sep 27 - [The Amazon Kindle War Against Piracy](https://goodereader.com/blog/kindle/the-amazon-kindle-war-against-piracy)
+- Sep 27 - [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning)
 - Sep 26 - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
-- Sep 26 - [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess)
-- Sep 26 - [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
-- Sep 26 - [New math revives geometry's oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
 <!--END_SECTION:hn-->
 
 <!--
