@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Why Use Mailing Lists?](https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/)
-- Sep 26 - [If you are harassed by lasers](https://www.laserpointersafety.com/harassment.html)
-- Sep 26 - [When Bruce Lee trained with Kareem Abdul-Jabbar](https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/)
-- Sep 26 - [Auth.js Joining Better Auth](https://www.better-auth.com/blog/authjs-joins-better-auth)
-- Sep 26 - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
+- Sep 26 - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/)
+- Sep 26 - [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/)
+- Sep 26 - [New math revives geometry's oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/)
+- Sep 26 - [Why do we remember some life moments - but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/)
+- Sep 26 - [Bell Labs Scientists Accidentally Proved the Big Bang Theory](https://spectrum.ieee.org/big-bang-theory-discovery)
 <!--END_SECTION:hn-->
 
 <!--
