@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025)
-- Sep 27 - [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221)
-- Sep 27 - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
-- Sep 27 - [Property-Based Testing of OCaml 5's Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
-- Sep 27 - [Lifetime of social ties adds up to healthy aging at molecular level](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging)
+- Sep 27 - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
+- Sep 27 - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
+- Sep 27 - [Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf?](https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html)
+- Sep 27 - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
+- Sep 27 - [Scientists say X has lost its professional edge and Bluesky is taking its place](https://www.psypost.org/scientists-say-x-formerly-twitter-has-lost-its-professional-edge-and-bluesky-is-taking-its-place/)
 <!--END_SECTION:hn-->
 
 <!--
