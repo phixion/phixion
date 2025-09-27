@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [AI model trapped in a Raspberry Pi](https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/)
-- Sep 27 - [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
-- Sep 27 - [Was This 18,000-Year-Old Siberian Puppy a Dog or a Wolf?](https://www.nytimes.com/2019/12/02/science/frozen-puppy-found-russia.html)
-- Sep 27 - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
-- Sep 27 - [Scientists say X has lost its professional edge and Bluesky is taking its place](https://www.psypost.org/scientists-say-x-formerly-twitter-has-lost-its-professional-edge-and-bluesky-is-taking-its-place/)
+- Sep 27 - [LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard](https://signoz.io/blog/llm-observability-opentelemetry/)
+- Sep 27 - [Docker Was Too Slow, So We Replaced It: Nix in Production [video]](https://www.youtube.com/watch?v=iPoL03tFBtU)
+- Sep 27 - [Xeres: Uncensorable Peer-to-Peer Communications](https://xeres.io/)
+- Sep 27 - [The death of east London's most radical bookshop](https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/)
+- Sep 27 - [Are We in an A.I. Bubble? I Suspect So](https://gideons.substack.com/p/are-we-in-an-ai-bubble-i-suspect)
 <!--END_SECTION:hn-->
 
 <!--
