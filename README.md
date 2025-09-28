@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Do Not Do This Unless You Want Magic Black Smoke](https://www.linspyre.com/ecoholics/temps.html)
+- Sep 28 - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
+- Sep 28 - [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
 - Sep 28 - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
-- Sep 27 - [Learn to Play Go](https://online-go.com/learn-to-play-go)
-- Sep 27 - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
-- Sep 27 - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
+- Sep 27 - [Learn to play Go](https://online-go.com/learn-to-play-go)
+- Sep 27 - [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration)
 <!--END_SECTION:hn-->
 
 <!--
