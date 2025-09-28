@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
-- Sep 28 - [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html)
-- Sep 28 - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
-- Sep 27 - [Learn to play Go](https://online-go.com/learn-to-play-go)
-- Sep 27 - [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration)
+- Sep 28 - [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free)
+- Sep 28 - [1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg)
+- Sep 28 - [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK)
+- Sep 28 - [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
+- Sep 28 - [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb)
 <!--END_SECTION:hn-->
 
 <!--
