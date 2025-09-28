@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
-- Sep 28 - [She Sent Her iPhone to Apple. Repair Techs Uploaded Her Nudes to Facebook (2021)](https://www.vice.com/en/article/she-sent-her-iphone-to-apple-repair-techs-uploaded-her-nudes-to-facebook/)
-- Sep 28 - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
-- Sep 28 - [How did we all miss the bacteria taking over her body?](https://www.theguardian.com/world/2025/sep/28/as-my-daughter-got-sicker-and-sicker-our-quest-for-answers-dragged-on-how-did-we-all-miss-the-bacteria-taking-over-her-body)
-- Sep 28 - [Apple threatens to stop selling iPhones in the EU](https://pluralistic.net/2025/09/26/empty-threats/#500-million-affluent-consumers)
+- Sep 28 - [Chinese scientists set world record with magnetic field 700k times Earth's](https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html)
+- Sep 28 - [The QMA Singularity](https://scottaaronson.blog/?p=9183)
+- Sep 28 - [Why some USB C cables work, or not, J-Link](https://alvarop.com/2025/09/j-link-compact-usb-c-issues/)
+- Sep 28 - [VMScape and why Xen dodged it](https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/)
+- Sep 28 - [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
 <!--END_SECTION:hn-->
 
 <!--
