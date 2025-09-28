@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says)
-- Sep 27 - [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128)
-- Sep 27 - [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains)
-- Sep 27 - [How I accidently created the fastest CSV parser ever made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
-- Sep 27 - [The (economic) AI apocalypse is nigh](https://pluralistic.net/2025/09/27/econopocalypse/)
+- Sep 28 - [Do Not Do This Unless You Want Magic Black Smoke](https://www.linspyre.com/ecoholics/temps.html)
+- Sep 28 - [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds)
+- Sep 27 - [Learn to Play Go](https://online-go.com/learn-to-play-go)
+- Sep 27 - [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/)
+- Sep 27 - [We reverse-engineered Flash Attention 4](https://modal.com/blog/reverse-engineer-flash-attention-4)
 <!--END_SECTION:hn-->
 
 <!--
