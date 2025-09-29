@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
+- Sep 29 - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
+- Sep 29 - [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
+- Sep 29 - [Google just erased 7 years of our political history](https://www.thebriefing.ie/google-just-erased-7-years-of-our-political-history/)
 - Sep 29 - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
-- Sep 29 - [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/)
-- Sep 29 - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
-- Sep 29 - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
-- Sep 29 - [The elusive roots of rosin potatoes (2022)](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes)
 <!--END_SECTION:hn-->
 
 <!--
