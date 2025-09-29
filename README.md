@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
-- Sep 28 - [Why Microsoft Has Lower Borrowing Costs Than the U.S.](https://www.wsj.com/finance/investing/why-microsoft-has-lower-borrowing-costs-than-the-u-s-de841633)
-- Sep 28 - [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
-- Sep 28 - [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
-- Sep 28 - [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
+- Sep 29 - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
+- Sep 29 - [Reader Response to "AI Overinvestment"](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
+- Sep 29 - [Primer on FedEx's Distribution Network (2024)](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
+- Sep 29 - [Cleaning house in Nx monorepo, how i removed unused deps safely](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
+- Sep 29 - [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us)
 <!--END_SECTION:hn-->
 
 <!--
