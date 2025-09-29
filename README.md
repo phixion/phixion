@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Chinese scientists set world record with magnetic field 700k times Earth's](https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html)
-- Sep 28 - [The QMA Singularity](https://scottaaronson.blog/?p=9183)
-- Sep 28 - [Why some USB C cables work, or not, J-Link](https://alvarop.com/2025/09/j-link-compact-usb-c-issues/)
-- Sep 28 - [VMScape and why Xen dodged it](https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/)
-- Sep 28 - [UK Petition: Do not introduce Digital ID cards](https://petition.parliament.uk/petitions/730194)
+- Sep 28 - [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false)
+- Sep 28 - [Why Microsoft Has Lower Borrowing Costs Than the U.S.](https://www.wsj.com/finance/investing/why-microsoft-has-lower-borrowing-costs-than-the-u-s-de841633)
+- Sep 28 - [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/)
+- Sep 28 - [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413)
+- Sep 28 - [Farewell friends](https://humbledollar.com/forum/farewell-friends/)
 <!--END_SECTION:hn-->
 
 <!--
