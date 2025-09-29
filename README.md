@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Write the Damn Code](https://antonz.org/write-code/)
-- Sep 29 - [Vertical Solar Panels Are Out Standing](https://hackaday.com/2025/09/25/vertical-solar-panels-are-out-standing/)
-- Sep 29 - [Electronic Arts Goes Private for $52.5B in Largest LBO](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c)
-- Sep 29 - [Why friction is necessary for growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
-- Sep 29 - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
+- Sep 29 - [Gold hits all time high](https://goldprice.org/)
+- Sep 29 - ['Based on a True Story'](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
+- Sep 29 - [Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst](https://www.theregister.com/2025/09/29/oracle_ai_debt/)
+- Sep 29 - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
+- Sep 29 - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
 <!--END_SECTION:hn-->
 
 <!--
