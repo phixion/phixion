@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 29 - [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
+- Sep 29 - [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/)
 - Sep 29 - [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
-- Sep 29 - [Reader Response to "AI Overinvestment"](https://www.mbi-deepdives.com/reader-response-to-ai-overinvestment/)
-- Sep 29 - [Primer on FedEx's Distribution Network (2024)](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution)
-- Sep 29 - [Cleaning house in Nx monorepo, how i removed unused deps safely](https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely)
-- Sep 29 - [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us)
+- Sep 29 - [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/)
+- Sep 29 - [The elusive roots of rosin potatoes (2022)](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes)
 <!--END_SECTION:hn-->
 
 <!--
