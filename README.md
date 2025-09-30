@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
-- Sep 30 - [European Union Public Licence (EUPL)](https://eupl.eu/)
-- Sep 30 - [The ABS Programming Language](https://www.abs-lang.org/)
-- Sep 30 - [People may age faster if their dad smoked during puberty](https://www.ersnet.org/news-and-features/news/people-may-age-faster-if-their-dad-smoked-during-puberty/)
-- Sep 30 - [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
+- Sep 30 - [Airgoods (YC S23) Is Hiring](https://airgoods.com/careers?utm_source=hacker_news)
+- Sep 30 - [Using the TPDE Codegen Back End in LLVM Orc](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html)
+- Sep 30 - [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
+- Sep 30 - [Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?](https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/)
+- Sep 30 - [Disqus Turned My Blog into an Ad Farm – So I Killed It](https://ryansouthgate.com/goodbye-disqus/)
 <!--END_SECTION:hn-->
 
 <!--
