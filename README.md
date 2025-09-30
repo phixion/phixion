@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [Gold hits all time high](https://goldprice.org/)
-- Sep 29 - ['Based on a True Story'](https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/)
-- Sep 29 - [Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst](https://www.theregister.com/2025/09/29/oracle_ai_debt/)
-- Sep 29 - [Instant Checkout for Merchants in ChatGPT](https://chatgpt.com/merchants)
-- Sep 29 - [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html)
+- Sep 29 - [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial)
+- Sep 29 - [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
+- Sep 29 - [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
+- Sep 29 - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
+- Sep 29 - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
 <!--END_SECTION:hn-->
 
 <!--
