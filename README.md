@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 29 - [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial)
-- Sep 29 - [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing)
-- Sep 29 - [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/)
-- Sep 29 - [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics)
-- Sep 29 - [Ask HN: What are you working on? (September 2025)](https://news.ycombinator.com/item?id=45418675)
+- Sep 30 - [Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
+- Sep 30 - [Awakening Bell](https://awakeningbell.org/)
+- Sep 29 - [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
+- Sep 29 - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+- Sep 29 - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
 <!--END_SECTION:hn-->
 
 <!--
