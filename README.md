@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Hiring only senior engineers is killing companies](https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies)
-- Sep 30 - [Awakening Bell](https://awakeningbell.org/)
-- Sep 29 - [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/)
-- Sep 29 - [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
-- Sep 29 - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
+- Sep 30 - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
+- Sep 30 - [European Union Public Licence (EUPL)](https://eupl.eu/)
+- Sep 30 - [The ABS Programming Language](https://www.abs-lang.org/)
+- Sep 30 - [People may age faster if their dad smoked during puberty](https://www.ersnet.org/news-and-features/news/people-may-age-faster-if-their-dad-smoked-during-puberty/)
+- Sep 30 - [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/)
 <!--END_SECTION:hn-->
 
 <!--
