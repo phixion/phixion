@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
-- Oct 01 - [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
-- Oct 01 - [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
-- Oct 01 - [Aphantasia and Psychedelics](https://psychedelirium.substack.com/p/aphantasia-and-psychedelics)
-- Oct 01 - [Hunter S Thompson's death to be reviewed more than 20 years later](https://www.theguardian.com/books/2025/oct/01/hunter-s-thompsons-death-reviewed)
+- Oct 01 - [U.S. Lost 32,000 Private-Sector Jobs in September, Says Payroll Processor](https://www.wsj.com/economy/jobs/u-s-lost-32-000-jobs-in-september-says-payroll-processor-06528340)
+- Oct 01 - [Decoding Netflix's AV1 Streams: Here are 10 things I found](https://singhkays.com/blog/netflix-av1-decode/)
+- Oct 01 - [Pushing the Boundaries of C64 Graphics with Nuflix](https://cobbpg.github.io/articles/nuflix.html)
+- Oct 01 - [Increasing your practice surface area](https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu)
+- Oct 01 - [Announcing Tinker](https://thinkingmachines.ai/blog/announcing-tinker/)
 <!--END_SECTION:hn-->
 
 <!--
