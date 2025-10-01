@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [The Gaslit Asset Class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
-- Oct 01 - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
-- Oct 01 - [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
-- Sep 30 - [Introduction to Multi-Armed Bandits (2019)](https://arxiv.org/abs/1904.07272)
-- Sep 30 - [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
+- Oct 01 - [Type Theory and Functional Programming (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
+- Oct 01 - [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
+- Oct 01 - [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
+- Oct 01 - [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
+- Oct 01 - [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
 <!--END_SECTION:hn-->
 
 <!--
