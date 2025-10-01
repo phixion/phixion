@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Type Theory and Functional Programming (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
-- Oct 01 - [High-resolution efficient image generation from WiFi Mapping](https://arxiv.org/abs/2506.10605)
-- Oct 01 - [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks)
-- Oct 01 - [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
-- Oct 01 - [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
+- Oct 01 - [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
+- Oct 01 - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
+- Oct 01 - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
+- Oct 01 - [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
+- Oct 01 - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 <!--END_SECTION:hn-->
 
 <!--
