@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Why TigerBeetle is the most interesting database in the world](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
-- Oct 01 - [FlowSynx – Orchestrate Declarative, Plugin-Driven DAG Workflows on .NET](https://flowsynx.io/)
-- Oct 01 - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
-- Oct 01 - [I only use Google Sheets](https://mayberay.bearblog.dev/why-i-only-use-google-sheets/)
-- Oct 01 - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
+- Oct 01 - [MIT technology can see microbes from 90 meters away](https://www.asimov.press/p/hyperspectral)
+- Oct 01 - [Building a 30 PB storage cluster in the heart of SF](https://si.inc/posts/the-heap/)
+- Oct 01 - [Show HN: Autism Simulator](https://autism-simulator.vercel.app/)
+- Oct 01 - [Aphantasia and Psychedelics](https://psychedelirium.substack.com/p/aphantasia-and-psychedelics)
+- Oct 01 - [Hunter S Thompson's death to be reviewed more than 20 years later](https://www.theguardian.com/books/2025/oct/01/hunter-s-thompsons-death-reviewed)
 <!--END_SECTION:hn-->
 
 <!--
