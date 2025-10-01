@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Making sure AI serves people and knowledge stays human](https://diff.wikimedia.org/2025/09/30/making-sure-ai-serves-people-and-knowledge-stays-human-wikimedia-foundation-publishes-a-human-rights-impact-assessment-on-the-interaction-of-ai-and-machine-learning-with-wikimedia-projects/)
-- Sep 30 - [Boeing has started working on a 737 MAX replacement](https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df)
-- Sep 30 - [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai)
-- Sep 30 - [Genomic analyses of hair from Ludwig van Beethoven (2023)](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00181-1)
-- Sep 30 - [Sora 2](https://openai.com/index/sora-2/)
+- Sep 30 - [Economics of sportsbooks and why they ban the best bettors](https://www.dopaminemarkets.com/p/the-business-of-sports-betting-is)
+- Sep 30 - [You want to meet me, don't make me work for it](https://gist.github.com/ibehnam/793584b04dde6028b35666eaa2b611b4)
+- Sep 30 - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
+- Sep 30 - [Our stewardship: Where we are, what's changing and how we'll engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
+- Sep 30 - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
 <!--END_SECTION:hn-->
 
 <!--
