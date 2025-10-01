@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Economics of sportsbooks and why they ban the best bettors](https://www.dopaminemarkets.com/p/the-business-of-sports-betting-is)
-- Sep 30 - [You want to meet me, don't make me work for it](https://gist.github.com/ibehnam/793584b04dde6028b35666eaa2b611b4)
-- Sep 30 - [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/)
-- Sep 30 - [Our stewardship: Where we are, what's changing and how we'll engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
-- Sep 30 - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272)
+- Oct 01 - [The Gaslit Asset Class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html)
+- Oct 01 - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+- Oct 01 - [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
+- Sep 30 - [Introduction to Multi-Armed Bandits (2019)](https://arxiv.org/abs/1904.07272)
+- Sep 30 - [Mind the encryptionroot: How to save your data when ZFS loses its mind](https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/)
 <!--END_SECTION:hn-->
 
 <!--
