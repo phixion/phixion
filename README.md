@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End)](https://careers.activeloop.ai/)
-- Oct 02 - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
-- Oct 02 - [How the AI Bubble Will Pop](https://www.derekthompson.org/p/this-is-how-the-ai-bubble-will-pop)
-- Oct 02 - [Greg Kroah-Hartman explains the Cyber Resilience Act for open source developers](https://www.theregister.com/2025/09/30/cyber_reiliance_act_opinion_column/)
-- Oct 02 - [Asked to do something illegal at work? Here's what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
+- Oct 02 - [Windows 7 marketshare jumps to nearly 10% as Windows 10 support is about to end](https://www.neowin.net/news/windows-7-marketshare-jumps-to-nearly-10-as-windows-10-enters-final-weeks-of-support/)
+- Oct 02 - [Wealth tax would be deadly for French economy, says Europe's richest man](https://www.theguardian.com/business/2025/sep/21/wealth-tax-would-be-deadly-for-french-economy-says-europe-richest-man-bernard-arnault)
+- Oct 02 - [Autism should not be seen as single condition with one cause, say scientists](https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists)
+- Oct 02 - [Ford locking basic navigation behind a subscription](https://old.reddit.com/r/LinusTechTips/comments/1nw5s9f/ford_locking_basic_navigation_behind_a/)
+- Oct 02 - [Does Big Pharma gouge Americans?](https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans)
 <!--END_SECTION:hn-->
 
 <!--
