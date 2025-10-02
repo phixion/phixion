@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Windows 7 marketshare jumps to nearly 10% as Windows 10 support is about to end](https://www.neowin.net/news/windows-7-marketshare-jumps-to-nearly-10-as-windows-10-enters-final-weeks-of-support/)
-- Oct 02 - [Wealth tax would be deadly for French economy, says Europe's richest man](https://www.theguardian.com/business/2025/sep/21/wealth-tax-would-be-deadly-for-french-economy-says-europe-richest-man-bernard-arnault)
-- Oct 02 - [Autism should not be seen as single condition with one cause, say scientists](https://www.theguardian.com/society/2025/oct/01/autism-should-not-be-seen-as-single-condition-with-one-cause-say-scientists)
-- Oct 02 - [Ford locking basic navigation behind a subscription](https://old.reddit.com/r/LinusTechTips/comments/1nw5s9f/ford_locking_basic_navigation_behind_a/)
-- Oct 02 - [Does Big Pharma gouge Americans?](https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans)
+- Oct 02 - [Anti-Aging Breakthrough: Stem Cells Reverse Signs of Aging in Monkeys](https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys)
+- Oct 02 - [Why most product planning is bad and what to do about it](https://blog.railway.com/p/product-planning-improvement)
+- Oct 02 - [OpenAI's H1 2025: $4.3B in income, $13.5B in loss](https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025)
+- Oct 02 - [Gemini 3.0 Pro – early tests](https://twitter.com/chetaslua/status/1973694615518880236)
+- Oct 02 - [The Answer (1954)](https://sfshortstories.com/?p=5983)
 <!--END_SECTION:hn-->
 
 <!--
