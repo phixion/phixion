@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 03 - [QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/)
+- Oct 03 - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 - Oct 03 - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
-- Oct 03 - ['Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer)
 - Oct 03 - [Fp8 runs ~100 tflops faster when the kernel name has "cutlass" in it](https://github.com/triton-lang/triton/pull/7298)
-- Oct 03 - [Digital ID – The New Chains of Capitalist Surveillance](https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/)
 - Oct 03 - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/)
 <!--END_SECTION:hn-->
 
