@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md)
-- Oct 04 - [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
-- Oct 04 - [A Mac-like experience on Linux](https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/)
-- Oct 04 - [It's not a hack to satisfy known requirements](https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/)
-- Oct 04 - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
+- Oct 04 - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
+- Oct 04 - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
+- Oct 04 - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
+- Oct 04 - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
+- Oct 04 - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
 <!--END_SECTION:hn-->
 
 <!--
