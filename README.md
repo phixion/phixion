@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power)
-- Oct 05 - [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide)
-- Oct 05 - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
-- Oct 05 - [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
-- Oct 05 - [Social Cooling (2017)](https://www.socialcooling.com/)
+- Oct 05 - [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)
+- Oct 05 - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
+- Oct 05 - [Small Nuclear Reactors Will Not Save the Day](https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html)
+- Oct 05 - [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
+- Oct 05 - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 <!--END_SECTION:hn-->
 
 <!--
