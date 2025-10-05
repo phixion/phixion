@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Westjet is going to make you pay to recline your seat](https://www.thestreet.com/travel/a-major-airline-is-going-to-make-you-pay-to-recline-your-seat)
-- Oct 05 - [Language Agnostic Programming: Why you may still need code](https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/)
-- Oct 05 - [Small Nuclear Reactors Will Not Save the Day](https://oilprice.com/Energy/Energy-General/Small-Nuclear-Reactors-Will-Not-Save-The-Day.html)
-- Oct 05 - [Remembering Steve Jobs](https://www.macrumors.com/2025/10/05/remembering-steve/)
-- Oct 05 - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
+- Oct 05 - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
+- Oct 05 - [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
+- Oct 05 - [Callbacks in C++ Using Template Functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
+- Oct 05 - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
+- Oct 05 - [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 <!--END_SECTION:hn-->
 
 <!--
