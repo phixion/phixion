@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
-- Oct 04 - [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
-- Oct 04 - [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
-- Oct 04 - [$912 energy independence without red tape](https://sunboxlabs.com/)
-- Oct 04 - [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
+- Oct 05 - [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
+- Oct 05 - [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot)
+- Oct 05 - [Mod. 5140 - IBM's First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/)
+- Oct 04 - [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351)
+- Oct 04 - [AI-powered open-source code laundering](https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md)
 <!--END_SECTION:hn-->
 
 <!--
