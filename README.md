@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
-- Oct 04 - [ProofOfThought: LLM-based reasoning using Z3 theorem proving](https://github.com/DebarghaG/proofofthought)
-- Oct 04 - [Show HN: Run – a CLI universal code runner I built while learning Rust](https://github.com/Esubaalew/run)
-- Oct 04 - [Knowledge Infusion Scaling Law for Pre-Training Large Language Models](https://arxiv.org/abs/2509.19371)
-- Oct 04 - [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm)
+- Oct 04 - [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809)
+- Oct 04 - [XiangShan Vector Floating-Point Unit Design](https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/)
+- Oct 04 - [Matrix Core Programming on AMD GPUs](https://salykova.github.io/matrix-cores-cdna)
+- Oct 04 - [$912 energy independence without red tape](https://sunboxlabs.com/)
+- Oct 04 - [The UK is still trying to backdoor encryption for Apple users](https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users)
 <!--END_SECTION:hn-->
 
 <!--
