@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Social Cooling](https://www.socialcooling.com/)
-- Oct 05 - [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
-- Oct 05 - [Anthropic Release Memory API](https://www.anthropic.com/news/context-management)
-- Oct 05 - [Ambigr.am](https://ambigr.am/hall-of-fame)
-- Oct 05 - [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/)
+- Oct 05 - [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power)
+- Oct 05 - [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide)
+- Oct 05 - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
+- Oct 05 - [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li)
+- Oct 05 - [Social Cooling (2017)](https://www.socialcooling.com/)
 <!--END_SECTION:hn-->
 
 <!--
