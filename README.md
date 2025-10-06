@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
-- Oct 06 - [Apple's Unlawful Evil](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)
-- Oct 06 - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
-- Oct 06 - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
-- Oct 06 - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
+- Oct 06 - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
+- Oct 06 - [Apps SDK](https://developers.openai.com/apps-sdk/)
+- Oct 06 - [How the US got left behind in the electric car race](https://www.bbc.com/news/articles/c8ex2l58en4o)
+- Oct 06 - [Beginnings: The Dempster Dumpster](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
+- Oct 06 - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 <!--END_SECTION:hn-->
 
 <!--
