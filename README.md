@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Zürich voters ban noisy leaf blowers](https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192)
-- Oct 06 - [FSF turns forty with a groundbreaking new project and a new president](https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign)
-- Oct 06 - [A 'magic pill' made Israeli violence invisible. We need to stop swallowing it](https://www.theguardian.com/world/ng-interactive/2025/oct/05/gaza-palestine-israel-trump-peace-plan)
-- Oct 06 - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
-- Oct 06 - [Structured Procrastination](https://structuredprocrastination.com)
+- Oct 06 - [Disney+ Subscribers Face a Wave of Cancellations](https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations)
+- Oct 06 - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
+- Oct 06 - [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
+- Oct 06 - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
+- Oct 06 - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 <!--END_SECTION:hn-->
 
 <!--
