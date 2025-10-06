@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
-- Oct 06 - [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
-- Oct 06 - [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
-- Oct 05 - [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
-- Oct 05 - [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
+- Oct 06 - [Zürich voters ban noisy leaf blowers](https://www.swissinfo.ch/eng/swiss-democracy/zurich-voters-ban-petrol-powered-leaf-blowers/90082192)
+- Oct 06 - [FSF turns forty with a groundbreaking new project and a new president](https://www.fsf.org/news/fsf-turns-forty-with-a-new-president-and-a-new-campaign)
+- Oct 06 - [A 'magic pill' made Israeli violence invisible. We need to stop swallowing it](https://www.theguardian.com/world/ng-interactive/2025/oct/05/gaza-palestine-israel-trump-peace-plan)
+- Oct 06 - [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/)
+- Oct 06 - [Structured Procrastination](https://structuredprocrastination.com)
 <!--END_SECTION:hn-->
 
 <!--
