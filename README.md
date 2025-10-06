@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Without Deeds, Without Names](https://www.laphamsquarterly.org/celebrity/without-deeds-without-names)
-- Oct 05 - [What GPT-OSS leaks about OpenAI's training data](https://fi-le.net/oss/)
-- Oct 05 - [Callbacks in C++ Using Template Functors – Rich Hickey (1994)](http://www.tutok.sk/fastgl/callback.html)
-- Oct 05 - [Show HN: ut – Rust based CLI utilities for devs and IT](https://github.com/ksdme/ut)
-- Oct 05 - [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
+- Oct 05 - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
+- Oct 05 - [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
+- Oct 05 - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
+- Oct 05 - [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
+- Oct 05 - [Ask HN: Any advice on pivoting out of VC-backed tech?](https://news.ycombinator.com/item?id=45485089)
 <!--END_SECTION:hn-->
 
 <!--
