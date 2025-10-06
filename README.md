@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Disney+ Subscribers Face a Wave of Cancellations](https://www.techbook-magazine.com/streaming/providers/disney-subscribers-face-a-wave-of-cancellations)
-- Oct 06 - [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/)
-- Oct 06 - [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
-- Oct 06 - [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers)
-- Oct 06 - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
+- Oct 06 - [Launch HN: Grapevine (YC S19) – A company GPT that actually works](https://getgrapevine.ai/)
+- Oct 06 - [Apple's Unlawful Evil](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)
+- Oct 06 - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
+- Oct 06 - [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
+- Oct 06 - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 <!--END_SECTION:hn-->
 
 <!--
