@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/)
-- Oct 05 - [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com)
-- Oct 05 - [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky)
-- Oct 05 - [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
-- Oct 05 - [Ask HN: Any advice on pivoting out of VC-backed tech?](https://news.ycombinator.com/item?id=45485089)
+- Oct 06 - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/)
+- Oct 06 - [Should I choose Ada, SPARK, or Rust over C/C++? (2024)](https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c)
+- Oct 06 - [Mic-E-Mouse – Covert eavesdropping through computer mice](https://sites.google.com/view/mic-e-mouse)
+- Oct 05 - [Rule-Based Expert Systems: The Mycin Experiments (1984)](https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm)
+- Oct 05 - [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use)
 <!--END_SECTION:hn-->
 
 <!--
