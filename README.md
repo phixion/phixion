@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
-- Oct 07 - [The NIH ordered me to stop my 'dangerous' gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
-- Oct 07 - [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663)
-- Oct 07 - [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
-- Oct 07 - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
+- Oct 07 - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
+- Oct 07 - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
+- Oct 07 - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
+- Oct 07 - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
+- Oct 07 - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
 <!--END_SECTION:hn-->
 
 <!--
