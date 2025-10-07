@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/)
-- Oct 07 - [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor)
-- Oct 07 - [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush)
-- Oct 07 - [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/)
-- Oct 07 - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
+- Oct 07 - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
+- Oct 07 - [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
+- Oct 07 - [Swiss glaciers have shrunk by a quarter since 2015, study says](https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study)
+- Oct 07 - [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
+- Oct 07 - [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
 <!--END_SECTION:hn-->
 
 <!--
