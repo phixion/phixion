@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Nearly half of drivers killed in (Ohio County) crashes had THC in their blood](https://www.sciencedaily.com/releases/2025/10/251005085621.htm)
-- Oct 06 - [Apps SDK](https://developers.openai.com/apps-sdk/)
-- Oct 06 - [How the US got left behind in the electric car race](https://www.bbc.com/news/articles/c8ex2l58en4o)
-- Oct 06 - [Beginnings: The Dempster Dumpster](https://www.classicrefusetrucks.com/albums/DE/DE01.html)
-- Oct 06 - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
+- Oct 06 - [Microsoft is plugging more holes that let you use Windows 11 without MS account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
+- Oct 06 - [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844)
+- Oct 06 - [CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
+- Oct 06 - [WebGPU and the Price of Compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
+- Oct 06 - [Valorant's 128-Tick Servers (2020)](https://technology.riotgames.com/news/valorants-128-tick-servers)
 <!--END_SECTION:hn-->
 
 <!--
