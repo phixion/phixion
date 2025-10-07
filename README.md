@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Pdoc – Generate API Documentation for Python Projects](https://pdoc.dev/)
+- Oct 07 - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
+- Oct 07 - [The NIH ordered me to stop my 'dangerous' gain-of-function research](https://www.statnews.com/2025/10/06/gain-of-function-research-tuberculosis-expert-nih/)
+- Oct 07 - [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663)
+- Oct 07 - [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
 - Oct 07 - [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/)
-- Oct 07 - [Hardware Stockholm Syndrome](https://programmingsimplicity.substack.com/p/hardware-stockholm-syndrome)
-- Oct 07 - [Analytical review of depression and suicidality from finasteride](https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/)
-- Oct 06 - [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 <!--END_SECTION:hn-->
 
 <!--
