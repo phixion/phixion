@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI](https://github.com/llama-farm/llamafarm)
-- Oct 07 - [Gold Prices Top $4k for First Time](https://www.wsj.com/finance/commodities-futures/gold-prices-top-4-000-for-first-time-d63ab2bd)
-- Oct 07 - [Swiss glaciers have shrunk by a quarter since 2015, study says](https://www.france24.com/en/live-news/20251001-swiss-glaciers-shrank-by-a-quarter-in-past-decade-study)
-- Oct 07 - [No account? No Windows 11, Microsoft says as another loophole snaps shut](https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/)
-- Oct 07 - [Tcl-Lang Showcase](https://wiki.tcl-lang.org/page/Showcase)
+- Oct 07 - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+- Oct 07 - [Eliminating contrails from flying could be incredibly cheap](https://www.sustainabilitybynumbers.com/p/eliminating-contrails)
+- Oct 07 - [The publishing industry has a gambling problem](https://thewalrus.ca/the-publishing-industry-has-a-gambling-problem/)
+- Oct 07 - [The murky economics of the data-centre investment boom](https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom)
+- Oct 07 - [Google's Requirement for Developers to Be Verified Threatens App Store F-Droid](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
 <!--END_SECTION:hn-->
 
 <!--
