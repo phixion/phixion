@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [One-man spam campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/)
-- Oct 08 - [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/)
-- Oct 08 - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
-- Oct 08 - [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com)
-- Oct 08 - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
+- Oct 08 - [A deep dive into the RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive)
+- Oct 08 - [After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64](https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/)
+- Oct 08 - [Vectrex Mini](https://vectrex.com/vectrex-mini-details/)
+- Oct 08 - [Show HN: Recall: Give Claude perfect memory with Redis-backed persistent context](https://www.npmjs.com/package/@joseairosa/recall)
+- Oct 08 - [How To Start Bug Bounties (2021)](https://ozguralp.medium.com/how-to-start-bug-bounties-101-how-to-make-a-million-in-4-years-e15ee62d6f4)
 <!--END_SECTION:hn-->
 
 <!--
