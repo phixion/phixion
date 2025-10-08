@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 08 - [TiVo Exiting Legacy DVR Business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/)
+- Oct 08 - [The Paradoxical Efficient Market Hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html)
+- Oct 08 - [Bob Ross paintings to be auctioned to fund US public broadcasting](https://www.bbc.com/news/articles/cly10275v5zo)
 - Oct 08 - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans)
 - Oct 07 - [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail)
-- Oct 07 - [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter)
-- Oct 07 - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-- Oct 07 - [User ban controversy reveals Bluesky’s decentralized aspiration isn’t reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys)
 <!--END_SECTION:hn-->
 
 <!--
