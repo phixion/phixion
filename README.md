@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 09 - [Tumbleweed rover tests demonstrate technology for low-cost Mars exploration](https://phys.org/news/2025-09-tumbleweed-rover-technology-mars-exploration.html)
+- Oct 09 - [Zippers: Making Functional "Updates" Efficient (2010)](http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/)
+- Oct 09 - [The React Foundation](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
 - Oct 09 - [The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer)
 - Oct 09 - [The Unknotting Number Is Not Additive](https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/)
-- Oct 09 - [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/)
-- Oct 09 - [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
-- Oct 09 - [Designing a Low Latency 10G Ethernet Core (2023)](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
 <!--END_SECTION:hn-->
 
 <!--
