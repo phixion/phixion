@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Tumbleweed rover tests demonstrate technology for low-cost Mars exploration](https://phys.org/news/2025-09-tumbleweed-rover-technology-mars-exploration.html)
-- Oct 09 - [Zippers: Making Functional "Updates" Efficient (2010)](http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/)
-- Oct 09 - [The React Foundation](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
-- Oct 09 - [The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer)
-- Oct 09 - [The Unknotting Number Is Not Additive](https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/)
+- Oct 09 - [GitHub Issues](https://www.githubstatus.com/incidents/k7bhmjkblcwp)
+- Oct 09 - [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
+- Oct 09 - [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
+- Oct 09 - [Show HN: I Hid Labubus in World Labs' AI Worlds](https://www.akadeb.xyz/vibes/world-labubus/)
+- Oct 09 - [TIL: Python's splitlines does more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
 <!--END_SECTION:hn-->
 
 <!--
