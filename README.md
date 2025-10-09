@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Svelte Is That Fast](https://chuniversiteit.nl/papers/svelte-is-fast)
+- Oct 08 - [Winter 2025/2026 weather outlook](https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/)
+- Oct 08 - [PWA Browser Scorecards](https://pwascore.com/)
+- Oct 08 - [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)
+- Oct 08 - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
 - Oct 08 - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
-- Oct 08 - [Julia 1.12 highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
-- Oct 08 - [Show HN: FleetCode – Open-source UI for running multiple coding agents](https://github.com/built-by-as/FleetCode)
-- Oct 08 - [WinBoat: Windows apps on Linux with seamless integration](https://www.winboat.app/)
 <!--END_SECTION:hn-->
 
 <!--
