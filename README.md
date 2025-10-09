@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Winter 2025/2026 weather outlook](https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/)
-- Oct 08 - [PWA Browser Scorecards](https://pwascore.com/)
-- Oct 08 - [Why Circular AI Deals Among OpenAI, Nvidia, AMD Are Raising Eyebrows](https://www.bloomberg.com/news/articles/2025-10-08/the-circular-openai-nvidia-and-amd-deals-raising-fears-of-a-new-tech-bubble)
-- Oct 08 - [I played 1k hands of online poker and built a web app with Cursor AI](https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/)
-- Oct 08 - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
+- Oct 09 - [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers)
+- Oct 09 - [Tonight's restaurant dinner fell off the Sysco truck](https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/)
+- Oct 09 - [Corruption: When Norms Upstage the Law](https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms)
+- Oct 09 - [Designing a Low Latency 10G Ethernet Core (2023)](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html)
+- Oct 09 - [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false)
 <!--END_SECTION:hn-->
 
 <!--
