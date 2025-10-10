@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
-- Oct 10 - [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/)
-- Oct 10 - [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
-- Oct 10 - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
-- Oct 10 - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
+- Oct 10 - [I'm in Vibe Code Hell](https://blog.boot.dev/education/vibe-code-hell/)
+- Oct 10 - [Ryanair flight landed at Manchester airport with six minutes of fuel left](https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests)
+- Oct 10 - [The Molecular Basis of Long Covid Brain Fog](https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html)
+- Oct 10 - [All-Natural Geoengineering with Frank Herbert's Dune](https://www.governance.fyi/p/all-natural-geoengineering-with-frank)
+- Oct 10 - [PSA: Always use a separate domain for user content](https://www.statichost.eu/blog/google-safe-browsing/)
 <!--END_SECTION:hn-->
 
 <!--
