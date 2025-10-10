@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [How to Write in Cuneiform, the Oldest Writing System in the World](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
-- Oct 09 - [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
+- Oct 10 - [Open-Source Agentic AI](https://github.com/AFK-surf/open-agent)
+- Oct 10 - [Intent Weaving for AI Coding Agents](https://www.autohand.ai/updates/intent-weaving)
+- Oct 09 - [How to write in Cuneiform](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+- Oct 09 - [Show HN: Open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
 - Oct 09 - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
-- Oct 09 - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
-- Oct 09 - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
 <!--END_SECTION:hn-->
 
 <!--
