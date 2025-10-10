@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
-- Oct 10 - [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296)
-- Oct 10 - [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
-- Oct 10 - [The RubyGems "Security Incident"](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/)
-- Oct 10 - [Managing Encrypted Filesystems with dirlock](https://lwn.net/Articles/1038859/)
+- Oct 10 - [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer)
+- Oct 10 - [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/)
+- Oct 10 - [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/)
+- Oct 10 - [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata)
+- Oct 10 - [Nobel Peace Prize 2025: María Corina Machado](https://www.nobelprize.org/prizes/peace/2025/summary/)
 <!--END_SECTION:hn-->
 
 <!--
