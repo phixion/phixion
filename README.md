@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [US anti-fascism expert blocked from flying to Spain at airport](https://www.theguardian.com/us-news/2025/oct/09/anti-fascism-mark-bray-rutgers-university)
-- Oct 09 - [The Government Ate My Name](https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html)
-- Oct 09 - [Hacker News Live Feed](https://jerbear2008.github.io/hn-live/)
-- Oct 09 - [2025 MacArthur Fellows](https://www.macfound.org/programs/awards/fellows/)
-- Oct 09 - [Sea Rise Simulator (2023)](https://nagix.github.io/sea-level-rise-3d-map/)
+- Oct 09 - [How to Write in Cuneiform, the Oldest Writing System in the World](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
+- Oct 09 - [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock)
+- Oct 09 - [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/)
+- Oct 09 - [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain)
+- Oct 09 - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
 <!--END_SECTION:hn-->
 
 <!--
