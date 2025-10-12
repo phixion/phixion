@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
+- Oct 12 - [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
 - Oct 11 - [LineageOS 23](https://lineageos.org/Changelog-30/)
+- Oct 11 - [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
 - Oct 11 - [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
-- Oct 11 - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
-- Oct 11 - [We Found a Hidden Camera in the Bathroom of Our Airbnb](https://www.nytimes.com/2025/10/09/travel/airbnb-refund-camera-bathroom.html)
-- Oct 11 - [ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS](https://elementary.io/)
 <!--END_SECTION:hn-->
 
 <!--
