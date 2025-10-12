@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Discord hack shows risks of online age checks](https://news.sky.com/story/discord-hack-shows-dangers-of-online-age-checks-as-internet-policing-hopes-put-to-the-test-13447618)
-- Oct 11 - [Microsoft only lets you opt out of AI photo scanning 3x a year](https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users)
-- Oct 11 - [Rating 26 years of Java changes](https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/)
-- Oct 11 - [GNU Health](https://www.gnuhealth.org/about-us.html)
-- Oct 11 - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
+- Oct 11 - [LineageOS 23](https://lineageos.org/Changelog-30/)
+- Oct 11 - [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
+- Oct 11 - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
+- Oct 11 - [We Found a Hidden Camera in the Bathroom of Our Airbnb](https://www.nytimes.com/2025/10/09/travel/airbnb-refund-camera-bathroom.html)
+- Oct 11 - [ElementaryOS - The thoughtful, capable and ethical replacement for Windows/macOS](https://elementary.io/)
 <!--END_SECTION:hn-->
 
 <!--
