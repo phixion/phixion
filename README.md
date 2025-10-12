@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 12 - [The App Store Was Always Authoritarian](https://infrequently.org/2025/10/the-app-store-was-always-authoritarian/)
+- Oct 12 - [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/)
+- Oct 12 - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
+- Oct 12 - [Coral Protocol: Open infrastructure connecting the internet of agents](https://arxiv.org/abs/2505.00749)
 - Oct 12 - [China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)
-- Oct 12 - [Show HN: rift – a tiling window manager for macOS](https://github.com/acsandmann/rift)
-- Oct 11 - [LineageOS 23](https://lineageos.org/Changelog-30/)
-- Oct 11 - [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf)
-- Oct 11 - [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
 <!--END_SECTION:hn-->
 
 <!--
