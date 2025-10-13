@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/)
-- Oct 12 - [HP1345A (and Wargames) – PHKs Bikeshed](https://phk.freebsd.dk/hacks/Wargames/)
-- Oct 12 - [Completing a new BASIC interpreter in 2025 (strings, math funcs, cassette)](https://nanochess.org/ecs_basic_2.html)
-- Oct 12 - [Agent Shell 0.5 Improvements](https://xenodium.com/agent-shell-0-5-improvements)
-- Oct 12 - [Kuzu DB devs no longer supporting the project](https://kuzudb.com)
+- Oct 12 - [Indiana City Doesn't Have to Pay Innocent Mom $16,000 After Police Wrecked Home](https://reason.com/2025/10/10/this-indiana-city-doesnt-have-to-pay-an-innocent-mom-16000-after-police-wrecked-her-home-court-rules/)
+- Oct 12 - [Wall Street is worried the private credit bubble will burst](https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds)
+- Oct 12 - [Free software hasn't won](https://dorotac.eu/posts/fosswon/)
+- Oct 12 - [Edge AI for Beginners](https://github.com/microsoft/edgeai-for-beginners)
+- Oct 12 - [Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
 <!--END_SECTION:hn-->
 
 <!--
