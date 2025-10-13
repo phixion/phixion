@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
-- Oct 13 - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
-- Oct 13 - [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food)
-- Oct 13 - [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
-- Oct 12 - [Novelty Automation](https://www.novelty-automation.com/)
+- Oct 13 - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
+- Oct 13 - [American solar farms](https://tech.marksblogg.com/american-solar-farms.html)
+- Oct 13 - [Modern Linux tools](https://ikrima.dev/dev-notes/linux/linux-modern-tools/)
+- Oct 13 - [Some graphene firms have reaped its potential but others are struggling](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true)
+- Oct 13 - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 <!--END_SECTION:hn-->
 
 <!--
