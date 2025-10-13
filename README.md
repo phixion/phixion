@@ -19,8 +19,8 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 13 - [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/)
 - Oct 13 - [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/)
-- Oct 13 - [Despite what's happening in the USA, renewables are winning globally](https://thebulletin.org/2025/10/despite-whats-happening-in-the-usa-renewables-are-winning-globally/)
 - Oct 13 - [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food)
 - Oct 13 - [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html)
 - Oct 12 - [Novelty Automation](https://www.novelty-automation.com/)
