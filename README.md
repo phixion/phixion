@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [Ask HN: Has AI stolen the satisfaction from programming?](https://news.ycombinator.com/item?id=45572130)
-- Oct 13 - [Reverse Engineering a 1979 Camera's Spec](https://blog.mano.lol/posts/film/)
-- Oct 13 - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
-- Oct 13 - [America's future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether)
-- Oct 13 - [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/)
+- Oct 13 - [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/)
+- Oct 13 - [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/)
+- Oct 13 - [Sony Playstation 2 fixing frenzy](https://retrohax.net/sony-playstation-2-fixing-frenzy/)
+- Oct 13 - [Thoughts on Omarchy: Slick Distro, Complicated Ethics](https://tedium.co/2025/10/13/omarchy-linux-distro-commentary/)
+- Oct 13 - [Don't Be a Sucker (1943) [video]](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 <!--END_SECTION:hn-->
 
 <!--
