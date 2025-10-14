@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Swarm reveals growing weak spot in Earth's magnetic field](https://phys.org/news/2025-10-swarm-reveals-weak-earth-magnetic.html)
-- Oct 14 - [Subverting Telegram's end-to-end encryption](https://tosc.iacr.org/index.php/ToSC/article/view/10302)
-- Oct 14 - [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization)
-- Oct 14 - [Tesla is at risk of losing subsidies in Korea over widespread battery failures](https://electrek.co/2025/10/14/tesla-is-at-risk-of-lossing-subsidies-in-korea-over-widespread-battery-failures/)
-- Oct 14 - [Astronomers 'image' a mysterious dark object in the distant Universe](https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x)
+- Oct 14 - [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
+- Oct 14 - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
+- Oct 14 - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
+- Oct 14 - [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
+- Oct 14 - [Why your boss isn't worried about AI – "can't you just turn it off?"](https://boydkane.com/essays/boss)
 <!--END_SECTION:hn-->
 
 <!--
