@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 15 - [Hello Cake - 22,907 breached accounts](https://haveibeenpwned.com/Breach/HelloCake)
 - Oct 11 - [Vietnam Airlines - 7,316,915 breached accounts](https://haveibeenpwned.com/Breach/VietnamAirlines)
 - Oct 07 - [Adpost - 3,339,512 breached accounts](https://haveibeenpwned.com/Breach/Adpost)
 - Oct 04 - [Artists&Clients - 95,351 breached accounts](https://haveibeenpwned.com/Breach/ArtistsNClients)
 - Oct 03 - [HomeRefill - 187,457 breached accounts](https://haveibeenpwned.com/Breach/HomeRefill)
-- Oct 03 - [Latest Pilot Jobs - 118,864 breached accounts](https://haveibeenpwned.com/Breach/LatestPilotJobs)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [State Department Revokes Visas over Charlie Kirk Comments](https://www.wsj.com/politics/state-department-revokes-visas-over-charlie-kirk-comments-3c30d9ae)
-- Oct 14 - [FSF Announces Librephone Project](https://www.fsf.org/news/librephone-project)
-- Oct 14 - [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
-- Oct 14 - [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
-- Oct 14 - [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
+- Oct 15 - [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
+- Oct 15 - [Disk Prices](https://diskprices.com/?locale=us)
+- Oct 15 - [Why The Pentagon run the best schools and the safest nuclear program](https://www.governance.fyi/p/the-pentagons-best-schools-and-safest)
+- Oct 15 - [New England's last coal plant has stopped operating, according to its owners](https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners)
+- Oct 15 - [Nvidia DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/)
 <!--END_SECTION:hn-->
 
 <!--
