@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
-- Oct 15 - [Pixnapping Attack](https://www.pixnapping.com/)
-- Oct 15 - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
-- Oct 15 - [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
-- Oct 15 - [Disk Prices](https://diskprices.com/?locale=us)
+- Oct 15 - [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082)
+- Oct 15 - [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
+- Oct 15 - [Why We're Leaving Serverless](https://www.unkey.com/blog/serverless-exit)
+- Oct 15 - [I analyzed 200 e-commerce sites and found 73% of their traffic is fake](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
+- Oct 15 - [Show HN: Nano Banana AI Prompt Gallery](https://nanobananas.ai/banana-image-prompt)
 <!--END_SECTION:hn-->
 
 <!--
