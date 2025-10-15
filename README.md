@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Can We Know Whether a Profiler Is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
+- Oct 15 - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
+- Oct 15 - [Pixnapping Attack](https://www.pixnapping.com/)
+- Oct 15 - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
+- Oct 15 - [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
 - Oct 15 - [Disk Prices](https://diskprices.com/?locale=us)
-- Oct 15 - [Why The Pentagon run the best schools and the safest nuclear program](https://www.governance.fyi/p/the-pentagons-best-schools-and-safest)
-- Oct 15 - [New England's last coal plant has stopped operating, according to its owners](https://www.nhpr.org/nh-news/2025-10-06/new-englands-last-coal-plant-has-stopped-operating-according-to-its-owners)
-- Oct 15 - [Nvidia DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/)
 <!--END_SECTION:hn-->
 
 <!--
