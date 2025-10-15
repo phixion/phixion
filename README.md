@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [How to Turn Liquid Glass into a Solid Interface – TidBITS](https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/)
-- Oct 14 - [America Is Sliding Toward Illiteracy](https://www.theatlantic.com/ideas/archive/2025/10/education-decline-low-expectations/684526/)
-- Oct 14 - [What do Americans die from vs. what the news report on](https://ourworldindata.org/does-the-news-reflect-what-we-die-from)
-- Oct 14 - [Intel Announces Inference-Optimized Xe3P Graphics Card with 160GB VRAM](https://www.phoronix.com/review/intel-crescent-island)
-- Oct 14 - [Why your boss isn't worried about AI – "can't you just turn it off?"](https://boydkane.com/essays/boss)
+- Oct 14 - [State Department Revokes Visas over Charlie Kirk Comments](https://www.wsj.com/politics/state-department-revokes-visas-over-charlie-kirk-comments-3c30d9ae)
+- Oct 14 - [FSF Announces Librephone Project](https://www.fsf.org/news/librephone-project)
+- Oct 14 - [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071)
+- Oct 14 - [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/)
+- Oct 14 - [Surveillance data challenges what we thought we knew about location tracking](https://www.lighthousereports.com/investigation/surveillance-secrets/)
 <!--END_SECTION:hn-->
 
 <!--
