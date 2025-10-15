@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082)
-- Oct 15 - [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy)
-- Oct 15 - [Why We're Leaving Serverless](https://www.unkey.com/blog/serverless-exit)
-- Oct 15 - [I analyzed 200 e-commerce sites and found 73% of their traffic is fake](https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake)
-- Oct 15 - [Show HN: Nano Banana AI Prompt Gallery](https://nanobananas.ai/banana-image-prompt)
+- Oct 15 - [David Byrne Radio](https://www.davidbyrne.com/radio#filter=all&sortby=date:desc)
+- Oct 15 - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
+- Oct 15 - [Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR](https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/)
+- Oct 15 - [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
+- Oct 15 - [Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers](https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html)
 <!--END_SECTION:hn-->
 
 <!--
