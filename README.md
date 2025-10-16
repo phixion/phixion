@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
-- Oct 16 - [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
-- Oct 16 - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
-- Oct 16 - [Working with the Amiga's RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
-- Oct 16 - [How America got hooked on ultraprocessed foods](https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html)
+- Oct 16 - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
+- Oct 16 - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621)
+- Oct 16 - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- Oct 16 - [test-ipv6.com will stay online](https://status.test-ipv6.com)
+- Oct 16 - [Talent](https://www.felixstocker.com/blog/talent)
 <!--END_SECTION:hn-->
 
 <!--
