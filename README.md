@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
-- Oct 15 - [Things I've learned in my 7 Years Implementing AI](https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent)
-- Oct 15 - [Clone-Wars: 100 open-source clones of popular sites](https://github.com/GorvGoyl/Clone-Wars)
-- Oct 15 - [Claude Haiku 4.5 System Card [pdf]](https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf)
-- Oct 15 - [Recursive Language Models (RLMs)](https://alexzhang13.github.io/blog/2025/rlm/)
+- Oct 15 - [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm)
+- Oct 15 - [YouTube seems to be down](https://www.youtube.com/)
+- Oct 15 - [IRS Open Sources its Fact Graph](https://github.com/IRS-Public/fact-graph)
+- Oct 15 - [US Dept of Interior denies canceling largest solar project after axing review](https://www.utilitydive.com/news/department-interior-cancels-review-nevada-solar-project-trump/802704/)
+- Oct 15 - [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 <!--END_SECTION:hn-->
 
 <!--
