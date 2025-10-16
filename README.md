@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Jiga (YC W21) Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310)
-- Oct 16 - [Liquibase continues to advertise itself as "open source" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
-- Oct 16 - [The Hidden Math of Ocean Waves Crashes Into View](https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/)
-- Oct 16 - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
-- Oct 16 - [Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)
+- Oct 16 - [Ld_preload, the Invisible Key Theft](https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/)
+- Oct 16 - [Why more SaaS companies are hiring chief trust officers](https://www.itbrew.com/stories/2025/10/14/why-more-saas-companies-are-hiring-chief-trust-officers)
+- Oct 16 - [Video game union workers rally against $55B private acquisition of EA](https://www.eurogamer.net/ea-union-workers-rally-against-55bn-saudi-backed-private-acquisition-with-formal-petition-to-regulators)
+- Oct 16 - [Working with the Amiga's RAM and Rad Disks](https://www.datagubbe.se/ramdisk/)
+- Oct 16 - [How America got hooked on ultraprocessed foods](https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html)
 <!--END_SECTION:hn-->
 
 <!--
