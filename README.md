@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Benjie's Humanoid Olympic Games](https://generalrobots.substack.com/p/benjies-humanoid-olympic-games)
-- Oct 16 - [Ask HN: What in the world is going on at Supabase?](https://news.ycombinator.com/item?id=45609621)
-- Oct 16 - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
-- Oct 16 - [test-ipv6.com will stay online](https://status.test-ipv6.com)
-- Oct 16 - [Talent](https://www.felixstocker.com/blog/talent)
+- Oct 16 - [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark/)
+- Oct 16 - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
+- Oct 16 - [America's Semiconductor Boom is Real [video]](https://www.youtube.com/watch?v=T-jt3qBzJ4A)
+- Oct 16 - [Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
+- Oct 16 - [Hacker News – The Good Parts](https://smartmic.bearblog.dev/why-hacker-news/)
 <!--END_SECTION:hn-->
 
 <!--
