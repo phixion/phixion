@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Show HN: Searchable compression for JSON – ~99% page skip and sub-ms lookups](https://github.com/kodomonocch1/see_proto)
-- Oct 17 - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
-- Oct 17 - [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
-- Oct 17 - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
-- Oct 17 - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
+- Oct 17 - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
+- Oct 17 - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
+- Oct 17 - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
+- Oct 17 - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
+- Oct 17 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 <!--END_SECTION:hn-->
 
 <!--
