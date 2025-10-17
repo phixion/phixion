@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 17 - [EVs are depreciating much faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
+- Oct 17 - [How does one build large front end apps without using a framework like React?](https://news.ycombinator.com/item?id=45615193)
+- Oct 17 - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
+- Oct 17 - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
 - Oct 17 - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
-- Oct 17 - [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567)
-- Oct 17 - [Meow.camera](https://meow.camera/)
-- Oct 17 - [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/)
-- Oct 16 - [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids)
 <!--END_SECTION:hn-->
 
 <!--
