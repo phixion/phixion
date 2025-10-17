@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [EVs are depreciating much faster than gas-powered cars](https://restofworld.org/2025/ev-depreciation-blusmart-collapse/)
-- Oct 17 - [How does one build large front end apps without using a framework like React?](https://news.ycombinator.com/item?id=45615193)
-- Oct 17 - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
-- Oct 17 - [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
-- Oct 17 - [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course)
+- Oct 17 - [Show HN: Searchable compression for JSON – ~99% page skip and sub-ms lookups](https://github.com/kodomonocch1/see_proto)
+- Oct 17 - [Dead or Alive creator Tomonobu Itagaki, 58 passes away](https://www.gamedeveloper.com/design/dead-or-alive-creator-tomonobu-itagaki-has-passed-away-at-58)
+- Oct 17 - [Endorsing easily disproven claims linked to prioritizing symbolic strength](https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652)
+- Oct 17 - [You did no fact checking, and I must scream](https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/)
+- Oct 17 - [Zorin OS 18](https://blog.zorin.com/2025/10/14/zorin-os-18-has-arrived/)
 <!--END_SECTION:hn-->
 
 <!--
