@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Asking AI to build scrapers should be easy right?](https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/)
-- Oct 17 - [GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders](https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/)
-- Oct 17 - [Forgejo v13.0 Is Available](https://forgejo.org/2025-10-release-v13-0/)
-- Oct 17 - [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/)
-- Oct 17 - [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
+- Oct 18 - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
+- Oct 17 - [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
+- Oct 17 - [Promoted on Sunday, Fired on Monday: Inside a NASA Office's Sudden Closure](https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure)
+- Oct 17 - [WebMCP](https://github.com/jasonjmcghee/WebMCP)
+- Oct 17 - [The pivot](https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html)
 <!--END_SECTION:hn-->
 
 <!--
