@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
+- Oct 18 - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
+- Oct 18 - [AMD's Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
 - Oct 18 - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
-- Oct 18 - [The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
-- Oct 18 - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices)
-- Oct 17 - [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars)
-- Oct 17 - [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/)
+- Oct 18 - [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 <!--END_SECTION:hn-->
 
 <!--
