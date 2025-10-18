@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [./watch](https://dotslashwatch.com/)
+- Oct 18 - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
+- Oct 18 - [Windows 10 refugees flock to Linux in what devs call their "biggest launch"](https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/)
 - Oct 18 - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
-- Oct 18 - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
-- Oct 18 - [AMD's Chiplet APU: An Overview of Strix Halo](https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix)
-- Oct 18 - [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar)
-- Oct 18 - [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
+- Oct 18 - [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315)
 <!--END_SECTION:hn-->
 
 <!--
