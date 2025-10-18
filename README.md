@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
-- Oct 18 - [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
-- Oct 18 - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
-- Oct 18 - [SQL Anti-Patterns You Should Avoid](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
-- Oct 18 - [Lux: A luxurious package manager for Lua](https://github.com/lumen-oss/lux)
+- Oct 18 - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer)
+- Oct 18 - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
+- Oct 18 - [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
+- Oct 18 - [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c)
+- Oct 18 - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/)
 <!--END_SECTION:hn-->
 
 <!--
