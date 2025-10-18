@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [./watch](https://dotslashwatch.com/)
-- Oct 18 - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
-- Oct 18 - [Windows 10 refugees flock to Linux in what devs call their "biggest launch"](https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/)
-- Oct 18 - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
-- Oct 18 - [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315)
+- Oct 18 - [Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster](https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/)
+- Oct 18 - [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
+- Oct 18 - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
+- Oct 18 - [SQL Anti-Patterns You Should Avoid](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
+- Oct 18 - [Lux: A luxurious package manager for Lua](https://github.com/lumen-oss/lux)
 <!--END_SECTION:hn-->
 
 <!--
