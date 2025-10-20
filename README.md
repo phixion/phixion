@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
-- Oct 19 - [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim)
-- Oct 19 - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
-- Oct 19 - [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
-- Oct 19 - [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
+- Oct 20 - [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366)
+- Oct 20 - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
+- Oct 20 - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
+- Oct 20 - [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
+- Oct 20 - [Carefully Educated to Be Idiots](https://www.hilarylayne.com/p/very-carefully-educated-to-be-idiots)
 <!--END_SECTION:hn-->
 
 <!--
