@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
-- Oct 20 - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
-- Oct 20 - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
-- Oct 20 - [Modeling Others' Minds as Code](https://arxiv.org/abs/2510.01272)
-- Oct 20 - [Servo v0.0.1 Released](https://github.com/servo/servo)
+- Oct 20 - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
+- Oct 20 - [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
+- Oct 20 - [Claude Code on the Web](https://www.anthropic.com/news/claude-code-on-the-web)
+- Oct 20 - [Peanut Allergies Have Plummeted in Children](https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html)
+- Oct 20 - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 <!--END_SECTION:hn-->
 
 <!--
