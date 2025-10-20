@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [We Need Arabic Language Models](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2025.142)
-- Oct 19 - [What Unix pipelines got right and how we can do better](https://programmingsimplicity.substack.com/p/what-unix-pipelines-got-right-and)
-- Oct 19 - [Dosbian: Boot to DOSBox on Raspberry Pi](https://cmaiolino.wordpress.com/dosbian/)
-- Oct 19 - [US Government Uptime Monitor](https://usa-status.com/)
-- Oct 19 - [Compare Single Board Computers](https://sbc.compare/)
+- Oct 19 - [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer)
+- Oct 19 - [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim)
+- Oct 19 - [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp)
+- Oct 19 - [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner)
+- Oct 19 - [Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%](https://github.com/Gillou68310/DukeNukemZeroHour)
 <!--END_SECTION:hn-->
 
 <!--
