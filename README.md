@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366)
-- Oct 20 - [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html)
-- Oct 20 - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/)
-- Oct 20 - [Look at how unhinged GPU box art was in the 2000s](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/)
-- Oct 20 - [Carefully Educated to Be Idiots](https://www.hilarylayne.com/p/very-carefully-educated-to-be-idiots)
+- Oct 20 - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
+- Oct 20 - [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
+- Oct 20 - [Bat v0.26.0 Released](https://github.com/sharkdp/bat/releases/tag/v0.26.0)
+- Oct 20 - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+- Oct 20 - [Space Elevator](https://neal.fun/space-elevator/)
 <!--END_SECTION:hn-->
 
 <!--
