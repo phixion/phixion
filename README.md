@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [The MacBook Air 2025 Is Now Cheaper Than a Random Mid-Range Windows Laptop](https://kotaku.com/apple-is-going-nuts-the-macbook-air-2025-is-now-cheaper-than-a-random-mid-range-windows-laptop-2000634464)
-- Oct 20 - [How Kids' TV Got Way Too Normal](https://slate.com/life/2025/10/kids-tv-movies-best-ratings-parents-disney.html)
-- Oct 20 - [Beaver-engineered dam in the Czech Republic](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic)
-- Oct 20 - [State-based vs Signal-based rendering](https://jovidecroock.com/blog/state-vs-signals/)
-- Oct 20 - [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
+- Oct 20 - [Anthropic and Cursor Spend This Much on Amazon Web Services](https://www.wheresyoured.at/costs/)
+- Oct 20 - [Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch1)
+- Oct 20 - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
+- Oct 20 - [Modeling Others' Minds as Code](https://arxiv.org/abs/2510.01272)
+- Oct 20 - [Servo v0.0.1 Released](https://github.com/servo/servo)
 <!--END_SECTION:hn-->
 
 <!--
