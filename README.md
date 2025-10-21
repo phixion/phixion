@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 20 - [Americans can't afford their cars any more and Wall Street is worried](https://www.telegraph.co.uk/business/2025/10/20/americans-cant-afford-cars-any-more-wall-street-worried/)
+- Oct 20 - [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
+- Oct 20 - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/)
 - Oct 20 - [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/)
 - Oct 20 - [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/)
-- Oct 20 - [Claude Code on the Web](https://www.anthropic.com/news/claude-code-on-the-web)
-- Oct 20 - [Peanut Allergies Have Plummeted in Children](https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html)
-- Oct 20 - [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/)
 <!--END_SECTION:hn-->
 
 <!--
