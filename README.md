@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
-- Oct 21 - [Tesla is heading into multi-billion-dollar iceberg of its own making](https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/)
-- Oct 21 - [Human Error Cripples the Internet (1997)](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/071797dns.html)
-- Oct 21 - [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80)
-- Oct 21 - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
+- Oct 21 - [Show HN: Clink – Bring your own CLI Agents, Ship instantly](https://clink.new)
+- Oct 21 - [AI Is Making Us Work More](https://tawandamunongo.dev/posts/2025/10/ai-work-more)
+- Oct 21 - [RF Shielding History: When the FCC Cracked Down on Computers](https://tedium.co/2025/10/20/computers-fcc-rf-interference-history/)
+- Oct 21 - [Sell tickets to concerts agentically – Hive (YC S14) is hiring](https://news.ycombinator.com/item?id=45656230)
+- Oct 21 - [LLMs Can Get "Brain Rot"](https://llm-brain-rot.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
