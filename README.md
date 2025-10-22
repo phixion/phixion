@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
-- Oct 22 - [French ex-president Sarkozy begins jail sentence](https://www.bbc.com/news/articles/cvgkm2j0xelo)
-- Oct 22 - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
-- Oct 22 - [OpenBSD 7.8](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT)
-- Oct 21 - [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls)
+- Oct 22 - [Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
+- Oct 22 - [Starcloud](https://blogs.nvidia.com/blog/starcloud/)
+- Oct 22 - [HarmonyOS 6 Full Overview: New Design, AI Features and Privacy Upgrades [video]](https://www.youtube.com/watch?v=KzpXObhArco)
+- Oct 22 - [Greg Newby, CEO of Project Gutenberg, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
+- Oct 22 - [MinIO (apparently) becomes source-only](https://github.com/minio/minio/issues/21647)
 <!--END_SECTION:hn-->
 
 <!--
