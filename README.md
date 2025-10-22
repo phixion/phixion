@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Magit Is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
-- Oct 21 - [Time to build a GPU OS? Here is the first step](https://www.notion.so/yifanqiao/Solve-the-GPU-Cost-Crisis-with-kvcached-289da9d1f4d68034b17bf2774201b141)
-- Oct 21 - [ChatGPT Atlas](https://chatgpt.com/atlas)
-- Oct 21 - [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976)
-- Oct 21 - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
+- Oct 21 - ["Butt breathing" might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
+- Oct 21 - [The Lottery-fication of Everything](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything)
+- Oct 21 - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h)
+- Oct 21 - [We rewrote OpenFGA in pure Postgres](https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres)
+- Oct 21 - [Replacing a $3000/mo Heroku bill with a $55/mo server](https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/)
 <!--END_SECTION:hn-->
 
 <!--
