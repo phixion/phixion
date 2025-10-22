@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Google demonstrates 'verifiable quantum advantage' with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
-- Oct 22 - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
-- Oct 22 - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
-- Oct 22 - [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
-- Oct 22 - [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
+- Oct 22 - [ROG Xbox Ally runs better on Linux than Windows it ships with – up to 32% faster](https://www.tomshardware.com/video-games/handheld-gaming/rog-xbox-ally-runs-better-on-linux-than-the-windows-it-ships-with-new-test-shows-up-to-32-percent-higher-fps-with-more-stable-framerates-and-quicker-sleep-resume-times)
+- Oct 22 - [The Body Keeps the Score Is Bullshit](https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit)
+- Oct 22 - [Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII](https://ian.sh/fia)
+- Oct 22 - [42,600 ton ship to break the world record for the deepest drill at 7 miles](https://blog.bostonorganics.com/chinas-42600-ton-meng-xiang-aims-drill-7-miles-deep-breaking-records/)
+- Oct 22 - [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/)
 <!--END_SECTION:hn-->
 
 <!--
