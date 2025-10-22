@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
-- Oct 22 - [Starcloud](https://blogs.nvidia.com/blog/starcloud/)
-- Oct 22 - [HarmonyOS 6 Full Overview: New Design, AI Features and Privacy Upgrades [video]](https://www.youtube.com/watch?v=KzpXObhArco)
-- Oct 22 - [Greg Newby, CEO of Project Gutenberg, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby)
-- Oct 22 - [MinIO (apparently) becomes source-only](https://github.com/minio/minio/issues/21647)
+- Oct 22 - [Google demonstrates 'verifiable quantum advantage' with their Willow processor](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
+- Oct 22 - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
+- Oct 22 - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
+- Oct 22 - [AI assistants misrepresent news content 45% of the time](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
+- Oct 22 - [Cigarette-smuggling balloons force closure of Lithuanian airport](https://www.theguardian.com/world/2025/oct/22/cigarette-smuggling-balloons-force-closure-vilnius-airport-lithuania)
 <!--END_SECTION:hn-->
 
 <!--
