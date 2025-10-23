@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [US hits $38T in debt. Fastest accumulation of $1T outside pandemic](https://apnews.com/article/trump-treasury-debt-ceiling-bessent-09575f13ca95c2f1beb38234b2cbe85b)
-- Oct 23 - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
-- Oct 23 - [Microsoft puts Office Online Server on the chopping block](https://www.theregister.com/2025/10/22/microsoft_office_online_server/)
-- Oct 23 - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
-- Oct 23 - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
+- Oct 23 - [The Muscular Compassion of "Paper Girl"](https://www.newyorker.com/books/page-turner/the-muscular-compassion-of-paper-girl)
+- Oct 23 - [Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive](https://opensnowcat.io/)
+- Oct 23 - [What happened to Apple's legendary attention to detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
+- Oct 23 - [Can "second life" EV batteries work as grid-scale energy storage?](https://www.volts.wtf/p/can-second-life-ev-batteries-work)
+- Oct 23 - [Armed police swarm student after AI mistakes bag of Doritos for a weapon](https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/)
 <!--END_SECTION:hn-->
 
 <!--
