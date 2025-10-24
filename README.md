@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 24 - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
+- Oct 24 - [RFC 863 – Discard Protocol](https://datatracker.ietf.org/doc/html/rfc863)
+- Oct 24 - [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/)
 - Oct 24 - [Roc Camera](https://roc.camera/)
-- Oct 24 - [Computer Science Courses That Don't Exist, but Should (2015)](https://prog21.dadgum.com/210.html)
-- Oct 23 - [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow)
-- Oct 23 - [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314)
-- Oct 23 - [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing)
+- Oct 24 - [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618)
 <!--END_SECTION:hn-->
 
 <!--
