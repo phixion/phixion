@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
-- Oct 24 - [ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference](https://arxiv.org/abs/2510.02361)
-- Oct 24 - [Bring Your 3D Models to Life](https://mesh2motion.org/)
-- Oct 24 - [Twake Drive – The open-source alternative to Google Drive](https://github.com/linagora/twake-drive)
-- Oct 24 - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
+- Oct 24 - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
+- Oct 24 - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
+- Oct 24 - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
+- Oct 24 - [Traffic Light Protocol](https://www.first.org/tlp/)
+- Oct 24 - [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
 <!--END_SECTION:hn-->
 
 <!--
