@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Windows 10 Deadline Boosts Mac Sales](https://www.macrumors.com/2025/10/25/windows-10-deadline-boosts-mac-sales/)
-- Oct 25 - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
-- Oct 25 - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
-- Oct 25 - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
-- Oct 25 - [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/)
+- Oct 25 - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
+- Oct 25 - [Ask HN: Advice for creating a USB device linking 2 computers](https://news.ycombinator.com/item?id=45706169)
+- Oct 25 - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
+- Oct 25 - [We do not have sufficient links to the UK for Online Safety Act to be applicable](https://libera.chat/news/advised)
+- Oct 25 - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
 <!--END_SECTION:hn-->
 
 <!--
