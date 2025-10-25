@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
+- Oct 25 - [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174)
+- Oct 25 - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
+- Oct 25 - [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update)
 - Oct 25 - [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
 - Oct 25 - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
-- Oct 25 - [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
-- Oct 25 - [Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)
 <!--END_SECTION:hn-->
 
 <!--
