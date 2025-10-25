@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Vibe Coding in the 90s](https://ssg.dev/vibe-coding-in-the-90s/)
-- Oct 24 - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
-- Oct 24 - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
-- Oct 24 - [MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
-- Oct 24 - [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
+- Oct 25 - [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo)
+- Oct 25 - [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/)
+- Oct 25 - [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai)
+- Oct 25 - [What Is Intelligence?](https://mitpress.mit.edu/9780262049955/what-is-intelligence/)
+- Oct 25 - [Carmack on Operating Systems (1997)](https://rmitz.org/carmack.on.operating.systems.html)
 <!--END_SECTION:hn-->
 
 <!--
