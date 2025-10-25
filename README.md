@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [How to Make a Smith Chart](https://www.johndcook.com/blog/2025/10/23/smith-chart/)
-- Oct 24 - [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update)
-- Oct 24 - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
-- Oct 24 - [Traffic Light Protocol](https://www.first.org/tlp/)
-- Oct 24 - [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
+- Oct 24 - [Vibe Coding in the 90s](https://ssg.dev/vibe-coding-in-the-90s/)
+- Oct 24 - [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151)
+- Oct 24 - [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer)
+- Oct 24 - [MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/)
+- Oct 24 - [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software)
 <!--END_SECTION:hn-->
 
 <!--
