@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Keira Knightley's viral rant on the population's cognitive resilience](https://twitter.com/orphcorp/status/1982230134850572551)
-- Oct 26 - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
-- Oct 26 - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
-- Oct 26 - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
-- Oct 26 - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
+- Oct 26 - [Smartphones manipulate our emotions and trigger our reflexes](https://theconversation.com/smartphones-manipulate-our-emotions-and-trigger-our-reflexes-no-wonder-were-addicted-265014)
+- Oct 26 - [A Definition of AGI](https://arxiv.org/abs/2510.18212)
+- Oct 26 - [Nvidia DGX Spark: When Benchmark Numbers Meet Production Reality](https://publish.obsidian.md/aixplore/Practical+Applications/dgx-lab-benchmarks-vs-reality-day-4)
+- Oct 26 - [Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells](https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/)
+- Oct 26 - [Making the Electron Microscope](https://www.asimov.press/p/electron-microscope)
 <!--END_SECTION:hn-->
 
 <!--
