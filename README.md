@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
+- Oct 26 - [Keira Knightley's viral rant on the population's cognitive resilience](https://twitter.com/orphcorp/status/1982230134850572551)
+- Oct 26 - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
+- Oct 26 - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
+- Oct 26 - [Formal Reasoning [pdf]](https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf)
 - Oct 26 - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
-- Oct 26 - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
-- Oct 26 - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
-- Oct 26 - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
 <!--END_SECTION:hn-->
 
 <!--
