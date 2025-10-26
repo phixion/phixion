@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe](https://bitmovin.com/careers)
-- Oct 26 - [Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/)
-- Oct 26 - [GenAI Image Editing Showdown](https://genai-showdown.specr.net/)
-- Oct 26 - [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
-- Oct 26 - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
+- Oct 26 - [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of)
+- Oct 26 - [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/)
+- Oct 26 - [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect)
+- Oct 26 - [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html)
+- Oct 26 - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
 <!--END_SECTION:hn-->
 
 <!--
