@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
-- Oct 25 - [Ask HN: Advice for creating a USB device linking 2 computers](https://news.ycombinator.com/item?id=45706169)
-- Oct 25 - [Switzerland is spending millions revamping its vast network of bunkers](https://www.washingtonpost.com/world/2025/10/25/switzerland-nuclear-bunkers-overhaul/)
-- Oct 25 - [We do not have sufficient links to the UK for Online Safety Act to be applicable](https://libera.chat/news/advised)
-- Oct 25 - [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/)
+- Oct 25 - [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)
+- Oct 25 - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
+- Oct 25 - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
+- Oct 25 - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
+- Oct 25 - [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
 <!--END_SECTION:hn-->
 
 <!--
