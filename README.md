@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Sora might have a 'pervert' problem on its hands](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10)
+- Oct 26 - [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c)
+- Oct 26 - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
+- Oct 26 - [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
+- Oct 26 - [I'm drowning in AI features I never asked for and I hate it](https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/)
 - Oct 25 - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
-- Oct 25 - [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
-- Oct 25 - [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins)
-- Oct 25 - [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/)
 <!--END_SECTION:hn-->
 
 <!--
