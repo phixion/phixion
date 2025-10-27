@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Artifact (YC W25) is hiring engineers in NYC to build modern ECAD](https://news.ycombinator.com/item?id=45719996)
-- Oct 27 - [You Are How You Act](https://boz.com/articles/you-are-how-you-act)
-- Oct 27 - [Microsoft's folds losses from OpenAI into $4.7B expense line – "other"](https://www.theverge.com/news/806880/microsofts-not-very-open-about-openai)
-- Oct 27 - [SETL Programming Language](https://en.wikipedia.org/wiki/SETL)
-- Oct 27 - [Don't Forget These Tags to Make HTML Work Like You Expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
+- Oct 27 - [PSF has withdrawn $1.5M proposal to US Government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
+- Oct 27 - [Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]](https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf)
+- Oct 27 - [Microsoft in court for allegedly misleading Australians over 365 subscriptions](https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions)
+- Oct 27 - [More big companies bet they can still grow without hiring](https://www.wsj.com/business/companies-hiring-jobs-ai-9ef675b6)
+- Oct 27 - [Pre-emptive Z80 multitasking explainer](https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking)
 <!--END_SECTION:hn-->
 
 <!--
