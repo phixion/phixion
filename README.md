@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
-- Oct 28 - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
-- Oct 28 - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
-- Oct 28 - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
-- Oct 28 - [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)
+- Oct 28 - [Nvidia takes $1B stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html)
+- Oct 28 - [How to build a 747 – A WorldFlight Story](https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/)
+- Oct 28 - [EuroLLM: LLM made in Europe built to support all 24 official EU languages](https://eurollm.io/)
+- Oct 28 - [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/)
+- Oct 28 - [Hi, It's Me, Wikipedia, and I Am Ready for Your Apology](https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology)
 <!--END_SECTION:hn-->
 
 <!--
