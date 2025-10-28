@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
-- Oct 28 - [Picture gallery: Amiga prototype "Lorraine" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
-- Oct 28 - [Show HN: Ordered – A sorted collection library for Zig](https://news.ycombinator.com/item?id=45729457)
-- Oct 28 - [I built the same app 10 times: Evaluating frameworks for mobile performance](https://www.lorenstew.art/blog/10-kanban-boards/)
-- Oct 28 - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
+- Oct 28 - [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o)
+- Oct 28 - [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers)
+- Oct 28 - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
+- Oct 28 - [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)
+- Oct 28 - [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/)
 <!--END_SECTION:hn-->
 
 <!--
