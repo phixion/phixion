@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering)
-- Oct 27 - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
-- Oct 27 - [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79)
-- Oct 27 - [OpenAI says over a million people talk to ChatGPT about suicide weekly](https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/)
-- Oct 27 - [Easy RISC-V](https://dramforever.github.io/easyriscv/)
+- Oct 28 - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
+- Oct 28 - [Picture gallery: Amiga prototype "Lorraine" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
+- Oct 28 - [Show HN: Ordered – A sorted collection library for Zig](https://news.ycombinator.com/item?id=45729457)
+- Oct 28 - [I built the same app 10 times: Evaluating frameworks for mobile performance](https://www.lorenstew.art/blog/10-kanban-boards/)
+- Oct 28 - [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html)
 <!--END_SECTION:hn-->
 
 <!--
