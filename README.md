@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [Mapping the off-target effects of every FDA-approved drug in existence](https://www.owlposting.com/p/mapping-the-off-target-effects-of)
-- Oct 28 - [Chrome to warn on unencrypted HTTP by default](https://security.googleblog.com/2025/10/https-by-default.html)
-- Oct 28 - [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
-- Oct 28 - [Show HN: Apache Fory Rust – 10-20x faster serialization than JSON/Protobuf](https://fory.apache.org/blog/2025/10/29/fory_rust_versatile_serialization_framework/)
-- Oct 28 - [Hacking the WiFi-enabled color screen GitHub Universe conference badge](https://simonwillison.net/2025/Oct/28/github-universe-badge/)
+- Oct 28 - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/)
+- Oct 28 - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
+- Oct 28 - [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/)
+- Oct 28 - [If you don't tinker, you don't have taste](https://seated.ro/blog/tinkering-a-lost-art)
+- Oct 28 - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
 <!--END_SECTION:hn-->
 
 <!--
