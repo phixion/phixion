@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [Project Shadowglass](https://shadowglassgame.com)
-- Oct 29 - [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
-- Oct 28 - [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)
-- Oct 28 - [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art)
-- Oct 28 - [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing)
+- Oct 29 - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
+- Oct 29 - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
+- Oct 29 - [Keep Android Open](http://keepandroidopen.org/)
+- Oct 29 - [uBlock Origin Lite Apple App Store](https://apps.apple.com/in/app/ublock-origin-lite/id6745342698)
+- Oct 29 - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 <!--END_SECTION:hn-->
 
 <!--
