@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [AWS to bare metal two years later: Answering your questions about leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
-- Oct 29 - [YouTube is taking down videos on performing nonstandard Windows 11 installs](https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/)
-- Oct 29 - [SpiderMonkey Garbage Collector](https://firefox-source-docs.mozilla.org/js/gc.html)
-- Oct 29 - [Who needs Graphviz when you can build it yourself?](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
-- Oct 29 - [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl)
+- Oct 29 - [Turns Out, Wikipedia Isn't That 'Woke' as Grokipedia Rips Off Most of Its Pages](https://uk.pcmag.com/ai/160970/turns-out-wikipedia-isnt-that-woke-as-grokipedia-rips-off-most-of-its-pages)
+- Oct 29 - [The end of the rip-off economy: consumers use LLMs against information asymmetry](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy)
+- Oct 29 - [Collins Aerospace: Sending text messages to the cockpit with test:test](https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden)
+- Oct 29 - [Oracle has adopted BOOLEAN in 23ai and PostgreSQL had it forever](https://hexacluster.ai/blog/postgresql/oracles-adoption-of-native-boolean-data-type-vs-postgresql/)
+- Oct 29 - [Tether is now the 17th largest holder of US debt](https://twitter.com/paoloardoino/status/1983455972636111011)
 <!--END_SECTION:hn-->
 
 <!--
