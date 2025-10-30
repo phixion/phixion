@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
-- Oct 29 - [Uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
-- Oct 29 - [Show HN: SQLite Graph Ext – Graph database with Cypher queries (alpha)](https://github.com/agentflare-ai/sqlite-graph)
-- Oct 29 - [Extropic is building thermodynamic computing hardware](https://extropic.ai/)
-- Oct 29 - [Dithering – Part 1](https://visualrambling.space/dithering-part-1/)
+- Oct 29 - [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
+- Oct 29 - [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet)
+- Oct 29 - [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/)
+- Oct 29 - [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules)
+- Oct 29 - [A URL to respond with when your boss says "But ChatGPT Said "](https://stopcitingai.com/)
 <!--END_SECTION:hn-->
 
 <!--
