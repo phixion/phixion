@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/)
+- Oct 30 - [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
+- Oct 30 - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
+- Oct 30 - [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
 - Oct 30 - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
 - Oct 30 - [IRCd service (2024)](https://example.fi/blog/ircd.html)
-- Oct 29 - [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/)
-- Oct 29 - [Crunchyroll is destroying its subtitles](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
 <!--END_SECTION:hn-->
 
 <!--
