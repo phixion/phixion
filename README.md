@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
-- Oct 30 - [ZOZO's Contact Solver (for physics-based simulations)](https://github.com/st-tech/ppf-contact-solver)
-- Oct 30 - [Free software scares normal people](https://danieldelaney.net/normal/)
-- Oct 30 - [Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD(x)/EFI Files](https://github.com/ventoy/Ventoy)
-- Oct 30 - [US declines to join more than 70 countries in signing UN cybercrime treaty](https://therecord.media/us-declines-signing-cybercrime-treaty?)
+- Oct 30 - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
+- Oct 30 - [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
+- Oct 30 - [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
+- Oct 30 - [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
+- Oct 30 - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
 <!--END_SECTION:hn-->
 
 <!--
