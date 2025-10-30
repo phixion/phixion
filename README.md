@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [Alphabet tops $100B quarterly revenue for first time, cloud grows 34%](https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html)
-- Oct 30 - [Show HN: In a single HTML file, an app to encourage my children to invest](https://roberdam.com/en/dinversiones.html)
-- Oct 30 - [Language Models Are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
-- Oct 30 - [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31)
-- Oct 30 - [IRCd service (2024)](https://example.fi/blog/ircd.html)
+- Oct 30 - [Affinity Studio Now Free](https://www.affinity.studio/get-affinity)
+- Oct 30 - [ZOZO's Contact Solver (for physics-based simulations)](https://github.com/st-tech/ppf-contact-solver)
+- Oct 30 - [Free software scares normal people](https://danieldelaney.net/normal/)
+- Oct 30 - [Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD(x)/EFI Files](https://github.com/ventoy/Ventoy)
+- Oct 30 - [US declines to join more than 70 countries in signing UN cybercrime treaty](https://therecord.media/us-declines-signing-cybercrime-treaty?)
 <!--END_SECTION:hn-->
 
 <!--
