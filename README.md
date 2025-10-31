@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 30 - [A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/)
+- Oct 30 - [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works)
+- Oct 30 - [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal)
+- Oct 30 - [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html)
 - Oct 30 - [Minecraft HDL, an HDL for Redstone](https://github.com/itsfrank/MinecraftHDL)
-- Oct 30 - [TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)
-- Oct 30 - [Taking money off the table](https://zachholman.com/posts/money-off-the-table)
-- Oct 30 - [Rapid Brightening of 3I/Atlas Ahead of Perihelion](https://arxiv.org/abs/2510.25035)
-- Oct 30 - [I have released a 69.0MB version of Windows 7 x86](https://twitter.com/XenoPanther/status/1983477707968291075)
 <!--END_SECTION:hn-->
 
 <!--
