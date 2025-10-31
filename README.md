@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Pornhub says UK visitors down 77% since age checks came in](https://www.bbc.com/news/articles/cgkz3m3re1zo)
+- Oct 31 - [Claude Is Down](https://status.claude.com/incidents/s5f75jhwjs6g)
+- Oct 31 - [Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371)
+- Oct 31 - [Some rando turned me into a meme coin](https://cloudfour.com/thinks/that-time-some-rando-turned-me-into-a-meme-coin/)
 - Oct 31 - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 - Oct 31 - [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196)
-- Oct 31 - [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon)
-- Oct 31 - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 <!--END_SECTION:hn-->
 
 <!--
