@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [Ubuntu Introduces Architecture Variants](https://lwn.net/Articles/1044383/)
-- Oct 31 - [Debug like a boss: 10 debugging hacks for developers, quality engineers, testers](https://www.ministryoftesting.com/articles/debug-like-a-boss-10-debugging-hacks-for-developers-quality-engineers-and-testers)
-- Oct 31 - [Nix Derivation Madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
-- Oct 31 - [Nim 2.2.6](https://nim-lang.org//blog/2025/10/31/nim-226.html)
-- Oct 31 - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
+- Oct 31 - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+- Oct 31 - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
+- Oct 31 - [Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
+- Oct 31 - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
+- Oct 31 - [Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
 <!--END_SECTION:hn-->
 
 <!--
