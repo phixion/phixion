@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Tech companies are firing everyone to "fund AI", spending money on each other](https://old.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech_companies_are_firing_everyone_to_fund_ai_but/)
-- Nov 01 - [arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/)
-- Nov 01 - [Tigerbeetle Simulator](https://sim.tigerbeetle.com/)
-- Nov 01 - [Async/Await is finally back in Zig](https://charlesfonseca.substack.com/p/asyncawait-is-finally-back-in-zig)
-- Nov 01 - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
+- Nov 01 - [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)
+- Nov 01 - [word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
+- Nov 01 - [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
+- Nov 01 - [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/)
+- Nov 01 - [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
 <!--END_SECTION:hn-->
 
 <!--
