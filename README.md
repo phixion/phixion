@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 01 - [The Profitable Startup](https://linear.app/now/the-profitable-startup)
+- Nov 01 - [Fungus: The Befunge CPU(2015)](https://www.bedroomlan.org/hardware/fungus/)
 - Oct 31 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 - Oct 31 - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
-- Oct 31 - [S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
-- Oct 31 - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
-- Oct 31 - [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+- Oct 31 - [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 <!--END_SECTION:hn-->
 
 <!--
