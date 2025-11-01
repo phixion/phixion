@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
-- Oct 31 - [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm)
-- Oct 31 - [Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate)
-- Oct 31 - [Use DuckDB-WASM to query TB of data in browser](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
-- Oct 31 - [Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack)
+- Oct 31 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+- Oct 31 - [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town)
+- Oct 31 - [S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
+- Oct 31 - [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html)
+- Oct 31 - [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 <!--END_SECTION:hn-->
 
 <!--
