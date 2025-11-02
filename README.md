@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Sanders: Government should break up OpenAI](https://thehill.com/policy/technology/5571789-ai-threatens-jobs-sanders-warns/)
-- Nov 01 - [word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
-- Nov 01 - [Czech police forced to turn off facial recognition cameras at the Prague airport](https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/)
-- Nov 01 - [Claude Code Can Debug Low-Level Cryptography](https://words.filippo.io/claude-debugging/)
-- Nov 01 - [Powell – unlike the dotcom boom, AI spending isn't a bubble](https://fortune.com/2025/10/29/powell-says-ai-is-not-a-bubble-unlike-dot-com-federal-reserve-interest-rates/)
+- Nov 01 - [Pomelli](https://labs.google.com/pomelli/about/)
+- Nov 01 - [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
+- Nov 01 - [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
+- Nov 01 - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
+- Nov 01 - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
 <!--END_SECTION:hn-->
 
 <!--
