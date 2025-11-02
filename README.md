@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 02 - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
+- Nov 02 - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
 - Nov 02 - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
 - Nov 02 - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
-- Nov 02 - [Backpropagation is a leaky abstraction](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
-- Nov 02 - [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/)
-- Nov 02 - [You Don't Need Anubis](https://fxgn.dev/blog/anubis/)
+- Nov 02 - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 <!--END_SECTION:hn-->
 
 <!--
