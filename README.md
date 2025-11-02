@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Pomelli](https://labs.google.com/pomelli/about/)
-- Nov 01 - [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector)
-- Nov 01 - [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product)
-- Nov 01 - [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/)
-- Nov 01 - [SailfishOS: A Linux-based European alternative to dominant mobile OSes](https://sailfishos.org/info/)
+- Nov 02 - [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs)
+- Nov 02 - [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
+- Nov 02 - [Anonymous credentials: rate-limit bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/)
+- Nov 02 - [Why "everyone dies" gets AGI all wrong](https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong)
+- Nov 02 - [How I use every Claude Code feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 <!--END_SECTION:hn-->
 
 <!--
