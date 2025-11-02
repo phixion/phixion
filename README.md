@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - ["Why don't you use dependent types?"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
-- Nov 02 - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
-- Nov 02 - [Matched Clean Power Index](https://matched.energy/blog/matched-clean-power-index-is-live)
-- Nov 02 - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
-- Nov 02 - [HyperRogue – A non-Euclidean roguelike](https://roguetemple.com/z/hyper/)
+- Nov 02 - [Lisp: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
+- Nov 02 - [Linux gamers on Steam cross over the 3% mark](https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/)
+- Nov 02 - [Reproducing the AWS Outage Race Condition with a Model Checker](https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/)
+- Nov 02 - [Anti-cybercrime laws are being weaponized to repress journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
+- Nov 02 - [Is Your Bluetooth Chip Leaking Secrets via RF Signals?](https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2)
 <!--END_SECTION:hn-->
 
 <!--
