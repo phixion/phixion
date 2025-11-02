@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
-- Nov 02 - [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering)
-- Nov 02 - [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed)
-- Nov 02 - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
-- Nov 02 - [Backpropagation is a leaky abstraction (2016)](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+- Nov 02 - ["Why don't you use dependent types?"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
+- Nov 02 - [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
+- Nov 02 - [Matched Clean Power Index](https://matched.energy/blog/matched-clean-power-index-is-live)
+- Nov 02 - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
+- Nov 02 - [HyperRogue – A non-Euclidean roguelike](https://roguetemple.com/z/hyper/)
 <!--END_SECTION:hn-->
 
 <!--
