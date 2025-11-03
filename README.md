@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [First recording of a dying human brain shows waves similar to memory flashbacks](https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks)
-- Nov 03 - ['No idea who he is', says Trump after pardoning crypto tycoon](https://www.bbc.com/news/articles/cn7ek63e5xyo)
-- Nov 03 - [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
-- Nov 03 - [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/)
-- Nov 03 - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
+- Nov 03 - [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
+- Nov 03 - [Nvidia to invest up to $1B in AI startup Poolside](https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/)
+- Nov 03 - [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
+- Nov 03 - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
+- Nov 03 - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
 <!--END_SECTION:hn-->
 
 <!--
