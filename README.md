@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [OpenAI Signs $38B Cloud Computing Deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
-- Nov 03 - [Geonum – geometric number library for unlimited dimensions with O(1) complexity](https://github.com/mxfactorial/geonum)
-- Nov 03 - [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
-- Nov 03 - [Is Health Insurance Even Worth It Anymore?](https://church.substack.com/p/is-health-insurance-even-worth-it)
-- Nov 03 - [A collection of links that existed about Anguilla as of 2003](https://web.ai/)
+- Nov 03 - [Wikipedia row erupts as Jimmy Wales intervenes on 'Gaza genocide' page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
+- Nov 03 - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
+- Nov 03 - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
+- Nov 03 - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
+- Nov 03 - [No Socials November](https://bjhess.com/posts/no-socials-november)
 <!--END_SECTION:hn-->
 
 <!--
