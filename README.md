@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/)
-- Nov 03 - [Nvidia to invest up to $1B in AI startup Poolside](https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/)
-- Nov 03 - [Tiny electric motor outperforms record holder by 40%](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/)
-- Nov 03 - [China intimidated UK university to ditch human rights research, documents show](https://www.bbc.com/news/articles/cq50j5vwny6o)
-- Nov 03 - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
+- Nov 03 - [OpenAI Signs $38B Cloud Computing Deal with Amazon](https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html)
+- Nov 03 - [Geonum – geometric number library for unlimited dimensions with O(1) complexity](https://github.com/mxfactorial/geonum)
+- Nov 03 - [The Problem with Farmed Seafood](https://nautil.us/the-problem-with-farmed-seafood-1243674/)
+- Nov 03 - [Is Health Insurance Even Worth It Anymore?](https://church.substack.com/p/is-health-insurance-even-worth-it)
+- Nov 03 - [A collection of links that existed about Anguilla as of 2003](https://web.ai/)
 <!--END_SECTION:hn-->
 
 <!--
