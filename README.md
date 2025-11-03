@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+- Nov 03 - [The great decoupling of labor and capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/)
+- Nov 03 - [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/)
+- Nov 02 - [Amazon to start blocking sideloaded piracy apps on Fire TVs](https://www.aftvnews.com/amazon-to-start-blocking-sideloaded-piracy-apps-on-fire-tvs/)
+- Nov 02 - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
 - Nov 02 - [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652)
-- Nov 02 - [Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html)
-- Nov 02 - [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/)
-- Nov 02 - [Amazon Rivian Electric Delivery Vans Arrive in Canada](https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/)
 <!--END_SECTION:hn-->
 
 <!--
