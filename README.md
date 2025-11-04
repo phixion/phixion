@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers](https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent)
-- Nov 04 - [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
-- Nov 04 - [Google Cloud suspended customer's account 3 times, for 3 different reasons](https://www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/)
-- Nov 04 - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
-- Nov 04 - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
+- Nov 04 - [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
+- Nov 04 - [We're open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
+- Nov 04 - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
+- Nov 04 - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
+- Nov 04 - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
 <!--END_SECTION:hn-->
 
 <!--
