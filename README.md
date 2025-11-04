@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
-- Nov 04 - [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)
-- Nov 04 - [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
-- Nov 04 - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
-- Nov 03 - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
+- Nov 04 - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
+- Nov 04 - [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
+- Nov 04 - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
+- Nov 04 - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
+- Nov 04 - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
 <!--END_SECTION:hn-->
 
 <!--
