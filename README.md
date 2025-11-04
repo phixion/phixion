@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
-- Nov 04 - [Pain Points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
-- Nov 04 - [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is)
-- Nov 04 - [Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies](https://mytimers.app/)
-- Nov 04 - [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/)
+- Nov 04 - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
+- Nov 04 - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
+- Nov 04 - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
+- Nov 04 - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
+- Nov 04 - [Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 <!--END_SECTION:hn-->
 
 <!--
