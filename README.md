@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/)
-- Nov 04 - [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
-- Nov 04 - [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/)
-- Nov 04 - [Show HN: Yourshoesmells.com – Find the most smelly boulder gym](https://yourshoesmells.com)
-- Nov 04 - [Lessons from interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
+- Nov 04 - [Server DRAM prices surge 50% as AI-induced memory shortage hits hyperscalers](https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent)
+- Nov 04 - [This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours](https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours)
+- Nov 04 - [Google Cloud suspended customer's account 3 times, for 3 different reasons](https://www.theregister.com/2025/11/04/google_cloud_suspended_customers_account/)
+- Nov 04 - [Optimizing Datalog for the GPU](https://danglingpointers.substack.com/p/optimizing-datalog-for-the-gpu)
+- Nov 04 - [Show HN: A CSS-Only Terrain Generator](https://terra.layoutit.com)
 <!--END_SECTION:hn-->
 
 <!--
