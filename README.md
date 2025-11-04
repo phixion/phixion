@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [Wikipedia row erupts as Jimmy Wales intervenes on 'Gaza genocide' page](https://www.thenational.scot/news/25591165.wikipedia-row-erupts-jimmy-wales-intervenes-gaza-genocide-page/)
-- Nov 03 - [Gallery of wonderful drawings our little thermal printer received](https://guestbook.goodenough.us)
-- Nov 03 - [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking)
-- Nov 03 - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
-- Nov 03 - [No Socials November](https://bjhess.com/posts/no-socials-november)
+- Nov 04 - [Israels top military lawyer resigns, goes missing, is found and thrown into jail](https://apnews.com/article/israel-military-scandal-prisoners-abuse-7becb2de4079b76b656910cc3c640d0d)
+- Nov 03 - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
+- Nov 03 - [Claude Code refused to add rainbows and unicorns to my app](https://news.ycombinator.com/item?id=45805540)
+- Nov 03 - [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
+- Nov 03 - [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38)
 <!--END_SECTION:hn-->
 
 <!--
