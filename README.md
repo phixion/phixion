@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Israels top military lawyer resigns, goes missing, is found and thrown into jail](https://apnews.com/article/israel-military-scandal-prisoners-abuse-7becb2de4079b76b656910cc3c640d0d)
+- Nov 04 - [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html)
+- Nov 04 - [A robotaxi killed a beloved SF cat; city supervisor wants driverless car reform](https://www.sfchronicle.com/sf/article/waymo-killed-cat-21136038.php)
+- Nov 04 - [UnitedHealth pays its own physician groups 17% more than outside ones](https://www.statnews.com/2025/11/03/unitedhealth-pays-its-optum-physicians-17-percent-more/)
+- Nov 04 - [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 - Nov 03 - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
-- Nov 03 - [Claude Code refused to add rainbows and unicorns to my app](https://news.ycombinator.com/item?id=45805540)
-- Nov 03 - [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
-- Nov 03 - [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38)
 <!--END_SECTION:hn-->
 
 <!--
