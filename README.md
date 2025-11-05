@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - ['A mass casualty event that could exceed Hiroshima': Yale researcher on Sudan](https://www.cnn.com/2025/11/03/tv/video/amanpour-sudan-nathaniel-raymond-hamid-khalafallah)
-- Nov 05 - [Kosmos: An AI Scientist for Autonomous Discovery](https://arxiv.org/abs/2511.02824)
-- Nov 05 - [Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?](https://news.ycombinator.com/item?id=45823234)
-- Nov 05 - [Carice TC2 – An fully analog electric car](https://www.caricecars.com/)
-- Nov 05 - [Gnome Mutter Now "Completely Drops the Whole X11 Back End"](https://www.phoronix.com/news/GNOME-Mutter-Drops-X11)
+- Nov 05 - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
+- Nov 05 - [Fiber reduces overall mortality by 23%](https://www.empirical.health/blog/dietary-fiber-reduces-all-cause-morality/)
+- Nov 05 - [Internet Archive's legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
+- Nov 05 - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
+- Nov 05 - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
 <!--END_SECTION:hn-->
 
 <!--
