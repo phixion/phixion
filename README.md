@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 05 - [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921)
+- Nov 05 - [The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3)
 - Nov 05 - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
 - Nov 05 - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
-- Nov 05 - [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright)
 - Nov 05 - [The Microsoft SoftCard for the Apple II: Getting two processors to share memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)
-- Nov 05 - [Direct File won't happen in 2026, IRS tells states](https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/)
 <!--END_SECTION:hn-->
 
 <!--
