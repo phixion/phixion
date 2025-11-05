@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [FDA described as a "clown show" amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/)
-- Nov 04 - [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)
-- Nov 04 - [Analyzing the Performance of WebAssembly vs. Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
-- Nov 04 - [Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)
-- Nov 04 - [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
+- Nov 05 - [Live Updates: Mamdani Wins NYC Mayor's Race After Highest Turnout in Decades](https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election)
+- Nov 05 - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
+- Nov 05 - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
+- Nov 05 - [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright)
+- Nov 05 - [Zohran Mamdani wins the New York mayoral race](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
 <!--END_SECTION:hn-->
 
 <!--
