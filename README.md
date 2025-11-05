@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Cheaper MacBook powered by iPhone chip coming in 2026, per new report](https://9to5mac.com/2025/11/04/cheaper-macbook-powered-by-iphone-chip-coming-in-2026-per-new-report/)
-- Nov 04 - [We're open-sourcing the successor of Jupyter notebook](https://deepnote.com/blog/were-open-sourcing-the-successor-of-jupyter-notebook)
-- Nov 04 - [Codemaps: Understand Code, Before You Vibe It](https://cognition.ai/blog/codemaps)
-- Nov 04 - [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
-- Nov 04 - [NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware](https://github.com/codykociemba/NoLongerEvil-Thermostat)
+- Nov 04 - [FDA described as a "clown show" amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/)
+- Nov 04 - [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/)
+- Nov 04 - [Analyzing the Performance of WebAssembly vs. Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056)
+- Nov 04 - [Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/)
+- Nov 04 - [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/)
 <!--END_SECTION:hn-->
 
 <!--
