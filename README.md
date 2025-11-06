@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Show HN: qqqa – a fast, stateless LLM-powered assistant for your shell](https://github.com/matisojka/qqqa)
-- Nov 06 - [80year old grandmother becomes oldest woman to finish Ironman World Championship](https://bigislandnow.com/2025/10/19/80-year-old-grandmother-becomes-oldest-woman-to-finish-ironman-world-championship-in-kona/)
-- Nov 06 - [Mathematical Exploration and Discovery at Scale](https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/)
-- Nov 06 - [What the hell have you built](https://wthhyb.sacha.house/)
-- Nov 06 - [Show HN: Flutter_compositions: Vue-inspired reactive building blocks for Flutter](https://github.com/yoyo930021/flutter_compositions)
+- Nov 06 - [Cloudflare Tells U.S. Govt That Foreign Site Blocking Efforts Are Trade Barriers](https://torrentfreak.com/cloudflare-tells-u-s-govt-that-foreign-site-blocking-efforts-are-digital-trade-barriers/)
+- Nov 06 - [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
+- Nov 06 - [IKEA launches new smart home range with 21 Matter-compatible products](https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/)
+- Nov 06 - [AI Slop vs. OSS Security](https://devansh.bearblog.dev/ai-slop/)
+- Nov 06 - [Eating Stinging Nettles](https://rachel.blog/2018/04/29/eating-stinging-nettles/)
 <!--END_SECTION:hn-->
 
 <!--
