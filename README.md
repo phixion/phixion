@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [New gel restores dental enamel and could revolutionise tooth repair](https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair)
-- Nov 05 - [Fiber reduces overall mortality by 23%](https://www.empirical.health/blog/dietary-fiber-reduces-all-cause-morality/)
-- Nov 05 - [Internet Archive's legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/)
-- Nov 05 - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
-- Nov 05 - [Dillo, a multi-platform graphical web browser](https://github.com/dillo-browser/dillo)
+- Nov 05 - [Photos: New Phoenix Microcenter is a 'tech-heaven' for geeks](https://www.phoenixnewtimes.com/arts-culture/micro-center-in-phoenix-a-look-inside-the-new-tech-heaven-40618548/)
+- Nov 05 - [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
+- Nov 05 - [Microsoft and Google overstate job creation at Chile data centers](https://restofworld.org/2025/data-centers-jobs-microsoft-google-chile/)
+- Nov 05 - [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
+- Nov 05 - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
 <!--END_SECTION:hn-->
 
 <!--
