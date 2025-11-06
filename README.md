@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [Photos: New Phoenix Microcenter is a 'tech-heaven' for geeks](https://www.phoenixnewtimes.com/arts-culture/micro-center-in-phoenix-a-look-inside-the-new-tech-heaven-40618548/)
-- Nov 05 - [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
-- Nov 05 - [Microsoft and Google overstate job creation at Chile data centers](https://restofworld.org/2025/data-centers-jobs-microsoft-google-chile/)
-- Nov 05 - [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
-- Nov 05 - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
+- Nov 06 - [Rust's TUI Revolution](https://ratatui.rs/showcase/apps/)
+- Nov 06 - [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/)
+- Nov 06 - [FAA to cut flights by 10% at 40 major airports due to government shutdown](https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html)
+- Nov 06 - [Longtime Mozilla Support Japanese Community Shuts Down over AI Translation Usage](https://support.mozilla.org/en-US/forums/contributors/717446)
+- Nov 06 - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 <!--END_SECTION:hn-->
 
 <!--
