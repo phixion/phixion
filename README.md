@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
-- Nov 07 - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
-- Nov 07 - [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
-- Nov 07 - [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
-- Nov 06 - [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
+- Nov 07 - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
+- Nov 07 - [Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8)
+- Nov 07 - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
+- Nov 07 - [JermCAD: Browser-Based CAD Software](https://github.com/jeremyaboyd/jerm-cad)
+- Nov 07 - [Dead Framework Theory](https://aifoc.us/dead-framework-theory/)
 <!--END_SECTION:hn-->
 
 <!--
