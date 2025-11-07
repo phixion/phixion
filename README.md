@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 07 - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
+- Nov 07 - [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
 - Nov 07 - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
-- Nov 07 - [Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8)
 - Nov 07 - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 - Nov 07 - [JermCAD: Browser-Based CAD Software](https://github.com/jeremyaboyd/jerm-cad)
-- Nov 07 - [Dead Framework Theory](https://aifoc.us/dead-framework-theory/)
 <!--END_SECTION:hn-->
 
 <!--
