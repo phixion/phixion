@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern)
-- Nov 07 - [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/)
-- Nov 07 - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
-- Nov 07 - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
-- Nov 07 - [JermCAD: Browser-Based CAD Software](https://github.com/jeremyaboyd/jerm-cad)
+- Nov 07 - [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
+- Nov 07 - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
+- Nov 07 - [I'm Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
+- Nov 07 - [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
+- Nov 07 - [We chose OCaml to write Stategraph](https://stategraph.dev/blog/why-we-chose-ocaml)
 <!--END_SECTION:hn-->
 
 <!--
