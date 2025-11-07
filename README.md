@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
-- Nov 06 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)
-- Nov 06 - [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
-- Nov 06 - [Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
-- Nov 06 - [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
+- Nov 07 - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
+- Nov 07 - [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/)
+- Nov 07 - [A Note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
+- Nov 07 - [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html)
+- Nov 06 - [The secret campaign to silence critics of a hospital real estate empire](https://www.motherjones.com/politics/2025/10/medical-properties-trust-mpt-steward-health-care-ed-aldag-secret-campaign-critics-surveillance-reit/)
 <!--END_SECTION:hn-->
 
 <!--
