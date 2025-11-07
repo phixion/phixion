@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [Claude Is Down](https://status.claude.com/incidents/tgtw1sqs9ths)
-- Nov 07 - [I Love OCaml](https://mccd.space/posts/ocaml-the-worlds-best/)
-- Nov 07 - [I'm Making a Small RPG and I Need Feeback Regarding Performance](https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need)
-- Nov 07 - [OpenMW 0.50.0 Released – open-source Morrowind reimplementation](https://openmw.org/2025/openmw-0-50-0-released/)
-- Nov 07 - [We chose OCaml to write Stategraph](https://stategraph.dev/blog/why-we-chose-ocaml)
+- Nov 07 - [James Watson, Co-Discoverer of the Structure of DNA, Is Dead at 97](https://www.nytimes.com/2025/11/07/science/james-watson-dead.html)
+- Nov 07 - [Ruby Solved My Problem](https://newsletter.masilotti.com/p/ruby-already-solved-my-problem)
+- Nov 07 - [Myna: Monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
+- Nov 07 - [Rockstar employee shares account of the company's union-busting efforts](https://gtaforums.com/topic/1004182-rockstar-games-alleged-union-busting/)
+- Nov 07 - [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/)
 <!--END_SECTION:hn-->
 
 <!--
