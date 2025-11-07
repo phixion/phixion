@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [UK outperforms US in creating unicorns from early stage VC investment](https://www.cityam.com/uk-outperforms-us-in-creating-unicorns-from-early-stage-vc-investment/)
-- Nov 06 - [Mark Zuckerberg Had Illegal School at His Palo Alto Compound. Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
-- Nov 06 - [LLMs Encode How Difficult Problems Are](https://arxiv.org/abs/2510.18147)
-- Nov 06 - [Show HN: TabPFN-2.5 – SOTA foundation model for tabular data](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)
-- Nov 06 - [Benchmarking the Most Reliable Document Parsing API](https://www.tensorlake.ai/blog/benchmarks)
+- Nov 06 - [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/)
+- Nov 06 - [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)
+- Nov 06 - [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004)
+- Nov 06 - [Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding)
+- Nov 06 - [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
 <!--END_SECTION:hn-->
 
 <!--
