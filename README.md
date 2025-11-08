@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [$1T in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226)
-- Nov 08 - [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf)
-- Nov 08 - [Why Sam Altman Won't Be on the Hook for OpenAI's Spending Spree](https://www.forbes.com/sites/rashishrivastava/2025/11/07/why-sam-altman-wont-be-on-the-hook-for-openais-massive-spending-spree/)
-- Nov 08 - [AI benchmarks are a bad joke – and LLM makers are the ones laughing](https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/)
-- Nov 08 - [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069)
+- Nov 08 - [Avería: The Average Font (2011)](http://iotic.com/averia/)
+- Nov 08 - [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)
+- Nov 08 - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
+- Nov 08 - [WriterdeckOS](https://writerdeckos.com)
+- Nov 08 - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
 <!--END_SECTION:hn-->
 
 <!--
