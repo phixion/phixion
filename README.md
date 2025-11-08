@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Older Adults Outnumber Children in 11 States](https://www.census.gov/newsroom/press-releases/2025/older-adults-outnumber-children.html)
+- Nov 08 - [Apple's "notarisation" – blocking software freedom of developers and users](https://fsfe.org/news/2025/news-20251105-01.en.html)
+- Nov 08 - [Local First Htmx](https://elijahm.com/posts/local_first_htmx/)
+- Nov 08 - [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060)
 - Nov 08 - [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta)
 - Nov 08 - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails)
-- Nov 08 - [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
-- Nov 08 - [Cerebras Code now supports GLM 4.6 at 1000 tokens/sec](https://www.cerebras.ai/code)
 <!--END_SECTION:hn-->
 
 <!--
