@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Avería: The Average Font (2011)](http://iotic.com/averia/)
-- Nov 08 - [Transparent computer monitor designed to protect your vision](https://www.visualinstruments.co/phantom/display)
-- Nov 08 - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
-- Nov 08 - [WriterdeckOS](https://writerdeckos.com)
-- Nov 08 - [Marko – A declarative, HTML‑based language that makes building web apps fun](https://markojs.com/)
+- Nov 08 - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
+- Nov 08 - [IP Blocking the UK Is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/)
+- Nov 08 - [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
+- Nov 08 - [How to declutter, quiet down, and take the AI out of Windows 11 25H2](https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
+- Nov 08 - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 <!--END_SECTION:hn-->
 
 <!--
