@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
-- Nov 09 - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
-- Nov 09 - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
-- Nov 09 - [Forth – is it still relevant?](https://github.com/chochain/eforth)
-- Nov 09 - [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
+- Nov 09 - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
+- Nov 09 - [Samsung Family Hub fridges will start showing adds to "Elevate" Home Ecosystem](https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/)
+- Nov 09 - [About KeePassXC's Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
+- Nov 09 - [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
+- Nov 09 - [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
 <!--END_SECTION:hn-->
 
 <!--
