@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/)
-- Nov 09 - [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/)
-- Nov 09 - [He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC](https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1)
-- Nov 09 - [Judge denies request to exempt Flock footage from Public Records Act](https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html)
-- Nov 08 - [Humanity's Endgame](https://www.noemamag.com/humanitys-endgame/)
+- Nov 09 - [Visa and Mastercard near deal with merchants that would change rewards landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
+- Nov 09 - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
+- Nov 09 - [Forth – is it still relevant?](https://github.com/chochain/eforth)
+- Nov 09 - [Runc breaks pods when CPU requests aren't multiples of 10](https://github.com/opencontainers/runc/issues/4982)
+- Nov 09 - [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
 <!--END_SECTION:hn-->
 
 <!--
