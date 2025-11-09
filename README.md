@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [The Manuscripts of Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/)
-- Nov 09 - [Samsung Family Hub fridges will start showing adds to "Elevate" Home Ecosystem](https://news.samsung.com/us/samsung-family-hub-2025-update-elevates-smart-home-ecosystem/)
-- Nov 09 - [About KeePassXC's Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
-- Nov 09 - [Drax: Speech Recognition with Discrete Flow Matching](https://huggingface.co/papers/2510.04162)
-- Nov 09 - [Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
+- Nov 09 - [U.S. Tech Layoffs Hit Two-Decade High in October](https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/)
+- Nov 09 - [Drilling Down on Uncle Sam's Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
+- Nov 09 - [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
+- Nov 09 - [Python Software Foundation gets a donor surge after rejecting federal grant](https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/)
+- Nov 09 - [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
 <!--END_SECTION:hn-->
 
 <!--
