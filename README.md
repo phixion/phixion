@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [Visa and Mastercard near deal with merchants that would change rewards landscape](https://www.wsj.com/finance/banking/visa-and-mastercard-near-deal-with-merchants-that-would-change-rewards-landscape-fc6a0c78)
+- Nov 09 - [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732)
+- Nov 09 - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 - Nov 09 - [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory)
 - Nov 09 - [Forth – is it still relevant?](https://github.com/chochain/eforth)
-- Nov 09 - [Runc breaks pods when CPU requests aren't multiples of 10](https://github.com/opencontainers/runc/issues/4982)
 - Nov 09 - [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models)
 <!--END_SECTION:hn-->
 
