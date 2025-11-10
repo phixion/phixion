@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [U.S. Tech Layoffs Hit Two-Decade High in October](https://thefivepost.com/u-s-tech-layoffs-hit-two-decade-high-in-october/)
-- Nov 09 - [Drilling Down on Uncle Sam's Proposed TP-Link Ban](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
-- Nov 09 - [American Heart Association says melatonin may be linked to serious heart risks](https://www.sciencedaily.com/releases/2025/11/251104012959.htm)
-- Nov 09 - [Python Software Foundation gets a donor surge after rejecting federal grant](https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/)
-- Nov 09 - [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176)
+- Nov 09 - [When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
+- Nov 09 - [If You're Not Active, You're Sick – You Just Don't Know It Yet](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
+- Nov 09 - [Custom doorbell app with Home Assistant and WebRTC](https://www.naps62.com/posts/custom-doorbell-app-with-homeassistant)
+- Nov 09 - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
+- Nov 09 - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
 <!--END_SECTION:hn-->
 
 <!--
