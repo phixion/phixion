@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [XSLT RIP](https://xslt.rip/)
-- Nov 10 - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
-- Nov 10 - [Beets: The music geek's media organizer](https://beets.io/)
-- Nov 10 - [LLM policy?](https://github.com/opencontainers/runc/issues/4990)
-- Nov 10 - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
+- Nov 10 - [DNS Provider Quad9 Sees Piracy Blocking Orders as "Existential Threat"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/)
+- Nov 10 - [Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/)
+- Nov 10 - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
+- Nov 10 - [Microsoft's lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/)
+- Nov 10 - [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html)
 <!--END_SECTION:hn-->
 
 <!--
