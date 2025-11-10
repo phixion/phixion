@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Thiel and Zuckerberg on Facebook, Millennials, and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
-- Nov 10 - [Games Preservation Is Hard and Sometimes Involves Private Detectives](https://kotaku.com/gog-preservation-program-private-detectives-drm-2000635611)
-- Nov 10 - [Time to Start De-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
-- Nov 10 - [Multistable thin-shell metastructures for multiresponsive metabots](https://www.science.org/doi/10.1126/sciadv.adx4359)
-- Nov 10 - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
+- Nov 10 - [The (Lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/)
+- Nov 10 - [Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html)
+- Nov 10 - [The 4.5T dollar elephant in the room](https://stevenadler.substack.com/p/the-45-trillion-dollar-elephant-in)
+- Nov 10 - [European Commission plans “digital omnibus” package to simplify its tech laws](https://www.politico.eu/article/brussels-knifes-privacy-to-feed-the-ai-boom-gdpr-digital-omnibus/)
+- Nov 10 - [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
 <!--END_SECTION:hn-->
 
 <!--
