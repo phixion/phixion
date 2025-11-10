@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [When Tesla's FSD works well, it gets credit. When it doesn't, you get blamed](https://electrek.co/2025/11/08/schrodingers-fsd-when-things-go-well-teslas-driving-when-they-dont-you-are/)
-- Nov 09 - [If You're Not Active, You're Sick – You Just Don't Know It Yet](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you)
-- Nov 09 - [Custom doorbell app with Home Assistant and WebRTC](https://www.naps62.com/posts/custom-doorbell-app-with-homeassistant)
-- Nov 09 - [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146)
-- Nov 09 - [The Computer Church – Pennsylvania Computer and Technology Museum](https://www.thecomputerchurch.org/)
+- Nov 10 - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
+- Nov 10 - [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
+- Nov 10 - [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
+- Nov 10 - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
+- Nov 10 - [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
 <!--END_SECTION:hn-->
 
 <!--
