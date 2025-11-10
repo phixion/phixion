@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Open source has a growing problem with LLM generated issues](https://github.com/opencontainers/runc/issues/4990)
-- Nov 10 - [How to maintain good vision amidst the myopia epidemic](https://ssathe.substack.com/p/vision-in-the-digital-age)
-- Nov 10 - [My Git history was a mess of 'update' and 'fix' – so I made AI clean it up](https://github.com/f/git-rewrite-commits)
-- Nov 10 - [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/)
-- Nov 10 - [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/)
+- Nov 10 - [XSLT RIP](https://xslt.rip/)
+- Nov 10 - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
+- Nov 10 - [Beets: The music geek's media organizer](https://beets.io/)
+- Nov 10 - [LLM policy?](https://github.com/opencontainers/runc/issues/4990)
+- Nov 10 - [How the UK lost its shipbuilding industry](https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding)
 <!--END_SECTION:hn-->
 
 <!--
