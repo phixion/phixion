@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
-- Nov 11 - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
-- Nov 11 - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
-- Nov 11 - [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
-- Nov 10 - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
+- Nov 11 - [Hazel (YC W24) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer)
+- Nov 11 - [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/)
+- Nov 11 - [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html)
+- Nov 11 - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
+- Nov 11 - [The "Dependency Cutout" Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 <!--END_SECTION:hn-->
 
 <!--
