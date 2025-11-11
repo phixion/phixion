@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 11 - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
+- Nov 11 - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
 - Nov 11 - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
-- Nov 11 - [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text)
 - Nov 11 - [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf)
-- Nov 11 - [Toucan Wireless Split Keyboard with Touchpad](https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad)
-- Nov 10 - [What caused performance issues in my tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
+- Nov 10 - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 <!--END_SECTION:hn-->
 
 <!--
