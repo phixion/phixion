@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [The (Lazy) Git UI You Didn't Know You Need](https://www.bwplotka.dev/2025/lazygit/)
-- Nov 10 - [Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html)
-- Nov 10 - [The 4.5T dollar elephant in the room](https://stevenadler.substack.com/p/the-45-trillion-dollar-elephant-in)
-- Nov 10 - [European Commission plans “digital omnibus” package to simplify its tech laws](https://www.politico.eu/article/brussels-knifes-privacy-to-feed-the-ai-boom-gdpr-digital-omnibus/)
-- Nov 10 - [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack)
+- Nov 10 - [What Caused Performance Issues in My Tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in)
+- Nov 10 - [No credible tie between Tylenol use and autism/ADHD study finds](https://newatlas.com/adhd-autism/low-concern-tylenol-adhd-or-autism/)
+- Nov 10 - [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
+- Nov 10 - [3D Heterogeneous Integration Powers New DARPA Fab](https://spectrum.ieee.org/3d-heterogeneous-integration)
+- Nov 10 - [Cybersecurity breach at Congressional Budget Office remains a live threat](https://www.politico.com/live-updates/2025/11/10/congress/cbo-still-under-threat-00644930)
 <!--END_SECTION:hn-->
 
 <!--
