@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
-- Nov 11 - [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
-- Nov 11 - [Show HN: Tusk Drift – Open-source tool for automating API tests](https://github.com/Use-Tusk/drift-node-sdk)
-- Nov 11 - [The Perplexing Appeal of the Telepathy Tapes](https://asteriskmag.com/issues/12-books/paradigm-shifted-the-perplexing-appeal-of-the-telepathy-tapes)
-- Nov 11 - [Show HN: Venturu – Zillow for the market of local businesses](https://www.venturu.com)
+- Nov 11 - [A Catalog of Side Effects](https://bernsteinbear.com/blog/compiler-effects/)
+- Nov 11 - [Show HN: Creavi Macropad – Built a wireless macropad with a display](https://creavi.tech/blog/creavi-macropad-build-log/)
+- Nov 11 - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
+- Nov 11 - [Terminal Latency on Windows (2024)](https://chadaustin.me/2024/02/windows-terminal-latency/)
+- Nov 11 - [Show HN: Data Formulator – interactive AI agents for data analysis (Microsoft)](https://data-formulator.ai/)
 <!--END_SECTION:hn-->
 
 <!--
