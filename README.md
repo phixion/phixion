@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html)
-- Nov 11 - [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
-- Nov 11 - [.NET MAUI is coming to Linux and the browser, powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia)
-- Nov 11 - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html)
-- Nov 11 - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/)
+- Nov 12 - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
+- Nov 12 - [Simulating a Planet on the GPU: Part 1 (2022)](https://www.patrickcelentano.com/blog/planet-sim-part-1)
+- Nov 12 - [You will own nothing and be (un)happy](https://racc.blog/you-will-own-nothing-and-be-unhappy/)
+- Nov 12 - [Perkeep – Personal storage system for life](https://perkeep.org/)
+- Nov 11 - [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/)
 <!--END_SECTION:hn-->
 
 <!--
