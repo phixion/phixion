@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Pakistani newspaper mistakenly prints AI prompt with the article](https://twitter.com/omar_quraishi/status/1988518627859951986)
-- Nov 12 - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/)
-- Nov 12 - [Please donate to keep Network Time Protocol up – Goal 1k](https://www.ntp.org/)
-- Nov 12 - [Yann LeCun to depart Meta and launch AI startup focused on 'world models'](https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models)
-- Nov 12 - [Simulating a Planet on the GPU: Part 1 (2022)](https://www.patrickcelentano.com/blog/planet-sim-part-1)
+- Nov 12 - [Fungus in Chernobyl nuclear disaster zone has mutated to 'feed' on radiation](https://www.unilad.com/news/world-news/fungus-chernobyl-mutated-feed-radiation-164735-20241217)
+- Nov 12 - [Learn Prolog Now](https://lpn.swi-prolog.org/lpnpage.php?pageid=top)
+- Nov 12 - [Fighting the New York Times' invasion of user privacy](https://openai.com/index/fighting-nyt-user-privacy-invasion)
+- Nov 12 - [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps/)
+- Nov 12 - [Micro.blog launches new 'Studio' tier with video hosting](https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan)
 <!--END_SECTION:hn-->
 
 <!--
