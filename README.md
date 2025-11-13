@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 13 - [My dad could still be alive, but he's not](https://www.jenn.site/my-dad-could-still-be-alive-but-hes-not/)
+- Nov 13 - [Human Fovea Detector](https://www.shadertoy.com/view/4dsXzM)
+- Nov 13 - [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
+- Nov 12 - [Eleven Labs Debuts "Iconic Marketplace" Feat Michael Caine, Judy Garland, Others](https://elevenlabs.io/iconic-marketplace)
 - Nov 12 - [Voyager 1 is a light-day away by November 2026](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
-- Nov 12 - [Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase](https://arxiv.org/abs/2510.27002)
-- Nov 12 - [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model)
-- Nov 12 - [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755)
-- Nov 12 - [OmniAI (YC W24) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer)
 <!--END_SECTION:hn-->
 
 <!--
