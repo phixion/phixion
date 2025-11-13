@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 13 - [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding)
-- Nov 13 - [Tesla Is Recalling Cybertrucks Again. Yep, More Pieces Are Falling Off](https://www.popularmechanics.com/cars/hybrid-electric/a69384091/cybertruck-lightbar-recall/)
-- Nov 13 - [European Nations Decide Against Acquiring Boeing E-7 Awacs Aircraft](https://defensemirror.com/news/40527/European_Nations_Decide_Against_Acquiring_Boeing_E_7_AWACS_Aircraft)
-- Nov 13 - [SIMA 2: An Agent That Plays, Reasons, and Learns with You in Virtual 3D Worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
-- Nov 13 - [We cut our Mongo DB costs by 90% by moving to Hetzner](https://prosopo.io/blog/we-cut-our-mongodb-costs-by-90-percent/)
+- Nov 13 - [SlopStop: Community-driven AI slop detection in Kagi Search](https://blog.kagi.com/slopstop)
+- Nov 13 - [How to Grow your Startup Fast in 2025](https://founderpath.com/blog/how-to-grow-startup-growth-hacks)
+- Nov 13 - [IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'](https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions)
+- Nov 13 - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
+- Nov 13 - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 <!--END_SECTION:hn-->
 
 <!--
