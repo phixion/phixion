@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Fannie Mae officials ousted after sounding alarm on sharing confidential data](https://apnews.com/article/fannie-mae-freddie-mac-firing-pulte-data-a4f8c53df74fef83ec7fd07e3d524746)
-- Nov 14 - [Copyright Winter Is Coming (To Wikipedia?)](https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia)
-- Nov 14 - [Why Fei-Fei Li and Yann LeCun Are Both Betting on "World Models"](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
+- Nov 14 - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
+- Nov 14 - [Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science](https://publicdomainreview.org/essay/science-of-sound/)
 - Nov 14 - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
-- Nov 14 - [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/)
+- Nov 14 - [What Happened with the CIA and The Paris Review?](https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/)
+- Nov 13 - [Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
 <!--END_SECTION:hn-->
 
 <!--
