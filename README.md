@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Oracle hit hard in Wall Street's tech sell-off over its AI bet](https://www.ft.com/content/583e9391-bdd0-433e-91e0-b1b93038d51e)
-- Nov 14 - [Wealthy foreigners 'paid for chance to shoot civilians in Sarajevo'](https://www.thetimes.com/world/europe/article/wealthy-foreigners-paid-for-chance-to-shoot-civilians-in-sarajevo-zrljbb27z)
-- Nov 14 - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
-- Nov 14 - [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
-- Nov 14 - [Nvidia is gearing up to sell servers instead of just GPUs and components](https://www.tomshardware.com/tech-industry/artificial-intelligence/jp-morgan-says-nvidia-is-gearing-up-to-sell-entire-ai-servers-instead-of-just-ai-gpus-and-componentry-jensens-master-plan-of-vertical-integration-will-boost-profits-purportedly-starting-with-vera-rubin)
+- Nov 14 - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
+- Nov 14 - [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
+- Nov 14 - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
+- Nov 14 - [AI World Clocks](https://clocks.brianmoore.com/)
+- Nov 14 - [A race condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
 <!--END_SECTION:hn-->
 
 <!--
