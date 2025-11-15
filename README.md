@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [Show HN: Chirp – Local Windows dictation with ParakeetV3 no executable required](https://github.com/Whamp/chirp)
-- Nov 14 - [Structured Outputs on the Claude Developer Platform (API)](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform)
-- Nov 14 - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1)
-- Nov 14 - [AI World Clocks](https://clocks.brianmoore.com/)
-- Nov 14 - [A race condition in Aurora RDS](https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds)
+- Nov 14 - [Go's Sweet 16](https://go.dev/blog/16years)
+- Nov 14 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
+- Nov 14 - [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth)
+- Nov 14 - [Anthropic Rides an Artificial Wave](https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/)
+- Nov 14 - [All praise to the lunch ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies)
 <!--END_SECTION:hn-->
 
 <!--
