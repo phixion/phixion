@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 15 - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
+- Nov 15 - [Adguard DNS received suspicious pressure to block archive.is](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
+- Nov 15 - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
 - Nov 15 - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
-- Nov 15 - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
-- Nov 15 - [Ohm Editor](https://ohmjs.org/editor/)
-- Nov 15 - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
-- Nov 15 - [So, you want to design your own language? (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
+- Nov 15 - [Messing with Scraper Bots](https://herman.bearblog.dev/messing-with-bots/)
 <!--END_SECTION:hn-->
 
 <!--
