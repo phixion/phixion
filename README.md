@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Over-reliance on English hinders cognitive science](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00236-4)
-- Nov 15 - [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/)
-- Nov 14 - [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
-- Nov 14 - [Go's Sweet 16](https://go.dev/blog/16years)
-- Nov 14 - [SSL Configuration Generator](https://ssl-config.mozilla.org/)
+- Nov 15 - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
+- Nov 15 - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
+- Nov 15 - [Ohm Editor](https://ohmjs.org/editor/)
+- Nov 15 - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
+- Nov 15 - [So, you want to design your own language? (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 <!--END_SECTION:hn-->
 
 <!--
