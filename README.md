@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 15 - [Linux on the Fujitsu Lifebook U729](https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729)
+- Nov 15 - [6B Miles Driven](https://www.tesla.com/fsd/safety)
+- Nov 15 - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
+- Nov 15 - [Kagi Bloopers – Search Results Gone Wrong](https://help.kagi.com/kagi/bloopers/)
 - Nov 15 - [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/)
-- Nov 15 - [Adguard DNS received suspicious pressure to block archive.is](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
-- Nov 15 - [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard)
-- Nov 15 - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
-- Nov 15 - [Messing with Scraper Bots](https://herman.bearblog.dev/messing-with-bots/)
 <!--END_SECTION:hn-->
 
 <!--
