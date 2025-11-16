@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [$5 PlanetScale is live](https://planetscale.com/blog/5-dollar-planetscale-is-here)
-- Nov 16 - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
-- Nov 16 - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
-- Nov 15 - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
-- Nov 15 - [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
+- Nov 16 - [Anthropic's report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
+- Nov 16 - [UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
+- Nov 16 - [Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/)
+- Nov 16 - [Maybe You're Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
+- Nov 16 - [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802)
 <!--END_SECTION:hn-->
 
 <!--
