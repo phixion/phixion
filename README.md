@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Anthropic's report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/)
-- Nov 16 - [UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo)
-- Nov 16 - [Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/)
-- Nov 16 - [Maybe You're Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying)
-- Nov 16 - [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802)
+- Nov 16 - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
+- Nov 16 - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
+- Nov 16 - [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
+- Nov 16 - [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html)
+- Nov 16 - [Iran begins cloud seeding operations as drought bites](https://www.arabnews.com/node/2622812/middle-east)
 <!--END_SECTION:hn-->
 
 <!--
