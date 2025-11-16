@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/)
-- Nov 15 - [AsciiMath](https://asciimath.org/)
-- Nov 15 - [AMD continues to chip away at Intel's x86 market share](https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems)
-- Nov 15 - [Caffeinated coffee consumption or abstinence to reduce atrial fibrillation](https://jamanetwork.com/journals/jama/fullarticle/2841253)
-- Nov 15 - [Archimedes – A Python toolkit for hardware engineering](https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html)
+- Nov 16 - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
+- Nov 16 - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
+- Nov 15 - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html)
+- Nov 15 - [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
+- Nov 15 - [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 <!--END_SECTION:hn-->
 
 <!--
