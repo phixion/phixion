@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html)
-- Nov 16 - [Heretic: Automatic censorship removal for language models](https://github.com/p-e-w/heretic)
-- Nov 16 - [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
-- Nov 16 - [Production-Grade Container Deployment with Podman Quadlets – Larvitz Blog](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/index.html)
-- Nov 16 - [Iran begins cloud seeding operations as drought bites](https://www.arabnews.com/node/2622812/middle-east)
+- Nov 16 - [The fate of "small" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
+- Nov 16 - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
+- Nov 16 - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
+- Nov 16 - [The Man Who Keeps Predicting the Web's Death](https://tedium.co/2025/10/25/web-dead-predictions-george-colony/)
+- Nov 16 - [I finally understand Cloudflare Zero Trust tunnels](https://david.coffee/cloudflare-zero-trust-tunnels)
 <!--END_SECTION:hn-->
 
 <!--
