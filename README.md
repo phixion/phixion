@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
-- Nov 17 - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/)
-- Nov 17 - [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
-- Nov 16 - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
-- Nov 16 - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
+- Nov 17 - [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
+- Nov 17 - [Geothermal energy might be the baseload revolution we've been looking for](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
+- Nov 17 - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
+- Nov 17 - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
+- Nov 17 - [Are you stuck in movie logic?](https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic)
 <!--END_SECTION:hn-->
 
 <!--
