@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 17 - [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/)
+- Nov 16 - [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents)
 - Nov 16 - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
-- Nov 16 - [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
-- Nov 16 - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
-- Nov 16 - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
-- Nov 16 - [How Your Brain Creates 'Aha' Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
+- Nov 16 - [Britney Spears' Guide to Semiconductor Physics (2000)](https://britneyspears.ac/lasers.htm)
+- Nov 16 - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business? (2018)](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
 <!--END_SECTION:hn-->
 
 <!--
