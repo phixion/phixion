@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [The fate of "small" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
-- Nov 16 - [AI is killing privacy. We can't let that happen](https://www.fastcompany.com/91435189/ai-privacy-openai-tracking-apps)
-- Nov 16 - [Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
-- Nov 16 - [The Man Who Keeps Predicting the Web's Death](https://tedium.co/2025/10/25/web-dead-predictions-george-colony/)
-- Nov 16 - [I finally understand Cloudflare Zero Trust tunnels](https://david.coffee/cloudflare-zero-trust-tunnels)
+- Nov 16 - [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/)
+- Nov 16 - [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm)
+- Nov 16 - [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
+- Nov 16 - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
+- Nov 16 - [How Your Brain Creates 'Aha' Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/)
 <!--END_SECTION:hn-->
 
 <!--
