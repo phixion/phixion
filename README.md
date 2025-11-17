@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Replicate is joining Cloudflare](https://replicate.com/blog/replicate-cloudflare)
-- Nov 17 - [Geothermal energy might be the baseload revolution we've been looking for](https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy)
-- Nov 17 - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
-- Nov 17 - [GCC 16 considering changing default to C++20](https://inbox.sourceware.org/gcc/aQj1tKzhftT9GUF4@redhat.com/)
-- Nov 17 - [Are you stuck in movie logic?](https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic)
+- Nov 17 - [Implementing Rust newtype for errors in axum](https://rup12.net/posts/learning-rust-custom-errors/)
+- Nov 17 - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
+- Nov 17 - [Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO](https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/)
+- Nov 17 - [EEG-based neurofeedback in athletes and non-athletes](https://www.mdpi.com/2306-5354/12/11/1202)
+- Nov 17 - [DESI's Dizzying Results](https://www.universetoday.com/articles/desis-dizzying-results)
 <!--END_SECTION:hn-->
 
 <!--
