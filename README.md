@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
-- Nov 18 - [Cloudflare, X, More are down](https://www.cloudflarestatus.com/?t=1)
-- Nov 18 - [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
-- Nov 18 - [Comparing Android Alternatives: Lineage OS, ∕E∕OS, and Graphene OS](https://kevinboone.me/lineage-eos-graphene.html)
-- Nov 18 - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
+- Nov 18 - [Gemini 3 Pro Preview Live in AI Studio](https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview)
+- Nov 18 - [Short Little Difficult Books](https://countercraft.substack.com/p/short-little-difficult-books)
+- Nov 18 - [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
+- Nov 18 - [Experiment: Making TypeScript Immutable-by-Default](https://evanhahn.com/typescript-immutability-experiment/)
+- Nov 18 - [Ruby 4.0.0 Preview2 Released](https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/)
 <!--END_SECTION:hn-->
 
 <!--
