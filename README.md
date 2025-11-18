@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6)
-- Nov 18 - [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/)
-- Nov 18 - [LeJEPA](https://arxiv.org/abs/2511.08544)
-- Nov 18 - [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html)
-- Nov 18 - [Unofficial "Tier 4" Rust Target for older Windows versions](https://github.com/rust9x/rust)
+- Nov 18 - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
+- Nov 18 - [Cloudflare, X, More are down](https://www.cloudflarestatus.com/?t=1)
+- Nov 18 - [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/)
+- Nov 18 - [Comparing Android Alternatives: Lineage OS, ∕E∕OS, and Graphene OS](https://kevinboone.me/lineage-eos-graphene.html)
+- Nov 18 - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
 <!--END_SECTION:hn-->
 
 <!--
