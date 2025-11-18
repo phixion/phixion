@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Implementing Rust newtype for errors in axum](https://rup12.net/posts/learning-rust-custom-errors/)
-- Nov 17 - [An official atlas of North Korea](https://www.cartographerstale.com/p/an-official-atlas-of-north-korea)
-- Nov 17 - [Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO](https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/)
-- Nov 17 - [EEG-based neurofeedback in athletes and non-athletes](https://www.mdpi.com/2306-5354/12/11/1202)
-- Nov 17 - [DESI's Dizzying Results](https://www.universetoday.com/articles/desis-dizzying-results)
+- Nov 17 - [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
+- Nov 17 - [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion)
+- Nov 17 - [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix)
+- Nov 17 - [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
+- Nov 17 - [Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)](https://princejs.vercel.app)
 <!--END_SECTION:hn-->
 
 <!--
