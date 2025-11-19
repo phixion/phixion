@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
-- Nov 19 - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
-- Nov 19 - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
-- Nov 19 - [Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
-- Nov 19 - [I made a down detector for down detector](https://downdetectorsdowndetector.com)
+- Nov 19 - [Emoji Evidence Errors Don't Undo a Murder Conviction–People vs. Harmon](https://blog.ericgoldman.org/archives/2025/11/emoji-evidence-errors-dont-undo-a-murder-conviction-people-v-harmon.htm)
+- Nov 19 - [Launch HN: Mosaic (YC W25) – Agentic Video Editing](https://mosaic.so)
+- Nov 19 - [Europe is scaling back its landmark privacy and AI laws](https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes)
+- Nov 19 - [How to Stay Sane in a World That Rewards Insanity](https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity)
+- Nov 19 - [Proxmox Virtual Environment 9.1 available](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-1)
 <!--END_SECTION:hn-->
 
 <!--
