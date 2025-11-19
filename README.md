@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/)
-- Nov 18 - [Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
-- Nov 18 - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
-- Nov 18 - [Rebecca Heineman – from homelessness to porting Doom (2022)](https://corecursive.com/doomed-to-fail-with-burger-becky/)
-- Nov 18 - [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down)
+- Nov 19 - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
+- Nov 19 - [A down detector for down detector's down detector](https://downdetectorsdowndetectorsdowndetector.com/)
+- Nov 19 - [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work)
+- Nov 19 - [Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
+- Nov 19 - [I made a down detector for down detector](https://downdetectorsdowndetector.com)
 <!--END_SECTION:hn-->
 
 <!--
