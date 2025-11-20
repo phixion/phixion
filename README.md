@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 19 - [Pozsar's Bretton Woods III: Sometimes Money Can't Solve the Problem](https://philippdubach.com/2025/10/25/pozsars-bretton-woods-iii-the-framework-1/2/)
-- Nov 19 - [Gov. Abbott's office redacts pages of emails about Elon Musk](https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted)
-- Nov 19 - [What AI Is Really For](https://www.chrbutler.com/what-ai-is-really-for)
-- Nov 19 - [Why Samsung Phones Are Failing Emergency Calls in Australia](https://hackaday.com/2025/11/19/why-samsung-phones-are-failing-emergency-calls-in-australia/)
-- Nov 19 - [Netherlands returns control of Nexperia to Chinese owner](https://www.bloomberg.com/news/articles/2025-11-19/dutch-hand-back-control-of-chinese-owned-chipmaker-nexperia)
+- Nov 19 - [Tailscale Down](https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC)
+- Nov 19 - [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable)
+- Nov 19 - [It's your fault my laptop knows where I am](https://www.amoses.dev/blog/wifi-location/)
+- Nov 19 - [Roblox Requires Age Checks for Communication, Ushering in New Safety Standard](https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat)
+- Nov 19 - [Gaming on Linux has never been more approachable](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)
 <!--END_SECTION:hn-->
 
 <!--
