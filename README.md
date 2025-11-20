@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
-- Nov 20 - [210 IQ Is Not Enough](https://taylor.town/iq-not-enough)
-- Nov 20 - [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
-- Nov 20 - [Judgement on Dr Matthew Garrett (@mjg59) vs. Dr Roy Schestowitz (Techrights.org)](https://caselaw.nationalarchives.gov.uk/ewhc/kb/2025/3063)
-- Nov 20 - [Red Alert 2 in web browser](https://chronodivide.com/)
+- Nov 20 - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
+- Nov 20 - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
+- Nov 20 - [Mozilla Says It's Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
+- Nov 20 - [NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
+- Nov 20 - [The Lions Operating System](https://lionsos.org)
 <!--END_SECTION:hn-->
 
 <!--
