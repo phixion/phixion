@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me)
-- Nov 20 - [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/)
-- Nov 20 - [DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php)
-- Nov 20 - [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/)
-- Nov 20 - [PHP 8.5 gets released today, here's what's new](https://stitcher.io/blog/new-in-php-85)
+- Nov 20 - [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
+- Nov 20 - [210 IQ Is Not Enough](https://taylor.town/iq-not-enough)
+- Nov 20 - [Firefox 147 Will Support the XDG Base Directory Specification](https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory)
+- Nov 20 - [Judgement on Dr Matthew Garrett (@mjg59) vs. Dr Roy Schestowitz (Techrights.org)](https://caselaw.nationalarchives.gov.uk/ewhc/kb/2025/3063)
+- Nov 20 - [Red Alert 2 in web browser](https://chronodivide.com/)
 <!--END_SECTION:hn-->
 
 <!--
