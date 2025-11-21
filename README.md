@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 21 - [It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
+- Nov 21 - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
+- Nov 21 - [Streaming platform Twitch added to Australia's teen social media ban](https://www.bbc.com/news/articles/cx2n2955g10o)
+- Nov 21 - [While Eyes Are on Takaichi, Taiwan's Lai Is Quietly Redefining the Status Quo](https://jonathancc.substack.com/p/while-eyes-are-on-takaichi-taiwans)
 - Nov 21 - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
-- Nov 21 - [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/)
-- Nov 20 - [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost)
-- Nov 20 - [Autocomp: An ADRS Framework for Optimizing Tensor Accelerator Code](https://adrs-ucb.notion.site/autocomp)
-- Nov 20 - [Virgin and Qantas to ban use of portable power banks after string of fires](https://www.abc.net.au/news/2025-11-21/airlines-virgin-australia-qantas-ban-power-banks/106033982)
 <!--END_SECTION:hn-->
 
 <!--
