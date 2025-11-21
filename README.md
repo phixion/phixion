@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 20 - [International Kiteboarding Organization - 340,349 breached accounts](https://haveibeenpwned.com/Breach/IKO)
 - Nov 20 - [Beckett Collectibles - 541,132 breached accounts](https://haveibeenpwned.com/Breach/Beckett)
 - Nov 20 - [Eurofiber - 10,003 breached accounts](https://haveibeenpwned.com/Breach/Eurofiber)
 - Nov 20 - [Vultr - 187,872 breached accounts](https://haveibeenpwned.com/Breach/Vultr)
 - Nov 13 - [Operation Endgame 3.0 - 2,046,030 breached accounts](https://haveibeenpwned.com/Breach/OperationEndgame3)
-- Nov 08 - [TISZA Világ - 198,520 breached accounts](https://haveibeenpwned.com/Breach/Tisza)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [CBP is monitoring US drivers and detaining those with suspicious travel patterns](https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd)
-- Nov 20 - [Data-at-Rest Encryption in DuckDB](https://duckdb.org/2025/11/19/encryption-in-duckdb)
-- Nov 20 - [Mozilla Says It's Finally Done with Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/)
-- Nov 20 - [NTSB Preliminary Report – Ups Boeing MD-11F Crash [pdf]](https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf)
-- Nov 20 - [The Lions Operating System](https://lionsos.org)
+- Nov 20 - [Over-Regulation Is Doubling the Cost by Peter Reinhardt](https://rein.pk/over-regulation-is-doubling-the-cost)
+- Nov 20 - [France is taking state actions against GrapheneOS?](https://grapheneos.social/@GrapheneOS/115584160910016309)
+- Nov 20 - [GitHut – Programming Languages and GitHub (2014)](https://githut.info/)
+- Nov 20 - [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance)
+- Nov 20 - [Run Docker containers natively in Proxmox 9.1 (OCI images)](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
 <!--END_SECTION:hn-->
 
 <!--
