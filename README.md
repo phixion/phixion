@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 21 - [Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative)
+- Nov 21 - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
+- Nov 21 - [HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
 - Nov 21 - [It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
-- Nov 21 - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
-- Nov 21 - [Streaming platform Twitch added to Australia's teen social media ban](https://www.bbc.com/news/articles/cx2n2955g10o)
-- Nov 21 - [While Eyes Are on Takaichi, Taiwan's Lai Is Quietly Redefining the Status Quo](https://jonathancc.substack.com/p/while-eyes-are-on-takaichi-taiwans)
-- Nov 21 - [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
+- Nov 21 - [The Qtile Window Manager: A Python-Powered Tiling Experience](https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/)
 <!--END_SECTION:hn-->
 
 <!--
