@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Building a deep-space logistics startup](https://ionmicrosys.com/)
+- Nov 22 - [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)
+- Nov 22 - [Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/)
+- Nov 22 - [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1)
 - Nov 22 - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 - Nov 22 - [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/)
-- Nov 22 - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
-- Nov 22 - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
 <!--END_SECTION:hn-->
 
 <!--
