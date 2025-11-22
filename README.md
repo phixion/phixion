@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Brazil charges 31 people in major carbon credit fraud investigation](https://news.mongabay.com/short-article/2025/11/brazil-charges-31-people-in-major-carbon-credit-fraud-investigation/)
-- Nov 21 - [How/why to sweep async tasks under a Postgres table](https://taylor.town/pg-task)
-- Nov 21 - [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
-- Nov 21 - [Solving Fizz Buzz with Cosines](https://susam.net/fizz-buzz-with-cosines.html)
-- Nov 21 - [Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls)
+- Nov 21 - [Explaining, at some length, Techmeme's 20 years of consistency](https://news.techmeme.com/250912/20-years)
+- Nov 21 - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
+- Nov 21 - [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
+- Nov 21 - [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)
+- Nov 21 - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
 <!--END_SECTION:hn-->
 
 <!--
