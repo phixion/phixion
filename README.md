@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Explaining, at some length, Techmeme's 20 years of consistency](https://news.techmeme.com/250912/20-years)
-- Nov 21 - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
-- Nov 21 - [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/)
-- Nov 21 - [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)
-- Nov 21 - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
+- Nov 22 - [The death of tech idealism and rise of the homeless in Northern California](https://lithub.com/on-the-death-of-tech-idealism-and-rise-of-the-homeless-in-northern-california/)
+- Nov 22 - [Infinibay LXD Container](https://github.com/Infinibay/lxd)
+- Nov 22 - [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model)
+- Nov 21 - [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)
+- Nov 21 - [Apple's Problem with Bodies](https://drobinin.com/posts/apples-problem-with-bodies/)
 <!--END_SECTION:hn-->
 
 <!--
