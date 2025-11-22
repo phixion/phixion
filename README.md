@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [The Pentagon Can't Trust GPS Anymore](https://www.wsj.com/tech/the-pentagon-cant-trust-gps-anymore-is-quantum-physics-the-answer-d7b2d4e6)
-- Nov 22 - [A looming 'insect apocalypse' could endanger global food supplies](https://www.livescience.com/animals/insects/a-looming-insect-apocalypse-could-endanger-global-food-supplies-can-we-stop-it-before-its-too-late)
-- Nov 22 - [ADHD and monotropism (2023)](https://monotropism.org/adhd/)
-- Nov 22 - [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
-- Nov 22 - [Original Superman comic becomes the highest-priced comic book ever sold](https://www.bbc.com/news/articles/c8e9rp0knj6o)
+- Nov 22 - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
+- Nov 22 - [China Reaches Energy Milestone by "Breeding" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
+- Nov 22 - [Gwern's "Stem Humor" Directory](https://gwern.net/doc/math/humor/index)
+- Nov 22 - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
+- Nov 22 - [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)
 <!--END_SECTION:hn-->
 
 <!--
