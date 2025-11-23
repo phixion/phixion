@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-- Nov 23 - [Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)
-- Nov 23 - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
-- Nov 23 - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
-- Nov 23 - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
+- Nov 23 - [Inmates at a Mississippi jail were ordered to do the guards' bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
+- Nov 23 - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
+- Nov 23 - [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
+- Nov 23 - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
+- Nov 23 - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
 <!--END_SECTION:hn-->
 
 <!--
