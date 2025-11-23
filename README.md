@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 23 - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
+- Nov 23 - [Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/)
+- Nov 23 - [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)
 - Nov 23 - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
-- Nov 23 - [Rust Isn't the Future of Systems Programming – It's Just the Hype Cycle](https://freedium-mirror.cfd/cachecowboy/rust-isnt-the-future-of-systems-programming-it-s-just-the-hype-cycle-29afd73ff871)
-- Nov 23 - [A cryptography research body held an election and they can't decrypt the results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html)
 - Nov 23 - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
-- Nov 23 - [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
 <!--END_SECTION:hn-->
 
 <!--
