@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer)
-- Nov 22 - [China Reaches Energy Milestone by "Breeding" Uranium from Thorium](https://humanprogress.org/china-reaches-energy-milestone-by-breeding-uranium-from-thorium/)
-- Nov 22 - [Gwern's "Stem Humor" Directory](https://gwern.net/doc/math/humor/index)
-- Nov 22 - [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
-- Nov 22 - [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96)
+- Nov 22 - [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
+- Nov 22 - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
+- Nov 22 - [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+- Nov 22 - [Kids who own smartphones before age 13 have worse mental health outcomes: Study](https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082)
+- Nov 22 - [Show HN: I built a wizard to turn ideas into AI coding agent-ready specs](https://vibescaffold.dev/)
 <!--END_SECTION:hn-->
 
 <!--
