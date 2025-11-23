@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Inmates at a Mississippi jail were ordered to do the guards' bidding](https://www.nytimes.com/2025/11/14/us/mississippi-jail-inmates-rankin-county.html)
-- Nov 23 - [Court filings allege Meta downplayed risks to children and misled the public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
-- Nov 23 - [UK minister ducks cost questions on nationwide digital ID scheme](https://www.theregister.com/2025/11/21/uk_digital_id_costs_uncertain/)
-- Nov 23 - [Tosijs-schema is a super lightweight schema-first LLM-native JSON schema library](https://www.npmjs.com/package/tosijs-schema)
-- Nov 23 - [Racket v9.0](https://blog.racket-lang.org/2025/11/racket-v9-0.html)
+- Nov 23 - [Scoop: Judge Caught Using AI to Read His Court Decisions](https://migrantinsider.com/p/scoop-judge-caught-using-ai-to-read)
+- Nov 23 - [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
+- Nov 23 - [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
+- Nov 23 - [SVG.js v3.2](https://svgjs.dev/docs/3.2/)
+- Nov 23 - [Are consumers just tech debt to Microsoft?](https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/)
 <!--END_SECTION:hn-->
 
 <!--
