@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
-- Nov 24 - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
-- Nov 24 - [Bureau of Meteorology's new boss asked to examine $96M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
-- Nov 24 - [Chrome Jpegxl Issue Reopened](https://issues.chromium.org/issues/40168998)
-- Nov 24 - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
+- Nov 24 - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026)
+- Nov 24 - [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
+- Nov 24 - [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
+- Nov 24 - [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+- Nov 24 - [GrapheneOS migrates server infrastructure from France](https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/)
 <!--END_SECTION:hn-->
 
 <!--
