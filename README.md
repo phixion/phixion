@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
-- Nov 24 - [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern)
-- Nov 24 - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
-- Nov 24 - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
-- Nov 24 - [Japan's gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo)
+- Nov 24 - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
+- Nov 24 - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
+- Nov 24 - [Bureau of Meteorology's new boss asked to examine $96M bill for website redesign](https://www.abc.net.au/news/2025-11-23/bureau-of-meteorology-new-website-cost-blowout-to-96-million/106042202)
+- Nov 24 - [Chrome Jpegxl Issue Reopened](https://issues.chromium.org/issues/40168998)
+- Nov 24 - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 <!--END_SECTION:hn-->
 
 <!--
