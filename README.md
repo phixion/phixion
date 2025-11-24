@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 24 - [Show HN: Syd – An offline-first, AI-augmented workstation for blue teams](https://www.sydsec.co.uk)
+- Nov 24 - [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus)
+- Nov 24 - [Build desktop applications using Go and Web Technologies](https://github.com/wailsapp/wails)
 - Nov 24 - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
 - Nov 24 - [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
-- Nov 24 - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
-- Nov 24 - [B-Trees: Why Every Database Uses Them](https://mehmetgoekce.substack.com/p/b-trees-why-every-database-uses-them)
-- Nov 24 - [Ask HN: Hearing aid wearers, what's hot?](https://news.ycombinator.com/item?id=46029699)
 <!--END_SECTION:hn-->
 
 <!--
