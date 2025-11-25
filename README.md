@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Launch HN: Onyx (YC W24) – The open-source chat UI](https://news.ycombinator.com/item?id=46045987)
-- Nov 25 - [Apt Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
-- Nov 25 - [Brain has five 'eras' with adult mode not starting until early 30s](https://www.theguardian.com/science/2025/nov/25/brain-human-cognitive-development-life-stages-cambridge-study)
-- Nov 25 - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
-- Nov 25 - [Most Stable Raspberry Pi? Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
+- Nov 25 - [UK intends to scrap jury trials for majority of court cases](https://www.gbnews.com/politics/uk/david-lammy-scrap-jury-trials)
+- Nov 25 - [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
+- Nov 25 - [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
+- Nov 25 - [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
+- Nov 25 - [Bad UX World Cup 2025](https://badux.lol/)
 <!--END_SECTION:hn-->
 
 <!--
