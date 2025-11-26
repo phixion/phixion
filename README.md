@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [UK intends to scrap jury trials for majority of court cases](https://www.gbnews.com/politics/uk/david-lammy-scrap-jury-trials)
-- Nov 25 - [Unison 1.0 Release](https://www.unison-lang.org/unison-1-0/)
-- Nov 25 - [IQ differences of identical twins reared apart are influenced by education](https://www.sciencedirect.com/science/article/pii/S0001691825003853)
-- Nov 25 - [Show HN: Secure private diffchecker with merge support](https://diffchecker.dev)
-- Nov 25 - [Bad UX World Cup 2025](https://badux.lol/)
+- Nov 25 - [The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)
+- Nov 25 - [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
+- Nov 25 - [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)
+- Nov 25 - [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
+- Nov 25 - [A DOOM vector engine for rendering in KiCad, and over an audio jack](https://www.mikeayles.com/#kidoom)
 <!--END_SECTION:hn-->
 
 <!--
