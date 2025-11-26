@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html)
-- Nov 25 - [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
-- Nov 25 - [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm)
-- Nov 25 - [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
-- Nov 25 - [A DOOM vector engine for rendering in KiCad, and over an audio jack](https://www.mikeayles.com/#kidoom)
+- Nov 26 - [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/)
+- Nov 26 - [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
+- Nov 26 - [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/)
+- Nov 26 - [BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh)
+- Nov 26 - [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html)
 <!--END_SECTION:hn-->
 
 <!--
