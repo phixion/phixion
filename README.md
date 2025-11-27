@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/)
-- Nov 26 - [Babushka Lady](https://en.wikipedia.org/wiki/Babushka_Lady)
-- Nov 26 - [C100 Developer Terminal](https://caligra.com/)
-- Nov 26 - [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
-- Nov 26 - [Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
+- Nov 27 - [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
+- Nov 27 - [Green Card Interviews End in Handcuffs for Spouses of U.S. Citizens](https://www.nytimes.com/2025/11/26/us/trump-green-card-interview-arrests.html)
+- Nov 27 - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
+- Nov 27 - [Migrating the Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
+- Nov 27 - [Bonsai_term: A library for building dynamic terminal apps by Jane Street](https://github.com/janestreet/bonsai_term)
 <!--END_SECTION:hn-->
 
 <!--
