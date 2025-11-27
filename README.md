@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 27 - [How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
 - Nov 27 - [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
-- Nov 27 - [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
+- Nov 27 - [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)
 - Nov 27 - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
 - Nov 27 - [Last Issue of "ECMAScript News"](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
-- Nov 27 - [Principles of Vasocomputation](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/)
 <!--END_SECTION:hn-->
 
 <!--
