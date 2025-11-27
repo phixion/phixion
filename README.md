@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
-- Nov 27 - [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/)
-- Nov 27 - [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)
-- Nov 27 - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
-- Nov 27 - [Last Issue of "ECMAScript News"](https://ecmascript.news/archive/es-next-news-2025-11-26.html)
+- Nov 27 - [We're Losing Our Voice to LLMs](https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/)
+- Nov 27 - [Show HN: Runprompt – run .prompt files from the command line](https://github.com/chr15m/runprompt)
+- Nov 27 - [Renewing GPG Subkeys in 2025](https://entropicthoughts.com/renewing-gpg-subkeys-in-2025)
+- Nov 27 - [Show HN: MkSlides – Markdown to slides with a similar workflow to MkDocs](https://github.com/MartenBE/mkslides)
+- Nov 27 - [The State of GPL Propagation to AI Models](https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/)
 <!--END_SECTION:hn-->
 
 <!--
