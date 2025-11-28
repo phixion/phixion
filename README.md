@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [China's BEV Trucks and the End of Diesel's Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/)
-- Nov 28 - [The VPN panic is only getting started](https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act)
-- Nov 28 - [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
-- Nov 27 - [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html)
-- Nov 27 - [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
+- Nov 28 - [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
+- Nov 28 - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
+- Nov 28 - [How to use Linux vsock for fast VM communication](https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/)
+- Nov 28 - [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
+- Nov 28 - [Beads – A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
 <!--END_SECTION:hn-->
 
 <!--
