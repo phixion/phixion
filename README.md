@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [GrapheneOS Moving Out of France](https://xcancel.com/GrapheneOS/status/1993035936800584103)
-- Nov 28 - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
-- Nov 28 - [How to use Linux vsock for fast VM communication](https://popovicu.com/posts/how-to-use-linux-vsock-for-fast-vm-communication/)
-- Nov 28 - [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/)
-- Nov 28 - [Beads – A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
+- Nov 28 - [Cats became our companions way later than you think](https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o)
+- Nov 28 - [Google denies 'misleading' reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
+- Nov 28 - [EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance)
+- Nov 28 - [A Repository with 44 Years of Unix Evolution](https://www.spinellis.gr/pubs/conf/2015-MSR-Unix-History/html/Spi15c.html)
+- Nov 28 - [Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation](https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1)
 <!--END_SECTION:hn-->
 
 <!--
