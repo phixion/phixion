@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Tell HN: Want a better HN? Visit /newest](https://news.ycombinator.com/item?id=46079745)
-- Nov 28 - [Swedish publishers file police report against Meta's Zuckerberg for fraud](https://www.sverigesradio.se/artikel/swedish-publishers-file-police-report-against-metas-zuckerberg-for-fraud)
-- Nov 28 - [Louvre to hike ticket prices for most non-EU tourists by 45%](https://www.bbc.com/news/articles/clyd4llgrego)
-- Nov 28 - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
-- Nov 28 - [A trillion dollars (potentially) wasted on gen-AI](https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible)
+- Nov 28 - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+- Nov 28 - [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
+- Nov 28 - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network](https://blog.tymscar.com/posts/imgurukproxy/)
+- Nov 28 - [28M Hacker News comments as vector embedding search dataset](https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset)
+- Nov 28 - [Rock Paper Scissors Solitaire](https://klezlab.it/rock-paper-scissors-solitaire.html)
 <!--END_SECTION:hn-->
 
 <!--
