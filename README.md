@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
-- Nov 28 - [Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ](https://473999.net/pulse)
-- Nov 28 - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network](https://blog.tymscar.com/posts/imgurukproxy/)
-- Nov 28 - [28M Hacker News comments as vector embedding search dataset](https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset)
-- Nov 28 - [Rock Paper Scissors Solitaire](https://klezlab.it/rock-paper-scissors-solitaire.html)
+- Nov 28 - [Fabric Project](https://github.com/Fabric-Project/Fabric)
+- Nov 28 - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
+- Nov 28 - [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms)
+- Nov 28 - [A first look at Django's new background tasks](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)
+- Nov 28 - [Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)
 <!--END_SECTION:hn-->
 
 <!--
