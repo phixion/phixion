@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 29 - [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ)
+- Nov 29 - [The Great Downzoning](https://worksinprogress.co/issue/the-great-downzoning/)
 - Nov 29 - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
-- Nov 29 - [Every mathematician has only a few tricks](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
-- Nov 29 - [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)
-- Nov 28 - [Fabric Project](https://github.com/Fabric-Project/Fabric)
-- Nov 28 - [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/)
+- Nov 29 - [Neato vacuum robots to stop working](https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025)
+- Nov 29 - [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
 <!--END_SECTION:hn-->
 
 <!--
