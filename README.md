@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Copenhagenize Index 2025: The Global Ranking of Bicycle-Friendly Cities](https://copenhagenizeindex.eu/)
-- Nov 29 - [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6)
-- Nov 29 - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
-- Nov 29 - [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
-- Nov 29 - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
+- Nov 29 - [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
+- Nov 29 - [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
+- Nov 29 - [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
+- Nov 29 - [An update on the Farphone's battery](https://far.computer/battery-update/)
+- Nov 29 - [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
 <!--END_SECTION:hn-->
 
 <!--
