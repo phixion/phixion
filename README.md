@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ)
-- Nov 29 - [The Great Downzoning](https://worksinprogress.co/issue/the-great-downzoning/)
+- Nov 29 - [Belgian Police exposed using botnets to manipulate EU data law impact assessment](https://old.reddit.com/r/europe/comments/1p9kxhm/belgian_federal_police_forgot_to_turn_their_vpn/)
+- Nov 29 - [High Air Pollution Could Diminish Exercise Benefits by 50%, Study Finds](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)
+- Nov 29 - [I Know We're in an AI Bubble Because Nobody Wants Me](https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/)
+- Nov 29 - [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem)
 - Nov 29 - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
-- Nov 29 - [Neato vacuum robots to stop working](https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025)
-- Nov 29 - [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
 <!--END_SECTION:hn-->
 
 <!--
