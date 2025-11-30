@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 29 - [Ported freetype, fontconfig, harfbuzz, and graphite to Fil-C](https://twitter.com/filpizlo/status/1994563191528198653)
-- Nov 29 - [Framework Computer Now Sponsoring LVFS / Fwupd Development](https://www.phoronix.com/news/Framework-Sponsoring-LVFS)
-- Nov 29 - [Electric vehicle sales are booming in South America – without Tesla](https://www.reuters.com/sustainability/climate-energy/electric-vehicle-sales-are-booming-south-america-without-tesla-2025-11-17/)
-- Nov 29 - [An update on the Farphone's battery](https://far.computer/battery-update/)
-- Nov 29 - [Student Perceptions of AI Coding Assistants in Learning](https://arxiv.org/abs/2507.22900)
+- Nov 29 - [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
+- Nov 29 - [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
+- Nov 29 - [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
+- Nov 29 - [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
+- Nov 29 - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
 <!--END_SECTION:hn-->
 
 <!--
