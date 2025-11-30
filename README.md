@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [Modern cars are spying on you. Here's what you can do about it](https://apnews.com/article/auto-car-privacy-3674ce59c9b30f2861d29178a31e6ab7)
-- Nov 30 - [The Undermining of the CDC](https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc)
-- Nov 30 - [Geothermal Breakthrough in South Texas Signals New Era for Ercot](https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/)
-- Nov 30 - [Discovering that my smartphone had infiltrated my life](https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife)
-- Nov 30 - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
+- Nov 30 - [You Want Microservices, but Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
+- Nov 30 - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15%](https://arxiv.org/abs/2211.12588)
+- Nov 30 - [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
+- Nov 30 - [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
+- Nov 30 - [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
 <!--END_SECTION:hn-->
 
 <!--
