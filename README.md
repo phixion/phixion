@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 30 - [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)
+- Nov 30 - [Silicon Valley's Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html)
+- Nov 30 - [The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/)
 - Nov 30 - [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe)
 - Nov 30 - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
-- Nov 30 - [Show HN: Boing](https://boing.greg.technology/)
-- Nov 30 - [Meshtastic](https://meshtastic.org/)
-- Nov 30 - [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
 <!--END_SECTION:hn-->
 
 <!--
