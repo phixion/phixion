@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Nov 30 - [Show HN: Boing](https://boing.greg.technology/)
+- Nov 30 - [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/)
+- Nov 30 - [Meshtastic](https://meshtastic.org/)
+- Nov 30 - [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/)
 - Nov 29 - [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
-- Nov 29 - [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
-- Nov 29 - [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
-- Nov 29 - [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/)
-- Nov 29 - [Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana](https://github.com/gavrielc/Nano-PDF)
 <!--END_SECTION:hn-->
 
 <!--
