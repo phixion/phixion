@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/)
-- Dec 01 - [UK Government plans new powers to label dissenting movements as 'subversion'](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/)
-- Dec 01 - [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
-- Dec 01 - [Xlibre is a fork of the Xorg Xserver with lots of code cleanups](https://x11libre.net/)
-- Dec 01 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)
+- Dec 01 - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
+- Dec 01 - [WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]](https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf)
+- Dec 01 - [Netflix Kills Casting from Its Mobile App to Most Modern TVs](https://www.macrumors.com/2025/12/01/netflix-kills-casting-from-mobile-app-to-tvs/)
+- Dec 01 - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
+- Dec 01 - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
 <!--END_SECTION:hn-->
 
 <!--
