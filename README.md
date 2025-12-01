@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Ask HN: Who is hiring? (December 2025)](https://news.ycombinator.com/item?id=46108941)
-- Dec 01 - [WordPress plugin quirk resulted in UK Gov OBR Budget leak [pdf]](https://obr.uk/docs/dlm_uploads/01122025-Investigation-into-November-2025-EFO-publication-error.pdf)
-- Dec 01 - [Netflix Kills Casting from Its Mobile App to Most Modern TVs](https://www.macrumors.com/2025/12/01/netflix-kills-casting-from-mobile-app-to-tvs/)
-- Dec 01 - [The Penicillin Myth](https://www.asimov.press/p/penicillin-myth)
-- Dec 01 - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
+- Dec 01 - [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
+- Dec 01 - [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
+- Dec 01 - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
+- Dec 01 - [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
+- Dec 01 - [High-income job losses are cooling housing demand](https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/)
 <!--END_SECTION:hn-->
 
 <!--
