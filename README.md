@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 30 - [You Want Microservices, but Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
-- Nov 30 - [Program-of-Thought Prompting Outperforms Chain-of-Thought by 15%](https://arxiv.org/abs/2211.12588)
-- Nov 30 - [NixOS 25.11 Released](https://nixos.org/blog/announcements/2025/nixos-2511/)
-- Nov 30 - [Don't push AI down our throats](https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats)
-- Nov 30 - [There is No Quintic Formula [video]](https://www.youtube.com/watch?v=9HIy5dJE-zQ)
+- Nov 30 - [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
+- Nov 30 - [Bricklink suspends Marketplace operations in 35 countries (developing story)](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/)
+- Nov 30 - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+- Nov 30 - [Stackoverflow Outage](https://www.stackstatus.net/)
+- Nov 30 - ["Boobs check" – Technique to verify if sites behind CDN are hosted in Iran](https://twitter.com/hkashfi/status/1995109785679573167)
 <!--END_SECTION:hn-->
 
 <!--
