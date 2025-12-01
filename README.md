@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Advent of Sysadmin 2025](https://sadservers.com/advent)
-- Dec 01 - [Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
-- Dec 01 - [Malware embedded into audio driver is silently recording from system mic](https://twitter.com/Officialwhyte22/status/1995024999934001602)
-- Nov 30 - [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
-- Nov 30 - [Bricklink suspends Marketplace operations in 35 countries](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/)
+- Dec 01 - [Do the thinking models think?](https://bytesauna.com/post/consciousness)
+- Dec 01 - [Show HN: CurioQuest – A simple web trivia/fun facts game](https://curioquest.fun/)
+- Dec 01 - [It’s been a very hard year](https://bell.bz/its-been-a-very-hard-year/)
+- Dec 01 - [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/)
+- Dec 01 - [Google Antigravity just deleted the contents of whole drive](https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/)
 <!--END_SECTION:hn-->
 
 <!--
