@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Better Than JSON](https://aloisdeniel.com/blog/better-than-json)
-- Dec 01 - [React and Remix Choose Different Futures](https://laconicwit.com/react-and-remix-choose-different-futures/)
-- Dec 01 - [Intel could return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
-- Dec 01 - [Durin is a library for reading and writing the Dwarf debugging format](https://github.com/tmcgilchrist/durin)
-- Dec 01 - [High-income job losses are cooling housing demand](https://jbrec.com/insights/job-growth-housing-demand-metro-analysis-2026/)
+- Dec 01 - [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
+- Dec 01 - [Losing Confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
+- Dec 01 - [Apple AI Chief Retiring After Siri Failure](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/)
+- Dec 01 - [The healthcare market is taxing reproduction out of existence](https://aaronstannard.com/40k-baby/)
+- Dec 01 - [Mozilla's latest quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
 <!--END_SECTION:hn-->
 
 <!--
