@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Fallout 2's Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)
-- Dec 02 - [Is 2026 Next Year?](https://www.google.com/search?q=is+2026+next+year&oq=is+2026+next+year)
-- Dec 02 - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
-- Dec 02 - [Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)](https://github.com/marmotdata/marmot)
-- Dec 02 - [Nixtml: Static website and blog generator written in Nix](https://github.com/arnarg/nixtml)
+- Dec 02 - [Claude 4.5 Opus' Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/)
+- Dec 02 - [Amazon launches Trainium3](https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/)
+- Dec 02 - [Microsoft won't let me pay a $24 bill, blocking thousands in Azure spending](https://news.ycombinator.com/item?id=46124930)
+- Dec 02 - [Cursed circuits: charge pump voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage)
+- Dec 02 - [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
 <!--END_SECTION:hn-->
 
 <!--
