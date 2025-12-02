@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
+- Dec 02 - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
+- Dec 02 - [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
+- Dec 02 - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
+- Dec 02 - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 - Dec 02 - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
-- Dec 02 - [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
-- Dec 02 - [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
-- Dec 02 - [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
 <!--END_SECTION:hn-->
 
 <!--
