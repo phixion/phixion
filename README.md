@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
-- Dec 02 - [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
-- Dec 02 - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
-- Dec 02 - [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)
-- Dec 02 - [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
+- Dec 02 - [Fallout 2's Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/)
+- Dec 02 - [Is 2026 Next Year?](https://www.google.com/search?q=is+2026+next+year&oq=is+2026+next+year)
+- Dec 02 - [Mistral 3 family of models released](https://mistral.ai/news/mistral-3)
+- Dec 02 - [Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)](https://github.com/marmotdata/marmot)
+- Dec 02 - [Nixtml: Static website and blog generator written in Nix](https://github.com/arnarg/nixtml)
 <!--END_SECTION:hn-->
 
 <!--
