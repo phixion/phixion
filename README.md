@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
-- Dec 02 - [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
-- Dec 02 - [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq)
-- Dec 02 - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
-- Dec 02 - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
+- Dec 02 - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
+- Dec 02 - [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/)
+- Dec 02 - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
+- Dec 02 - [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/)
+- Dec 02 - [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/)
 <!--END_SECTION:hn-->
 
 <!--
