@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 01 - [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/)
-- Dec 01 - [Losing Confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/)
-- Dec 01 - [Apple AI Chief Retiring After Siri Failure](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/)
-- Dec 01 - [The healthcare market is taxing reproduction out of existence](https://aaronstannard.com/40k-baby/)
-- Dec 01 - [Mozilla's latest quagmire](https://rubenerd.com/mozillas-latest-quagmire/)
+- Dec 02 - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
+- Dec 02 - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
+- Dec 02 - [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/)
+- Dec 02 - [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
+- Dec 02 - [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn)
 <!--END_SECTION:hn-->
 
 <!--
