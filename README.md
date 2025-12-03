@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Why are my headphones buzzing whenever I run my game?](https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html)
-- Dec 03 - [Microsoft lowers AI software sales quota](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
-- Dec 03 - [Mapping Every Dollar of America's $5T Healthcare System](https://healthisotherpeople.substack.com/p/an-abominable-creature)
-- Dec 03 - [GSWT: Gaussian Splatting Wang Tiles](https://yunfan.zone/gswt_webpage/)
-- Dec 03 - [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
+- Dec 03 - [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+- Dec 03 - [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
+- Dec 03 - [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
+- Dec 03 - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
+- Dec 03 - [Launch HN: Phind 3 (YC S22) – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
 <!--END_SECTION:hn-->
 
 <!--
