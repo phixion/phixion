@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 02 - [Id Software was Lazy – DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
+- Dec 03 - [Kohler Can Access Pictures from "End-to-End Encrypted" Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes)
+- Dec 02 - [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45)
 - Dec 02 - [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/)
 - Dec 02 - [AI generated font using Nano Banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74)
-- Dec 02 - [EmacsConf 2025](https://emacsconf.org/2025/)
 - Dec 02 - [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/)
 <!--END_SECTION:hn-->
 
