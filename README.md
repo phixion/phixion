@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 04 - [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/)
 - Dec 03 - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
+- Dec 03 - [Zmx: Session Persistence for Terminal Processes](https://github.com/neurosnap/zmx)
 - Dec 03 - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
 - Dec 03 - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
-- Dec 03 - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
-- Dec 03 - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
 <!--END_SECTION:hn-->
 
 <!--
