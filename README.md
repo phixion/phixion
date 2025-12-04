@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478)
-- Dec 04 - [Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/)
-- Dec 04 - [PGlite – Embeddable Postgres](https://pglite.dev/)
-- Dec 04 - [Tunnl.gg](https://tunnl.gg)
-- Dec 04 - [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/)
+- Dec 04 - [The Free Software Foundation Europe deleted its account on X](https://fsfe.org/news/2025/news-20251204-01.en.html)
+- Dec 04 - [The Math Legend Who Just Left Academia–For an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417)
+- Dec 04 - [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
+- Dec 04 - [Human hair grows through 'pulling' not pushing, study shows](https://phys.org/news/2025-12-human-hair.html)
+- Dec 04 - [RAM is so expensive, Samsung won't even sell it to Samsung](https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html)
 <!--END_SECTION:hn-->
 
 <!--
