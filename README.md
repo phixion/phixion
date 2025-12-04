@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 03 - [Everyone in Seattle hates AI](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
-- Dec 03 - [Lie groups are crucial to some of the most fundamental theories in physics](https://www.quantamagazine.org/what-are-lie-groups-20251203/)
-- Dec 03 - [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
-- Dec 03 - [Prompt Injection via Poetry](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
-- Dec 03 - [Launch HN: Phind 3 (YC S22) – Every answer is a mini-app](https://news.ycombinator.com/item?id=46137548)
+- Dec 03 - [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/)
+- Dec 03 - [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/)
+- Dec 03 - [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033)
+- Dec 03 - [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/)
+- Dec 03 - [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us)
 <!--END_SECTION:hn-->
 
 <!--
