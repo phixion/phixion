@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [How Brussels writes so many laws](https://www.siliconcontinent.com/p/how-brussels-writes-so-many-laws)
-- Dec 05 - [NeurIPS 2025 Best Paper Awards](https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/)
-- Dec 05 - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
-- Dec 05 - [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/)
-- Dec 05 - [AV1: A Modern, Open Codec](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
+- Dec 05 - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
+- Dec 05 - [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
+- Dec 05 - [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
+- Dec 05 - [Fast trigram based code search](https://github.com/sourcegraph/zoekt)
+- Dec 05 - [Warner Bros Begins Exclusive Deal Talks With Netflix](https://www.bloomberg.com/news/articles/2025-12-05/warner-bros-is-said-to-begin-exclusive-deal-talks-with-netflix)
 <!--END_SECTION:hn-->
 
 <!--
