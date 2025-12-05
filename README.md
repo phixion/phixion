@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 04 - [The RAM shortage comes for us all](https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all)
-- Dec 04 - [Hammersmith Bridge – Where did 25,000 vehicles go?](https://nickmaini.substack.com/p/hammersmith-bridge)
-- Dec 04 - [Why are 38 percent of Stanford students saying they're disabled?](https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/)
-- Dec 04 - [PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners](https://github.com/SJRiz/pytogether)
-- Dec 04 - [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager)
+- Dec 04 - [Coca Cola has an executive dedicated to McDonald's](https://www.coca-colacompany.com/about-us/leadership/roberto-mercade)
+- Dec 04 - [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months)
+- Dec 04 - [SMS phishers pivot to points, taxes, fake retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/)
+- Dec 04 - [StardustOS: Library operating system for building light-weight Unikernels](https://github.com/StardustOS)
+- Dec 04 - [State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)
 <!--END_SECTION:hn-->
 
 <!--
