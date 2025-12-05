@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Framework Laptop 13 gets ARM processor with 12 cores via upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
-- Dec 05 - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
-- Dec 05 - [Jolla Phone Pre-Order](https://commerce.jolla.com/products/jolla-phone-preorder)
-- Dec 05 - [Covid-19 mRNA Vaccination and 4-Year All-Cause Mortality](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2842305)
-- Dec 05 - [Emerge Career (YC S22) Is Hiring](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer)
+- Dec 05 - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
+- Dec 05 - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
+- Dec 05 - [Why we built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
+- Dec 05 - [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
+- Dec 05 - [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)
 <!--END_SECTION:hn-->
 
 <!--
