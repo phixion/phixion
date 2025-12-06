@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 06 - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
+- Dec 06 - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
 - Dec 06 - [Nook Browser](https://browsewithnook.com)
 - Dec 06 - [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
-- Dec 06 - [Have I Been Flocked? – Check If Your License Plate Is Being Watched](https://haveibeenflocked.com/)
-- Dec 06 - [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
-- Dec 06 - [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
+- Dec 06 - [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter)
 <!--END_SECTION:hn-->
 
 <!--
