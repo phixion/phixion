@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 06 - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
+- Dec 06 - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
+- Dec 06 - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
 - Dec 06 - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
 - Dec 06 - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
-- Dec 06 - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
-- Dec 06 - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
-- Dec 06 - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 <!--END_SECTION:hn-->
 
 <!--
