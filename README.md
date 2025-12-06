@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [How America's "truck-driver shortage" made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape)
-- Dec 06 - [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921)
-- Dec 06 - [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/)
-- Dec 06 - [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
-- Dec 06 - [Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js)
+- Dec 06 - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
+- Dec 06 - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
+- Dec 06 - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
+- Dec 06 - [Why Speed Matters](https://lemire.me/blog/2025/12/05/why-speed-matters/)
+- Dec 06 - [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/)
 <!--END_SECTION:hn-->
 
 <!--
