@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [SpaceX in Talks for Share Sale That Would Boost Valuation to $800B](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191)
-- Dec 05 - [Show HN: SerpApi MCP Server](https://github.com/serpapi/serpapi-mcp)
-- Dec 05 - [Why we built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
-- Dec 05 - [WikiFlix: Full Movies Hosted on Wikimedia Commons](https://commons.wikimedia.org/wiki/User:Spinster/WikiFlix)
-- Dec 05 - [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5)
+- Dec 05 - [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
+- Dec 05 - [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
+- Dec 05 - [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)
+- Dec 05 - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
+- Dec 05 - [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
 <!--END_SECTION:hn-->
 
 <!--
