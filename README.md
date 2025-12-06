@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 05 - [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)
-- Dec 05 - [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno)
-- Dec 05 - [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/)
-- Dec 05 - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
-- Dec 05 - [Perpetual Futures](https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/)
+- Dec 06 - [Nook Browser](https://browsewithnook.com)
+- Dec 06 - [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf)
+- Dec 06 - [Have I Been Flocked? – Check If Your License Plate Is Being Watched](https://haveibeenflocked.com/)
+- Dec 06 - [I cracked a $200 software protection with xcopy](https://www.ud2.rip/blog/enigma-protector/)
+- Dec 06 - [EU hits X with €120M fine for breaching the Digital Services Act](https://www.dw.com/en/eu-imposes-120-million-fine-on-elon-musks-x-for-breaking-digital-rules/a-75033724)
 <!--END_SECTION:hn-->
 
 <!--
