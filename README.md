@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 07 - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 - Dec 07 - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
 - Dec 07 - [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 - Dec 07 - [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html)
 - Dec 07 - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
-- Dec 07 - [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)
 <!--END_SECTION:hn-->
 
 <!--
