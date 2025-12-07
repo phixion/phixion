@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Locks in PostgreSQL](https://habr.com/en/companies/postgrespro/articles/504498/)
-- Dec 07 - [Scala 3 slowed us down?](https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html)
-- Dec 07 - [Dollar-stores overcharge cash-strapped customers while promising low prices](https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs)
-- Dec 07 - [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
-- Dec 07 - [At least 50 hallucinated citations found in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
+- Dec 07 - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
+- Dec 07 - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
+- Dec 07 - [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
+- Dec 07 - [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
+- Dec 07 - [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
 <!--END_SECTION:hn-->
 
 <!--
