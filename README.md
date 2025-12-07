@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 06 - [OMSCS Open Courseware](https://sites.gatech.edu/omscsopencourseware/)
-- Dec 06 - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
-- Dec 06 - [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada)
-- Dec 06 - [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html)
-- Dec 06 - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
+- Dec 07 - [Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border](https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71)
+- Dec 06 - [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139)
+- Dec 06 - [A fork of Calibre called Clbre, because the AI is stripped out](https://github.com/grimthorpe/clbre)
+- Dec 06 - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
+- Dec 06 - [PatchworkOS: An OS for x86_64, built from scratch in C and assembly](https://github.com/KaiNorberg/PatchworkOS)
 <!--END_SECTION:hn-->
 
 <!--
