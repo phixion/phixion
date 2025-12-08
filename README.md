@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/)
+- Dec 08 - [Truemetrics (YC S23) Is Hiring](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms)
+- Dec 08 - [Palantir Could Be the Most Overvalued Company That Ever Existed](https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/)
+- Dec 08 - [Damn Small Linux](https://www.damnsmalllinux.org/)
 - Dec 08 - [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
-- Dec 08 - [Toyota Unintended Acceleration and the Big Bowl of "Spaghetti" Code (2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
 - Dec 08 - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
-- Dec 08 - [The era of jobs is ending](https://www.thepavement.xyz/p/the-era-of-jobs-is-ending)
 <!--END_SECTION:hn-->
 
 <!--
