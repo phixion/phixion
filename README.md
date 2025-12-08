@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango)
-- Dec 08 - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
-- Dec 08 - [Show HN: Web app that lets you send email time capsules](https://resurf.me)
-- Dec 08 - [12 Days of Shell](https://12days.cmdchallenge.com)
-- Dec 08 - [Why Leftover Pizza Might Be Healthier](https://www.scientificamerican.com/video/why-leftover-pizza-is-actually-healthier-the-science-of-resistant-starch/)
+- Dec 08 - [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
+- Dec 08 - [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
+- Dec 08 - [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
+- Dec 08 - [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
+- Dec 08 - [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
 <!--END_SECTION:hn-->
 
 <!--
