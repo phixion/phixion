@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [A geothermal amoeba sets a new upper temperature limit for eukaryotes](https://www.biorxiv.org/content/10.1101/2025.11.24.690213v1.full)
-- Dec 07 - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
-- Dec 07 - [Show HN: Spotify Wrapped but for LeetCode](https://github.com/collinboler/leetcodewrapped)
-- Dec 07 - [Should CSS be a constraint system instead?](https://pavpanchekha.com/blog/why-css-bad.html)
-- Dec 07 - [The C++ standard for the F-35 Fighter Jet [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww)
+- Dec 07 - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
+- Dec 07 - [I block all online ads](https://troubled.engineer/posts/no-ads/)
+- Dec 07 - [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
+- Dec 07 - [iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0)
+- Dec 07 - [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
 <!--END_SECTION:hn-->
 
 <!--
