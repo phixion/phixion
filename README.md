@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 07 - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-- Dec 07 - [I block all online ads](https://troubled.engineer/posts/no-ads/)
-- Dec 07 - [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)
-- Dec 07 - [iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0)
-- Dec 07 - [Proxmox delivers its software-defined datacenter contender and VMware escape](https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/)
+- Dec 08 - [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/)
+- Dec 08 - [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
+- Dec 08 - [Toyota Unintended Acceleration and the Big Bowl of "Spaghetti" Code (2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/)
+- Dec 08 - [Show HN: Cdecl-dump - represent C declarations visually](https://github.com/bbu/cdecl-dump)
+- Dec 08 - [The era of jobs is ending](https://www.thepavement.xyz/p/the-era-of-jobs-is-ending)
 <!--END_SECTION:hn-->
 
 <!--
