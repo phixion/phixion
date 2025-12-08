@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 08 - [Tsunami warning issued after 7.6-magnitude earthquake strikes Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453)
-- Dec 08 - [I Successfully Recreated the 1996 Space Jam Website with Claude](https://theahura.substack.com/p/i-successfully-recreated-the-1996)
-- Dec 08 - [Berkshire Hathaway Announces Leadership Appointments [pdf]](https://berkshirehathaway.com/news/dec0825.pdf)
-- Dec 08 - [7.6 earthquake off the coast of Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en)
-- Dec 08 - [Uber starts selling ride/eats data to marketers](https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12)
+- Dec 08 - [Has the cost of building software just dropped 90%?](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/)
+- Dec 08 - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
+- Dec 08 - [Deep dive on Nvidia circular funding](https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle)
+- Dec 08 - [Quanta to publish popular math and physics books by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/)
+- Dec 08 - [We collected 10k hours of neuro-language data in our basement](https://condu.it/thought/10k-hours)
 <!--END_SECTION:hn-->
 
 <!--
