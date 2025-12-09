@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)
-- Dec 09 - [New Pebble Device](https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain)
-- Dec 09 - [Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor](https://github.com/KaijuEngine/kaiju)
-- Dec 09 - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
-- Dec 09 - [Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
+- Dec 09 - [MCP Joins the Agentic AI Foundation](http://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/)
+- Dec 09 - [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
+- Dec 09 - [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
+- Dec 09 - [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
+- Dec 09 - ["The Matilda Effect": Pioneering Women Scientists Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)
 <!--END_SECTION:hn-->
 
 <!--
