@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 09 - [A thousand-year-long composition turns 25 (2024)](https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/)
+- Dec 09 - [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
+- Dec 09 - [Modern Walkmans](https://walkman.land/modern)
 - Dec 09 - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
-- Dec 09 - [Scientific and Technical Amateur Radio](https://destevez.net/)
 - Dec 09 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
-- Dec 09 - [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
-- Dec 08 - [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
 <!--END_SECTION:hn-->
 
 <!--
