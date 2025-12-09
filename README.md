@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 09 - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
+- Dec 09 - [Scientific and Technical Amateur Radio](https://destevez.net/)
+- Dec 09 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
+- Dec 09 - [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
 - Dec 08 - [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/)
-- Dec 08 - [Running on Empty: Copper](https://thehonestsorcerer.substack.com/p/running-on-empty-copper)
-- Dec 08 - [Delivery robots take over Chicago sidewalks](https://blockclubchicago.org/2025/12/08/delivery-robots-take-over-chicago-sidewalks-sparking-debate-and-a-petition-to-hit-pause/)
-- Dec 08 - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
-- Dec 08 - [Trials avoid high risk patients and underestimate drug harms](https://www.nber.org/papers/w34534)
 <!--END_SECTION:hn-->
 
 <!--
