@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 10 - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 - Dec 10 - [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
-- Dec 10 - [Dependable C](https://dependablec.org/)
-- Dec 10 - ['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay)
+- Dec 10 - [Are the Three Musketeers allergic to muskets? (2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 - Dec 10 - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 - Dec 10 - [Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)
 <!--END_SECTION:hn-->
