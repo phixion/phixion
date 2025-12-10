@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 10 - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
+- Dec 10 - [How to Leave the USA](https://www.newyorker.com/magazine/2025/12/15/how-to-leave-the-usa)
+- Dec 10 - [In New York City, Congestion Pricing Leads to Marked Drop in Pollution](https://e360.yale.edu/digest/new-york-congestion-pricing-pollution)
+- Dec 10 - [The New Kindle Scribes Are Great, but Not Great Enough](https://www.wired.com/review/kindle-scribe-colorsoft-2025/)
 - Dec 10 - [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
-- Dec 10 - [Are the Three Musketeers allergic to muskets? (2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets)
 - Dec 10 - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
-- Dec 10 - [Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page)
 <!--END_SECTION:hn-->
 
 <!--
