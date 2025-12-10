@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 09 - [MCP Joins the Agentic AI Foundation](http://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/)
-- Dec 09 - [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
-- Dec 09 - [So You Want to Speak at Software Conferences?](https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html)
-- Dec 09 - [The stack circuitry of the Intel 8087 floating point chip, reverse-engineered](https://www.righto.com/2025/12/8087-stack-circuitry.html)
-- Dec 09 - ["The Matilda Effect": Pioneering Women Scientists Written Out of Science History](https://www.openculture.com/2025/12/matilda-effect.html)
+- Dec 09 - [Show HN: Gemini 3 imagines Hacker News as a HyperCard stack in 1994](https://hyper-card-hacker-news.vercel.app/)
+- Dec 09 - [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html)
+- Dec 09 - [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/)
+- Dec 09 - [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html)
+- Dec 09 - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 <!--END_SECTION:hn-->
 
 <!--
