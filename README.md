@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 10 - [Why no one talks about React2Shell?](https://elenacross7.medium.com/react2shell-my-droplet-joined-a-botnet-c4850b079515)
+- Dec 10 - [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
+- Dec 10 - [Apple Services Experiencing Outage](https://www.apple.com/support/systemstatus/)
+- Dec 10 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
 - Dec 10 - [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk)
-- Dec 10 - [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx)
-- Dec 10 - [Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise](https://arxiv.org/abs/2512.08309)
-- Dec 10 - [Intermittent hypoxia increases blood flow and benefits executive function](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70161)
-- Dec 10 - [Show HN: A 2-row, 16-key keyboard designed for smartphones](https://k-keyboard.com/Why-QWERTY-mini)
 <!--END_SECTION:hn-->
 
 <!--
