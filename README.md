@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 11 - [If You Quit Social Media, Will You Read More Books?](https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books)
+- Dec 11 - [A "Frozen" Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 - Dec 11 - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 - Dec 11 - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes)
 - Dec 11 - [Patterns.dev](https://www.patterns.dev/)
-- Dec 10 - [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
-- Dec 10 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
 <!--END_SECTION:hn-->
 
 <!--
