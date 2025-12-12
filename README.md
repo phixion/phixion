@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Native ads coming soon to Stack Overflow and Stack Exchange](https://meta.stackexchange.com/questions/415259/native-ads-coming-soon-to-stack-overflow-and-stack-exchange)
-- Dec 12 - [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)
-- Dec 12 - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
-- Dec 12 - [Smartphone without a battery (2022)](https://yaky.dev/2022-09-06-smartphone-without-battery/)
-- Dec 12 - [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
+- Dec 12 - [Berlin Approves New Expansion of Police Surveillance Powers](https://reclaimthenet.org/berlin-approves-new-expansion-of-police-surveillance-powers)
+- Dec 12 - [BpfJailer: eBPF Mandatory Access Control [pdf]](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
+- Dec 12 - [SQLite JSON at Full Index Speed Using Generated Columns](https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing)
+- Dec 12 - [Fedora: Open-source repository for long-term digital preservation](https://fedorarepository.org/)
+- Dec 12 - [The Tor Project is switching to Rust](https://itsfoss.com/news/tor-rust-rewrite-progress/)
 <!--END_SECTION:hn-->
 
 <!--
