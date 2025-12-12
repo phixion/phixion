@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 11 - [My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
-- Dec 11 - [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
-- Dec 11 - [Pop!_OS 24.04 LTS with Cosmic Desktop Environment Released](https://blog.system76.com/post/pop-os-letter-from-our-founder/)
-- Dec 11 - [Age verification is coming for the internet](https://www.eff.org/deeplinks/2025/12/age-verification-coming-internet-we-built-you-resource-hub-fight-back)
-- Dec 11 - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
+- Dec 11 - [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval)
+- Dec 11 - [RFC 6677 DNS Transport over TCP – Implementation Requirements (2016)](https://www.ietf.org/rfc/rfc7766.txt)
+- Dec 11 - [Show HN: Gotui – a modern Go terminal dashboard library](https://github.com/metaspartan/gotui)
+- Dec 11 - [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs)
+- Dec 11 - [Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)
 <!--END_SECTION:hn-->
 
 <!--
