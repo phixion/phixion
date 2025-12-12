@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 12 - [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
+- Dec 12 - [Show HN: I got my site down to 237kb by ditching Google Analytics](https://deadstack.net/)
 - Dec 12 - [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o)
-- Dec 12 - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
-- Dec 12 - [CRISPR Fungus: Protein-Packed, Sustainable, and Tastes Like Meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
-- Dec 12 - [Stoolap: High-performance embedded SQL database in pure Rust](https://github.com/stoolap/stoolap)
-- Dec 12 - [Laying out the 404 Media zine](https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?)
+- Dec 12 - [Google De-Indexed My Bear Blog and I Don't Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/)
+- Dec 12 - [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607)
 <!--END_SECTION:hn-->
 
 <!--
