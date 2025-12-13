@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 12 - [Windows 3.1 'Hot Dog Stand' color scheme true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
-- Dec 12 - [Benn Jordan's flock camera jammer will send you to jail in Florida now [video]](https://www.youtube.com/watch?v=qEllWdK4l_A)
-- Dec 12 - [Home Depot GitHub token exposed for a year, granted access to internal systems](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/)
-- Dec 12 - [Id Software devs form "wall-to-wall" union](https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour)
-- Dec 12 - [Google Releases Its New Google Sans Flex Font as Open Source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu)
+- Dec 12 - [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
+- Dec 12 - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
+- Dec 12 - [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
+- Dec 12 - [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
+- Dec 12 - [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 <!--END_SECTION:hn-->
 
 <!--
