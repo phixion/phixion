@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
-- Dec 13 - [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)
-- Dec 13 - [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
-- Dec 13 - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
-- Dec 13 - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
+- Dec 14 - [Rocket Lab – 'Raise and Shine' Launch for JAXA [video]](https://www.youtube.com/watch?v=cMP328yoUu4)
+- Dec 14 - [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4)
+- Dec 14 - [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305)
+- Dec 14 - [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners)
+- Dec 14 - [Awesome-Jj: Jujutsu Things](https://github.com/Necior/awesome-jj)
 <!--END_SECTION:hn-->
 
 <!--
