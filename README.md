@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 13 - [Dick Van Dyke turns 100](https://www.theguardian.com/film/2025/dec/13/dick-van-dyke-centenarian-100-mary-poppins-chitty-chitty-bang-bang)
-- Dec 13 - [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/)
-- Dec 13 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-- Dec 13 - [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/)
-- Dec 13 - [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285)
+- Dec 13 - [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
+- Dec 13 - [Kids Rarely Read Whole Books Anymore. Even in English Class](https://www.nytimes.com/2025/12/12/us/high-school-english-teachers-assigning-books.html)
+- Dec 13 - [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
+- Dec 13 - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
+- Dec 13 - [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/)
 <!--END_SECTION:hn-->
 
 <!--
