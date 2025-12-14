@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Bye, Mom](https://aella.substack.com/p/bye-mom)
-- Dec 14 - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/)
-- Dec 14 - [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4)
-- Dec 14 - [If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain)
-- Dec 14 - [An Implementation of J (1992)](https://www.jsoftware.com/ioj/ioj.htm)
+- Dec 14 - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
+- Dec 14 - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
+- Dec 14 - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
+- Dec 14 - [Vacuum Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
+- Dec 14 - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
 <!--END_SECTION:hn-->
 
 <!--
