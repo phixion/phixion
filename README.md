@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 14 - [Illuminating the processor core with LLVM-mca](https://abseil.io/fast/99)
-- Dec 14 - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
-- Dec 14 - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
-- Dec 14 - [Vacuum Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
-- Dec 14 - [Kimi K2 1T model runs on 2 512GB M3 Ultras](https://twitter.com/awnihannun/status/1943723599971443134)
+- Dec 14 - [Do Dyslexia Fonts Actually Work? (2022)](https://www.edutopia.org/article/do-dyslexia-fonts-actually-work/)
+- Dec 14 - [Freakpages](https://freakpages.org/)
+- Dec 14 - [Stop crawling my HTML you dickheads – use the API](https://shkspr.mobi/blog/2025/12/stop-crawling-my-html-you-dickheads-use-the-api/)
+- Dec 14 - [More atmospheric rivers coming for flooded Washington and the West Coast](https://www.cnn.com/2025/12/12/weather/washington-west-coast-flooding-atmospheric-rivers-climate)
+- Dec 14 - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
 <!--END_SECTION:hn-->
 
 <!--
