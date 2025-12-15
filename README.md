@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Why proteins fold and how GPUs help us fold](https://aval.bearblog.dev/nvidiaproteins/)
+- Dec 15 - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
+- Dec 15 - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 - Dec 15 - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
 - Dec 15 - [Read Something Wonderful](https://readsomethingwonderful.com/)
 - Dec 15 - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
-- Dec 15 - [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/)
 <!--END_SECTION:hn-->
 
 <!--
