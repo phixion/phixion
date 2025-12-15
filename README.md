@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/)
-- Dec 15 - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
-- Dec 15 - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md)
-- Dec 15 - [Read Something Wonderful](https://readsomethingwonderful.com/)
-- Dec 15 - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/)
+- Dec 15 - [We Put Flock Under Surveillance: Go Make Them Behave Differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)
+- Dec 15 - [Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
+- Dec 15 - [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
+- Dec 15 - [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3)
+- Dec 15 - [MIT Missing Semester 2026](https://missing.csail.mit.edu/2026/)
 <!--END_SECTION:hn-->
 
 <!--
