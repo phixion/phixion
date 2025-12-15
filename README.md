@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [We Put Flock Under Surveillance: Go Make Them Behave Differently [video]](https://www.youtube.com/watch?v=W420BOqga_s)
-- Dec 15 - [Thousands of U.S. farmers have Parkinson's. They blame a deadly pesticide](https://www.mlive.com/news/2025/12/thousands-of-us-farmers-have-parkinsons-they-blame-a-deadly-pesticide.html)
-- Dec 15 - [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
-- Dec 15 - [It seems that OpenAI is scraping [certificate transparency] logs](https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3)
-- Dec 15 - [MIT Missing Semester 2026](https://missing.csail.mit.edu/2026/)
+- Dec 15 - [Umbrel – Personal Cloud](https://umbrel.com)
+- Dec 15 - [“Super secure” MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
+- Dec 15 - [United 777-200 fleet faces an uncertain future after Dulles engine failure](https://liveandletsfly.com/united-airlines-777-200-future/)
+- Dec 15 - [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
+- Dec 15 - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 <!--END_SECTION:hn-->
 
 <!--
