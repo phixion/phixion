@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [8M Users' AI Conversations Sold for Profit by "Privacy" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
-- Dec 16 - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
-- Dec 16 - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
-- Dec 16 - [Ideas aren't getting harder to find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
-- Dec 16 - [Quill OS is an open-source, fully-functional standalone OS for Kobo's eReaders](https://quill-os.org/)
+- Dec 16 - [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
+- Dec 16 - [O'saasy License Agreement](https://osaasy.dev/)
+- Dec 16 - [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
+- Dec 16 - [Bonsai: A Voxel Engine, from scratch](https://github.com/scallyw4g/bonsai)
+- Dec 16 - [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/)
 <!--END_SECTION:hn-->
 
 <!--
