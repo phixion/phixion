@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 15 - [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/)
-- Dec 15 - [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/)
-- Dec 15 - [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
-- Dec 15 - [Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart)
-- Dec 15 - [A kernel bug froze my machine: Debugging an async-profiler deadlock](https://questdb.com/blog/async-profiler-kernel-bug/)
+- Dec 16 - [8M Users' AI Conversations Sold for Profit by "Privacy" Extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+- Dec 16 - [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada)
+- Dec 16 - [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
+- Dec 16 - [Ideas aren't getting harder to find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
+- Dec 16 - [Quill OS is an open-source, fully-functional standalone OS for Kobo's eReaders](https://quill-os.org/)
 <!--END_SECTION:hn-->
 
 <!--
