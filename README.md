@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [Four Million U.S. Children Had No Health Insurance in 2024](https://www.scientificamerican.com/article/how-rising-rates-of-uninsured-children-will-increase-pediatric-cancer-deaths/)
-- Dec 16 - [CEOs to Keep Spending on AI, Despite Spotty Returns](https://www.wsj.com/tech/ai/ceos-to-keep-spending-on-ai-despite-spotty-returns-2eaeb6b)
-- Dec 16 - [U.S. unemployment rose in November despite job gains](https://www.wsj.com/economy/jobs/jobs-report-october-november-2025-unemployment-economy-7f6eea90)
-- Dec 16 - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
-- Dec 16 - [A brief history of Times New Roman](https://typographyforlawyers.com/a-brief-history-of-times-new-roman.html)
+- Dec 16 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+- Dec 16 - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
+- Dec 16 - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
+- Dec 16 - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
+- Dec 16 - [FVWM-95](https://fvwm95.sourceforge.net/)
 <!--END_SECTION:hn-->
 
 <!--
