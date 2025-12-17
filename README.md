@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Subsets (YC S23) is hiring engineers in Copenhagen, Denmark](https://www.workatastartup.com/companies/subsets)
-- Dec 17 - [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12)
-- Dec 17 - [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell)
-- Dec 17 - [Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/)
-- Dec 17 - [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese)
+- Dec 17 - [Show HN: Mephisto – A RAM-only, ad-free disposable email PWA built with React](https://mephistomail.site)
+- Dec 17 - [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)
+- Dec 17 - [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)
+- Dec 17 - [TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
+- Dec 17 - [P: Formal Modeling and Analysis of Distributed (Event-Driven) Systems](https://github.com/p-org/P)
 <!--END_SECTION:hn-->
 
 <!--
