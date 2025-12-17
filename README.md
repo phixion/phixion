@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 16 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
-- Dec 16 - [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
-- Dec 16 - [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing)
-- Dec 16 - [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/)
-- Dec 16 - [FVWM-95](https://fvwm95.sourceforge.net/)
+- Dec 16 - [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false)
+- Dec 16 - [Dafny: Verification-Aware Programming Language](https://dafny.org/)
+- Dec 16 - [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/)
+- Dec 16 - [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+- Dec 16 - [MIT professor shot at his Massachusetts home dies](https://www.bbc.com/news/articles/cly08y25688o)
 <!--END_SECTION:hn-->
 
 <!--
