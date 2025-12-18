@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 17 - [Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust](https://pypi.org/project/wavelet-matrix/)
-- Dec 17 - [Doublespeed hacked, revealing what its AI-generated accounts are promoting](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
-- Dec 17 - [How SQLite is tested](https://sqlite.org/testing.html)
-- Dec 17 - [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website)
-- Dec 17 - [Why outcome-billing makes sense for AI Agents](https://www.valmi.io/blog/an-imperative-for-ai-agents-outcome-billing-with-valmi/)
+- Dec 17 - [Venezuela's Navy Begins Escorting Ships as U.S. Threatens Blockade](https://www.nytimes.com/live/2025/12/17/us/trump-news)
+- Dec 17 - [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)
+- Dec 17 - [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025)
+- Dec 17 - [I got hacked: My Hetzner server started mining Monero](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
+- Dec 17 - [OBS Studio Gets a New Renderer](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)
 <!--END_SECTION:hn-->
 
 <!--
