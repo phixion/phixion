@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Dec 18 - [AUTOSUR - 487,226 breached accounts](https://haveibeenpwned.com/Breach/AUTOSUR)
+- Dec 18 - [The Botting Network - 96,320 breached accounts](https://haveibeenpwned.com/Breach/TheBottingNetwork)
 - Dec 17 - [Web Hosting Talk - 515,149 breached accounts](https://haveibeenpwned.com/Breach/WebHostingTalk)
 - Dec 06 - [KinoKong - 817,808 breached accounts](https://haveibeenpwned.com/Breach/KinoKong)
 - Dec 01 - [Zilvia.net - 287,863 breached accounts](https://haveibeenpwned.com/Breach/Zilvia)
-- Nov 27 - [China Software Developer Network - 6,414,990 breached accounts](https://haveibeenpwned.com/Breach/CSDN)
-- Nov 23 - [CodeStepByStep - 103,077 breached accounts](https://haveibeenpwned.com/Breach/CodeStepByStep)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)
-- Dec 18 - [TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps)
-- Dec 17 - [Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553)
-- Dec 17 - [Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)
-- Dec 17 - [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/)
+- Dec 18 - [What Is an Elliptic Curve?](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
+- Dec 18 - [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
+- Dec 18 - [Learn Egyptian Hieroglyphs](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
+- Dec 18 - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
+- Dec 18 - ['Ghost jobs' are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
 <!--END_SECTION:hn-->
 
 <!--
