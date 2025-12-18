@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
-- Dec 18 - [Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction](https://news.ycombinator.com/item?id=46313930)
-- Dec 18 - [Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment](https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/)
-- Dec 18 - [Using TypeScript to Obtain One of the Rarest License Plates](https://www.jack.bio/blog/licenseplate)
-- Dec 18 - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
+- Dec 18 - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
+- Dec 18 - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
+- Dec 18 - [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)
+- Dec 18 - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
+- Dec 18 - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 <!--END_SECTION:hn-->
 
 <!--
