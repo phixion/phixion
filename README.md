@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [What Is an Elliptic Curve?](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
-- Dec 18 - [Security vulnerability found in Rust Linux kernel code](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc)
-- Dec 18 - [Learn Egyptian Hieroglyphs](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
-- Dec 18 - [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5)
-- Dec 18 - ['Ghost jobs' are on the rise – and so are calls to ban them](https://www.bbc.com/news/articles/clyzvpp8g3vo)
+- Dec 18 - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
+- Dec 18 - [Creating apps like Signal could be 'hostile activity' claims UK watchdog](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog)
+- Dec 18 - [America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924)
+- Dec 18 - [We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+- Dec 18 - [Slowness Is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
 <!--END_SECTION:hn-->
 
 <!--
