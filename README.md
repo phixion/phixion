@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)
-- Dec 19 - [Show HN: Hacker News, but every headline is hysterical clickbait](https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html)
-- Dec 19 - [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
-- Dec 19 - [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
-- Dec 19 - [Making Google Sans Flex](https://design.google/library/google-sans-flex-font)
+- Dec 19 - [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
+- Dec 19 - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
+- Dec 19 - [Hacker News front page now, but the titles are honest](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html)
+- Dec 19 - [The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
+- Dec 19 - [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)
 <!--END_SECTION:hn-->
 
 <!--
