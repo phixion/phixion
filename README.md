@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
-- Dec 18 - [How to hack Discord, Vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
-- Dec 18 - [Public Makes Millions on Plunging Crypto](https://cepr.net/publications/public-makes-trillions-on-plunging-crypto/)
-- Dec 18 - [We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)
-- Dec 18 - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+- Dec 18 - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
+- Dec 18 - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
+- Dec 18 - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
+- Dec 18 - [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+- Dec 18 - [Two kinds of vibe coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 <!--END_SECTION:hn-->
 
 <!--
