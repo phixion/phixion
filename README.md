@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 18 - [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
+- Dec 19 - [Noclip.website – A digital museum of video game levels](https://noclip.website/)
+- Dec 18 - [Great ideas in theoretical computer science](https://www.cs251.com/)
 - Dec 18 - [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms)
 - Dec 18 - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
 - Dec 18 - [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
-- Dec 18 - [Two kinds of vibe coding](https://davidbau.com/archives/2025/12/16/vibe_coding.html)
 <!--END_SECTION:hn-->
 
 <!--
