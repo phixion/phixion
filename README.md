@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Using AI Generated Code Will Make You a Bad Programmer](https://unsolicited-opinions.rudism.com/bad-programmer/)
-- Dec 19 - [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
-- Dec 19 - [Hacker News front page now, but the titles are honest](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html)
-- Dec 19 - [The FreeBSD Foundation's Laptop Support and Usability Project](https://github.com/FreeBSDFoundation/proj-laptop)
-- Dec 19 - [Building a Transparent Keyserver](https://words.filippo.io/keyserver-tlog/)
+- Dec 19 - [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/)
+- Dec 19 - [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
+- Dec 19 - [Proton Leaves Switzerland](https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779)
+- Dec 19 - [Wall Street Ruined the Roomba and Then Blamed Lina Khan](https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba)
+- Dec 19 - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
 <!--END_SECTION:hn-->
 
 <!--
