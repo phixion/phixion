@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1)
-- Dec 20 - [TailwindSQL – Like TailwindCSS, but for SQL Queries in React Server Components](https://github.com/mmarinovic/tailwindsql)
-- Dec 20 - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
-- Dec 20 - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
-- Dec 20 - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
+- Dec 20 - [AI will make our children stupid](https://thecritic.co.uk/ai-will-make-our-children-stupid/)
+- Dec 20 - [I spent a week without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
+- Dec 20 - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
+- Dec 20 - [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
+- Dec 20 - [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
 <!--END_SECTION:hn-->
 
 <!--
