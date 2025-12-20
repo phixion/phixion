@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 19 - [Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer](https://stickerbox.com/)
-- Dec 19 - [You can now play Grand Theft Auto Vice City in the browser](https://dos.zone/grand-theft-auto-vice-city/)
-- Dec 19 - [Proton Leaves Switzerland](https://www.nzz.ch/technologie/proton-ceo-andy-yen-wer-gesetzgebung-der-polizei-ueberlaesst-sollte-sich-nicht-wundern-wenn-er-eines-tages-in-einem-polizeistaat-aufwacht-ld.1916779)
-- Dec 19 - [Wall Street Ruined the Roomba and Then Blamed Lina Khan](https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba)
-- Dec 19 - [TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy](https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/)
+- Dec 19 - [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
+- Dec 19 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
+- Dec 19 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
+- Dec 19 - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
+- Dec 19 - [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 <!--END_SECTION:hn-->
 
 <!--
