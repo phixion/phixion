@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
-- Dec 20 - [Charles Proxy](https://www.charlesproxy.com/)
-- Dec 20 - [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
-- Dec 20 - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
-- Dec 20 - [Build Your Own React](https://pomb.us/build-your-own-react/)
+- Dec 20 - [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552)
+- Dec 20 - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
+- Dec 20 - [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+- Dec 20 - [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/)
+- Dec 20 - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
 <!--END_SECTION:hn-->
 
 <!--
