@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 20 - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
+- Dec 20 - [Charles Proxy](https://www.charlesproxy.com/)
+- Dec 20 - [Data Bank – Nuforc – Latest UFO Sightings](https://nuforc.org/databank/)
+- Dec 20 - [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en)
 - Dec 20 - [Build Your Own React](https://pomb.us/build-your-own-react/)
-- Dec 19 - [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
-- Dec 19 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-- Dec 19 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
-- Dec 19 - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 <!--END_SECTION:hn-->
 
 <!--
