@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 20 - [Build Your Own React](https://pomb.us/build-your-own-react/)
 - Dec 19 - [We ran Anthropic’s interviews through structured LLM analysis](https://www.playbookatlas.com/research/ai-adoption-explorer)
 - Dec 19 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 - Dec 19 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method)
 - Dec 19 - [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/)
-- Dec 19 - [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/)
 <!--END_SECTION:hn-->
 
 <!--
