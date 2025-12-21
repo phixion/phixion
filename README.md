@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Isengard in Oxford](https://lareviewofbooks.org/article/isengard-in-oxford/)
-- Dec 21 - [Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level](https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level)
-- Dec 21 - [Waymo halts service during S.F. blackout after causing traffic jams](https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/)
-- Dec 21 - [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-- Dec 21 - [PG&E outages in S.F. leave 130k without electricity](https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php)
+- Dec 21 - [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)
+- Dec 21 - [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/)
+- Dec 21 - [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction)
+- Dec 21 - [Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+- Dec 21 - [Ruby website redesigned](https://www.ruby-lang.org/en/)
 <!--END_SECTION:hn-->
 
 <!--
