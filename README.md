@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [AI will make our children stupid](https://thecritic.co.uk/ai-will-make-our-children-stupid/)
-- Dec 20 - [I spent a week without IPv4](https://www.apalrd.net/posts/2023/network_ipv6/)
-- Dec 20 - [Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-- Dec 20 - [Big GPUs don't need big PCs](https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs)
-- Dec 20 - [OpenSCAD Is Kinda Neat](https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/)
+- Dec 20 - [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/)
+- Dec 20 - [Claude in Chrome](https://claude.com/chrome)
+- Dec 20 - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
+- Dec 20 - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
+- Dec 20 - [Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)
 <!--END_SECTION:hn-->
 
 <!--
