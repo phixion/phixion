@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html)
-- Dec 21 - [ARIN Public Incident Report – 4.10 Misissuance Error](https://www.arin.net/announcements/20251212/)
-- Dec 21 - [Reasons Not to Become Famous (2020)](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
-- Dec 21 - [Structured Outputs Create False Confidence](https://boundaryml.com/blog/structured-outputs-create-false-confidence)
-- Dec 21 - [Three Ways to Solve Problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
+- Dec 21 - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
+- Dec 21 - [Mullvad VPN: "This is a Chat Control 3.0 attempt."](https://mastodon.online/@mullvadnet/115742530333573065)
+- Dec 21 - [You're Not Burnt Out. You're Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
+- Dec 21 - [Logging Sucks](https://loggingsucks.com/)
+- Dec 21 - [Get an AI code review in 10 seconds](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 <!--END_SECTION:hn-->
 
 <!--
