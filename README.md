@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 20 - [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/)
+- Dec 21 - [Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
 - Dec 20 - [Claude in Chrome](https://claude.com/chrome)
 - Dec 20 - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
 - Dec 20 - [MIRA – An open-source persistent AI entity with memory](https://github.com/taylorsatula/mira-OSS)
