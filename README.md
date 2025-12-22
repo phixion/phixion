@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Ask HN: Why Did Python Win?](https://news.ycombinator.com/item?id=46355115)
-- Dec 22 - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
-- Dec 22 - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
-- Dec 22 - [If you don't design your career, someone else will (2014)](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
-- Dec 22 - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
+- Dec 22 - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
+- Dec 22 - [US destroying its reputation as a scientific leader – European science diplomat](https://sciencebusiness.net/news/horizon-europe/us-demolishing-its-scientific-leadership-wrecking-ball-says-chief-eu-research)
+- Dec 22 - [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
+- Dec 22 - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
+- Dec 22 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 <!--END_SECTION:hn-->
 
 <!--
