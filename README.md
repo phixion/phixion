@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
-- Dec 22 - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
-- Dec 22 - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
-- Dec 22 - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
-- Dec 22 - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
+- Dec 22 - [If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
+- Dec 22 - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
+- Dec 22 - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
+- Dec 22 - [Cartoon Network channel errors (1995 – 2025)](https://cnas.fandom.com/wiki/Channel_Errors)
+- Dec 22 - [Show HN: Backlog – a public repository of real work problems](https://www.worldsbacklog.com/)
 <!--END_SECTION:hn-->
 
 <!--
