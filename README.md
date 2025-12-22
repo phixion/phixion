@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Build Android apps using Rust and iced](https://github.com/ibaryshnikov/android-iced-example)
+- Dec 22 - [QBasic64 Phoenix 4.3.0 Released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
+- Dec 22 - [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics)
+- Dec 22 - [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example)
 - Dec 22 - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
-- Dec 22 - [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
 - Dec 22 - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
-- Dec 21 - [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
 <!--END_SECTION:hn-->
 
 <!--
