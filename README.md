@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [I can't upgrade to Windows 11, now leave me alone](https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone)
-- Dec 21 - [Mullvad VPN: "This is a Chat Control 3.0 attempt."](https://mastodon.online/@mullvadnet/115742530333573065)
-- Dec 21 - [You're Not Burnt Out. You're Existentially Starving](https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/)
-- Dec 21 - [Logging Sucks](https://loggingsucks.com/)
-- Dec 21 - [Get an AI code review in 10 seconds](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+- Dec 21 - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
+- Dec 21 - [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
+- Dec 21 - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
+- Dec 21 - [More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)
+- Dec 21 - [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)
 <!--END_SECTION:hn-->
 
 <!--
