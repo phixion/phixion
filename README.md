@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 21 - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/)
-- Dec 21 - [The gift card accountability sink](https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/)
-- Dec 21 - [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
-- Dec 21 - [More on whether useful quantum computing is “imminent”](https://scottaaronson.blog/?p=9425)
-- Dec 21 - [Rue: Higher level than Rust, lower level than Go](https://rue-lang.dev/)
+- Dec 22 - [Build Android apps using Rust and iced](https://github.com/ibaryshnikov/android-iced-example)
+- Dec 22 - [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html)
+- Dec 22 - [Danish postal service to stop delivering letters after 400 years](https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society)
+- Dec 22 - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration)
+- Dec 21 - [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public)
 <!--END_SECTION:hn-->
 
 <!--
