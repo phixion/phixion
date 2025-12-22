@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
-- Dec 22 - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
-- Dec 22 - [The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)
-- Dec 22 - [Cartoon Network channel errors (1995 – 2025)](https://cnas.fandom.com/wiki/Channel_Errors)
-- Dec 22 - [Show HN: Backlog – a public repository of real work problems](https://www.worldsbacklog.com/)
+- Dec 22 - [Ask HN: Why Did Python Win?](https://news.ycombinator.com/item?id=46355115)
+- Dec 22 - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+- Dec 22 - [Italian Competition Authority Fines Apple $115M for Abusing Dominant Position](https://en.agcm.it/en/media/press-releases/2025/12/A561)
+- Dec 22 - [If you don't design your career, someone else will (2014)](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
+- Dec 22 - [A year of vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/)
 <!--END_SECTION:hn-->
 
 <!--
