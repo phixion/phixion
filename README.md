@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html)
+- Dec 23 - [Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/)
 - Dec 23 - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
 - Dec 23 - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-- Dec 23 - [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)
-- Dec 23 - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
+- Dec 23 - [Classical billiards can compute (2d billiard systems are Turing complete)](https://arxiv.org/abs/2512.19156)
+- Dec 23 - [Are We Loong Yet?](https://areweloongyet.com/en/)
 <!--END_SECTION:hn-->
 
 <!--
