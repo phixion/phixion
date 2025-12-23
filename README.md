@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/)
-- Dec 23 - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
-- Dec 23 - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-- Dec 23 - [Classical billiards can compute (2d billiard systems are Turing complete)](https://arxiv.org/abs/2512.19156)
-- Dec 23 - [Are We Loong Yet?](https://areweloongyet.com/en/)
+- Dec 23 - [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
+- Dec 23 - [Volvo Centum is Dalton Maag's new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
+- Dec 23 - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
+- Dec 23 - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
+- Dec 23 - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
 <!--END_SECTION:hn-->
 
 <!--
