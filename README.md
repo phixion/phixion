@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
-- Dec 23 - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
-- Dec 23 - [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
-- Dec 23 - [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)
-- Dec 23 - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
+- Dec 23 - [What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html)
+- Dec 23 - [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota)
+- Dec 23 - [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
+- Dec 23 - [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921)
+- Dec 23 - [Carnap – A formal logic framework for Haskell](https://carnap.io/)
 <!--END_SECTION:hn-->
 
 <!--
