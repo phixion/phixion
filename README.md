@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 22 - [Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)
-- Dec 22 - [US destroying its reputation as a scientific leader – European science diplomat](https://sciencebusiness.net/news/horizon-europe/us-demolishing-its-scientific-leadership-wrecking-ball-says-chief-eu-research)
-- Dec 22 - [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/)
-- Dec 22 - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
-- Dec 22 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- Dec 22 - [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
+- Dec 22 - [Ask HN: Why isn't there competition to LinkedIn yet?](https://news.ycombinator.com/item?id=46360146)
+- Dec 22 - [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/)
+- Dec 22 - [NPM Package with 56K Downloads Caught Stealing WhatsApp Messages](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages)
+- Dec 22 - [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc)
 <!--END_SECTION:hn-->
 
 <!--
