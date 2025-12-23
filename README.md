@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [60 Minutes: Cecot](https://news.ycombinator.com/item?id=46362149)
-- Dec 23 - [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181)
+- Dec 23 - [iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+- Dec 23 - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
+- Dec 23 - [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf)
+- Dec 23 - [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf)
 - Dec 23 - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
-- Dec 23 - [Laptop Isn't Ready for LLMs. That's About to Change](https://spectrum.ieee.org/ai-models-locally)
-- Dec 22 - [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center)
 <!--END_SECTION:hn-->
 
 <!--
