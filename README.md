@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 23 - [Terrence Malick's Disciples](https://yalereview.org/article/bilge-ebiri-terrence-malick)
-- Dec 23 - [Volvo Centum is Dalton Maag's new typeface for Volvo](https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum)
-- Dec 23 - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
-- Dec 23 - [We replaced H.264 streaming with JPEG screenshots (and it worked better)](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
-- Dec 23 - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
+- Dec 23 - [Is Northern Virginia Still the Least Reliable AWS Region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
+- Dec 23 - [Microspeak: North Star – The Old New Thing (2015)](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861)
+- Dec 23 - [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
+- Dec 23 - [Show HN: Claude Wrapped in the terminal, with a WASM raymarcher](https://spader.zone/wrapped/)
+- Dec 23 - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 <!--END_SECTION:hn-->
 
 <!--
