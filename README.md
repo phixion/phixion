@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 24 - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
+- Dec 24 - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
+- Dec 24 - [Name That Part: 3D Part Segmentation and Naming](https://name-that-part.github.io/)
 - Dec 24 - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
 - Dec 24 - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
-- Dec 24 - [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html)
-- Dec 24 - ['Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed](https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html)
-- Dec 24 - [Open source USB to GPIB converter (for Test and Measurement instruments)](https://github.com/xyphro/UsbGpib)
 <!--END_SECTION:hn-->
 
 <!--
