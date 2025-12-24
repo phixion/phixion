@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 24 - [The Windows Utility](https://christitus.com/windows-tool/)
+- Dec 24 - [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/)
+- Dec 24 - [US sanctions EU government officials behind the DSA](https://mastodon.social/@fj/115773761468906515)
+- Dec 24 - [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)
 - Dec 24 - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
-- Dec 24 - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
-- Dec 24 - [Name That Part: 3D Part Segmentation and Naming](https://name-that-part.github.io/)
-- Dec 24 - [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf)
-- Dec 24 - [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev)
 <!--END_SECTION:hn-->
 
 <!--
