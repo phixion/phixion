@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 25 - [Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
-- Dec 25 - [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
-- Dec 25 - [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271)
-- Dec 25 - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
-- Dec 25 - [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503)
+- Dec 25 - [All I Want for Xmas Is Your Secrets: LangGrinch Hits LangChain (CVE-2025-68664)](https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/)
+- Dec 25 - [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace)
+- Dec 25 - [Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406)
+- Dec 25 - [I sell onions on the Internet (2019)](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
+- Dec 25 - [Alzheimer’s disease can be reversed in animal models: Study](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models)
 <!--END_SECTION:hn-->
 
 <!--
