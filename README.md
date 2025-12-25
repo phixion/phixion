@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 25 - [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html)
+- Dec 25 - [The most damaging taboo about sexual violence](https://write.as/3k6gb4heu8whz)
+- Dec 25 - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/)
 - Dec 25 - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
 - Dec 24 - [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
-- Dec 24 - [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
-- Dec 24 - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
-- Dec 24 - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 <!--END_SECTION:hn-->
 
 <!--
