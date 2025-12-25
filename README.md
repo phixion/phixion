@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 24 - [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
-- Dec 24 - [Looking for Decent Conversation?](https://news.ycombinator.com/item?id=46378431)
-- Dec 24 - [Lessons from Building an Indie App for Artists](https://shanehudson.net/articles/2025/indie-app-for-artists)
-- Dec 24 - [Fabrice Bellard: Biography [pdf]](https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf)
-- Dec 24 - [Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery](https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range)
+- Dec 25 - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
+- Dec 24 - [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
+- Dec 24 - [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+- Dec 24 - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
+- Dec 24 - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 <!--END_SECTION:hn-->
 
 <!--
