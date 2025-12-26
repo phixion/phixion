@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 26 - [Questions Engineers Must Ask Future Employers in Interviews (and Why)](https://dollardhingra.substack.com/p/questions-software-engineers-should)
+- Dec 26 - [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)
 - Dec 26 - [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
-- Dec 26 - [Fish-Inspired Filter That Removes over 99% of Microplastics](https://scitechdaily.com/scientists-develop-new-fish-inspired-filter-that-removes-over-99-of-microplastics/)
 - Dec 26 - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion)
 - Dec 26 - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux)
-- Dec 26 - [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
 <!--END_SECTION:hn-->
 
 <!--
