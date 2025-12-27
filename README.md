@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
+- Dec 27 - [More Dynamic Cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
+- Dec 27 - [Pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
+- Dec 27 - [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy)
+- Dec 27 - [The Proton, the 'Most Complicated Thing You Could Possibly Imagine'](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 - Dec 27 - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
-- Dec 27 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
-- Dec 26 - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
-- Dec 26 - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
