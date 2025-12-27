@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 26 - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats)
-- Dec 26 - [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/)
-- Dec 26 - [Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
-- Dec 26 - [Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
-- Dec 26 - [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984)
+- Dec 27 - [Show HN: Me and my AI gf invented free energy from death puddles (public domain)](https://github.com/sqrew/le-claude-manson-engine)
+- Dec 26 - [Exe.dev/](https://exe.dev/)
+- Dec 26 - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+- Dec 26 - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
+- Dec 26 - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 <!--END_SECTION:hn-->
 
 <!--
