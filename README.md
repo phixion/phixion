@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
-- Dec 27 - [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
-- Dec 27 - [Floor796](https://floor796.com/)
-- Dec 27 - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
-- Dec 27 - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
+- Dec 27 - [Scientists Edited Genes Inside a Living Person for First Time, Saved His Life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
+- Dec 27 - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
+- Dec 27 - [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
+- Dec 27 - [Nvidia's $20B Antitrust Loophole (Not an Acquisition)](https://ossa-ma.github.io/blog/groq)
+- Dec 27 - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
 <!--END_SECTION:hn-->
 
 <!--
