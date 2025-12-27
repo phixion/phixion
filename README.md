@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Show HN: Me and my AI gf invented free energy from death puddles (public domain)](https://github.com/sqrew/le-claude-manson-engine)
-- Dec 26 - [Exe.dev/](https://exe.dev/)
+- Dec 27 - [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/)
+- Dec 27 - [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/)
+- Dec 27 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
 - Dec 26 - [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
-- Dec 26 - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
-- Dec 26 - [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+- Dec 26 - [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
