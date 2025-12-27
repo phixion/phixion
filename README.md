@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
-- Dec 27 - [CloudFlare is ruining the internet (for me)](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)
-- Dec 27 - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
-- Dec 27 - [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/)
-- Dec 27 - [Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- Dec 27 - [NMH BASIC](https://t3x.org/nmhbasic/index.html)
+- Dec 27 - [Show HN: An immutable ostree-based Arch Linux image](https://github.com/myyc/vyy)
+- Dec 27 - [Floor796](https://floor796.com/)
+- Dec 27 - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
+- Dec 27 - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/)
 <!--END_SECTION:hn-->
 
 <!--
