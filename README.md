@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - ['PromptQuest' is the worst game of 2025 (trying to make chatbots work)](https://www.theregister.com/2025/12/26/ai_is_like_adventure_games/)
-- Dec 28 - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
-- Dec 28 - [Building a macOS app to know when my Mac is thermal throttling](https://stanislas.blog/2025/12/macos-thermal-throttling-app/)
-- Dec 28 - [Last Year on My Mac: Look Back in Disbelief](https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/)
-- Dec 28 - [Hungry Fat Cells Could Someday Starve Cancer to Death](https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death)
+- Dec 28 - [Delete LinkedIn – you'll have zero fucking regrets](https://thenextweb.com/news/delete-linkedin-youll-have-zero-regrets-syndication)
+- Dec 28 - [Remembering Lou Gerstner](https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner)
+- Dec 28 - [Deathbed Advice/Regret](https://hazn.com/deathbed-regret)
+- Dec 28 - [A "Prime" View of HN](https://dosaygo-studio.github.io/prime-news/index.html)
+- Dec 28 - [tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html)
 <!--END_SECTION:hn-->
 
 <!--
