@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Scientists Edited Genes Inside a Living Person for First Time, Saved His Life](https://www.popularmechanics.com/science/health/a64815804/crispr-therapy/)
-- Dec 27 - [Windows 2 for the Apricot PC/Xi](https://www.ninakalinina.com/notes/win2apri/)
-- Dec 27 - [Cleartext Signatures Considered Harmful](https://gnupg.org/blog/20251226-cleartext-signatures.html)
-- Dec 27 - [Nvidia's $20B Antitrust Loophole (Not an Acquisition)](https://ossa-ma.github.io/blog/groq)
-- Dec 27 - [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994)
+- Dec 27 - [Show HN: Waycore – an open-source, offline-first modular field computer](https://news.ycombinator.com/item?id=46406486)
+- Dec 27 - [7- and 14-segment fonts "DSEG"](https://www.keshikan.net/fonts.html)
+- Dec 27 - [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
+- Dec 27 - [Yanis Varoufakis on the future of capitalism [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)
+- Dec 27 - [How We Found Out About COINTELPRO (2014)](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
 <!--END_SECTION:hn-->
 
 <!--
