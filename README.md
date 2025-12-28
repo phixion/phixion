@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 28 - [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+- Dec 28 - [Calendar](https://neatnik.net/calendar/?year=2026)
+- Dec 28 - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
 - Dec 28 - [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
 - Dec 28 - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
-- Dec 28 - [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
-- Dec 27 - [7- and 14-segment fonts "DSEG"](https://www.keshikan.net/fonts.html)
-- Dec 27 - [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
 <!--END_SECTION:hn-->
 
 <!--
