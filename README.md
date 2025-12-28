@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Dec 27 - [WIRED - 2,364,431 breached accounts](https://haveibeenpwned.com/Breach/WIRED)
 - Dec 26 - [Utair - 401,400 breached accounts](https://haveibeenpwned.com/Breach/Utair)
 - Dec 24 - [Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts](https://haveibeenpwned.com/Breach/Gemotest)
 - Dec 18 - [AUTOSUR - 487,226 breached accounts](https://haveibeenpwned.com/Breach/AUTOSUR)
 - Dec 18 - [The Botting Network - 96,320 breached accounts](https://haveibeenpwned.com/Breach/TheBottingNetwork)
-- Dec 17 - [Web Hosting Talk - 515,149 breached accounts](https://haveibeenpwned.com/Breach/WebHostingTalk)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 27 - [Show HN: Waycore – an open-source, offline-first modular field computer](https://news.ycombinator.com/item?id=46406486)
+- Dec 28 - [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
+- Dec 28 - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
+- Dec 28 - [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
 - Dec 27 - [7- and 14-segment fonts "DSEG"](https://www.keshikan.net/fonts.html)
 - Dec 27 - [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
-- Dec 27 - [Yanis Varoufakis on the future of capitalism [video]](https://www.youtube.com/watch?v=P_TMuVQPfxw)
-- Dec 27 - [How We Found Out About COINTELPRO (2014)](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/)
 <!--END_SECTION:hn-->
 
 <!--
