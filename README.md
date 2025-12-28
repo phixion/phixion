@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 28 - [A new research shows that 21-33% of YouTube's feed may consist of AI slop](https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/)
+- Dec 28 - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+- Dec 28 - [Claude Code creator says Claude wrote all his code for the last month](https://twitter.com/bcherny/status/2004897269674639461)
+- Dec 28 - [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)
+- Dec 28 - [C++ says “We have try at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890)
 - Dec 28 - [Calendar](https://neatnik.net/calendar/?year=2026)
-- Dec 28 - [Dialtone – AOL 3.0 Server](https://dialtone.live/)
-- Dec 28 - [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
-- Dec 28 - [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 <!--END_SECTION:hn-->
 
 <!--
