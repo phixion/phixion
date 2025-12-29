@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Why I Think Valve's Retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/)
-- Dec 29 - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
-- Dec 29 - [Self-hosting is being enshittified](https://troubled.engineer/posts/selfhosting-in-2025/)
-- Dec 29 - [Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/)
-- Dec 28 - [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp)
+- Dec 29 - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
+- Dec 29 - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
+- Dec 29 - [Binaries](https://fzakaria.com/2025/12/28/huge-binaries)
+- Dec 29 - [Panoramas of Star Trek Sets](https://mijofr.github.io/st-panorama/)
+- Dec 29 - [Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs](https://nilch.org)
 <!--END_SECTION:hn-->
 
 <!--
