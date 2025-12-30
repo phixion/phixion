@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
-- Dec 30 - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
-- Dec 30 - [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
-- Dec 30 - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
-- Dec 29 - [Stranger Things creator says turn off "garbage" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
+- Dec 30 - [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack)
+- Dec 30 - [Non-Zero-Sum Games](https://nonzerosum.games/)
+- Dec 30 - [Nicolas Guillou, French ICC judge sanctioned by the US and "debanked"](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html)
+- Dec 30 - [Netflix: Open Content](https://opencontent.netflix.com/)
+- Dec 30 - [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971)
 <!--END_SECTION:hn-->
 
 <!--
