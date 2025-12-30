@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [The Legacy of Undersea Cables](https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/)
-- Dec 30 - [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497)
-- Dec 30 - [Public Sans – A strong, neutral typeface](https://public-sans.digital.gov/)
-- Dec 30 - [MH370 vanished in 2014.New search aims to find answers families desperately want](https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962)
-- Dec 30 - [Win32 is the stable Linux ABI](https://loss32.org/)
+- Dec 30 - [Foreign tech workers are avoiding travel to the US](https://www.computerworld.com/article/4110681/foreign-tech-workers-are-avoiding-travel-to-the-us.html)
+- Dec 30 - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+- Dec 30 - [Show HN: I remade my website in the Sith Lord Theme and I hope it's fun](https://cookie.engineer/index.html)
+- Dec 30 - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
+- Dec 30 - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 <!--END_SECTION:hn-->
 
 <!--
