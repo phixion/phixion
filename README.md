@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
-- Dec 29 - [50,000 drums of radioactive wastes were dumped near the Farallones, 1946 to 1970](https://pubs.usgs.gov/fs/farallones/)
-- Dec 29 - [Lead-Free Organic–Inorganic Halobismuthate for Large Piezoelectric Effect](https://pubs.acs.org/doi/10.1021/jacs.5c15484)
-- Dec 29 - [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
-- Dec 29 - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
+- Dec 30 - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+- Dec 30 - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
+- Dec 30 - [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
+- Dec 30 - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
+- Dec 29 - [I migrated to an almost all-EU stack and saved 500€ per year](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to)
 <!--END_SECTION:hn-->
 
 <!--
