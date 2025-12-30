@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 29 - [Meta's ads tools started switching out top-performing ads with AI-generated ones](https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10)
-- Dec 29 - [When someone says they hate your product with a burning passion](https://www.getflack.com/p/responding-to-negative-feedback)
-- Dec 29 - [List of domains censored by German ISPs](https://cuiiliste.de/domains)
-- Dec 29 - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
-- Dec 29 - [Nvidia takes $5B stake in Intel under September agreement](https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/)
+- Dec 29 - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
+- Dec 29 - [50,000 drums of radioactive wastes were dumped near the Farallones, 1946 to 1970](https://pubs.usgs.gov/fs/farallones/)
+- Dec 29 - [Lead-Free Organic–Inorganic Halobismuthate for Large Piezoelectric Effect](https://pubs.acs.org/doi/10.1021/jacs.5c15484)
+- Dec 29 - [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+- Dec 29 - [ManusAI Joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 <!--END_SECTION:hn-->
 
 <!--
