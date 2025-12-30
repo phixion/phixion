@@ -23,7 +23,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Dec 30 - [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206)
 - Dec 30 - [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/)
 - Dec 30 - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
-- Dec 29 - [I migrated to an almost all-EU stack and saved 500€ per year](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to)
+- Dec 29 - [Stranger Things creator says turn off "garbage" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/)
 <!--END_SECTION:hn-->
 
 <!--
