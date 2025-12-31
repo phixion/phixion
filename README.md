@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)
-- Dec 31 - [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/)
-- Dec 31 - [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
-- Dec 31 - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
-- Dec 31 - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
+- Dec 31 - [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/)
+- Dec 31 - [Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame](https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/)
+- Dec 31 - [France targets Australia-style social media ban for children next year](https://www.theguardian.com/world/2025/dec/31/france-plans-social-media-ban-for-under-15s-from-september-2026)
+- Dec 31 - [Drugmakers raise US prices on 350 medicines despite pressure](https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-us-prices-350-medicines-despite-pressure-trump-2025-12-31/)
+- Dec 31 - [Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF](https://sergiocipriano.com/beyla-envoy.html)
 <!--END_SECTION:hn-->
 
 <!--
