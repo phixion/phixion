@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
-- Dec 30 - [NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)
+- Dec 31 - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
+- Dec 31 - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
+- Dec 31 - [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
+- Dec 30 - [Show HN: RAMBnB.xyz P2P marketplace for RAM rentals](https://www.rambnb.xyz)
 - Dec 30 - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
-- Dec 30 - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
-- Dec 30 - [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
 <!--END_SECTION:hn-->
 
 <!--
