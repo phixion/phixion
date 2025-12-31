@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Dec 31 - [Google Opal](https://opal.google/landing/)
+- Dec 31 - [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
 - Dec 31 - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
 - Dec 31 - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
-- Dec 31 - [Quality of drinking water varies significantly by airline](https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/)
-- Dec 30 - [Show HN: RAMBnB.xyz P2P marketplace for RAM rentals](https://www.rambnb.xyz)
 - Dec 30 - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
 <!--END_SECTION:hn-->
 
