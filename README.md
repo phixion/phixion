@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 30 - [Foreign tech workers are avoiding travel to the US](https://www.computerworld.com/article/4110681/foreign-tech-workers-are-avoiding-travel-to-the-us.html)
-- Dec 30 - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
-- Dec 30 - [Show HN: I remade my website in the Sith Lord Theme and I hope it's fun](https://cookie.engineer/index.html)
-- Dec 30 - [Electrolysis can solve one of our biggest contamination problems](https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html)
-- Dec 30 - [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
+- Dec 30 - [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
+- Dec 30 - [NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives](https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/)
+- Dec 30 - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
+- Dec 30 - [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026)
+- Dec 30 - [U.S. cybersecurity experts plead guilty for ransomware attacks](https://www.tomshardware.com/tech-industry/cyber-security/u-s-cybersecurity-experts-plead-guilty-for-ransomware-attacks-face-20-years-in-prison-each-group-demanded-up-to-usd10-million-from-each-victim)
 <!--END_SECTION:hn-->
 
 <!--
