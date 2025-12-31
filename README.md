@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Google Opal](https://opal.google/landing/)
-- Dec 31 - [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159)
-- Dec 31 - [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded)
-- Dec 31 - [Readings in Database Systems (5th Edition)](http://www.redbook.io/)
-- Dec 30 - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/)
+- Dec 31 - [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd)
+- Dec 31 - [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/)
+- Dec 31 - [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
+- Dec 31 - [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)
+- Dec 31 - [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 <!--END_SECTION:hn-->
 
 <!--
