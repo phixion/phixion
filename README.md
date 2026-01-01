@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [50% of U.S. vinyl buyers don't own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
-- Jan 01 - [Heap Overflow in FFmpeg EXIF](https://bugs.pwno.io/0014)
-- Jan 01 - [ACM Is Now Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
-- Jan 01 - [OpenWorkers: Self-Hosted Cloudflare Workers in Rust](https://openworkers.com/introducing-openworkers)
-- Jan 01 - [2025 Letter](https://danwang.co/2025-letter/)
+- Jan 01 - [Arpanet standardized TCP/IP on this day in 1983](https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet)
+- Jan 01 - [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
+- Jan 01 - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
+- Jan 01 - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
+- Jan 01 - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
 <!--END_SECTION:hn-->
 
 <!--
