@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html)
-- Jan 01 - [Judge to Texas: You Can't Age-Gate the Internet Without Evidence](https://www.techdirt.com/2025/12/31/judge-to-texas-you-cant-age-gate-the-entire-internet-without-evidence/)
+- Jan 01 - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
 - Jan 01 - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
-- Jan 01 - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads)
 - Jan 01 - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
+- Jan 01 - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
+- Dec 31 - [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 <!--END_SECTION:hn-->
 
 <!--
