@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
-- Jan 01 - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
-- Jan 01 - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
-- Jan 01 - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
-- Jan 01 - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
+- Jan 01 - [50% of U.S. vinyl buyers don't own a record player](https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752)
+- Jan 01 - [Heap Overflow in FFmpeg EXIF](https://bugs.pwno.io/0014)
+- Jan 01 - [ACM Is Now Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
+- Jan 01 - [OpenWorkers: Self-Hosted Cloudflare Workers in Rust](https://openworkers.com/introducing-openworkers)
+- Jan 01 - [2025 Letter](https://danwang.co/2025-letter/)
 <!--END_SECTION:hn-->
 
 <!--
