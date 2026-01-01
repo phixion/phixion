@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Dec 31 - [Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
-- Dec 31 - [Meta created 'playbook' to fend off pressure to crack down on scammers](https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/)
-- Dec 31 - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
-- Dec 31 - [Stewart Cheifet, creator of The Computer Chronicles, has died](https://obits.goldsteinsfuneral.com/stewart-cheifet)
-- Dec 31 - [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers)
+- Jan 01 - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
+- Dec 31 - [Resistance training load does not determine hypertrophy](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684)
+- Dec 31 - [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
+- Dec 31 - [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
+- Dec 31 - [All-optical synthesis chip for large-scale intelligent semantic vision](https://www.science.org/doi/10.1126/science.adv7434)
 <!--END_SECTION:hn-->
 
 <!--
