@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 01 - [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h)
+- Jan 01 - [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)
+- Jan 01 - [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched)
+- Jan 01 - [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/)
 - Jan 01 - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
-- Jan 01 - [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/)
-- Jan 01 - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/)
-- Jan 01 - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/)
-- Dec 31 - [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 <!--END_SECTION:hn-->
 
 <!--
