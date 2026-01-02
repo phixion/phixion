@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Why do Americans hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)
-- Jan 02 - [The Netflix Simian Army (2011)](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
-- Jan 02 - [Parental Controls Aren't for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
-- Jan 02 - [Show HN: OfferGridAI – side-by-side comparison of real estate offers from PDFs](https://offergridai.com)
-- Jan 02 - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
+- Jan 02 - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
+- Jan 02 - [4th Edition Unix in the Browser](https://unixv4.dev/)
+- Jan 02 - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
+- Jan 02 - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
+- Jan 02 - [Accounting for Computer Scientists (2011)](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 <!--END_SECTION:hn-->
 
 <!--
