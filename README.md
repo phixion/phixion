@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [China's BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
-- Jan 02 - [DENT: A network operating system (NOS) for everyone else](https://dent.dev/)
+- Jan 02 - [FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)](https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/)
+- Jan 02 - [Real Biological Clock Is You're Going to Die (2018)](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
+- Jan 02 - [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/)
 - Jan 02 - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
 - Jan 02 - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
-- Jan 02 - [Extensibility: The "100% Lisp" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 <!--END_SECTION:hn-->
 
 <!--
