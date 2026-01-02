@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [Arpanet standardized TCP/IP on this day in 1983](https://www.tomshardware.com/networking/arpanet-standardized-tcp-ip-on-this-day-in-1983-43-year-old-standard-set-the-foundations-for-todays-internet)
-- Jan 01 - [Dell's version of the DGX Spark fixes pain points](https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points)
-- Jan 01 - [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
-- Jan 01 - [Building an internal agent: Code-driven vs. LLM-driven workflows](https://lethain.com/agents-coordinators/)
-- Jan 01 - [Memory Subsystem Optimizations](https://johnnysswlab.com/memory-subsystem-optimizations/)
+- Jan 01 - [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)
+- Jan 01 - [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
+- Jan 01 - [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html)
+- Jan 01 - [Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
+- Jan 01 - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 <!--END_SECTION:hn-->
 
 <!--
