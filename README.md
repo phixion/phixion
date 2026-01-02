@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 01 - [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/)
-- Jan 01 - [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
-- Jan 01 - [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html)
-- Jan 01 - [Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion)
-- Jan 01 - [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
+- Jan 02 - [China's BYD set to overtake Tesla as top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo)
+- Jan 02 - [DENT: A network operating system (NOS) for everyone else](https://dent.dev/)
+- Jan 02 - [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot)
+- Jan 02 - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
+- Jan 02 - [Extensibility: The "100% Lisp" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 <!--END_SECTION:hn-->
 
 <!--
