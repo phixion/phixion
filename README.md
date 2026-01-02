@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
-- Jan 02 - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
-- Jan 02 - [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820)
-- Jan 02 - [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/)
-- Jan 02 - [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
+- Jan 02 - [Why do Americans hate A.I.?](https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html)
+- Jan 02 - [The Netflix Simian Army (2011)](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
+- Jan 02 - [Parental Controls Aren't for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
+- Jan 02 - [Show HN: OfferGridAI – side-by-side comparison of real estate offers from PDFs](https://offergridai.com)
+- Jan 02 - [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025)
 <!--END_SECTION:hn-->
 
 <!--
