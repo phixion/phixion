@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption)
-- Jan 03 - [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/)
-- Jan 03 - [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal)
-- Jan 03 - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf)
-- Jan 03 - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
+- Jan 03 - [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
+- Jan 03 - [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
+- Jan 03 - [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
+- Jan 03 - [Recursive Language Models](https://arxiv.org/abs/2512.24601)
+- Jan 03 - [Profiling with Ctrl-C (2024)](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 <!--END_SECTION:hn-->
 
 <!--
