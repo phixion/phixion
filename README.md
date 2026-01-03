@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 03 - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
+- Jan 03 - [The C3 Programming Language](https://c3-lang.org)
+- Jan 03 - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
 - Jan 03 - [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
 - Jan 03 - [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
-- Jan 03 - [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/)
-- Jan 03 - [Recursive Language Models](https://arxiv.org/abs/2512.24601)
-- Jan 03 - [Profiling with Ctrl-C (2024)](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 <!--END_SECTION:hn-->
 
 <!--
