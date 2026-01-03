@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 02 - [Publish (On Your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE#)
-- Jan 02 - [4th Edition Unix in the Browser](https://unixv4.dev/)
-- Jan 02 - [TinyTinyTPU: 2×2 systolic-array TPU-style matrix-multiply unit deployed on FPGA](https://github.com/Alanma23/tinytinyTPU-co)
-- Jan 02 - [Fighting Fire with Fire: Scalable Oral Exams](https://www.behind-the-enemy-lines.com/2025/12/fighting-fire-with-fire-scalable-oral.html)
-- Jan 02 - [Accounting for Computer Scientists (2011)](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
+- Jan 03 - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
+- Jan 02 - [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
+- Jan 02 - [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
+- Jan 02 - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
+- Jan 02 - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 <!--END_SECTION:hn-->
 
 <!--
