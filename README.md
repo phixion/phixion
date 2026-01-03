@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 03 - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/)
+- Jan 03 - [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html)
+- Jan 03 - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
+- Jan 03 - [Proving Liveness with TLA](https://roscidus.com/blog/blog/2026/01/01/tla-liveness/)
 - Jan 03 - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
-- Jan 02 - [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
-- Jan 02 - [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/)
-- Jan 02 - [Linux kernel security work](http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/)
-- Jan 02 - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 <!--END_SECTION:hn-->
 
 <!--
