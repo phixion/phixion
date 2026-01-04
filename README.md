@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 03 - [Microsoft kills official way to activate Windows 11/10 without internet](https://www.neowin.net/news/report-microsoft-quietly-kills-official-way-to-activate-windows-1110-without-internet/#google_vignette)
-- Jan 03 - [The C3 Programming Language](https://c3-lang.org)
-- Jan 03 - [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
-- Jan 03 - [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/)
-- Jan 03 - [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s)
+- Jan 04 - [System76: A Case Study on How Not to Collaborate with Upstream](https://blogs.gnome.org/christopherdavis/2021/11/10/system76-how-not-to-collaborate/)
+- Jan 03 - [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
+- Jan 03 - [The Suck Is Why We're Here](https://nik.art/the-suck-is-why-were-here/)
+- Jan 03 - [China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron](https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html)
+- Jan 03 - [Comparing benefits of every-third-day vs. daily low-dose aspirin therapy (2001)](https://pubmed.ncbi.nlm.nih.gov/11190906/)
 <!--END_SECTION:hn-->
 
 <!--
