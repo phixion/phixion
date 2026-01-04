@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Maybe Comments _Should_ Explain 'What'](https://www.hillelwayne.com/post/what-comments/)
-- Jan 04 - [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
-- Jan 04 - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
-- Jan 04 - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)
-- Jan 04 - [Can I start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
+- Jan 04 - [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
+- Jan 04 - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
+- Jan 04 - [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
+- Jan 04 - [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
+- Jan 04 - [AI Sycophancy Panic](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 <!--END_SECTION:hn-->
 
 <!--
