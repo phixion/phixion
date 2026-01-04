@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [System76: A Case Study on How Not to Collaborate with Upstream](https://blogs.gnome.org/christopherdavis/2021/11/10/system76-how-not-to-collaborate/)
-- Jan 03 - [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
-- Jan 03 - [The Suck Is Why We're Here](https://nik.art/the-suck-is-why-were-here/)
-- Jan 03 - [China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron](https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html)
-- Jan 03 - [Comparing benefits of every-third-day vs. daily low-dose aspirin therapy (2001)](https://pubmed.ncbi.nlm.nih.gov/11190906/)
+- Jan 04 - [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
+- Jan 04 - [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
+- Jan 04 - [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
+- Jan 04 - [The Great Gatsby is the most misunderstood novel (2021)](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
+- Jan 04 - [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
 <!--END_SECTION:hn-->
 
 <!--
