@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain)
-- Jan 04 - [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
-- Jan 04 - [MyTorch – Minimalist autograd in 450 lines of Python](https://github.com/obround/mytorch)
-- Jan 04 - [The Great Gatsby is the most misunderstood novel (2021)](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
-- Jan 04 - [SQLNet A social network that looks like Twitter but you write SQL to do anything](https://sqlnet.cc)
+- Jan 04 - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
+- Jan 04 - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
+- Jan 04 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- Jan 04 - [Show HN: Claude Reflect – Auto-turn Claude corrections into project config](https://github.com/BayramAnnakov/claude-reflect)
+- Jan 04 - [Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy](https://github.com/daftpixie/krowdovi)
 <!--END_SECTION:hn-->
 
 <!--
