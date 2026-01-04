@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/)
-- Jan 04 - [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify)
-- Jan 04 - [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/)
-- Jan 04 - [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
-- Jan 04 - [AI Sycophancy Panic](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+- Jan 04 - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
+- Jan 04 - [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
+- Jan 04 - [Venezuela's interim government says it is united behind Maduro](https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/)
+- Jan 04 - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
+- Jan 04 - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
 <!--END_SECTION:hn-->
 
 <!--
