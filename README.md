@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe)
-- Jan 04 - [Corundum – open-source FPGA-based NIC and platform for in-network compute](https://github.com/corundum/corundum)
-- Jan 04 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
-- Jan 04 - [Show HN: Claude Reflect – Auto-turn Claude corrections into project config](https://github.com/BayramAnnakov/claude-reflect)
-- Jan 04 - [Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy](https://github.com/daftpixie/krowdovi)
+- Jan 04 - [Maybe Comments _Should_ Explain 'What'](https://www.hillelwayne.com/post/what-comments/)
+- Jan 04 - [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen)
+- Jan 04 - [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
+- Jan 04 - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)
+- Jan 04 - [Can I start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 <!--END_SECTION:hn-->
 
 <!--
