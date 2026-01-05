@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
-- Jan 05 - [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
-- Jan 05 - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
-- Jan 05 - [Microsoft Office renamed to "Microsoft 365 Copilot app"](https://www.office.com)
-- Jan 05 - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
+- Jan 05 - [CSS sucks because we don't bother learning it (2022)](https://idiallo.com/blog/learn-css)
+- Jan 05 - [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
+- Jan 05 - [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
+- Jan 05 - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
+- Jan 05 - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
 <!--END_SECTION:hn-->
 
 <!--
