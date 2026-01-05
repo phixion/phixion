@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [CSS sucks because we don't bother learning it (2022)](https://idiallo.com/blog/learn-css)
-- Jan 05 - [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
-- Jan 05 - [Show HN: A simulator for engineers transitioning from IC to management](https://apmcommunication.com/scenario/backchannel-vp)
-- Jan 05 - [Show HN: DoNotNotify – log and intelligently block notifications on Android](https://donotnotify.com/)
-- Jan 05 - [GOG Patrons- Join gamers keeping classics alive](https://www.gog.com/en/patrons)
+- Jan 05 - [O-Ring Automation](https://www.nber.org/papers/w34639)
+- Jan 05 - [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
+- Jan 05 - [Refactoring – Not on the backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
+- Jan 05 - [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
+- Jan 05 - [Pipe Dreams – The life and times of Yahoo Pipes (2023)](https://retool.com/pipes)
 <!--END_SECTION:hn-->
 
 <!--
