@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [A spider web unlike any seen before (2025)](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
-- Jan 05 - [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
-- Jan 05 - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
-- Jan 05 - [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/)
-- Jan 05 - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
+- Jan 05 - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
+- Jan 05 - [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
+- Jan 05 - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
+- Jan 05 - [Microsoft Office renamed to "Microsoft 365 Copilot app"](https://www.office.com)
+- Jan 05 - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 <!--END_SECTION:hn-->
 
 <!--
