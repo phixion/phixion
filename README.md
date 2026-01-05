@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 04 - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
-- Jan 04 - [Show HN: Hover – IDE style hover documentation on any webpage](https://github.com/Sampsoon/hover)
-- Jan 04 - [Venezuela's interim government says it is united behind Maduro](https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/)
-- Jan 04 - [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time)
-- Jan 04 - [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+- Jan 04 - [Millennium Challenge: The Real Story of a Corrupted Military Exercise and Legacy](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
+- Jan 04 - [Show HN: Quantum Tunnel](https://chuanqisun.github.io/quantum-tunnel/)
+- Jan 04 - [C-Sentinel: System prober that captures “system fingerprints” for AI analysis](https://github.com/williamofai/c-sentinel)
+- Jan 04 - [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
+- Jan 04 - [Eurostar AI vulnerability: when a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 <!--END_SECTION:hn-->
 
 <!--
