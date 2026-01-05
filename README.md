@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 05 - [A spider web unlike any seen before (2025)](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html)
+- Jan 05 - [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf)
+- Jan 05 - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
 - Jan 05 - [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/)
 - Jan 05 - [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance)
-- Jan 04 - [Millennium Challenge: A corrupted military exercise and its legacy (2015)](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/)
-- Jan 04 - [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/)
-- Jan 04 - [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 <!--END_SECTION:hn-->
 
 <!--
