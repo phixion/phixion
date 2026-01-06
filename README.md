@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 06 - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers)
+- Jan 06 - [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
+- Jan 06 - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
 - Jan 05 - [Strange.website](https://strange.website/)
-- Jan 05 - [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
-- Jan 05 - [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
-- Jan 05 - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
-- Jan 05 - [Keeping Syria connected during war: Surviving ISIS and Intelligence](https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/)
+- Jan 05 - [Donut Lab’s all-solid-state battery delivers 400 Wh/kg of energy density](https://www.donutlab.com/ces-battery-announcement/)
 <!--END_SECTION:hn-->
 
 <!--
