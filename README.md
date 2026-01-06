@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 05 - [O-Ring Automation](https://www.nber.org/papers/w34639)
-- Jan 05 - [Novo Nordisk launches Wegovy weight-loss pill in US, triggering price war](https://www.theguardian.com/business/2026/jan/05/novo-nordisk-launches-wegovy-weight-loss-pill-us-price-war)
-- Jan 05 - [Refactoring – Not on the backlog (2014)](https://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/)
-- Jan 05 - [X blames users for Grok-generated CSAM; no fixes announced](https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/)
-- Jan 05 - [Pipe Dreams – The life and times of Yahoo Pipes (2023)](https://retool.com/pipes)
+- Jan 05 - [Strange.website](https://strange.website/)
+- Jan 05 - [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
+- Jan 05 - [Migrating cells and the new science of microchimerism](https://www.nature.com/articles/d41586-025-04102-4)
+- Jan 05 - [Google broke my heart](https://perishablepress.com/google-broke-my-heart/)
+- Jan 05 - [Keeping Syria connected during war: Surviving ISIS and Intelligence](https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/)
 <!--END_SECTION:hn-->
 
 <!--
