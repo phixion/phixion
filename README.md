@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 06 - [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
-- Jan 06 - [High-Performance DBMSs with io_uring: When and How to use it](https://arxiv.org/abs/2512.04859)
-- Jan 06 - [Video Game Websites in the early 00s](https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s)
-- Jan 06 - [Show HN: Jax-JS, array library in JavaScript targeting WebGPU](https://ss.ekzhang.com/p/jax-js-an-ml-library-for-the-web)
-- Jan 06 - [Passing of Joe Mancuso author of Masonite (Python web framework)](https://github.com/MasoniteFramework/masonite/discussions/853)
+- Jan 06 - [Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion](https://github.com/tdortman/cuckoo-filter)
+- Jan 06 - [Are we tired of social media once and for all? On the downfall of social media](https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all)
+- Jan 06 - [CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs](https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds)
+- Jan 06 - [Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth)
+- Jan 06 - [Comparing AI agents to cybersecurity professionals in real-world pen testing](https://arxiv.org/abs/2512.09882)
 <!--END_SECTION:hn-->
 
 <!--
