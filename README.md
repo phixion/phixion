@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Many Hells of WebDAV: Writing a Client/Server in Go](https://candid.dev/blog/many-hells-of-webdav)
-- Jan 07 - [Commodore 64 floppy drive has the power to be a computer and runs BASIC](https://www.tomshardware.com/pc-components/cpus/commodore-64-floppy-drive-has-the-power-to-be-a-computer-bulky-1982-commodore-1541-5-25-inch-drive-packs-a-1-mhz-mos-6502-cpu)
-- Jan 07 - [LLM Problems Observed in Humans](https://embd.cc/llm-problems-observed-in-humans)
-- Jan 07 - [US Job Openings Decline to Lowest Level in More Than a Year](https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year)
-- Jan 07 - [We might have been slower to abandon StackOverflow if it wasn't a toxic hellhole](https://www.pcloadletter.dev/blog/abandoning-stackoverflow/)
+- Jan 07 - [US will ban Wall Street investors from buying single-family homes](https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/)
+- Jan 07 - [NPM to implement staged publishing after turbulent shift off classic tokens](https://socket.dev/blog/npm-to-implement-staged-publishing)
+- Jan 07 - [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989)
+- Jan 07 - [Texas A&M bans part of Plato's Symposium](https://dailynous.com/2026/01/06/texas-am-bans-plato/)
+- Jan 07 - [Eat Real Food](https://realfood.gov)
 <!--END_SECTION:hn-->
 
 <!--
