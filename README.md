@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 07 - [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/)
-- Jan 07 - [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)
-- Jan 07 - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
-- Jan 07 - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
-- Jan 07 - [We recreated Steve Jobs's 1975 Atari horoscope program](https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/)
+- Jan 07 - [Many Hells of WebDAV: Writing a Client/Server in Go](https://candid.dev/blog/many-hells-of-webdav)
+- Jan 07 - [Commodore 64 floppy drive has the power to be a computer and runs BASIC](https://www.tomshardware.com/pc-components/cpus/commodore-64-floppy-drive-has-the-power-to-be-a-computer-bulky-1982-commodore-1541-5-25-inch-drive-packs-a-1-mhz-mos-6502-cpu)
+- Jan 07 - [LLM Problems Observed in Humans](https://embd.cc/llm-problems-observed-in-humans)
+- Jan 07 - [US Job Openings Decline to Lowest Level in More Than a Year](https://www.bloomberg.com/news/articles/2026-01-07/us-job-openings-decline-to-lowest-level-in-more-than-a-year)
+- Jan 07 - [We might have been slower to abandon StackOverflow if it wasn't a toxic hellhole](https://www.pcloadletter.dev/blog/abandoning-stackoverflow/)
 <!--END_SECTION:hn-->
 
 <!--
