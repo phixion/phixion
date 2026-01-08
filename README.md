@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 08 - [Kernel bugs hide for 2 years on average. Some hide for 20](https://pebblebed.com/blog/kernel-bugs)
+- Jan 08 - [Musashi: Motorola 680x0 emulator written in C](https://github.com/kstenerud/Musashi)
+- Jan 08 - [The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)](https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md)
+- Jan 08 - [Fighting back against biometric surveillance at Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
 - Jan 07 - [Play Aardwolf MUD](https://www.aardwolf.com/)
-- Jan 07 - [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree)
-- Jan 07 - [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/)
-- Jan 07 - [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260)
-- Jan 07 - [So you wanna de-bog yourself (2024)](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
 <!--END_SECTION:hn-->
 
 <!--
