@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [An Honest Review of Go](https://benraz.dev/blog/golang_review.html)
-- Jan 08 - [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
-- Jan 08 - [Japanese electronics store pleads for old PCs amid ongoing hardware shortage](https://www.tomshardware.com/desktops/pc-building/major-japanese-electronics-store-begs-customers-for-their-old-pcs-as-hardware-drought-continues-we-pretty-much-buy-any-pc-pleads-the-akihabara-outlet)
-- Jan 08 - [Bose is open-sourcing its old smart speakers instead of bricking them](https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source)
-- Jan 08 - [Show HN: A Daily Bible Game](https://bibdle.com)
+- Jan 08 - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+- Jan 08 - [Claude keeps nagging about "Help improve Claude" inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
+- Jan 08 - [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
+- Jan 08 - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
+- Jan 08 - [Show HN: macOS menu bar app to track Claude usage in real time](https://github.com/richhickson/claudecodeusage)
 <!--END_SECTION:hn-->
 
 <!--
