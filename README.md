@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Anthropic bans use of API in OpenCode CLI tool](https://github.com/anomalyco/opencode/issues/7410)
-- Jan 09 - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
-- Jan 09 - [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
-- Jan 09 - [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
-- Jan 08 - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+- Jan 09 - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+- Jan 09 - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+- Jan 09 - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
+- Jan 09 - [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
+- Jan 09 - [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410)
 <!--END_SECTION:hn-->
 
 <!--
