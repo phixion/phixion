@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/)
+- Jan 09 - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
+- Jan 09 - ["They Saw a Protest": Cognitive Illiberalism and the Speech-Conduct Distinction [pdf]](https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf)
+- Jan 09 - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
 - Jan 09 - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 - Jan 09 - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
-- Jan 09 - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
-- Jan 09 - [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 <!--END_SECTION:hn-->
 
 <!--
