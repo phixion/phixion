@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 08 - [Google AI Studio is now sponsoring Tailwind CSS](https://twitter.com/OfficialLoganK/status/2009339263251566902)
-- Jan 08 - [Claude keeps nagging about "Help improve Claude" inspite of previous decline](https://news.ycombinator.com/item?id=46545056)
-- Jan 08 - [The Unreasonable Effectiveness of the Fourier Transform](https://joshuawise.com/resources/ofdm/)
-- Jan 08 - [Fixing a Buffer Overflow in Unix v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
-- Jan 08 - [Show HN: macOS menu bar app to track Claude usage in real time](https://github.com/richhickson/claudecodeusage)
+- Jan 08 - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+- Jan 08 - [Iran Protest Map](https://pouyaii.github.io/Iran/)
+- Jan 08 - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
+- Jan 08 - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
+- Jan 08 - [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
 <!--END_SECTION:hn-->
 
 <!--
