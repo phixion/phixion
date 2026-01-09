@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 09 - [Anthropic bans use of API in OpenCode CLI tool](https://github.com/anomalyco/opencode/issues/7410)
+- Jan 09 - [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444)
+- Jan 09 - [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/)
+- Jan 09 - [Why I Left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/)
 - Jan 08 - [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
-- Jan 08 - [Iran Protest Map](https://pouyaii.github.io/Iran/)
-- Jan 08 - [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
-- Jan 08 - [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs)
-- Jan 08 - [Show HN: A geofence-based social network app 6 years in development](https://www.localvideoapp.com)
 <!--END_SECTION:hn-->
 
 <!--
