@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
-- Jan 09 - ["They Saw a Protest": Cognitive Illiberalism and the Speech-Conduct Distinction [pdf]](https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2012/05/Kahan-64-Stan-L-Rev-851.pdf)
-- Jan 09 - [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
-- Jan 09 - [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
-- Jan 09 - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
+- Jan 09 - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
+- Jan 09 - [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform)
+- Jan 09 - [JavaScript Demos in 140 Characters](https://www.dwitter.net/top)
+- Jan 09 - [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
+- Jan 09 - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/)
 <!--END_SECTION:hn-->
 
 <!--
