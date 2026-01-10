@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [CDC staff 'blindsided' as child vaccine schedule unilaterally overhauled](https://www.unmc.edu/healthsecurity/transmission/2026/01/07/cdc-staff-blindsided-as-child-vaccine-schedule-unilaterally-overhauled/)
+- Jan 10 - [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve)
+- Jan 10 - ["We write to ask that you enforce your app stores' terms of service against X" [pdf]](https://www.wyden.senate.gov/imo/media/doc/letter_to_apple_and_google_on_removing_x_and_grok_from_app_store_192026pdf.pdf)
 - Jan 10 - [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/)
 - Jan 10 - [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/)
-- Jan 10 - [USDA suspends federal financial awards to Minnesota and Minneapolis](https://turnto10.com/news/nation-world/enough-is-enough-usda-suspends-federal-financial-awards-to-minnesota-and-minneapolis-fraud-scheme-investigation-governor-tim-walz-mayor-jacob-frey-nick-shirley-feeding-our-children-food-programs)
 - Jan 09 - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
 <!--END_SECTION:hn-->
 
