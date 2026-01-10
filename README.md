@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [UK government exempting itself from cyber law inspires little confidence](https://www.theregister.com/2026/01/10/csr_bill_analysis/)
-- Jan 10 - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
-- Jan 10 - [Why Is Greenland Part of the Kingdom of Denmark? A Short History](https://www.diis.dk/en/research/why-is-greenland-part-of-the-kingdom-of-denmark-a-short-history)
-- Jan 10 - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
-- Jan 10 - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
+- Jan 10 - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
+- Jan 10 - [Rats caught on camera hunting flying bats](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
+- Jan 10 - [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
+- Jan 10 - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
+- Jan 10 - [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
 <!--END_SECTION:hn-->
 
 <!--
