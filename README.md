@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Show HN: Rocket Launch and Orbit Simulator](https://www.donutthejedi.com/)
-- Jan 09 - [Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://github.com/Hiepler/EuConform)
-- Jan 09 - [JavaScript Demos in 140 Characters](https://www.dwitter.net/top)
-- Jan 09 - [Exercise can be nearly as effective as therapy for depression](https://www.sciencedaily.com/releases/2026/01/260107225516.htm)
-- Jan 09 - [AI Zealotry](https://matthewrocklin.com/ai-zealotry/)
+- Jan 09 - [Washington National Opera Is Leaving the Kennedy Center](https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html)
+- Jan 09 - [Erdos problem #728 was solved more or less autonomously by AI](https://mathstodon.xyz/@tao/115855840223258103)
+- Jan 09 - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
+- Jan 09 - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
+- Jan 09 - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
 <!--END_SECTION:hn-->
 
 <!--
