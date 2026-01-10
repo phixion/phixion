@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 09 - [Washington National Opera Is Leaving the Kennedy Center](https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html)
-- Jan 09 - [Erdos problem #728 was solved more or less autonomously by AI](https://mathstodon.xyz/@tao/115855840223258103)
+- Jan 10 - [Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/)
+- Jan 09 - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)
+- Jan 09 - [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/)
 - Jan 09 - [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254)
-- Jan 09 - [QtNat – Open you port with Qt UPnP](http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/)
-- Jan 09 - [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
+- Jan 09 - [Sigmund Freud's Begonia](https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia)
 <!--END_SECTION:hn-->
 
 <!--
