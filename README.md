@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)
-- Jan 10 - [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
-- Jan 10 - [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)
-- Jan 10 - [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
-- Jan 10 - [Extracting books from production language models (2026)](https://arxiv.org/abs/2601.02671)
+- Jan 11 - [Workers at Redmond SpaceX lab exposed to toxic chemicals](https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5)
+- Jan 11 - [Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load](https://github.com/unhaya/vam-seek)
+- Jan 11 - [A Year of Work on the Arch Linux Package Management (ALPM) Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
+- Jan 11 - [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
+- Jan 11 - [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
 <!--END_SECTION:hn-->
 
 <!--
