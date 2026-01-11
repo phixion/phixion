@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html)
-- Jan 11 - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
-- Jan 11 - [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)
-- Jan 11 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
-- Jan 11 - [A battle over Canada’s mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
+- Jan 11 - [Minneapolis Is Not Even a Close Call –A Lawsplainer on Officer-Involved](https://shipwreckedcrew.substack.com/p/minneapolis-is-not-even-a-close-call)
+- Jan 11 - [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html)
+- Jan 11 - [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
+- Jan 11 - [Google: Don't make "bite-sized" content for LLMs](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/)
+- Jan 11 - [BasiliskII Macintosh 68k Emulator Ported to ESP32-P4 / M5Stack Tab5](https://github.com/amcchord/M5Tab-Macintosh)
 <!--END_SECTION:hn-->
 
 <!--
