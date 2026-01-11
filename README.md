@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 10 - [Bichon: A lightweight, high-performance Rust email archiver with WebUI](https://github.com/rustmailer/bichon)
-- Jan 10 - [Rats caught on camera hunting flying bats](https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/)
-- Jan 10 - [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-- Jan 10 - [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
-- Jan 10 - [Drones that recharge directly on transmission lines](https://www.ycombinator.com/companies/voltair)
+- Jan 10 - [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)
+- Jan 10 - [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149)
+- Jan 10 - [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)
+- Jan 10 - [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors)
+- Jan 10 - [Extracting books from production language models (2026)](https://arxiv.org/abs/2601.02671)
 <!--END_SECTION:hn-->
 
 <!--
