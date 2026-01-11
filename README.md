@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [Workers at Redmond SpaceX lab exposed to toxic chemicals](https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5)
-- Jan 11 - [Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load](https://github.com/unhaya/vam-seek)
-- Jan 11 - [A Year of Work on the Arch Linux Package Management (ALPM) Project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
-- Jan 11 - [Sisyphus Now Lives in Oh My Claude](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus)
-- Jan 11 - [Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering](https://github.com/OlaProeis/Ferrite)
+- Jan 11 - [Iranian regime tries to shut down Starlink](https://www.timesofisrael.com/iran-appears-to-jam-starlink-after-shutting-down-comms-networks/)
+- Jan 11 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
+- Jan 11 - [I build products to get "unplugged" from the internet](https://getunplugged.io/I-build-products-to-get-unplugged)
+- Jan 11 - ['The answer cannot be nothing': The battle over Canada's mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo)
+- Jan 11 - [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/)
 <!--END_SECTION:hn-->
 
 <!--
