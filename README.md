@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 11 - [I'd tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get)
-- Jan 11 - [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)
-- Jan 11 - [The Next Two Years of Software Engineering](https://addyosmani.com/blog/next-two-years/)
-- Jan 11 - [iMessage-kit is an iMessage SDK for macOS](https://github.com/photon-hq/imessage-kit)
-- Jan 11 - [2026 is the year of self-hosting](https://fulghum.io/self-hosting)
+- Jan 12 - [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md)
+- Jan 12 - [Code is cheap now, but software isn't](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
+- Jan 12 - [Uncrossy](https://uncrossy.com/)
+- Jan 12 - [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
+- Jan 12 - [Gadget Exposed a Spy Camera [video]](https://www.youtube.com/watch?v=1reman2waLs)
 <!--END_SECTION:hn-->
 
 <!--
