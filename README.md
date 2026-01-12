@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
-- Jan 12 - [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)
-- Jan 12 - [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
-- Jan 12 - [Xfce is great](https://rubenerd.com/xfce-is-great/)
-- Jan 12 - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o)
+- Jan 12 - [Apple picks Google's Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
+- Jan 12 - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
+- Jan 12 - [Keychron's Nape Pro turns your keyboard into a laptop‑style trackball rig](https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/)
+- Jan 12 - [2025 marked a record-breaking year for Apple services](https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/)
+- Jan 12 - [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 <!--END_SECTION:hn-->
 
 <!--
