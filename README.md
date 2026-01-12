@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Apple picks Google's Gemini to power Siri](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)
-- Jan 12 - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
-- Jan 12 - [Keychron's Nape Pro turns your keyboard into a laptop‑style trackball rig](https://www.yankodesign.com/2026/01/08/keychrons-nape-pro-turns-your-mechanical-keyboard-into-a-laptop-style-trackball-rig-hands-on-at-ces-2026/)
-- Jan 12 - [2025 marked a record-breaking year for Apple services](https://www.apple.com/newsroom/2026/01/2025-marked-a-record-breaking-year-for-apple-services/)
-- Jan 12 - [LLVM: The Bad Parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
+- Jan 12 - [Waymo passenger flees after car drives on Phoenix light rail tracks](https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/)
+- Jan 12 - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
+- Jan 12 - [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
+- Jan 12 - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+- Jan 12 - [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
 <!--END_SECTION:hn-->
 
 <!--
