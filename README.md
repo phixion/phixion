@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [We're all just content for ICE](https://www.garbageday.email/p/we-re-all-just-content-for-ice)
+- Jan 13 - [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
 - Jan 12 - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
-- Jan 12 - [Non-Essential French Embassy Staff Have Left Iran](https://www.barrons.com/news/non-essential-french-embassy-staff-have-left-iran-sources-d84d1f51)
+- Jan 12 - [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
 - Jan 12 - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 - Jan 12 - [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
 <!--END_SECTION:hn-->
