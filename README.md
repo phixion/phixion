@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 12 - [Waymo passenger flees after car drives on Phoenix light rail tracks](https://www.azfamily.com/2026/01/08/waymo-passenger-flees-after-car-drives-phoenix-light-rail-tracks/)
-- Jan 12 - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-- Jan 12 - [X Didn't Fix Grok's 'Undressing' Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)
-- Jan 12 - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
-- Jan 12 - [Show HN: Fall asleep by watching JavaScript load](https://github.com/sarusso/bedtime)
+- Jan 13 - [We're all just content for ICE](https://www.garbageday.email/p/we-re-all-just-content-for-ice)
+- Jan 12 - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+- Jan 12 - [Non-Essential French Embassy Staff Have Left Iran](https://www.barrons.com/news/non-essential-french-embassy-staff-have-left-iran-sources-d84d1f51)
+- Jan 12 - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
+- Jan 12 - [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
 <!--END_SECTION:hn-->
 
 <!--
