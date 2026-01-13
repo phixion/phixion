@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075)
+- Jan 13 - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
 - Jan 12 - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
-- Jan 12 - [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes)
 - Jan 12 - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer)
 - Jan 12 - [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/)
+- Jan 12 - [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 <!--END_SECTION:hn-->
 
 <!--
