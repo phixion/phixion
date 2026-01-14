@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist](https://www.coveragecat.com/careers/operations/fractional-operations-specialist)
-- Jan 14 - [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass)
-- Jan 14 - [I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)
-- Jan 14 - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
-- Jan 14 - [The Gleam Programming Language](https://gleam.run/)
+- Jan 14 - [How Iran Switched Off the Internet](https://www.ft.com/content/5d848323-84a9-4512-abd2-dd09e0a786a3)
+- Jan 14 - [FBI raids Washington Post reporter's home in 'highly unusual and aggressive' act](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
+- Jan 14 - [Never-before-seen Linux malware is "more advanced than typical"](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/)
+- Jan 14 - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html)
+- Jan 14 - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 <!--END_SECTION:hn-->
 
 <!--
