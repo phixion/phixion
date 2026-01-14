@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [The $LANG Programming Language](https://news.ycombinator.com/thelang)
-- Jan 13 - [ADHD. How do you manage the constant stream of thoughts and ideas?](https://news.ycombinator.com/item?id=46610156)
-- Jan 13 - [A 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
-- Jan 13 - [The insecure evangelism of LLM maximalists](https://lewiscampbell.tech/blog/260114.html)
-- Jan 13 - [EOL hardware should mean open-source software](https://www.marcia.no/words/eol)
+- Jan 14 - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
+- Jan 14 - [The Gleam Programming Language](https://gleam.run/)
+- Jan 14 - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
+- Jan 14 - [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit)
+- Jan 14 - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
 <!--END_SECTION:hn-->
 
 <!--
