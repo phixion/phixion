@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 13 - [Instagram AI Influencers Are Defaming Celebrities with Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)
-- Jan 13 - [A university got itself banned from the Linux kernel (2021)](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)
-- Jan 13 - [Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
-- Jan 13 - [AI Generated Music Barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
-- Jan 13 - [The Case for Blogging in the Ruins](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/)
+- Jan 14 - [The $LANG Programming Language](https://news.ycombinator.com/thelang)
+- Jan 13 - [ADHD. How do you manage the constant stream of thoughts and ideas?](https://news.ycombinator.com/item?id=46610156)
+- Jan 13 - [A 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
+- Jan 13 - [The insecure evangelism of LLM maximalists](https://lewiscampbell.tech/blog/260114.html)
+- Jan 13 - [EOL hardware should mean open-source software](https://www.marcia.no/words/eol)
 <!--END_SECTION:hn-->
 
 <!--
