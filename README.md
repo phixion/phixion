@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [EU-US relationship is 'disintegrating,' says Germany's vice chancellor](https://www.politico.eu/article/europe-us-germany-vice-chancellor-lars-klingbeil-donald-trump/)
-- Jan 14 - [ChromaDB Explorer](https://www.chroma-explorer.com/)
-- Jan 14 - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
-- Jan 14 - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
-- Jan 14 - [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
+- Jan 15 - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
+- Jan 15 - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
+- Jan 15 - [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
+- Jan 15 - [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+- Jan 14 - [Ask HN: Weird archive.today behavior?](https://news.ycombinator.com/item?id=46624740)
 <!--END_SECTION:hn-->
 
 <!--
