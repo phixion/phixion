@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://jiga.io/about-us)
-- Jan 15 - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
-- Jan 15 - [Python: Tprof, a Targeting Profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)
-- Jan 15 - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
-- Jan 15 - [A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+- Jan 15 - [European military personnel arrive in Greenland as Trump says US needs island](https://www.bbc.com/news/articles/cd0ydjvxpejo)
+- Jan 15 - [Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
+- Jan 15 - [OBS Studio 32.1.0 Beta 1 available](https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1)
+- Jan 15 - [The Palantir app helping ICE raids in Minneapolis](https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
+- Jan 15 - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
 <!--END_SECTION:hn-->
 
 <!--
