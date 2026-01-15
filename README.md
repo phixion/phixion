@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 14 - [Why Every Country Should Set 16 as the Minimum Age for Social Media Accounts](https://www.afterbabel.com/p/why-every-country-should-set-16)
-- Jan 14 - [East coast. Verizon outage in US](https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7)
-- Jan 14 - [Technical Analysis of Starlink Terminal GPS Spoofing/Jamming Detection in Iran](https://github.com/narimangharib/starlink-iran-gps-spoofing/blob/main/starlink-iran.md)
-- Jan 14 - [So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now)
-- Jan 14 - [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/)
+- Jan 14 - [EU-US relationship is 'disintegrating,' says Germany's vice chancellor](https://www.politico.eu/article/europe-us-germany-vice-chancellor-lars-klingbeil-donald-trump/)
+- Jan 14 - [ChromaDB Explorer](https://www.chroma-explorer.com/)
+- Jan 14 - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
+- Jan 14 - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
+- Jan 14 - [Sun Position Calculator](https://drajmarsh.bitbucket.io/earthsun.html)
 <!--END_SECTION:hn-->
 
 <!--
