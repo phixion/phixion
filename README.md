@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [European military personnel arrive in Greenland as Trump says US needs island](https://www.bbc.com/news/articles/cd0ydjvxpejo)
-- Jan 15 - [Apple Is Fighting for TSMC Capacity as Nvidia Takes Center Stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
-- Jan 15 - [OBS Studio 32.1.0 Beta 1 available](https://github.com/obsproject/obs-studio/releases/tag/32.1.0-beta1)
-- Jan 15 - [The Palantir app helping ICE raids in Minneapolis](https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
-- Jan 15 - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
+- Jan 15 - [UK offshore wind prices come in 40% cheaper than gas in record auction](https://electrek.co/2026/01/14/uk-offshore-wind-record-auction/)
+- Jan 15 - [JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
+- Jan 15 - [‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid](https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
+- Jan 15 - [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/)
+- Jan 15 - [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571)
 <!--END_SECTION:hn-->
 
 <!--
