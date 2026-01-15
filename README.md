@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 15 - [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy)
-- Jan 15 - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
-- Jan 15 - [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
-- Jan 15 - [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639)
-- Jan 15 - [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)
+- Jan 15 - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://jiga.io/about-us)
+- Jan 15 - [Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout](https://e360.yale.edu/digest/china-renewable-photo-essay)
+- Jan 15 - [Python: Tprof, a Targeting Profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)
+- Jan 15 - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+- Jan 15 - [A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 <!--END_SECTION:hn-->
 
 <!--
