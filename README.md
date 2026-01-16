@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Building a better Bugbot](https://cursor.com/blog/building-bugbot)
-- Jan 16 - [San Francisco to offer free childcare to people making up to $230k](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families)
-- Jan 16 - [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o)
-- Jan 16 - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
-- Jan 16 - [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/)
+- Jan 16 - [On Being a Human Being in the Time of Collapse (2022) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
+- Jan 16 - [AI Destroys Institutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623)
+- Jan 16 - [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/)
+- Jan 16 - [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115)
+- Jan 16 - [Interactive eBPF](https://ebpf.party/)
 <!--END_SECTION:hn-->
 
 <!--
