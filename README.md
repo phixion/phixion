@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
-- Jan 16 - [Read_once(), Write_once(), but Not for Rust](https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/)
-- Jan 16 - [Cyberattack in Venezuela Demonstrated Precision of U.S. Capabilities](https://www.nytimes.com/2026/01/15/us/politics/cyberattack-venezuela-military.html)
-- Jan 16 - [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
-- Jan 16 - [Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/)
+- Jan 16 - [Earth from Space: The Fate of a Giant](https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant)
+- Jan 16 - [Our approach to advertising and expanding access to ChatGPT](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)
+- Jan 16 - [Emoji Use in the Electronic Health Record is Increasing](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883)
+- Jan 16 - [STFU](https://github.com/Pankajtanwarbanna/stfu)
+- Jan 16 - [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories)
 <!--END_SECTION:hn-->
 
 <!--
