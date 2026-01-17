@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [The 'untouchable hacker god' behind Finland's biggest ever crime](https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes)
-- Jan 17 - [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/)
-- Jan 17 - [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/)
-- Jan 17 - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
-- Jan 16 - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
+- Jan 17 - [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
+- Jan 17 - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
+- Jan 17 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
+- Jan 17 - [Gut micro-organisms associated with health, nutrition and dietary intervention](https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg)
+- Jan 17 - [AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0](https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/)
 <!--END_SECTION:hn-->
 
 <!--
