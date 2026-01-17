@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 16 - [Left in the cold: Study finds most renters shut out of energy-saving upgrades](https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades)
-- Jan 16 - [Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute)
-- Jan 16 - [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
-- Jan 16 - [Slop is everywhere for those with eyes to see](https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/)
-- Jan 16 - [Reading across books with Claude Code](https://pieterma.es/syntopic-reading-claude/)
+- Jan 17 - [Crypto grifters are recruiting open-source AI developers](https://www.seangoedecke.com/gas-and-ralph/)
+- Jan 17 - [Plunging US Birth Rate Leaves Too Many Colleges with Too Few Kids](https://www.bloomberg.com/graphics/2026-college-enrollment-cliff/)
+- Jan 17 - [Ask HN: Is it still worth pursuing a software startup?](https://news.ycombinator.com/item?id=46654726)
+- Jan 17 - [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu)
+- Jan 16 - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence)
 <!--END_SECTION:hn-->
 
 <!--
