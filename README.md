@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [The recurring dream of replacing developers](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
-- Jan 17 - [Italy investigates Activision Blizzard for pushing in-game purchases](https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/)
-- Jan 17 - [The Risks of AI in Schools Outweigh the Benefits, Report Says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)
-- Jan 17 - [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)
-- Jan 17 - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
+- Jan 17 - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
+- Jan 17 - [Canada's deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
+- Jan 17 - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
+- Jan 17 - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
+- Jan 17 - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
 <!--END_SECTION:hn-->
 
 <!--
