@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
-- Jan 18 - [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
-- Jan 18 - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)
-- Jan 18 - [Spirit of ThinkPad](https://thinknextdesign.com/home.html)
-- Jan 18 - [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
+- Jan 18 - [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101)
+- Jan 18 - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
+- Jan 18 - [EU and Mercosur countries sign landmark free trade deal](https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794)
+- Jan 18 - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
+- Jan 18 - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 <!--END_SECTION:hn-->
 
 <!--
