@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Computer Systems Security 6.566 / Spring 2024](https://css.csail.mit.edu/6.858/2024/)
-- Jan 18 - [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/)
-- Jan 17 - [If you put Apple icons in reverse it looks like someone getting good at design](https://mastodon.social/@heliographe_studio/115890819509545391)
-- Jan 17 - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
-- Jan 17 - [Show HN: Speed Miners – A tiny RTS resource mini-game](https://speedminers.fun/)
+- Jan 18 - [Launching the Handmade Software Foundation](https://handmade.network/blog/p/9106-welcome_to_2026%2521#30623)
+- Jan 18 - [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
+- Jan 18 - [Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval](https://github.com/gibram-io/gibram)
+- Jan 18 - [Spirit of ThinkPad](https://thinknextdesign.com/home.html)
+- Jan 18 - [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
 <!--END_SECTION:hn-->
 
 <!--
