@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 17 - [Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)
-- Jan 17 - [Canada's deal with China signals it is serious about shift from US](https://www.bbc.com/news/articles/cm24k6kk1rko)
-- Jan 17 - [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/)
-- Jan 17 - [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record)
-- Jan 17 - [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm)
+- Jan 17 - [OpenAI could reportedly run out of cash by mid-2027](https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances)
+- Jan 17 - [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/)
+- Jan 17 - [If writing the code is the easy part, why would I want someone else to write it?](https://tldraw.dev/blog/stay-away-from-my-trash)
+- Jan 17 - [Show HN: ChunkHound, a local-first tool for understanding large codebases](https://github.com/chunkhound/chunkhound)
+- Jan 17 - [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
 <!--END_SECTION:hn-->
 
 <!--
