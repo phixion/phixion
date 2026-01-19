@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)
-- Jan 18 - [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
-- Jan 18 - [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
-- Jan 18 - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
-- Jan 18 - [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
+- Jan 19 - [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
+- Jan 19 - [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/)
+- Jan 19 - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
+- Jan 18 - [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
+- Jan 18 - [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
 <!--END_SECTION:hn-->
 
 <!--
