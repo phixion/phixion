@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 18 - [Evolution Unleashed (2018)](https://aeon.co/essays/science-in-flux-is-a-revolution-brewing-in-evolutionary-theory)
-- Jan 18 - [Breaking the Zimmermann Telegram (2018)](https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614)
-- Jan 18 - [Tired of AI, people are committing to the analog lifestyle in 2026](https://www.cnn.com/2026/01/18/business/crafting-soars-ai-analog-wellness)
-- Jan 18 - [Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference](https://httpcolon.dev/)
-- Jan 18 - [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
+- Jan 18 - [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis)
+- Jan 18 - [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza)
+- Jan 18 - [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/)
+- Jan 18 - [Stirling Cycle Machine Analysis](https://ohioopen.library.ohio.edu/opentextbooks/9/)
+- Jan 18 - [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 <!--END_SECTION:hn-->
 
 <!--
