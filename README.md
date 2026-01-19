@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod](https://www.patreon.com/posts/another-one-dust-148437771)
-- Jan 19 - [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/)
+- Jan 19 - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
+- Jan 19 - [Anthropic disabled my account after payment cancer patient/medical data trapped](https://news.ycombinator.com/item?id=46675740)
+- Jan 19 - [Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)](https://pdfwithlove.netlify.app)
+- Jan 19 - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
 - Jan 19 - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
-- Jan 18 - [At least 21 killed in Spain after crash involving high-speed trains](https://www.bbc.com/news/articles/cedw6ylpynyo)
-- Jan 18 - [Prediction: Microsoft will eventually ship a Windows-themed Linux distro](https://gamesbymason.com/blog/2026/microsoft/)
 <!--END_SECTION:hn-->
 
 <!--
