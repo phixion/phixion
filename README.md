@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [40% of Kids Can't Read and Teachers Are Quitting [video]](https://www.youtube.com/watch?v=XTugyu2F0pc)
-- Jan 19 - [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)
-- Jan 19 - [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)
-- Jan 19 - [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
-- Jan 19 - [Greenpeace pilot brings heat pumps and solar to Ukrainian community](https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community)
+- Jan 19 - [Kiel Institute Analysis: US Americans pay 96% of tariff burden](https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/)
+- Jan 19 - ["Anyone else out there vibe circuit-building?"](https://twitter.com/beneater/status/2012988790709928305)
+- Jan 19 - [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
+- Jan 19 - [West Midlands police chief quits over AI hallucination](https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/)
+- Jan 19 - [Ask HN: COBOL devs, how are AI coding affecting your work?](https://news.ycombinator.com/item?id=46678550)
 <!--END_SECTION:hn-->
 
 <!--
