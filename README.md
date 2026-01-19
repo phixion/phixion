@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
-- Jan 19 - [Anthropic disabled my account after payment cancer patient/medical data trapped](https://news.ycombinator.com/item?id=46675740)
-- Jan 19 - [Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)](https://pdfwithlove.netlify.app)
-- Jan 19 - [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor)
-- Jan 19 - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
+- Jan 19 - [40% of Kids Can't Read and Teachers Are Quitting [video]](https://www.youtube.com/watch?v=XTugyu2F0pc)
+- Jan 19 - [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/)
+- Jan 19 - [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box)
+- Jan 19 - [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup)
+- Jan 19 - [Greenpeace pilot brings heat pumps and solar to Ukrainian community](https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community)
 <!--END_SECTION:hn-->
 
 <!--
