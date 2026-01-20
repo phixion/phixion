@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [Channel3 (YC S25) Is Hiring](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer)
-- Jan 20 - [String theory can now describe a universe that has dark energy?](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/)
-- Jan 20 - [Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)
-- Jan 20 - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
-- Jan 20 - [Giving university exams in the age of chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+- Jan 20 - [US citizen says ICE removed him from his Minnesota home in his underwear](https://apnews.com/article/minnesota-immigration-us-citizen-detained-hmong-d009590a491c0c8243ef21ef24db7182)
+- Jan 20 - [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
+- Jan 20 - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
+- Jan 20 - [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
+- Jan 20 - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
 <!--END_SECTION:hn-->
 
 <!--
