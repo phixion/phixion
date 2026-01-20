@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
-- Jan 20 - [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
-- Jan 20 - [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)
-- Jan 20 - [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
-- Jan 20 - [Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
+- Jan 20 - [The Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
+- Jan 20 - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+- Jan 20 - [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis)
+- Jan 20 - [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html)
+- Jan 20 - [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html)
 <!--END_SECTION:hn-->
 
 <!--
