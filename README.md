@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [US citizen says ICE removed him from his Minnesota home in his underwear](https://apnews.com/article/minnesota-immigration-us-citizen-detained-hmong-d009590a491c0c8243ef21ef24db7182)
-- Jan 20 - [Danish pension fund divesting US Treasuries](https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/)
-- Jan 20 - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
-- Jan 20 - [The Zen of Reticulum](https://github.com/markqvist/Reticulum/blob/master/Zen%20of%20Reticulum.md)
-- Jan 20 - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
+- Jan 20 - [OpenAI is rolling out age prediction](https://openai.com/index/our-approach-to-age-prediction/)
+- Jan 20 - [The secret medieval tunnels that we still don't understand](https://weirdmedievalguys.substack.com/p/the-secret-medieval-tunnels-that)
+- Jan 20 - [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
+- Jan 20 - [Much of the World Facing 'Water Bankruptcy,' U.N. Report Warns](https://e360.yale.edu/digest/water-bankruptcy-report)
+- Jan 20 - [Immigration Agencies Are Openly Defying Federal Courts](https://lpeproject.org/blog/immigration-agencies-are-openly-defying-federal-courts/)
 <!--END_SECTION:hn-->
 
 <!--
