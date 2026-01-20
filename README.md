@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 19 - [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
-- Jan 19 - [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
-- Jan 19 - [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/)
-- Jan 19 - [Targeted Bets: An alternative approach to the job hunt](https://www.seanmuirhead.com/blog/targeted-bets)
-- Jan 19 - [The assistant axis: situating and stabilizing the character of LLMs](https://www.anthropic.com/research/assistant-axis)
+- Jan 20 - [F-16 Falcon Strike, modern combat flight SIM for Atari XL/XE](https://webchrono.pl/F16FalconStrike/index.html)
+- Jan 20 - [Go 1.26 Interactive Tour](https://antonz.org/go-1-26/)
+- Jan 20 - [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/)
+- Jan 20 - [Nova Launcher Added Facebook and Google Ads Tracking](https://lemdro.id/post/lemdro.id/35049920)
+- Jan 20 - [Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
 <!--END_SECTION:hn-->
 
 <!--
