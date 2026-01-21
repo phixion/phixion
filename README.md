@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [SmartOS](https://docs.smartos.org/)
-- Jan 21 - [Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets](https://github.com/borenstein/yolo-cage)
-- Jan 21 - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
-- Jan 21 - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
-- Jan 21 - [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
+- Jan 21 - [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
+- Jan 21 - [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
+- Jan 21 - [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
+- Jan 21 - [Show HN: Rails UI](https://railsui.com/)
+- Jan 21 - [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
 <!--END_SECTION:hn-->
 
 <!--
