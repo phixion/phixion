@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql)
-- Jan 21 - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
-- Jan 21 - [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
-- Jan 21 - [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf)
-- Jan 21 - [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)
+- Jan 21 - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
+- Jan 21 - [Parliament tells Dutch government to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
+- Jan 21 - [EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)
+- Jan 21 - [SETI Home Is in Hiberation](https://setiathome.berkeley.edu/)
+- Jan 21 - [The percentage of Show HN posts is increasing, but their scores are decreasing](https://snubi.net/posts/Show-HN/)
 <!--END_SECTION:hn-->
 
 <!--
