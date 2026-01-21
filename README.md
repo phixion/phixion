@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers)
-- Jan 21 - [Parliament tells Dutch government to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands)
-- Jan 21 - [EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)
-- Jan 21 - [SETI Home Is in Hiberation](https://setiathome.berkeley.edu/)
-- Jan 21 - [The percentage of Show HN posts is increasing, but their scores are decreasing](https://snubi.net/posts/Show-HN/)
+- Jan 21 - [SmartOS](https://docs.smartos.org/)
+- Jan 21 - [Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets](https://github.com/borenstein/yolo-cage)
+- Jan 21 - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
+- Jan 21 - [Comic-Con Bans AI Art After Artist Pushback](https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/)
+- Jan 21 - [Ireland wants to give its cops spyware, ability to crack encrypted messages](https://www.theregister.com/2026/01/21/ireland_wants_to_give_police/)
 <!--END_SECTION:hn-->
 
 <!--
