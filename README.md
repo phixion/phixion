@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 20 - [DOGE employees may have improperly accessed social security data, DOJ says](https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing)
-- Jan 20 - [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
-- Jan 20 - [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope)
-- Jan 20 - [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821)
-- Jan 20 - [Which AI Lies Best? A game theory classic designed by John Nash](https://so-long-sucker.vercel.app/)
+- Jan 21 - [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml)
+- Jan 21 - [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
+- Jan 21 - [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/)
+- Jan 21 - [Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/)
+- Jan 20 - [Claude Chill: Fix Claude Code's flickering in terminal](https://github.com/davidbeesley/claude-chill)
 <!--END_SECTION:hn-->
 
 <!--
