@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 22 - [Flowtel (YC W25) Is Hiring](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior)
+- Jan 22 - [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
+- Jan 22 - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
 - Jan 22 - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
-- Jan 22 - [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad)
 - Jan 22 - [Significant US farm losses persist, despite federal assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)
-- Jan 22 - [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/)
-- Jan 22 - [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/)
 <!--END_SECTION:hn-->
 
 <!--
