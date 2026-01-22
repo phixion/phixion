@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
-- Jan 22 - [Tree-sitter vs. Language Servers](https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/)
-- Jan 22 - [In Europe, Wind and Solar Overtake Fossil Fuels](https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels)
-- Jan 22 - [Meet the Alaska Student Arrested for Eating an AI Art Exhibit](https://www.thenation.com/article/society/alaska-student-arrested-eating-ai-art-exhibit/)
-- Jan 22 - [Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation](https://qwen.ai/blog?id=qwen3tts-0115)
+- Jan 22 - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
+- Jan 22 - [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
+- Jan 22 - [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
+- Jan 22 - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
+- Jan 22 - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/)
 <!--END_SECTION:hn-->
 
 <!--
