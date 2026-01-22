@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 21 - [How are you automating your coding work?](https://news.ycombinator.com/item?id=46710108)
-- Jan 21 - [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
-- Jan 21 - [TeraWave Satellite Communications Network](https://www.blueorigin.com/terawave)
-- Jan 21 - [Show HN: Rails UI](https://railsui.com/)
-- Jan 21 - [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
+- Jan 21 - [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)
+- Jan 21 - [Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace)
+- Jan 21 - [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com)
+- Jan 21 - [Setting Up a Cluster of Tiny PCs for Parallel Computing](https://www.kenkoonwong.com/blog/parallel-computing/)
+- Jan 21 - [TeraWave Satellite Communications Network](https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity)
 <!--END_SECTION:hn-->
 
 <!--
