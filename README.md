@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 22 - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
-- Jan 22 - [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
-- Jan 22 - [Recent discoveries on the acquisition of the highest levels of human performance](https://www.science.org/doi/abs/10.1126/science.adt7790)
-- Jan 22 - [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions)
-- Jan 22 - [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/)
+- Jan 22 - [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/)
+- Jan 22 - [FIPS dependencies and prebuilt binaries](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/)
+- Jan 22 - [Anthropic Economic Index economic primitives](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)
+- Jan 22 - [Viking Ship Museum in Denmark announces the discovery of the largest cog](https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/)
+- Jan 22 - [Extracting a UART Password via SPI Flash Instruction Tracing](https://zuernerd.github.io/blog/2026/01/07/switch-password.html)
 <!--END_SECTION:hn-->
 
 <!--
