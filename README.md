@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 23 - [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+- Jan 23 - [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)
+- Jan 23 - [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
+- Jan 23 - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
 - Jan 23 - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
-- Jan 23 - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
-- Jan 23 - [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
-- Jan 23 - [Bugs Apple Loves](https://www.bugsappleloves.com)
-- Jan 23 - [Stunnel](https://www.stunnel.org/)
 <!--END_SECTION:hn-->
 
 <!--
