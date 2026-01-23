@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [The Lost Art of XML](https://marcosmagueta.com/blog/the-lost-art-of-xml/)
+- Jan 23 - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
+- Jan 23 - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
+- Jan 23 - [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/)
 - Jan 23 - [Bugs Apple Loves](https://www.bugsappleloves.com)
 - Jan 23 - [Stunnel](https://www.stunnel.org/)
-- Jan 23 - [Why medieval city-builder video games are historically inaccurate (2020)](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate)
-- Jan 23 - [Arkansas inmates restricted from receiving physical books, other media directly](https://arkansasadvocate.com/2025/12/19/arkansas-inmates-restricted-from-receiving-physical-books-other-media-directly-under-new-policy/)
 <!--END_SECTION:hn-->
 
 <!--
