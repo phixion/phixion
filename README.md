@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
-- Jan 23 - [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/)
-- Jan 23 - [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
-- Jan 23 - [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)
-- Jan 23 - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
+- Jan 23 - [DOGE improperly accessed and shared Social Security data](https://blog.quintarelli.it/2026/01/how-doge-improperly-accessed-and-shared-social-security-data-npr/)
+- Jan 23 - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
+- Jan 23 - [Radicle: The Sovereign Forge](https://radicle.xyz)
+- Jan 23 - [Microsoft mishandling example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
+- Jan 23 - [European Alternatives](https://european-alternatives.eu)
 <!--END_SECTION:hn-->
 
 <!--
