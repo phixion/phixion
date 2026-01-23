@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [DOGE improperly accessed and shared Social Security data](https://blog.quintarelli.it/2026/01/how-doge-improperly-accessed-and-shared-social-security-data-npr/)
-- Jan 23 - [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
-- Jan 23 - [Radicle: The Sovereign Forge](https://radicle.xyz)
-- Jan 23 - [Microsoft mishandling example.com](https://tinyapps.org/blog/microsoft-mishandling-example-com.html)
-- Jan 23 - [European Alternatives](https://european-alternatives.eu)
+- Jan 23 - [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
+- Jan 23 - [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
+- Jan 23 - [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
+- Jan 23 - [Zotero 8](https://www.zotero.org/blog/zotero-8/)
+- Jan 23 - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
 <!--END_SECTION:hn-->
 
 <!--
