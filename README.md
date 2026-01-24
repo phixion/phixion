@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
-- Jan 24 - [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
-- Jan 24 - [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
+- Jan 24 - [Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
+- Jan 24 - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
+- Jan 24 - [Comma openpilot – Open source driver-assistance](https://comma.ai)
 - Jan 23 - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 - Jan 23 - [Mental Models (2018)](https://fs.blog/mental-models/)
 <!--END_SECTION:hn-->
