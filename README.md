@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 24 - [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
+- Jan 24 - [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)
+- Jan 24 - [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 - Jan 24 - [Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/)
 - Jan 24 - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
-- Jan 24 - [Comma openpilot – Open source driver-assistance](https://comma.ai)
-- Jan 23 - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
-- Jan 23 - [Mental Models (2018)](https://fs.blog/mental-models/)
 <!--END_SECTION:hn-->
 
 <!--
