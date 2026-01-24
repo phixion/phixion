@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 23 - [Iran Govt Fakes Traffic to Mimic Internet Restoration](https://mastodon.social/@netblocks/115942585753525035)
-- Jan 23 - [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
-- Jan 23 - [Claude.ai silently failing since Jan 14, no official acknowledgment](https://github.com/anthropics/claude-code/issues/18866)
-- Jan 23 - [Zotero 8](https://www.zotero.org/blog/zotero-8/)
-- Jan 23 - [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/)
+- Jan 24 - [Minnesota activist releases arrest video after manipulated White House version](https://apnews.com/article/minnesota-activist-ice-protest-church-video-49faf3efd54e496388651aac1369fb44)
+- Jan 23 - [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)
+- Jan 23 - [EquipmentShare (YC W15) goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)
+- Jan 23 - [Mental Models (2018)](https://fs.blog/mental-models/)
+- Jan 23 - [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
 <!--END_SECTION:hn-->
 
 <!--
