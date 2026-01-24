@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Minnesota activist releases arrest video after manipulated White House version](https://apnews.com/article/minnesota-activist-ice-protest-church-video-49faf3efd54e496388651aac1369fb44)
-- Jan 23 - [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/)
-- Jan 23 - [EquipmentShare (YC W15) goes public](https://www.ycombinator.com/blog/congratulations-to-equipmentshare/)
+- Jan 24 - [Caroline Ellison Former Alameda CEO Released from Prison After 440 Days](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450)
+- Jan 24 - [Open-source self-driving for 325 car models from 27 brands](https://comma.ai)
+- Jan 24 - [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer)
+- Jan 23 - [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/)
 - Jan 23 - [Mental Models (2018)](https://fs.blog/mental-models/)
-- Jan 23 - [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead)
 <!--END_SECTION:hn-->
 
 <!--
