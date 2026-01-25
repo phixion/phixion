@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
-- Jan 24 - [ICE Releases RFI for User Tracking Tools](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
-- Jan 24 - [I don't write code anymore – I sculpt it](https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/)
-- Jan 24 - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
-- Jan 24 - [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
+- Jan 25 - [Why is it legal and ok when big corp. straight tries to scam a user?](https://news.ycombinator.com/item?id=46750577)
+- Jan 25 - [The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/)
+- Jan 25 - [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
+- Jan 25 - [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
+- Jan 25 - [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
 <!--END_SECTION:hn-->
 
 <!--
