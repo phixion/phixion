@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Nango (YC W23, Dev Infrastructure) Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
-- Jan 25 - [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb)
-- Jan 25 - [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
-- Jan 25 - [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
-- Jan 25 - [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
+- Jan 25 - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
+- Jan 25 - [Genetic Data from over 20k U.S. Children Misused for 'Race Science'](https://www.nytimes.com/2026/01/24/us/children-genetics-race-science.html)
+- Jan 25 - [Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux](https://www.phoronix.com/news/Wine-Staging-11.1)
+- Jan 25 - [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
+- Jan 25 - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
 <!--END_SECTION:hn-->
 
 <!--
