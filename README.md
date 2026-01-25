@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 24 - [Propositions about the New Romanticism](https://www.honest-broker.com/p/25-propositions-about-the-new-romanticism)
-- Jan 24 - [Looks like Claude is having a stroke](https://twitter.com/tskulbru/status/2015148189897101622)
-- Jan 24 - [Agent orchestration for the timid](https://substack.com/inbox/post/185649875)
-- Jan 24 - [JSON-render: LLM-based JSON-to-UI tool](https://json-render.dev/)
-- Jan 24 - [The Concatative Language XY](http://www.nsl.com/k/xy/xy.txt)
+- Jan 24 - [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
+- Jan 24 - [ICE Releases RFI for User Tracking Tools](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/)
+- Jan 24 - [I don't write code anymore – I sculpt it](https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/)
+- Jan 24 - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/)
+- Jan 24 - [The Writers Came at Night](https://www.metropolitanreview.org/p/the-writers-came-at-night)
 <!--END_SECTION:hn-->
 
 <!--
