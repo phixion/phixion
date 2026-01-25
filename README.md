@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net](https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk)
-- Jan 25 - [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator)
-- Jan 25 - [Nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971)
-- Jan 25 - [Second Win11 emergency out of band update to address disastrous Patch Tuesday](https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs)
-- Jan 25 - [David Patterson: Challenges and Research Directions for LLM Inference Hardware](https://arxiv.org/abs/2601.05047)
+- Jan 25 - [Nango (YC W23, Dev Infrastructure) Is Hiring Remotely](https://jobs.ashbyhq.com/Nango)
+- Jan 25 - [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb)
+- Jan 25 - [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/)
+- Jan 25 - [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
+- Jan 25 - [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
 <!--END_SECTION:hn-->
 
 <!--
