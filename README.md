@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 25 - [First, Make Me Care](https://gwern.net/blog/2026/make-me-care)
+- Jan 25 - [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
+- Jan 25 - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
 - Jan 25 - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
-- Jan 25 - [Genetic Data from over 20k U.S. Children Misused for 'Race Science'](https://www.nytimes.com/2026/01/24/us/children-genetics-race-science.html)
-- Jan 25 - [Wine-Staging 11.1 Adds Patches for Enabling Recent Photoshop Versions on Linux](https://www.phoronix.com/news/Wine-Staging-11.1)
-- Jan 25 - [Web-based image editor modeled after Deluxe Paint](https://github.com/steffest/DPaint-js)
-- Jan 25 - [Alarm overload is undermining safety at sea as crews face thousands of alerts](https://www.lr.org/en/knowledge/press-room/press-listing/press-release/2026/alarm-overload-is-undermining-safety-at-sea-as-new-research-shows-crews-face-tens-of-thousands-of-daily-alerts/)
+- Jan 25 - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
 <!--END_SECTION:hn-->
 
 <!--
