@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 26 - [Show HN posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)
+- Jan 26 - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
+- Jan 26 - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
+- Jan 26 - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
 - Jan 26 - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
-- Jan 26 - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/)
-- Jan 26 - [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php)
-- Jan 26 - [Show HN: NukeCast – If it happened today, where would the fallout go](https://nukecast.com/)
-- Jan 26 - [You can just port things to Cloudflare Workers](https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/)
 <!--END_SECTION:hn-->
 
 <!--
