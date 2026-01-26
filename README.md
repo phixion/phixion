@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [Show HN posts p/month more than doubled in the last year](https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/)
-- Jan 26 - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
-- Jan 26 - [San Francisco Graffiti](https://walzr.com/sf-graffiti)
-- Jan 26 - [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
-- Jan 26 - [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
+- Jan 26 - [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking)
+- Jan 26 - [Windows 11's Patch Tuesday nightmare gets worse](https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot)
+- Jan 26 - [OracleGPT: Thought Experiment on an AI Powered Executive](https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM)
+- Jan 26 - [AI will not replace software engineers (hopefully)](https://medium.com/@sig.segv/ai-will-not-replace-software-engineers-hopefully-84c4f8fc94c0)
+- Jan 26 - [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
 <!--END_SECTION:hn-->
 
 <!--
