@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 25 - [First, Make Me Care](https://gwern.net/blog/2026/make-me-care)
-- Jan 25 - [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
-- Jan 25 - [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq)
-- Jan 25 - [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
-- Jan 25 - [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence)
+- Jan 25 - [Show HN: A small programming language where everything is a value](https://github.com/Jcparkyn/herd)
+- Jan 25 - [Case study: Creative math – How AI fakes proofs](https://tomaszmachnik.pl/case-study-math-en.html)
+- Jan 25 - [LED lighting undermines visual performance unless supplemented by wider spectra](https://www.nature.com/articles/s41598-026-35389-6)
+- Jan 25 - [The '3.5% rule': How a small minority can change the world (2019)](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
+- Jan 25 - [Oneplus phone update introduces hardware anti-rollback](https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback)
 <!--END_SECTION:hn-->
 
 <!--
