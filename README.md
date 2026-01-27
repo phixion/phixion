@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Hacker News: Savage Edition](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest-2025-01-27-2.html)
-- Jan 27 - [Heathrow Drops the Liquids Rule](https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/)
-- Jan 27 - [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/)
-- Jan 26 - [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/)
-- Jan 26 - [You have to know how to drive the car](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)
+- Jan 27 - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
+- Jan 27 - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
+- Jan 27 - [France passes bill to ban social media use by under-15s](https://www.rte.ie/news/europe/2026/0127/1555251-france-social-media-ban/)
+- Jan 27 - [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
+- Jan 27 - [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
 <!--END_SECTION:hn-->
 
 <!--
