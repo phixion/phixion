@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Trayd (YC S23) is hiring senior engineers in NYC – scaling after major growth](https://news.ycombinator.com/item?id=46778846)
-- Jan 27 - [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461)
-- Jan 27 - [I made my own Git](https://tonystr.net/blog/git_immitation)
-- Jan 27 - [We Do Not Support Opt-Out Forms (2025)](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/)
-- Jan 27 - [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo)
+- Jan 27 - [430k-year-old well-preserved wooden tools are the oldest ever found](https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/)
+- Jan 27 - [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
+- Jan 27 - [Amazon Closing Fresh and Go Stores](https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html)
+- Jan 27 - [The age of Pump and Dump software](https://tautvilas.medium.com/software-pump-and-dump-c8a9a73d313b)
+- Jan 27 - [Show HN: We Built the 1. EU-Sovereignty Audit for Websites](https://lightwaves.io/en/eu-audit/)
 <!--END_SECTION:hn-->
 
 <!--
