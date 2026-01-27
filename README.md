@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jan 27 - [SoundCloud - 29,815,722 breached accounts](https://haveibeenpwned.com/Breach/SoundCloud)
 - Jan 21 - [Under Armour - 72,742,892 breached accounts](https://haveibeenpwned.com/Breach/UnderArmour)
 - Jan 19 - [Raaga - 10,225,145 breached accounts](https://haveibeenpwned.com/Breach/Raaga)
 - Jan 18 - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
 - Jan 11 - [Instagram - 6,215,150 breached accounts](https://haveibeenpwned.com/Breach/Instagram)
-- Jan 10 - [BreachForums (2025) - 672,247 breached accounts](https://haveibeenpwned.com/Breach/BreachForums2025)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 26 - [I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip)
-- Jan 26 - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
-- Jan 26 - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/)
-- Jan 26 - [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
-- Jan 26 - [Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus](https://tetrisbench.com/tetrisbench/)
+- Jan 27 - [Hacker News: Savage Edition](https://dosaygo-studio.github.io/hn-front-page-2035/news-honest-2025-01-27-2.html)
+- Jan 27 - [Heathrow Drops the Liquids Rule](https://flymag.com/heathrow-drops-the-liquids-rule-what-changes-at-lhr-and-how-close-the-u-s-really-is/)
+- Jan 27 - [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/)
+- Jan 26 - [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/)
+- Jan 26 - [You have to know how to drive the car](https://www.seangoedecke.com/knowing-how-to-drive-the-car/)
 <!--END_SECTION:hn-->
 
 <!--
