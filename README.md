@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
-- Jan 28 - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
-- Jan 28 - [Airfoil (2024)](https://ciechanow.ski/airfoil/)
-- Jan 28 - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
-- Jan 28 - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
+- Jan 28 - [LM Studio 0.4.0](https://lmstudio.ai/blog/0.4.0)
+- Jan 28 - [That's Not How Email Works, HSBC](https://danq.me/2026/01/28/hsbc-dont-understand-email/)
+- Jan 28 - [Computer History Museum Launches Digital Portal to Its Collection](https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/)
+- Jan 28 - [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
+- Jan 28 - [Spinning around: Please don't – Common problems with spin locks](https://www.siliceum.com/en/blog/post/spinning-around/)
 <!--END_SECTION:hn-->
 
 <!--
