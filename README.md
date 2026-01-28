@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 27 - [Chuck Klosterman on why we've never actually seen a real football game](https://www.latimes.com/entertainment-arts/books/story/2026-01-22/chuck-klosterman-new-book-football)
-- Jan 27 - [Arm's Cortex A725 Ft. Dell's Pro Max with GB10](https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max)
-- Jan 27 - [Lennart Poettering, Christian Brauner founded a new company](https://amutable.com/about)
-- Jan 27 - [Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer](https://www.ycombinator.com/companies/hypercubic/jobs)
-- Jan 27 - [U.S. government has lost more than 10k STEM PhDs since Trump took office](https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office)
+- Jan 27 - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
+- Jan 27 - [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/)
+- Jan 27 - [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo)
+- Jan 27 - [Time Station Emulator](https://github.com/kangtastic/timestation)
+- Jan 27 - [How many chess games are possible?](https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/)
 <!--END_SECTION:hn-->
 
 <!--
