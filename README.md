@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 28 - [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/)
+- Jan 28 - [Dole Kemp 96 Web Site](https://www.dolekemp96.org/main.htm)
+- Jan 28 - [Airfoil (2024)](https://ciechanow.ski/airfoil/)
+- Jan 28 - [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 - Jan 28 - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
-- Jan 28 - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
-- Jan 28 - [Australian high schoolers build coding platform to help learners in Sri Lanka](https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842)
-- Jan 28 - [Devuan – Debian Without Systemd](https://www.devuan.org/)
-- Jan 28 - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
 <!--END_SECTION:hn-->
 
 <!--
