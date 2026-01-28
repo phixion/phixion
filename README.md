@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [I got 14.84x GPU speedup by studying how octopus arms coordinate](https://github.com/matthewlam721/octopus-parallel)
-- Jan 28 - [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
-- Jan 28 - [AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities)
-- Jan 27 - [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
-- Jan 27 - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft)
+- Jan 28 - [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead)
+- Jan 28 - [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
+- Jan 28 - [Australian high schoolers build coding platform to help learners in Sri Lanka](https://www.abc.net.au/news/2026-01-21/qld-teenagers-create-coding-app-code-lab-sri-lanka-students/106225842)
+- Jan 28 - [Devuan – Debian Without Systemd](https://www.devuan.org/)
+- Jan 28 - [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/)
 <!--END_SECTION:hn-->
 
 <!--
