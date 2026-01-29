@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 28 - [I reverse-engineered Netflix's 4K restrictions](https://github.com/Pickle-Pixel/netflix-force-4k)
-- Jan 28 - [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
-- Jan 28 - [In 6 violent encounters, evidence contradicts immigration officials' narratives](https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/)
-- Jan 28 - [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
-- Jan 28 - [Tesla ending Models S and X production](https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html)
+- Jan 29 - [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+- Jan 29 - [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer)
+- Jan 29 - [Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105](https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105)
+- Jan 29 - [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
+- Jan 29 - [Show HN: Shelvy Books](https://shelvybooks.com)
 <!--END_SECTION:hn-->
 
 <!--
