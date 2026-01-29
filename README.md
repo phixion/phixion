@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
-- Jan 29 - [OpenAI’s unit economics](https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview)
-- Jan 29 - [The only moat left is knowing things](https://growtika.com/blog/authenticity-edge)
-- Jan 29 - [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
-- Jan 29 - [We can’t send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+- Jan 29 - [Days numbered for 'risky' lithium-ion batteries](https://www.livescience.com/technology/engineering/days-numbered-for-risky-lithium-ion-batteries-scientists-say-after-fast-charging-breakthrough-in-sodium-ion-alternative)
+- Jan 29 - [OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)](https://quesma.com/blog/introducing-otel-bench/)
+- Jan 29 - [Deep dive into Turso, the "SQLite rewrite in Rust"](https://kerkour.com/turso-sqlite)
+- Jan 29 - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
+- Jan 29 - [Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC](https://www.breakmeifyoucan.com/)
 <!--END_SECTION:hn-->
 
 <!--
