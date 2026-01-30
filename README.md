@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9)
-- Jan 30 - [Way AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
-- Jan 30 - [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
-- Jan 30 - [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
-- Jan 30 - [Moltbook](https://www.moltbook.com/)
+- Jan 30 - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
+- Jan 30 - [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)
+- Jan 30 - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
+- Jan 30 - [GOG: Linux "the next major frontier" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
+- Jan 30 - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
 <!--END_SECTION:hn-->
 
 <!--
