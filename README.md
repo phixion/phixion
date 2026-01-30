@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 29 - [What the Success of Coding Agents Teaches Us about AI Systems in General](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
-- Jan 29 - [Employers, please use postmarked letters for job applications](https://soapstone.mradford.com/employers-use-letters-for-job-applications/)
+- Jan 30 - [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
+- Jan 30 - [9front OS](https://9front.org/)
+- Jan 29 - [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
 - Jan 29 - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-- Jan 29 - [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation)
-- Jan 29 - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
+- Jan 29 - [Cutting Up Curved Things](https://campedersen.com/tessellation)
 <!--END_SECTION:hn-->
 
 <!--
