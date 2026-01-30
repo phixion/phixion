@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us)
-- Jan 30 - [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada)
-- Jan 30 - [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/)
-- Jan 30 - [GOG: Linux "the next major frontier" for gaming as it works on a native client](https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/)
-- Jan 30 - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
+- Jan 30 - [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
+- Jan 30 - [Where I'm at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
+- Jan 30 - [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
+- Jan 30 - [Richard Feynman Side Hustles](https://twitter.com/carl_feynman/status/2016979540099420428)
+- Jan 30 - [Ode to the AA Battery](https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/)
 <!--END_SECTION:hn-->
 
 <!--
