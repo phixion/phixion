@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 30 - [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
-- Jan 30 - [9front OS](https://9front.org/)
-- Jan 29 - [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/)
-- Jan 29 - [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-- Jan 29 - [Cutting Up Curved Things](https://campedersen.com/tessellation)
+- Jan 30 - [Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9)
+- Jan 30 - [Way AI assistance impacts the formation of coding skills](https://www.anthropic.com/research/AI-assistance-coding-skills)
+- Jan 30 - [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
+- Jan 30 - [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
+- Jan 30 - [Moltbook](https://www.moltbook.com/)
 <!--END_SECTION:hn-->
 
 <!--
