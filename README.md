@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jan 31 - [Nvidia's 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
+- Jan 31 - [US reportedly investigate claims that Meta can read encrypted WhatsApp messages](https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages)
 - Jan 31 - [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
-- Jan 31 - [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
-- Jan 31 - [htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/)
-- Jan 31 - [Automatic Programming](https://antirez.com/news/159)
-- Jan 31 - [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/)
+- Jan 31 - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
+- Jan 31 - ["Giving up upstream-ing my patches & feel free to pick them up"](https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html)
 <!--END_SECTION:hn-->
 
 <!--
