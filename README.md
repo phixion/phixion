@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Nvidia's 10-year effort to make the Shield TV the most updated Android device](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/)
-- Jan 31 - [US reportedly investigate claims that Meta can read encrypted WhatsApp messages](https://www.theguardian.com/technology/2026/jan/31/us-authorities-reportedly-investigate-claims-that-meta-can-read-encrypted-whatsapp-messages)
-- Jan 31 - [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer)
-- Jan 31 - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
-- Jan 31 - ["Giving up upstream-ing my patches & feel free to pick them up"](https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html)
+- Jan 31 - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
+- Jan 31 - [Death Note: L, Anonymity and Eluding Entropy (2011)](https://gwern.net/death-note-anonymity)
+- Jan 31 - [Google Cloud suspended my account for 2 years, only automated replies](https://news.ycombinator.com/item?id=46839375)
+- Jan 31 - [Nintendo DS code editor and scriptable game engine](https://crl.io/ds-game-engine/)
+- Jan 31 - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
 <!--END_SECTION:hn-->
 
 <!--
