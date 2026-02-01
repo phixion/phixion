@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jan 31 - [Berlin: Record harvest sparks mass giveaway of free potatoes](https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes)
-- Jan 31 - [Death Note: L, Anonymity and Eluding Entropy (2011)](https://gwern.net/death-note-anonymity)
-- Jan 31 - [Google Cloud suspended my account for 2 years, only automated replies](https://news.ycombinator.com/item?id=46839375)
-- Jan 31 - [Nintendo DS code editor and scriptable game engine](https://crl.io/ds-game-engine/)
-- Jan 31 - [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index)
+- Jan 31 - [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
+- Jan 31 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/)
+- Jan 31 - [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)
+- Jan 31 - [Outsourcing Thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
+- Jan 31 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer)
 <!--END_SECTION:hn-->
 
 <!--
