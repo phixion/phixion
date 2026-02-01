@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 01 - [US, UK, EU, Australia and more to meet to discuss critical minerals alliance](https://www.theguardian.com/business/2026/feb/01/us-uk-eu-australia-critical-minerals-rare-earths-g7-minimum-price)
+- Feb 01 - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
+- Feb 01 - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
 - Feb 01 - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
-- Feb 01 - [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)
-- Feb 01 - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
-- Feb 01 - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
-- Feb 01 - [List animals until failure](https://rose.systems/animalist/)
+- Feb 01 - [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)
 <!--END_SECTION:hn-->
 
 <!--
