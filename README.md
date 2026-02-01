@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [US, UK, EU, Australia and more to meet to discuss critical minerals alliance](https://www.theguardian.com/business/2026/feb/01/us-uk-eu-australia-critical-minerals-rare-earths-g7-minimum-price)
-- Feb 01 - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
-- Feb 01 - [Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code](https://github.com/zuckermanai/zuckerman)
-- Feb 01 - [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
-- Feb 01 - [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home)
+- Feb 01 - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
+- Feb 01 - [The philosophy behind ODF: openness, freedom and control – TDF Community Blog](https://blog.documentfoundation.org/blog/2026/01/24/the-philosophy-behind-odf/)
+- Feb 01 - [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
+- Feb 01 - [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
+- Feb 01 - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
 <!--END_SECTION:hn-->
 
 <!--
