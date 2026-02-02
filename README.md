@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 02 - [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/)
-- Feb 02 - [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
-- Feb 02 - [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/)
-- Feb 02 - [Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
-- Feb 02 - [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
+- Feb 02 - [Applications where agents are first-class citizens](https://every.to/guides/agent-native)
+- Feb 02 - [Microsoft is walking back Windows 11's AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall)
+- Feb 02 - [Show HN: Sklad – Secure, offline-first snippet manager (Rust, Tauri v2)](https://github.com/Rench321/sklad)
+- Feb 02 - [EU launches government satcom program in sovereignty push](https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/)
+- Feb 02 - [Library of Juggling](https://libraryofjuggling.com/)
 <!--END_SECTION:hn-->
 
 <!--
