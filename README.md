@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
-- Feb 01 - [Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)
-- Feb 01 - [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
-- Feb 01 - [Margin Call](https://asymco.com/2026/02/01/margin-call-3/)
-- Feb 01 - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
+- Feb 02 - [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/)
+- Feb 02 - [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
+- Feb 02 - [Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf)
+- Feb 02 - [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org)
+- Feb 02 - [Time Machine-style Backups with rsync (2018)](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync)
 <!--END_SECTION:hn-->
 
 <!--
