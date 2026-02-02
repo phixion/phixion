@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 01 - [TIL: Apple Broke Time Machine Again on Tahoe](https://taoofmac.com/space/til/2026/02/01/1630)
-- Feb 01 - [The philosophy behind ODF: openness, freedom and control – TDF Community Blog](https://blog.documentfoundation.org/blog/2026/01/24/the-philosophy-behind-odf/)
-- Feb 01 - [I taught my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
-- Feb 01 - [Light exposure and aspects of cognitive function in everyday life](https://www.nature.com/articles/s44271-025-00373-9)
-- Feb 01 - [Clearspace (YC W23) Is Hiring an Applied Researcher (ML)](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace)
+- Feb 01 - [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
+- Feb 01 - [Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)
+- Feb 01 - [MRI scans show exercise can make the brain look younger](https://www.sciencedaily.com/releases/2026/01/260121034130.htm)
+- Feb 01 - [Margin Call](https://asymco.com/2026/02/01/margin-call-3/)
+- Feb 01 - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 <!--END_SECTION:hn-->
 
 <!--
