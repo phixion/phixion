@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Banning lead in gas worked. The proof is in our hair](https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/)
-- Feb 03 - [GitHub discusses giving maintainers control to disable PRs](https://github.com/orgs/community/discussions/185387)
+- Feb 03 - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
+- Feb 03 - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
+- Feb 03 - [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)
+- Feb 03 - [Ask HN: Where do all the web devs talk?](https://news.ycombinator.com/item?id=46866149)
 - Feb 03 - [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
-- Feb 02 - [Firefox Getting New Controls to Turn Off AI Features](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
-- Feb 02 - [Julia](https://borretti.me/fiction/julia)
 <!--END_SECTION:hn-->
 
 <!--
