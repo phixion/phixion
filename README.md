@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 03 - [Banning lead in gas worked. The proof is in our hair](https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/)
+- Feb 03 - [GitHub discusses giving maintainers control to disable PRs](https://github.com/orgs/community/discussions/185387)
+- Feb 03 - [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
 - Feb 02 - [Firefox Getting New Controls to Turn Off AI Features](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/)
-- Feb 02 - [The TSA's New $45 Fee to Fly Without ID Is Illegal](https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/)
-- Feb 02 - [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/)
-- Feb 02 - [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
-- Feb 02 - [GitHub experience various partial-outages/degradations](https://www.githubstatus.com?todayis=2026-02-02)
+- Feb 02 - [Julia](https://borretti.me/fiction/julia)
 <!--END_SECTION:hn-->
 
 <!--
