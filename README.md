@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
-- Feb 03 - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
-- Feb 03 - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
-- Feb 03 - [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live)
-- Feb 03 - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
+- Feb 03 - [Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework](https://news.ycombinator.com/item?id=46872733)
+- Feb 03 - [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
+- Feb 03 - [New York Wants to Ctrl+Alt+Delete Your 3D Printer](https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/)
+- Feb 03 - [Anthropic is Down](https://updog.ai/status/anthropic)
+- Feb 03 - [Data Brokers Can Fuel Violence Against Public Servants](https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/)
 <!--END_SECTION:hn-->
 
 <!--
