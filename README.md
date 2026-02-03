@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 03 - [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
-- Feb 03 - [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral)
-- Feb 03 - [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus)
-- Feb 03 - [Ask HN: Where do all the web devs talk?](https://news.ycombinator.com/item?id=46866149)
-- Feb 03 - [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
+- Feb 03 - [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer)
+- Feb 03 - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
+- Feb 03 - [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai)
+- Feb 03 - [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live)
+- Feb 03 - [LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.](https://github.com/KrystianJonca/lnai)
 <!--END_SECTION:hn-->
 
 <!--
