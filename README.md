@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
-- Feb 04 - [A case study in PDF forensics: The Epstein PDFs](https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/)
-- Feb 04 - [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
-- Feb 04 - [FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
-- Feb 04 - [Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025](https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/)
+- Feb 04 - [Mean People Fail (2014)](https://paulgraham.com/mean.html)
+- Feb 04 - [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
+- Feb 04 - [Claude Code for Infrastructure](https://www.fluid.sh/)
+- Feb 04 - [AI needs to augment rather than replace humans or the workplace is doomed](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)
+- Feb 04 - [2 in 5 Americans did not read a single book in 2025](https://mybooklist.club/reading-statistics)
 <!--END_SECTION:hn-->
 
 <!--
