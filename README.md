@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Illinois joins WHO global outbreak network after U.S. withdraws](https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/)
-- Feb 03 - [TikTok System Design:(Step-by-Step Guide)](https://grokkingthesystemdesign.com/guides/tiktok-system-design/)
+- Feb 04 - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 - Feb 03 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
 - Feb 03 - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425)
 - Feb 03 - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
+- Feb 03 - [China Moon Mission: Aiming for 2030 lunar landing](https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis)
 <!--END_SECTION:hn-->
 
 <!--
