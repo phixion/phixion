@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 05 - [Betterment - 1,435,174 breached accounts](https://haveibeenpwned.com/Breach/Betterment)
 - Jan 31 - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
 - Jan 27 - [SoundCloud - 29,815,722 breached accounts](https://haveibeenpwned.com/Breach/SoundCloud)
 - Jan 21 - [Under Armour - 72,742,892 breached accounts](https://haveibeenpwned.com/Breach/UnderArmour)
 - Jan 19 - [Raaga - 10,225,145 breached accounts](https://haveibeenpwned.com/Breach/Raaga)
-- Jan 18 - [Pass'Sport - 6,366,133 breached accounts](https://haveibeenpwned.com/Breach/PassSport)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [NDP wants Carney to kill U.S. fighter jet contract in favour of Swedish aircraft](https://www.ctvnews.ca/politics/article/ndp-wants-carney-to-kill-us-fighter-jet-contract-in-favour-of-swedish-aircraft/)
-- Feb 04 - [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
+- Feb 05 - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
+- Feb 05 - [Child prodigies rarely become elite performers](https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers)
+- Feb 05 - [OpenClaw is what Apple intelligence should have been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
+- Feb 04 - [Why More Companies Are Recognizing the Benefits of Keeping Older Employees](https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/)
 - Feb 04 - [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
-- Feb 04 - [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
-- Feb 04 - [Spotlighting the World Factbook as We Bid a Fond Farewell](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/)
 <!--END_SECTION:hn-->
 
 <!--
