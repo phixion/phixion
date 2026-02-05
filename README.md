@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 04 - [Mean People Fail (2014)](https://paulgraham.com/mean.html)
-- Feb 04 - [How Jeff Bezos Brought Down the Washington Post](https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post)
-- Feb 04 - [Claude Code for Infrastructure](https://www.fluid.sh/)
-- Feb 04 - [AI needs to augment rather than replace humans or the workplace is doomed](https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed)
-- Feb 04 - [2 in 5 Americans did not read a single book in 2025](https://mybooklist.club/reading-statistics)
+- Feb 04 - [NDP wants Carney to kill U.S. fighter jet contract in favour of Swedish aircraft](https://www.ctvnews.ca/politics/article/ndp-wants-carney-to-kill-us-fighter-jet-contract-in-favour-of-swedish-aircraft/)
+- Feb 04 - [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
+- Feb 04 - [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html)
+- Feb 04 - [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/)
+- Feb 04 - [Spotlighting the World Factbook as We Bid a Fond Farewell](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/)
 <!--END_SECTION:hn-->
 
 <!--
