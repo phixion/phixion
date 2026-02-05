@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 05 - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
+- Feb 05 - [Company as Code](https://blog.42futures.com/p/company-as-code)
+- Feb 05 - [CIA to Sunset the World Factbook](https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724)
+- Feb 05 - [GB Renewables Map](https://renewables-map.robinhawkes.com/)
 - Feb 05 - [Freshpaint (YC S19) Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761)
-- Feb 05 - [The Missing Layer](https://yagmin.com/blog/the-missing-layer/)
-- Feb 05 - [Battle-Testing Lynx at Allegro](https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html)
-- Feb 05 - [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)
-- Feb 05 - [Data breach: DOGE 'accidentally' leaked the whole Social Security database [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf)
 <!--END_SECTION:hn-->
 
 <!--
