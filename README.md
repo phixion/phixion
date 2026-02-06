@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 05 - [The time I didn't meet Jeffrey Epstein](https://scottaaronson.blog/?p=9534)
-- Feb 05 - [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
-- Feb 05 - [Flock CEO calls Deflock a "terrorist organization" [video]](https://www.youtube.com/watch?v=l-kZGrDz7PU)
-- Feb 05 - [Ardour 9.0 Released](https://ardour.org/whatsnew.html)
-- Feb 05 - [Anthropic's Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
+- Feb 05 - [Cubans rendered powerless as outages persist and tensions with US escalate](https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f)
+- Feb 05 - [Jane Street Blog – What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
+- Feb 05 - [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm)
+- Feb 05 - [It's 2026, Just Use Postgres](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
+- Feb 05 - [Claude Opus 4.6 extra usage promo](https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo)
 <!--END_SECTION:hn-->
 
 <!--
