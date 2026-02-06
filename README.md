@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600)
-- Feb 06 - [Invention of DNA "Page Numbers" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang)
-- Feb 06 - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
-- Feb 06 - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
-- Feb 06 - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
+- Feb 06 - [NIMBYs Aren't Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
+- Feb 06 - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
+- Feb 06 - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
+- Feb 06 - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
+- Feb 06 - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 <!--END_SECTION:hn-->
 
 <!--
