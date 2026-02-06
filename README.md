@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded](https://vespalec.com/blog/tower-of-flaws/)
-- Feb 06 - [The $921M Special Interest Machine That Controls California](https://garryslist.org/posts/the-921m-special-interest-machine-that-controls-california)
-- Feb 06 - [GitHub Actions is slowly killing engineering teams](https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
-- Feb 06 - [C isn't a programming language anymore (2022)](https://faultlore.com/blah/c-isnt-a-language/)
-- Feb 05 - [Show HN: Local task classifier and dispatcher on RTX 3080](https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel)
+- Feb 06 - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+- Feb 06 - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
+- Feb 06 - [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
+- Feb 06 - [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
+- Feb 06 - [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc)
 <!--END_SECTION:hn-->
 
 <!--
