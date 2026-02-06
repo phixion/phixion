@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 06 - [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600)
+- Feb 06 - [Invention of DNA "Page Numbers" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang)
+- Feb 06 - [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 - Feb 06 - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 - Feb 06 - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
-- Feb 06 - [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/)
-- Feb 06 - [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper)
-- Feb 06 - [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc)
 <!--END_SECTION:hn-->
 
 <!--
