@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 06 - [NIMBYs Aren't Just Shutting Down Housing](https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing)
-- Feb 06 - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/)
-- Feb 06 - [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
-- Feb 06 - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
-- Feb 06 - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
+- Feb 06 - [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
+- Feb 06 - [Man who videotaped himself BASE jumping in Yosemite arrested. He says it was AI](https://www.latimes.com/california/story/2026-02-05/man-videotaped-himself-base-jumping-in-yosemite-federal-officials-say-he-says-it-was-ai)
+- Feb 06 - [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+- Feb 06 - [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry)
+- Feb 06 - [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 <!--END_SECTION:hn-->
 
 <!--
