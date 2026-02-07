@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
-- Feb 07 - [First Proof](https://arxiv.org/abs/2602.05192)
-- Feb 07 - [Show HN: One-click AI employee with its own cloud desktop](https://cloudbot-ai.com)
-- Feb 07 - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
-- Feb 07 - [France's homegrown open source online office suite](https://github.com/suitenumerique)
+- Feb 07 - [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
+- Feb 07 - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
+- Feb 07 - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
+- Feb 07 - [I Write Games in C (yes, C)](https://jonathanwhiting.com/writing/blog/games_in_c/)
+- Feb 07 - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 <!--END_SECTION:hn-->
 
 <!--
