@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/)
-- Feb 07 - [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
-- Feb 07 - [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
-- Feb 06 - [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
-- Feb 06 - [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
+- Feb 07 - [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o)
+- Feb 07 - [First Proof](https://arxiv.org/abs/2602.05192)
+- Feb 07 - [Show HN: One-click AI employee with its own cloud desktop](https://cloudbot-ai.com)
+- Feb 07 - [Stories from 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
+- Feb 07 - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 <!--END_SECTION:hn-->
 
 <!--
