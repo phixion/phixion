@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 06 - [Substack - 663,121 breached accounts](https://haveibeenpwned.com/Breach/Substack)
 - Feb 05 - [Betterment - 1,435,174 breached accounts](https://haveibeenpwned.com/Breach/Betterment)
 - Jan 31 - [Panera Bread - 5,112,502 breached accounts](https://haveibeenpwned.com/Breach/PaneraBread)
 - Jan 27 - [SoundCloud - 29,815,722 breached accounts](https://haveibeenpwned.com/Breach/SoundCloud)
 - Jan 21 - [Under Armour - 72,742,892 breached accounts](https://haveibeenpwned.com/Breach/UnderArmour)
-- Jan 19 - [Raaga - 10,225,145 breached accounts](https://haveibeenpwned.com/Breach/Raaga)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 07 - [Make Trust Irrelevant: A Gamer's Take on Agentic AI Safety](https://github.com/Deso-PK/make-trust-irrelevant)
+- Feb 07 - [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440)
+- Feb 07 - [I'm going to cure my girlfriend's brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain)
+- Feb 06 - [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/)
 - Feb 06 - [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3)
-- Feb 06 - [Early Christian Writings](https://earlychristianwritings.com/)
-- Feb 06 - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
-- Feb 06 - [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
-- Feb 06 - [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 <!--END_SECTION:hn-->
 
 <!--
