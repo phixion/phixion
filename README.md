@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
+- Feb 08 - [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
+- Feb 08 - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
+- Feb 08 - [Roger Ebert Reviews "The Shawshank Redemption"](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
+- Feb 08 - [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
 - Feb 08 - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
-- Feb 08 - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
-- Feb 08 - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
-- Feb 07 - [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
 <!--END_SECTION:hn-->
 
 <!--
