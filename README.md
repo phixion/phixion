@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [The silent death of Good Code](https://amit.prasad.me/blog/rip-good-code)
+- Feb 08 - [Homeland Security Spying on Reddit Users](https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit)
+- Feb 08 - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
+- Feb 08 - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
+- Feb 08 - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
 - Feb 07 - [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
-- Feb 07 - [Tiny C Compiler](https://bellard.org/tcc/)
-- Feb 07 - [Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
-- Feb 07 - [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 <!--END_SECTION:hn-->
 
 <!--
