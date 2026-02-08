@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [The world heard JD Vance being booed at the Olympics. Except for viewers in USA](https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics)
-- Feb 08 - [LineageOS 23.2](https://lineageos.org/Changelog-31/)
-- Feb 08 - [Roger Ebert Reviews "The Shawshank Redemption"](https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994)
-- Feb 08 - [Substack confirms data breach affects users’ email addresses and phone numbers](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/)
-- Feb 08 - [Vouch](https://twitter.com/mitchellh/status/2020252149117313349)
+- Feb 08 - [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/)
+- Feb 08 - [(AI) Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/)
+- Feb 08 - [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478)
+- Feb 08 - [Reverse Engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
+- Feb 08 - [Matchlock: Linux-based sandboxing for AI agents](https://github.com/jingkaihe/matchlock)
 <!--END_SECTION:hn-->
 
 <!--
