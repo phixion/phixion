@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Noam Chomsky's wife responds to Epstein controversy](https://www.aaronmate.net/p/noam-chomskys-wife-responds-to-epstein)
-- Feb 08 - [RFC 3092 – Etymology of "Foo" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
-- Feb 08 - [AI fatigue Is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
-- Feb 08 - [I am happier writing code by hand](https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
-- Feb 08 - [Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
+- Feb 08 - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
+- Feb 08 - [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)
+- Feb 08 - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
+- Feb 08 - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
+- Feb 08 - [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/)
 <!--END_SECTION:hn-->
 
 <!--
