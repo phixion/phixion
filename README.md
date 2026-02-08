@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 07 - [Brookhaven Lab's RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
-- Feb 07 - [We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
-- Feb 07 - [Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version](https://github.com/Momciloo/fun-with-clip-path)
-- Feb 07 - [I Write Games in C (yes, C)](https://jonathanwhiting.com/writing/blog/games_in_c/)
-- Feb 07 - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+- Feb 07 - [The silent death of Good Code](https://amit.prasad.me/blog/rip-good-code)
+- Feb 07 - [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs)
+- Feb 07 - [Tiny C Compiler](https://bellard.org/tcc/)
+- Feb 07 - [Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs)
+- Feb 07 - [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 <!--END_SECTION:hn-->
 
 <!--
