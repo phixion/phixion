@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 08 - [Roundcube Webmail: SVG feImage bypasses image blocking to track email opens](https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/)
-- Feb 08 - [Experts Have World Models. LLMs Have Word Models](https://www.latent.space/p/adversarial-reasoning)
-- Feb 08 - [The Little Bool of Doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
-- Feb 08 - [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9)
-- Feb 08 - [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/)
+- Feb 08 - [AI Makes the Easy Part Easier and the Hard Part Harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+- Feb 08 - [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products)
+- Feb 08 - [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
+- Feb 08 - [Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)](https://arxiv.org/abs/2510.25417)
+- Feb 08 - [Everything – Locate files and folders by name instantly](https://www.voidtools.com/)
 <!--END_SECTION:hn-->
 
 <!--
