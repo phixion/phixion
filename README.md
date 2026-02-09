@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [GitHub Is Down](https://github.com/)
-- Feb 09 - [It's not you; GitHub is down again](https://www.githubstatus.com/incidents/54hndjxft5bx)
-- Feb 09 - [AirPods Pro 4 Could Feature Cameras to 'See Around You'](https://www.macrumors.com/2026/02/09/airpods-pro-4-could-feature-cameras-to-see-around-you/)
-- Feb 09 - [Ask HN: Do provisional patents matter for early-stage startups?](https://news.ycombinator.com/item?id=46946464)
-- Feb 09 - [Hong Kong pro-democracy tycoon Jimmy Lai gets 20 years' jail](https://www.bbc.com/news/articles/c8d5pl34vv0o)
+- Feb 09 - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
+- Feb 09 - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
+- Feb 09 - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
+- Feb 09 - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
+- Feb 09 - [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
 <!--END_SECTION:hn-->
 
 <!--
