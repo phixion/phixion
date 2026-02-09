@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
-- Feb 09 - [A tough labor market for white-collar workers has turned recruiting upside down](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2)
-- Feb 09 - [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5)
+- Feb 09 - [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/)
+- Feb 09 - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
+- Feb 09 - [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
 - Feb 09 - [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 - Feb 08 - [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/)
 <!--END_SECTION:hn-->
