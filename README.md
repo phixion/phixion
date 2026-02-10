@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Ex-GitHub CEO Launches a New Developer Platform for AI Agents](https://entire.io/blog/hello-entire-world/)
-- Feb 10 - [Bazzite Post-Mortem](https://ba.antheas.dev/bazzite-postmortem.html)
-- Feb 10 - [Disruption with Some GitHub Services](https://www.githubstatus.com/incidents/wkgqj4546z1c)
-- Feb 10 - [I started programming when I was 7. I'm 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
-- Feb 10 - [The US is flirting with its first-ever population decline](https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time)
+- Feb 10 - [Toyotas and Terrorists: "Why are ISIS's trucks better than ours?"](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
+- Feb 10 - [China's Data Center Boom: A View from Zhangjiakou (2025)](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
+- Feb 10 - [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)
+- Feb 10 - [Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis](https://livedocs.com)
+- Feb 10 - [The Switch to Linux and the Beginning of My Self-Hosting Journey](https://hazemkrimi.tech/blog/linux-self-hosting-journey/)
 <!--END_SECTION:hn-->
 
 <!--
