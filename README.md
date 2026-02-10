@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 10 - [Show HN: Pipelock – All-in-one security harness for AI coding agents](https://github.com/luckyPipewrench/pipelock)
+- Feb 10 - [Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025)
+- Feb 10 - [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0)
+- Feb 10 - [AI doesn’t reduce work, it intensifies it](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/)
 - Feb 10 - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
-- Feb 10 - [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
-- Feb 10 - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
-- Feb 10 - [Zulip.com Values](https://zulip.com/values/)
-- Feb 09 - [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
 <!--END_SECTION:hn-->
 
 <!--
