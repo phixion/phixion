@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Feb 10 - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
-- Feb 10 - [Why "just prompt better" doesn't work](https://www.bicameral-ai.com/blog/tech-debt-meeting)
 - Feb 10 - [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
 - Feb 10 - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c)
-- Feb 10 - [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
+- Feb 10 - [Zulip.com Values](https://zulip.com/values/)
+- Feb 09 - [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
 <!--END_SECTION:hn-->
 
 <!--
