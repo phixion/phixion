@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 09 - [MIT Living Wage Calculator](https://livingwage.mit.edu/)
-- Feb 09 - [An articulated archer automaton [video]](https://www.youtube.com/watch?v=Bc0bIpDVEa8)
-- Feb 09 - [Luce: First Electric Ferrari. Designed by LoveFrom](https://www.ferrari.com/en-US/auto/ferrari-luce)
-- Feb 09 - [Another GitHub outage in the same day](https://www.githubstatus.com/incidents/lcw3tg2f6zsd)
-- Feb 09 - [Testing Ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt/)
+- Feb 09 - [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/)
+- Feb 09 - [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
+- Feb 09 - [LiftKit – UI where "everything derives from the golden ratio"](https://www.chainlift.io/liftkit)
+- Feb 09 - [America has a tungsten problem](https://www.noleary.com/blog/posts/1)
+- Feb 09 - [Super Bowl Ad for Ring Cameras Touted AI Surveillance Network](https://truthout.org/articles/super-bowl-ad-for-ring-cameras-touted-ai-surveillance-network/)
 <!--END_SECTION:hn-->
 
 <!--
