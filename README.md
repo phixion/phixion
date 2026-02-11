@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [YouTube's $60B revenue revealed amid paid subscriber push](https://www.bbc.com/news/articles/crkrkd2xlx6o)
+- Feb 11 - [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
+- Feb 11 - [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
+- Feb 11 - [Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV](https://news.ycombinator.com/item?id=46971287)
+- Feb 11 - [Stay Hungry, Stay Foolish (2005)](https://stevejobsarchive.com/stories/stay-hungry-stay-foolish)
 - Feb 11 - [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
-- Feb 11 - [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
-- Feb 10 - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-- Feb 10 - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
 <!--END_SECTION:hn-->
 
 <!--
