@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 10 - [Toyotas and Terrorists: "Why are ISIS's trucks better than ours?"](https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/)
-- Feb 10 - [China's Data Center Boom: A View from Zhangjiakou (2025)](https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from)
-- Feb 10 - [Show HN: Multimodal perception system for real-time conversation](https://raven.tavuslabs.org)
-- Feb 10 - [Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis](https://livedocs.com)
-- Feb 10 - [The Switch to Linux and the Beginning of My Self-Hosting Journey](https://hazemkrimi.tech/blog/linux-self-hosting-journey/)
+- Feb 10 - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+- Feb 10 - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
+- Feb 10 - [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
+- Feb 10 - [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
+- Feb 10 - [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
 <!--END_SECTION:hn-->
 
 <!--
