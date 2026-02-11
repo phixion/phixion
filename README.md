@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [Communities Are Not Fungible](https://www.joanwestenberg.com/communities-are-not-fungible/)
-- Feb 11 - [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016)
-- Feb 11 - [Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV](https://news.ycombinator.com/item?id=46971287)
-- Feb 11 - [Stay Hungry, Stay Foolish (2005)](https://stevejobsarchive.com/stories/stay-hungry-stay-foolish)
-- Feb 11 - [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
+- Feb 11 - [The Torture Will Continue Until Shareholder Value Improves [video]](https://www.youtube.com/watch?v=NIXd3PEbsNk)
+- Feb 11 - [FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
+- Feb 11 - [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
+- Feb 11 - [Chrome extensions spying on 37M users' browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)
+- Feb 11 - [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
 <!--END_SECTION:hn-->
 
 <!--
