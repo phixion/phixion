@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 11 - [YouTube's $60B revenue revealed amid paid subscriber push](https://www.bbc.com/news/articles/crkrkd2xlx6o)
+- Feb 11 - [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2)
+- Feb 11 - [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
 - Feb 10 - [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 - Feb 10 - [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel)
-- Feb 10 - [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo)
-- Feb 10 - [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/)
-- Feb 10 - [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052)
 <!--END_SECTION:hn-->
 
 <!--
