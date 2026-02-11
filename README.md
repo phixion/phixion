@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [NanoClaw solves one of OpenClaw's biggest security issues](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
-- Feb 11 - [Railway Global Outage](https://status.railway.com)
-- Feb 11 - [AI-First Company Memos](https://the-ai-native.company/)
-- Feb 11 - [Mamdani Hires Lisa Gelobter as Chief Tech Officer](https://www.nytimes.com/2026/02/10/nyregion/mamdani-lisa-gelobter-gif.html)
-- Feb 11 - [Ask HN: Why electronics are still so unrecyclable?](https://news.ycombinator.com/item?id=46975933)
+- Feb 11 - [iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including Zero-Day](https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/)
+- Feb 11 - [The risk of a hothouse Earth trajectory](https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4)
+- Feb 11 - [How Did the FBI Get Nancy Guthrie's Nest Doorbell Footage?](https://lifehacker.com/tech/how-did-the-fbi-get-nancy-guthries-doorbell-footage)
+- Feb 11 - [Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
+- Feb 11 - [Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/)
 <!--END_SECTION:hn-->
 
 <!--
