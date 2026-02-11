@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 11 - [The Torture Will Continue Until Shareholder Value Improves [video]](https://www.youtube.com/watch?v=NIXd3PEbsNk)
-- Feb 11 - [FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa)
-- Feb 11 - [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
-- Feb 11 - [Chrome extensions spying on 37M users' browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)
-- Feb 11 - [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst)
+- Feb 11 - [NanoClaw solves one of OpenClaw's biggest security issues](https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already)
+- Feb 11 - [Railway Global Outage](https://status.railway.com)
+- Feb 11 - [AI-First Company Memos](https://the-ai-native.company/)
+- Feb 11 - [Mamdani Hires Lisa Gelobter as Chief Tech Officer](https://www.nytimes.com/2026/02/10/nyregion/mamdani-lisa-gelobter-gif.html)
+- Feb 11 - [Ask HN: Why electronics are still so unrecyclable?](https://news.ycombinator.com/item?id=46975933)
 <!--END_SECTION:hn-->
 
 <!--
