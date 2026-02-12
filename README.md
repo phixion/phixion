@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Lines of Code Are Back (and It's Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
-- Feb 12 - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
-- Feb 12 - [Email is tough: Major European Payment Processor's Emails rejected by GWorkspace](https://atha.io/blog/2026-02-12-viva)
-- Feb 12 - [TikTok is tracking you, even if you don't use the app](https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it)
-- Feb 12 - [Culture Is the Mass-Synchronization of Framings](https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings)
+- Feb 12 - [Show HN: rari, the rust-powered react framework](https://rari.build/)
+- Feb 12 - [A party balloon shut down El Paso International Airport; estimated cost –$573k](https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History)
+- Feb 12 - [HDRify: True HDR image viewer, and tool set in pure JavaScript](https://hdrify.benhouston3d.com/?image=%2Fexamples%2Fmoonless_golf_1k.hdr)
+- Feb 12 - [Anthropic raises $30B in Series G funding at $380B post-money valuation](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)
+- Feb 12 - [Polis: Open-source platform for large-scale civic deliberation](https://pol.is/home2)
 <!--END_SECTION:hn-->
 
 <!--
