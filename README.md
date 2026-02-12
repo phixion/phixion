@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
-- Feb 12 - [D Programming Language](https://dlang.org/)
-- Feb 12 - [How to make a living as an artist](https://essays.fnnch.com/make-a-living)
-- Feb 12 - [Heroku is not dead](https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead)
-- Feb 11 - [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0)
+- Feb 12 - [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
+- Feb 12 - [Resist and Unsubscribe](https://www.resistandunsubscribe.com)
+- Feb 12 - [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
+- Feb 12 - [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)
+- Feb 12 - [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
 <!--END_SECTION:hn-->
 
 <!--
