@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 12 - [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
-- Feb 12 - [Resist and Unsubscribe](https://www.resistandunsubscribe.com)
-- Feb 12 - [Show HN: Geo Racers – Race from London to Tokyo on a single bus pass](https://geo-racers.com/)
-- Feb 12 - [Show HN: A free online British accent generator for instant voice conversion](https://audioconvert.ai/british-accent-generator)
-- Feb 12 - [The missing digit of Stela C](https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/)
+- Feb 12 - [Lines of Code Are Back (and It's Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
+- Feb 12 - [A brief history of barbed wire fence telephone networks](https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/)
+- Feb 12 - [Email is tough: Major European Payment Processor's Emails rejected by GWorkspace](https://atha.io/blog/2026-02-12-viva)
+- Feb 12 - [TikTok is tracking you, even if you don't use the app](https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it)
+- Feb 12 - [Culture Is the Mass-Synchronization of Framings](https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings)
 <!--END_SECTION:hn-->
 
 <!--
