@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Inside Epstein’s network: what 1.4M emails reveal](https://www.economist.com/interactive/international/2026/02/12/inside-epsteins-network)
-- Feb 13 - [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/)
-- Feb 13 - [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)
-- Feb 12 - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
-- Feb 12 - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
+- Feb 13 - [Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)
+- Feb 13 - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
+- Feb 13 - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
+- Feb 13 - [New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf)
+- Feb 13 - [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)
 <!--END_SECTION:hn-->
 
 <!--
