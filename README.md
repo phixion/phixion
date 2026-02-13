@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 13 - [Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753)
+- Feb 13 - [GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC](https://www.workatastartup.com/companies/govdash)
+- Feb 13 - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
 - Feb 13 - [Ring owners are returning their cameras](https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3)
 - Feb 13 - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
-- Feb 13 - [New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf)
-- Feb 13 - [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/)
+- Feb 13 - [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/)
 <!--END_SECTION:hn-->
 
 <!--
