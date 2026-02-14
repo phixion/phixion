@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 14 - [4chan for Clankers](https://www.4claw.org)
+- Feb 14 - [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
+- Feb 14 - [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
+- Feb 14 - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
 - Feb 14 - [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer)
-- Feb 14 - [Do Not Outsource Judgement](https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9)
-- Feb 14 - [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
-- Feb 14 - [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
-- Feb 14 - [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)
 <!--END_SECTION:hn-->
 
 <!--
