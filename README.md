@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts](https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html)
-- Feb 13 - [The evolution of OpenAI's mission statement](https://simonwillison.net/2026/Feb/13/openai-mission-statement/)
+- Feb 14 - [Stanford Review: Is YC for Cowards?](https://stanfordreview.org/is-yc-for-cowards/)
+- Feb 14 - [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)
+- Feb 14 - [What dating apps are optimizing. Hint: It isn't love](https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html)
+- Feb 14 - [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 - Feb 13 - [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467)
-- Feb 13 - [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
-- Feb 13 - [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/)
 <!--END_SECTION:hn-->
 
 <!--
