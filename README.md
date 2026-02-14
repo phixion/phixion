@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [Switzerland to Vote on Capping Population at 10M](https://www.nytimes.com/2026/02/11/world/europe/switzerland-to-vote-on-capping-population-at-10-million.html)
-- Feb 14 - [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
-- Feb 14 - [Homeland Security has sent out subpoenas to identify ICE critics](https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html)
-- Feb 14 - [Epstein's Ugly World of Science](https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/)
-- Feb 14 - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
+- Feb 14 - [You Can't Trust the Internet Anymore](https://nicole.express/2026/not-my-casual-hobby.html)
+- Feb 14 - [Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle](https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/)
+- Feb 14 - [Descent, Ported to the Web](https://mrdoob.github.io/three-descent/)
+- Feb 14 - [Internet Increasingly Becoming Unarchivable](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+- Feb 14 - [Dr. Oz pushes AI avatars as a fix for rural health care](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
 <!--END_SECTION:hn-->
 
 <!--
