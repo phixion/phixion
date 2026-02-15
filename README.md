@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 14 - [You Can't Trust the Internet Anymore](https://nicole.express/2026/not-my-casual-hobby.html)
-- Feb 14 - [Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle](https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/)
-- Feb 14 - [Descent, Ported to the Web](https://mrdoob.github.io/three-descent/)
-- Feb 14 - [Internet Increasingly Becoming Unarchivable](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
-- Feb 14 - [Dr. Oz pushes AI avatars as a fix for rural health care](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
+- Feb 14 - [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
+- Feb 14 - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
+- Feb 14 - [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
+- Feb 14 - [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+- Feb 14 - [A header-only C vector database library](https://github.com/abdimoallim/vdb)
 <!--END_SECTION:hn-->
 
 <!--
