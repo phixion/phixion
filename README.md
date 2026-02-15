@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 15 - [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
+- Feb 15 - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 - Feb 14 - [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
 - Feb 14 - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
-- Feb 14 - [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
 - Feb 14 - [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
-- Feb 14 - [A header-only C vector database library](https://github.com/abdimoallim/vdb)
 <!--END_SECTION:hn-->
 
 <!--
