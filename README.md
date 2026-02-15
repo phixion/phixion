@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [Ex-Tech –> Homeless in SF](https://zamoshi.substack.com/p/ninety-four-degrees)
+- Feb 15 - [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
+- Feb 15 - [Seeing Theory](https://seeing-theory.brown.edu/)
+- Feb 15 - [Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951)
 - Feb 15 - [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
 - Feb 15 - [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/)
-- Feb 15 - [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
-- Feb 15 - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 <!--END_SECTION:hn-->
 
 <!--
