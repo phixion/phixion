@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 15 - [Ex-Tech –> Homeless in SF](https://zamoshi.substack.com/p/ninety-four-degrees)
+- Feb 15 - [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
+- Feb 15 - [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/)
 - Feb 15 - [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
 - Feb 15 - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
-- Feb 14 - [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile)
-- Feb 14 - [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/)
-- Feb 14 - [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 <!--END_SECTION:hn-->
 
 <!--
