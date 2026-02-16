@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 15 - [State Attorneys General Want to Tie Online Access to ID](https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act)
-- Feb 15 - [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
-- Feb 15 - [Scientists observe a 300M-year-old brain rhythm in several animal species](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html)
-- Feb 15 - [Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177)
-- Feb 15 - [(Ars) Editor's Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
+- Feb 15 - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
+- Feb 15 - [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching)
+- Feb 15 - [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
+- Feb 15 - [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
+- Feb 15 - [GNU Pies – Program Invocation and Execution Supervisor](https://www.gnu.org.ua/software/pies/)
 <!--END_SECTION:hn-->
 
 <!--
