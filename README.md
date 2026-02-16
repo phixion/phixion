@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Intermittent fasting may make little difference to weight loss, review finds](https://www.bbc.co.uk/news/articles/c4ge7n3pq62o)
-- Feb 16 - [iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)
-- Feb 16 - [UK Discord users were part of a Peter Thiel-linked data collection experiment](https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment)
-- Feb 16 - [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
-- Feb 16 - [The Sideprocalypse](https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/)
+- Feb 16 - [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
+- Feb 16 - [Wero – Digital payment wallet, Made in Europe](https://wero-wallet.eu)
+- Feb 16 - [How Not to Answer the Salary Question](https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/)
+- Feb 16 - [Robert Duvall Dead at 95](https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295)
+- Feb 16 - [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
 <!--END_SECTION:hn-->
 
 <!--
