@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Anthropic tries to hide Claude's AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
-- Feb 16 - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
-- Feb 16 - [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5)
-- Feb 16 - [picol: A Tcl interpreter in 500 lines of code](https://github.com/antirez/picol)
-- Feb 16 - [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
+- Feb 16 - [Intermittent fasting may make little difference to weight loss, review finds](https://www.bbc.co.uk/news/articles/c4ge7n3pq62o)
+- Feb 16 - [iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life](https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/)
+- Feb 16 - [UK Discord users were part of a Peter Thiel-linked data collection experiment](https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment)
+- Feb 16 - [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
+- Feb 16 - [The Sideprocalypse](https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/)
 <!--END_SECTION:hn-->
 
 <!--
