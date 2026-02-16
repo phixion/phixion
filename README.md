@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [DHS pushes social media giants to dox anonymous accounts critical of ICE](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+- Feb 16 - [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
+- Feb 16 - [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
 - Feb 16 - [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business)
-- Feb 16 - [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
 - Feb 16 - [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/)
-- Feb 15 - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
+- Feb 15 - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 <!--END_SECTION:hn-->
 
 <!--
