@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 16 - [Show HN: 2D Coulomb Gas Simulator](https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html)
-- Feb 16 - [Wero – Digital payment wallet, Made in Europe](https://wero-wallet.eu)
-- Feb 16 - [How Not to Answer the Salary Question](https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/)
-- Feb 16 - [Robert Duvall Dead at 95](https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295)
-- Feb 16 - [Use Protocols, Not Services](https://notnotp.com/notes/use-protocols-not-services/)
+- Feb 16 - [Show HN: Journey – A Custom 2D ECS Game Engine Written in Rust and WGPU](https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md)
+- Feb 16 - [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
+- Feb 16 - [Running NanoClaw in a Docker Shell Sandbox](https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/)
+- Feb 16 - [10 years building vertical software: are we cooked?](https://twitter.com/nicbstme/status/2023501562480644501)
+- Feb 16 - [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
 <!--END_SECTION:hn-->
 
 <!--
