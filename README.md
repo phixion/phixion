@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
+- Feb 17 - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
+- Feb 17 - [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
+- Feb 17 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
+- Feb 17 - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
 - Feb 17 - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
-- Feb 17 - [Thinking hard burns almost no calories but destroys your next workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
-- Feb 17 - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-- Feb 17 - [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
 <!--END_SECTION:hn-->
 
 <!--
