@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84](https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death)
-- Feb 17 - [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/)
+- Feb 17 - [America's Pensions Can't Beat Vanguard but They Can Close Your Hospital](https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard)
+- Feb 17 - [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
+- Feb 17 - [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
 - Feb 17 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 - Feb 17 - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
-- Feb 17 - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 <!--END_SECTION:hn-->
 
 <!--
