@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 17 - [Canada Goose - 581,877 breached accounts](https://haveibeenpwned.com/Breach/CanadaGoose)
 - Feb 16 - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
 - Feb 16 - [APOIA.se - 450,764 breached accounts](https://haveibeenpwned.com/Breach/APOIAse)
 - Feb 10 - [Toy Battles - 1,017 breached accounts](https://haveibeenpwned.com/Breach/ToyBattles)
 - Feb 10 - [Association Nationale des Premiers Secours - 5,600 breached accounts](https://haveibeenpwned.com/Breach/ANPS)
-- Feb 06 - [Substack - 663,121 breached accounts](https://haveibeenpwned.com/Breach/Substack)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [Why Affordability and the Vibecession Are Real Economic Problems](https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession)
+- Feb 17 - [SvarDOS – an open-source DOS distribution](http://svardos.org/)
+- Feb 17 - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
+- Feb 17 - [Thinking hard burns almost no calories but destroys your next workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
 - Feb 17 - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-- Feb 17 - [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 - Feb 17 - [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/)
-- Feb 16 - [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/)
 <!--END_SECTION:hn-->
 
 <!--
