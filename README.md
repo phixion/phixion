@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [America's Pensions Can't Beat Vanguard but They Can Close Your Hospital](https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard)
-- Feb 17 - [I converted 2D conventional flight tracking into 3D](https://aeris.edbn.me/?city=SFO)
-- Feb 17 - [Undo in Vi and Its Successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
-- Feb 17 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
-- Feb 17 - [Xbox UI Portfolio Site](https://gabrielcabrera.co/)
+- Feb 17 - [The OpenClaw bot that defamed an OSS maintainer is a human crypto bro [video]](https://www.youtube.com/watch?v=xYFvi4hK7wI)
+- Feb 17 - [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
+- Feb 17 - [Stephen Colbert says CBS forbid interview of Democrat because of FCC threat](https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/)
+- Feb 17 - [Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
+- Feb 17 - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
 <!--END_SECTION:hn-->
 
 <!--
