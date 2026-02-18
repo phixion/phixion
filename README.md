@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Why AI Velocity Is Becoming a Debt Accelerator](https://martinfowler.com/fragments/2026-02-18.html)
-- Feb 18 - [Show HN: VectorNest responsive web-based SVG editor](https://ekrsulov.github.io/vectornest/)
-- Feb 18 - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
-- Feb 18 - [Show HN: CEL by Example](https://celbyexample.com/)
-- Feb 18 - [Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
+- Feb 18 - [R3forth: A Concatenative Language Derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md)
+- Feb 18 - [Complexity Science and Emergent Order: How Simple Rules Create Complex Systems](https://mysticryst.com/blogs/the-mystic-journal/complexity-science-emergent-order-simple-rules-complex-systems)
+- Feb 18 - [Discrete Structures [pdf]](https://kyleormsby.github.io/files/113spring26/113full_text.pdf)
+- Feb 18 - [99% of adults over 40 have shoulder "abnormalities" on an MRI, study finds](https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/)
+- Feb 18 - [What Every Experimenter Must Know About Randomization](https://spawn-queue.acm.org/doi/pdf/10.1145/3778029)
 <!--END_SECTION:hn-->
 
 <!--
