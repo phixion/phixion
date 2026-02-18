@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)
-- Feb 18 - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
-- Feb 18 - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
-- Feb 18 - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
-- Feb 18 - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
+- Feb 18 - [Why AI Velocity Is Becoming a Debt Accelerator](https://martinfowler.com/fragments/2026-02-18.html)
+- Feb 18 - [Show HN: VectorNest responsive web-based SVG editor](https://ekrsulov.github.io/vectornest/)
+- Feb 18 - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
+- Feb 18 - [Show HN: CEL by Example](https://celbyexample.com/)
+- Feb 18 - [Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony](https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/)
 <!--END_SECTION:hn-->
 
 <!--
