@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
-- Feb 18 - [Show HN: Beautiful interactive explainers generated with Claude Code](https://paraschopra.github.io/explainers/)
+- Feb 18 - [Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs)
+- Feb 18 - [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
+- Feb 18 - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
+- Feb 18 - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
 - Feb 18 - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
-- Feb 18 - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
-- Feb 18 - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 <!--END_SECTION:hn-->
 
 <!--
