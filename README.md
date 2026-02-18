@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
-- Feb 18 - [It's not just you, YouTube is partially down in outage](https://9to5google.com/2026/02/17/youtube-outage-february-2026/)
-- Feb 18 - [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
-- Feb 18 - [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3)
-- Feb 18 - [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
+- Feb 18 - [Stardex (YC S21) Is Hiring](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
+- Feb 18 - [Show HN: Beautiful interactive explainers generated with Claude Code](https://paraschopra.github.io/explainers/)
+- Feb 18 - [A DuckDB-based metabase alternative](https://github.com/taleshape-com/shaper)
+- Feb 18 - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
+- Feb 18 - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 <!--END_SECTION:hn-->
 
 <!--
