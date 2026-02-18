@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 17 - [The OpenClaw bot that defamed an OSS maintainer is a human crypto bro [video]](https://www.youtube.com/watch?v=xYFvi4hK7wI)
-- Feb 17 - [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
-- Feb 17 - [Stephen Colbert says CBS forbid interview of Democrat because of FCC threat](https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/)
-- Feb 17 - [Tesla 'Robotaxi' adds 5 more crashes in Austin in a month – 4x worse than humans](https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/)
-- Feb 17 - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+- Feb 17 - ['My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/)
+- Feb 17 - [pg_background: Make Postgres do the long work (while your session stays light)](https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/)
+- Feb 17 - [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute)
+- Feb 17 - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern)
+- Feb 17 - [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
 <!--END_SECTION:hn-->
 
 <!--
