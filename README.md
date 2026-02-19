@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 18 - [R3forth: A Concatenative Language Derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md)
-- Feb 18 - [Complexity Science and Emergent Order: How Simple Rules Create Complex Systems](https://mysticryst.com/blogs/the-mystic-journal/complexity-science-emergent-order-simple-rules-complex-systems)
-- Feb 18 - [Discrete Structures [pdf]](https://kyleormsby.github.io/files/113spring26/113full_text.pdf)
-- Feb 18 - [99% of adults over 40 have shoulder "abnormalities" on an MRI, study finds](https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/)
-- Feb 18 - [What Every Experimenter Must Know About Randomization](https://spawn-queue.acm.org/doi/pdf/10.1145/3778029)
+- Feb 18 - [Microsoft offers guide to pirating Harry Potter series for LLM training](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/)
+- Feb 18 - [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
+- Feb 18 - [All Look Same?](https://alllooksame.com/)
+- Feb 18 - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
+- Feb 18 - [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer)
 <!--END_SECTION:hn-->
 
 <!--
