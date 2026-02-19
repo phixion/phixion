@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 19 - [Old School Visual Effects: The Cloud Tank (2010)](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
+- Feb 19 - [US funding for global internet freedom 'effectively gutted'](https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted)
+- Feb 19 - [Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
+- Feb 19 - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
 - Feb 19 - [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
-- Feb 19 - [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)
-- Feb 19 - [Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act](https://static.stepfun.com/blog/step-3.5-flash/)
-- Feb 19 - [Minecraft Java is switching from OpenGL to Vulkan](https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/)
-- Feb 19 - [15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern](https://nicolasdickenmann.com/blog/the-great-fp64-divide.html)
 <!--END_SECTION:hn-->
 
 <!--
