@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 19 - [Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
+- Feb 19 - [ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory](https://github.com/sstraust/shannonmax)
+- Feb 19 - [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)
 - Feb 19 - [Old School Visual Effects: The Cloud Tank (2010)](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
-- Feb 19 - [US funding for global internet freedom 'effectively gutted'](https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted)
-- Feb 19 - [Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast](https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/)
 - Feb 19 - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
-- Feb 19 - [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/)
 <!--END_SECTION:hn-->
 
 <!--
