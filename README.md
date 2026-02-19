@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)
-- Feb 19 - [ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory](https://github.com/sstraust/shannonmax)
-- Feb 19 - [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban)
-- Feb 19 - [Old School Visual Effects: The Cloud Tank (2010)](http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html)
-- Feb 19 - [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp)
+- Feb 19 - [Dinosaur Food: 100M year old foods we still eat today](https://borischerny.com/food/2022/01/17/Dinosaur-food.html)
+- Feb 19 - [Gemini 3.1 Pro Preview](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1)
+- Feb 19 - [America vs. Singapore: You Can't Save Your Way Out of Economic Shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
+- Feb 19 - [Against Theory-Motivated Experimentation](https://journals.sagepub.com/doi/10.1177/26339137261421577)
+- Feb 19 - [Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)
 <!--END_SECTION:hn-->
 
 <!--
