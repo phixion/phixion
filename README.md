@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Feb 20 - [CarMax - 431,371 breached accounts](https://haveibeenpwned.com/Breach/CarMax)
 - Feb 18 - [Figure - 967,178 breached accounts](https://haveibeenpwned.com/Breach/Figure)
 - Feb 17 - [Canada Goose - 581,877 breached accounts](https://haveibeenpwned.com/Breach/CanadaGoose)
 - Feb 16 - [University of Pennsylvania - 623,750 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfPennsylvania)
 - Feb 16 - [APOIA.se - 450,764 breached accounts](https://haveibeenpwned.com/Breach/APOIAse)
-- Feb 10 - [Toy Battles - 1,017 breached accounts](https://haveibeenpwned.com/Breach/ToyBattles)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 20 - [Microsoft's new 10k-year data storage medium: glass](https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/)
-- Feb 20 - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
-- Feb 20 - [Pi for Excel: AI sidebar add-in for Excel, powered by Pi](https://github.com/tmustier/pi-for-excel)
-- Feb 20 - [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/)
-- Feb 20 - [MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes](https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea)
+- Feb 20 - [Show HN: Fostrom, an IoT Cloud Platform built for developers](https://fostrom.io/)
+- Feb 20 - [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer)
+- Feb 20 - [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284)
+- Feb 20 - [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o)
+- Feb 20 - [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models)
 <!--END_SECTION:hn-->
 
 <!--
