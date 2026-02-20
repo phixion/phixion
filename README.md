@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 19 - [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
-- Feb 19 - [IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup](https://www.theregister.com/2026/02/19/irs_job_cuts/)
-- Feb 19 - [California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves](https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/)
-- Feb 19 - [CTO Says 93% of Developers Use AI, but Productivity Is Still 10%](https://shiftmag.dev/this-cto-says-93-of-developers-use-ai-but-productivity-is-still-10-8013/)
-- Feb 19 - [Farewell Rust](https://yieldcode.blog/post/farewell-rust/)
+- Feb 19 - [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo)
+- Feb 19 - [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux)
+- Feb 19 - [A psychedelic medicine performs well against depression](https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression)
+- Feb 19 - [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
+- Feb 19 - [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc)
 <!--END_SECTION:hn-->
 
 <!--
