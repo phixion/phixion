@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 21 - [macOS's Little-Known Command-Line Sandboxing Tool](https://igorstechnoclub.com/sandbox-exec/)
+- Feb 21 - [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206)
+- Feb 21 - [DJB's Cryptographic Odyssey: From Code Hero to Standards Gadfly](https://cryptography.watch/articles/djb-cryptographic-odyssey/)
 - Feb 21 - [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs)
 - Feb 21 - [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/)
-- Feb 21 - [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
-- Feb 21 - [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/)
-- Feb 21 - [24 Hour Fitness won't let you unsubscribe from marketing spam, so I fixed it](https://ahmedkaddoura.com/projects/24hf-unsubscribe)
 <!--END_SECTION:hn-->
 
 <!--
