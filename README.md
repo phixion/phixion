@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Irish man detained by ICE [Update] – It's not what it seems](https://www.limerickleader.ie/news/national-news/2018902/daughter-of-man-detained-in-the-us-says-she-has-no-sympathy-whatsoever-for-her-father.html)
-- Feb 20 - [Be Wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky)
-- Feb 20 - [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals)
-- Feb 20 - [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch)
+- Feb 21 - [Excessive token usage in Claude Code](https://github.com/anthropics/claude-code/issues/16856)
+- Feb 21 - [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
+- Feb 21 - [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
+- Feb 20 - [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
 - Feb 20 - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
 <!--END_SECTION:hn-->
 
