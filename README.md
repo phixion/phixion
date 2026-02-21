@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 21 - [Excessive token usage in Claude Code](https://github.com/anthropics/claude-code/issues/16856)
+- Feb 21 - [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems)
+- Feb 21 - [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 - Feb 21 - [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b)
 - Feb 21 - [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord)
 - Feb 20 - [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
-- Feb 20 - [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling)
 <!--END_SECTION:hn-->
 
 <!--
