@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
-- Feb 22 - [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language)
-- Feb 22 - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
-- Feb 22 - [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
-- Feb 22 - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
+- Feb 22 - [Xweather Live – Interactive global vector weather map](https://live.xweather.com/)
+- Feb 22 - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
+- Feb 22 - [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
+- Feb 22 - [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
+- Feb 22 - [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
 <!--END_SECTION:hn-->
 
 <!--
