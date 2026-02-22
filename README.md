@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Xweather Live – Interactive global vector weather map](https://live.xweather.com/)
-- Feb 22 - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
-- Feb 22 - [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/)
-- Feb 22 - [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o)
-- Feb 22 - [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3)
+- Feb 22 - [Factory-built housing hasn't taken off in California](https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different)
+- Feb 22 - [Green Lumber Fallacy in Software Engineering](https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software)
+- Feb 22 - [Symplex, an open-source protocol semantic negotiation between distributed agents](https://github.com/olserra/symplex)
+- Feb 22 - [An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia](https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070)
+- Feb 22 - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
 <!--END_SECTION:hn-->
 
 <!--
