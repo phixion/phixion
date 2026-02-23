@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Feb 23 - [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+- Feb 23 - [Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
+- Feb 23 - [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
+- Feb 23 - [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
 - Feb 23 - [Freemediaheckyeah](https://fmhy.net/)
-- Feb 23 - [The JavaScript Oxidation Compiler](https://oxc.rs/)
-- Feb 23 - [Agentic Software Engineering Book](https://agenticse-book.github.io/)
-- Feb 23 - [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
-- Feb 23 - [$30B for laptops yielded a generation less cognitively capable than parents](https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html)
 <!--END_SECTION:hn-->
 
 <!--
