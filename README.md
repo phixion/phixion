@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
-- Feb 23 - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
-- Feb 23 - [SETI@home: Data Acquisition and Front-End Processing (2025)](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
-- Feb 23 - [QRTape – Audio Playback from Paper Tape with Computer Vision (2021)](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
-- Feb 23 - [What I Learned After Building 3 TV Apps Coming from Mobile](https://dinkomarinac.dev/blog/what-i-learned-after-building-3-tv-apps-coming-from-mobile/)
+- Feb 23 - [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
+- Feb 23 - [If AI makes human labor obsolete, who decides who gets to eat?](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed)
+- Feb 23 - [First, They Came for the Journalists](https://www.codastory.com/disinformation/first-they-came-for-the-journalists/)
+- Feb 23 - [The peculiar case of Japanese web design (2022)](https://sabrinas.space)
+- Feb 23 - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 <!--END_SECTION:hn-->
 
 <!--
