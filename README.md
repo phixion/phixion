@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [Pope tells priests to use their brains, not AI, to write homilies](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
-- Feb 23 - [Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria](https://bitmovin.com/careers/8023403002/)
-- Feb 23 - [How close are we to a vision for 2010?](https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/)
-- Feb 23 - [What I learned designing a barebones UI engine](https://madebymohammed.com/miniui)
-- Feb 23 - [Freemediaheckyeah](https://fmhy.net/)
+- Feb 23 - [Hetzner (European hosting provider) to increase prices by up to 38%](https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/)
+- Feb 23 - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
+- Feb 23 - [SETI@home: Data Acquisition and Front-End Processing (2025)](https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7)
+- Feb 23 - [QRTape – Audio Playback from Paper Tape with Computer Vision (2021)](http://www.theresistornetwork.com/2021/03/qrtape-audio-playback-from-paper-tape.html)
+- Feb 23 - [What I Learned After Building 3 TV Apps Coming from Mobile](https://dinkomarinac.dev/blog/what-i-learned-after-building-3-tv-apps-coming-from-mobile/)
 <!--END_SECTION:hn-->
 
 <!--
