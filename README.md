@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Show HN: Warn Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)
-- Feb 22 - [Zuckerberg's "Fix" for Child Safety Could End Anonymous Internet Access for All](https://reclaimthenet.org/zuckerberg-instagram-age-verification-trial)
-- Feb 22 - [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
-- Feb 22 - [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
-- Feb 22 - [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
+- Feb 23 - [Freemediaheckyeah](https://fmhy.net/)
+- Feb 23 - [The JavaScript Oxidation Compiler](https://oxc.rs/)
+- Feb 23 - [Agentic Software Engineering Book](https://agenticse-book.github.io/)
+- Feb 23 - [Aqua: A CLI message tool for AI agents](https://github.com/quailyquaily/aqua)
+- Feb 23 - [$30B for laptops yielded a generation less cognitively capable than parents](https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html)
 <!--END_SECTION:hn-->
 
 <!--
