@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 23 - [A simple web we own](https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html)
-- Feb 23 - [If AI makes human labor obsolete, who decides who gets to eat?](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed)
-- Feb 23 - [First, They Came for the Journalists](https://www.codastory.com/disinformation/first-they-came-for-the-journalists/)
-- Feb 23 - [The peculiar case of Japanese web design (2022)](https://sabrinas.space)
-- Feb 23 - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
+- Feb 23 - [India's VIP culture is out of control](https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control)
+- Feb 23 - [Binance fired employees who found $1.7B in crypto was sent to Iran](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
+- Feb 23 - [A lithium-ion breakthrough that could boost range and lower costs](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs)
+- Feb 23 - [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/)
+- Feb 23 - [Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine](https://ghostklan.com/shibuya.html)
 <!--END_SECTION:hn-->
 
 <!--
