@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 22 - [Factory-built housing hasn't taken off in California](https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different)
-- Feb 22 - [Green Lumber Fallacy in Software Engineering](https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software)
-- Feb 22 - [Symplex, an open-source protocol semantic negotiation between distributed agents](https://github.com/olserra/symplex)
-- Feb 22 - [An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia](https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070)
-- Feb 22 - [NanoClaw Moved from Apple Containers to Docker](https://twitter.com/Gavriel_Cohen/status/2025603982769410356)
+- Feb 22 - [Show HN: Warn Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com)
+- Feb 22 - [Zuckerberg's "Fix" for Child Safety Could End Anonymous Internet Access for All](https://reclaimthenet.org/zuckerberg-instagram-age-verification-trial)
+- Feb 22 - [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+- Feb 22 - [Using New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+- Feb 22 - [Algolia Hacker News Search GitHub Project Archived](https://github.com/algolia/hn-search)
 <!--END_SECTION:hn-->
 
 <!--
