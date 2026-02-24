@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
-- Feb 24 - [Show HN: X86CSS – An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
-- Feb 24 - [NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)](https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents)
-- Feb 24 - [Iowa farmers are leading the fight for repair](https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair)
-- Feb 24 - [Show HN: Steerling-8B, a language model that can explain any token it generates](https://www.guidelabs.ai/post/steerling-8b-base-model-release/)
+- Feb 24 - [The Engine Behind the Hype](https://www.onuruzunismail.com/blog/the-engine-behind-the-hype)
+- Feb 24 - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+- Feb 24 - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
+- Feb 24 - [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html)
+- Feb 24 - [NPM install is stealing your passwords – I built a tool to catch it](https://westbayberry.com/product)
 <!--END_SECTION:hn-->
 
 <!--
