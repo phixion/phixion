@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Fed's Cook says AI triggering big changes, sees possible unemployment rise](https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/)
-- Feb 24 - [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
-- Feb 24 - [Cell Service for the Fairly Paranoid](https://www.cape.co/)
-- Feb 24 - [Stripe reportedly makes offer to acquire PayPal](https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html)
-- Feb 24 - [Dream Recorder AI – a portal to your subconscious](https://dreamrecorder.ai/)
+- Feb 25 - [What Happened to Fry's Electronics](https://dfarq.homeip.net/what-happened-to-frys-electronics/)
+- Feb 25 - [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
+- Feb 25 - [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
+- Feb 25 - [Amazon accused of widespread scheme to inflate prices across the economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price)
+- Feb 25 - [US Military leaders meet with Anthropic to argue against Claude safeguards](https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai)
 <!--END_SECTION:hn-->
 
 <!--
