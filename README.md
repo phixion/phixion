@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [React just left meta. Here's what that means for developers](https://sulat.com/p/react-just-left-meta-heres-what-that)
-- Feb 25 - [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
-- Feb 25 - [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762)
-- Feb 25 - [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/)
-- Feb 25 - [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate)
+- Feb 25 - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
+- Feb 25 - [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
+- Feb 25 - [Danish government agency to ditch Microsoft software (2025)](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
+- Feb 25 - [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
+- Feb 25 - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
 <!--END_SECTION:hn-->
 
 <!--
