@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
-- Feb 25 - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
-- Feb 25 - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
-- Feb 25 - [Launch HN: TeamOut (YC W22) – AI agent for planning company events](https://app.teamout.com/ai)
-- Feb 25 - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
+- Feb 25 - [Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig](https://github.com/semos-labs/attyx)
+- Feb 25 - [Show HN: I ported Tree-sitter to Go](https://github.com/odvcencio/gotreesitter)
+- Feb 25 - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
+- Feb 25 - [om](https://www.om-language.com/)
+- Feb 25 - [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 <!--END_SECTION:hn-->
 
 <!--
