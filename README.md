@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 24 - [Tesla registrations crash 17% in Europe as BEV market surges 14%](https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/)
-- Feb 24 - [Steel Bank Common Lisp](https://www.sbcl.org/)
-- Feb 24 - [OpenAI, the US government and Persona built an identity surveillance machine](https://vmfunc.re/blog/persona/)
-- Feb 24 - [OpenAI resets spending expectations, from $1.4T to $600B](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html)
-- Feb 24 - [I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone](https://macky.dev)
+- Feb 24 - [Fed's Cook says AI triggering big changes, sees possible unemployment rise](https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/)
+- Feb 24 - [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
+- Feb 24 - [Cell Service for the Fairly Paranoid](https://www.cape.co/)
+- Feb 24 - [Stripe reportedly makes offer to acquire PayPal](https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html)
+- Feb 24 - [Dream Recorder AI – a portal to your subconscious](https://dreamrecorder.ai/)
 <!--END_SECTION:hn-->
 
 <!--
