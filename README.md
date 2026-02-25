@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 25 - [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer)
-- Feb 25 - [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge)
-- Feb 25 - [Danish government agency to ditch Microsoft software (2025)](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)
-- Feb 25 - [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
-- Feb 25 - [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/)
+- Feb 25 - [GNU Texmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
+- Feb 25 - [US orders diplomats to fight data sovereignty initiatives](https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/)
+- Feb 25 - [Show HN: Django Control Room – All Your Tools Inside the Django Admin](https://github.com/yassi/dj-control-room)
+- Feb 25 - [Launch HN: TeamOut (YC W22) – AI agent for planning company events](https://app.teamout.com/ai)
+- Feb 25 - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 <!--END_SECTION:hn-->
 
 <!--
