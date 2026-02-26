@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [I don't know how you get here from “predict the next word”](https://www.grumpy-economist.com/p/refine)
-- Feb 26 - [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/)
-- Feb 26 - [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/)
-- Feb 26 - [Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub](https://github.com/Intrect-io/OpenSwarm)
-- Feb 26 - [Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts](https://github.com/Zyora-Dev/zse)
+- Feb 26 - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
+- Feb 26 - [Men in their 50s may be aging faster due to toxic 'forever chemicals'](https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness)
+- Feb 26 - [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/)
+- Feb 26 - [Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)
+- Feb 26 - [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)
 <!--END_SECTION:hn-->
 
 <!--
