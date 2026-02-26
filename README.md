@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
-- Feb 26 - [Men in their 50s may be aging faster due to toxic 'forever chemicals'](https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness)
-- Feb 26 - [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/)
-- Feb 26 - [Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)
-- Feb 26 - [Show HN: Better Hub – A better GitHub experience](https://www.better-hub.com/)
+- Feb 26 - [Nano Banana 2: Google's latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+- Feb 26 - [New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises](https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/)
+- Feb 26 - [Apple Launch on Monday](https://twitter.com/tim_cook/status/2027020842396475410)
+- Feb 26 - [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
+- Feb 26 - [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
 <!--END_SECTION:hn-->
 
 <!--
