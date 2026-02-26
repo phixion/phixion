@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 26 - [Nano Banana 2: Google's latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
-- Feb 26 - [New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises](https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/)
-- Feb 26 - [Apple Launch on Monday](https://twitter.com/tim_cook/status/2027020842396475410)
-- Feb 26 - [In 2025, Meta paid an effective federal tax rate of 3.5%](https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i)
-- Feb 26 - [Story of XZ Backdoor [video]](https://www.youtube.com/watch?v=aoag03mSuXQ)
+- Feb 26 - [Show HN: Rev-dep – 20x faster knip.dev alternative build in Go](https://github.com/jayu/rev-dep)
+- Feb 26 - [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/)
+- Feb 26 - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing/)
+- Feb 26 - [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/)
+- Feb 26 - [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/)
 <!--END_SECTION:hn-->
 
 <!--
