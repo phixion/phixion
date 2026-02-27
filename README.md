@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [The normalization of corruption in organizations (2003) [pdf]](https://gwern.net/doc/sociology/2003-ashforth.pdf)
-- Feb 27 - [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html)
-- Feb 27 - [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
-- Feb 27 - [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp)
-- Feb 27 - [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases)
+- Feb 27 - [Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c)
+- Feb 27 - [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
+- Feb 27 - [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
+- Feb 27 - [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o)
+- Feb 27 - [Breaking Free](https://www.forbrukerradet.no/breakingfree/)
 <!--END_SECTION:hn-->
 
 <!--
