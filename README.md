@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
-- Feb 27 - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
-- Feb 27 - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
-- Feb 27 - [Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
-- Feb 27 - [OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
+- Feb 27 - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
+- Feb 27 - [Rob Grant, creator of Red Dwarf, has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
+- Feb 27 - [Let's discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
+- Feb 27 - [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
+- Feb 27 - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
 <!--END_SECTION:hn-->
 
 <!--
