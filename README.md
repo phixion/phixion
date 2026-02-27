@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c)
-- Feb 27 - [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
-- Feb 27 - [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)
-- Feb 27 - [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o)
-- Feb 27 - [Breaking Free](https://www.forbrukerradet.no/breakingfree/)
+- Feb 27 - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
+- Feb 27 - [We gave terabytes of CI logs to an LLM](https://www.mendral.com/blog/llms-are-good-at-sql)
+- Feb 27 - [Show HN: Badge that shows how well your codebase fits in an LLM's context window](https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens)
+- Feb 27 - [Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices](https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0)
+- Feb 27 - [OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)](https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/)
 <!--END_SECTION:hn-->
 
 <!--
