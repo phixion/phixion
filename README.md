@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash)
-- Feb 28 - [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
-- Feb 28 - [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs)
-- Feb 28 - [Inferring car movement patterns from passive TPMS measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011)
-- Feb 28 - [US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk)
+- Feb 28 - [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
+- Feb 28 - [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632)
+- Feb 28 - [OpenAI Fires an Employee for Prediction Market Insider Trading](https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/)
+- Feb 28 - [Everything Changes, and Nothing Changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
+- Feb 28 - [The Life Cycle of Money](https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/)
 <!--END_SECTION:hn-->
 
 <!--
