@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
-- Feb 27 - [Zugunruhe, and what makes things worth doing](https://www.nathanzhao.cc/zugunruhe)
-- Feb 27 - [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
-- Feb 27 - [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
-- Feb 27 - [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
+- Feb 28 - [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+- Feb 28 - [Don't use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
+- Feb 28 - [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
+- Feb 28 - [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
+- Feb 28 - [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
 <!--END_SECTION:hn-->
 
 <!--
