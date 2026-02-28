@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 27 - [The Robotic Dexterity Deadlock](https://www.origami-robotics.com/blog/dexterity-deadlocks.html)
-- Feb 27 - [Rob Grant, creator of Red Dwarf, has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
-- Feb 27 - [Let's discuss sandbox isolation](https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/)
-- Feb 27 - [Kyber (YC W23) Is Hiring an Enterprise Account Executive](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae)
-- Feb 27 - [Writing a Guide to SDF Fonts](https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/)
+- Feb 27 - [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
+- Feb 27 - [Zugunruhe, and what makes things worth doing](https://www.nathanzhao.cc/zugunruhe)
+- Feb 27 - [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko)
+- Feb 27 - [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
+- Feb 27 - [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/)
 <!--END_SECTION:hn-->
 
 <!--
