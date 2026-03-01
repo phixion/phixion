@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)
-- Mar 01 - [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)
-- Mar 01 - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
-- Mar 01 - [Switch to Claude without starting over](https://claude.com/import-memory)
-- Mar 01 - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
+- Mar 01 - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
+- Mar 01 - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
+- Mar 01 - [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
+- Mar 01 - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+- Mar 01 - [Ape Coding](https://rsaksida.com/blog/ape-coding/)
 <!--END_SECTION:hn-->
 
 <!--
