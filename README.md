@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Feb 28 - [Iran's Supreme Leader Ali Khamenei Was Killed and His Body Found](https://www.haaretz.com/israel-news/2026-02-28/ty-article-live/trump-not-happy-with-iran-nuclear-talks-omani-fm-deal-achievable-tomorrow/0000019c-a273-d5d1-a1fd-f27743d20000)
-- Feb 28 - [Khamenei Dead](https://twitter.com/BarakRavid/status/2027830773328302396)
-- Feb 28 - ["Cancel ChatGPT" movement goes mainstream after OpenAI closes deal with U.S. Dow](https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens)
-- Feb 28 - [Techno‑Feudal Elite Are Attempting to Build a Twenty‑First‑Century Fascist State](https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/)
-- Feb 28 - [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
+- Feb 28 - [Pentagon chief blocks officers from Ivy League schools and top universities](https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/)
+- Feb 28 - [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide)
+- Feb 28 - [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
+- Feb 28 - [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition)
+- Feb 28 - [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
 <!--END_SECTION:hn-->
 
 <!--
