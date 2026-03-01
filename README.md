@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
-- Mar 01 - [New iron nanomaterial wipes out cancer cells without harming healthy tissue](https://www.sciencedaily.com/releases/2026/02/260228093456.htm)
-- Mar 01 - [Why XML Tags Are So Fundamental to Claude](https://glthr.com/XML-fundamental-to-Claude)
-- Mar 01 - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
-- Mar 01 - [Ape Coding](https://rsaksida.com/blog/ape-coding/)
+- Mar 01 - [AWS Middle East Central Down, apparently struck in war](https://health.aws.amazon.com/health/status)
+- Mar 01 - [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
+- Mar 01 - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
+- Mar 01 - [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
+- Mar 01 - [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
 <!--END_SECTION:hn-->
 
 <!--
