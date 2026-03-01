@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [Switch to Claude Without Starting Over](https://claude.com/import-memory)
+- Mar 01 - [Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/)
+- Mar 01 - [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/)
+- Mar 01 - [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)
+- Mar 01 - [Switch to Claude without starting over](https://claude.com/import-memory)
 - Mar 01 - [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org)
-- Mar 01 - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
-- Mar 01 - [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/)
-- Mar 01 - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 <!--END_SECTION:hn-->
 
 <!--
