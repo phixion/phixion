@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 01 - [AWS Middle East Central Down, apparently struck in war](https://health.aws.amazon.com/health/status)
-- Mar 01 - [A new Polymarket account made over $500k betting on the U.S. strike against Iran](https://twitter.com/cabsav456/status/2027937130995921119)
-- Mar 01 - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
-- Mar 01 - [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html)
-- Mar 01 - [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor)
+- Mar 01 - [U.S. Races to Accomplish Iran Mission Before Munitions Run Out](https://www.wsj.com/world/middle-east/u-s-races-to-accomplish-iran-mission-before-munitions-run-out-c014acbc)
+- Mar 01 - [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict)
+- Mar 01 - [Little Free Library Books](https://littlefreelibrary.org/)
+- Mar 01 - [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
+- Mar 01 - [South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191)
 <!--END_SECTION:hn-->
 
 <!--
