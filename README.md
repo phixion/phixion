@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Mar 02 - [Quitbro - 22,874 breached accounts](https://haveibeenpwned.com/Breach/Quitbro)
 - Mar 02 - [KomikoAI - 1,060,191 breached accounts](https://haveibeenpwned.com/Breach/KomikoAI)
 - Feb 26 - [Odido - 6,077,025 breached accounts](https://haveibeenpwned.com/Breach/Odido)
 - Feb 25 - [Canadian Tire - 38,306,562 breached accounts](https://haveibeenpwned.com/Breach/CanadianTire)
 - Feb 22 - [CarGurus - 12,461,887 breached accounts](https://haveibeenpwned.com/Breach/CarGurus)
-- Feb 20 - [CarMax - 431,371 breached accounts](https://haveibeenpwned.com/Breach/CarMax)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Everett shuts down Flock camera network after judge rules footage public record](https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae)
-- Mar 02 - [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber)
-- Mar 02 - [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
-- Mar 01 - [Show HN: Logira – eBPF runtime auditing for AI agent runs](https://github.com/melonattacker/logira)
-- Mar 01 - [Right-sizes LLM models to your system's RAM, CPU, and GPU](https://github.com/AlexsJones/llmfit)
+- Mar 02 - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+- Mar 02 - [An interactive intro to Elliptic Curve Cryptography](https://growingswe.com/blog/elliptic-curve-cryptography)
+- Mar 02 - [Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)
+- Mar 02 - [Process-Based Concurrency: Why Beam and OTP Keep Being Right](https://variantsystems.io/blog/beam-otp-process-concurrency)
+- Mar 02 - [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
 <!--END_SECTION:hn-->
 
 <!--
