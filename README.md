@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
-- Mar 03 - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
-- Mar 03 - [I'm reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
-- Mar 03 - [Don't Become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
-- Mar 03 - [Apple introduces the new MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+- Mar 03 - [Self-Hosted Software List](https://hostedsoftware.org/)
+- Mar 03 - [GitHub Is Having Issues](https://www.githubstatus.com/incidents/n07yy1bk6kc4)
+- Mar 03 - [Iran War Cost Tracker](https://iran-cost-ticker.com)
+- Mar 03 - [Tell HN: GitHub Having Issues](https://news.ycombinator.com/item?id=47237018)
+- Mar 03 - [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
 <!--END_SECTION:hn-->
 
 <!--
