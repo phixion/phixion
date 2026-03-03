@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
-- Mar 03 - [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)
-- Mar 03 - [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/)
-- Mar 03 - [AWS outage due to drone attacks in UAE](https://www.bbc.com/news/articles/cgk28nj0lrjo)
-- Mar 03 - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
+- Mar 03 - [Florida public universities to pause hiring new H-1B workers](https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year)
+- Mar 03 - [Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents](https://news.ycombinator.com/item?id=47232903)
+- Mar 03 - [I'm reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
+- Mar 03 - [Don't Become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager)
+- Mar 03 - [Apple introduces the new MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
 <!--END_SECTION:hn-->
 
 <!--
