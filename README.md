@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Elevated Errors in Claude.ai](https://status.claude.com/incidents/yf48hzysrvl5)
-- Mar 03 - [Show HN: Giggles – A batteries-included React framework for TUIs](https://github.com/zion-off/giggles)
-- Mar 03 - [Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
-- Mar 02 - [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24)
-- Mar 02 - [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+- Mar 03 - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
+- Mar 03 - [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/)
+- Mar 03 - [Buckle Up for Bumpier Skies](https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies)
+- Mar 03 - [Daily Driving GrapheneOS](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/)
+- Mar 03 - [Intent-Based Commits](https://github.com/adamveld12/ghost)
 <!--END_SECTION:hn-->
 
 <!--
