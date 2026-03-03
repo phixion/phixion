@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 02 - [Show HN: Gapless.js – gapless web audio playback](https://github.com/RelistenNet/gapless.js)
-- Mar 02 - ["That Shape Had None" – A Horror of Substrate Independence (Short Fiction)](https://starlightconvenience.net/#that-shape-had-none)
-- Mar 02 - [Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal](https://www.bbc.com/news/articles/c05v0p1d0peo)
-- Mar 02 - [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com)
-- Mar 02 - [Reflex (YC W23) Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs)
+- Mar 02 - [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24)
+- Mar 02 - [Closure of the Weatherradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+- Mar 02 - [Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
+- Mar 02 - [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+- Mar 02 - [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
 <!--END_SECTION:hn-->
 
 <!--
