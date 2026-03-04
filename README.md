@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 03 - [Self-Hosted Software List](https://hostedsoftware.org/)
-- Mar 03 - [GitHub Is Having Issues](https://www.githubstatus.com/incidents/n07yy1bk6kc4)
-- Mar 03 - [Iran War Cost Tracker](https://iran-cost-ticker.com)
-- Mar 03 - [Tell HN: GitHub Having Issues](https://news.ycombinator.com/item?id=47237018)
-- Mar 03 - [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
+- Mar 04 - [Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal](https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal)
+- Mar 03 - [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
+- Mar 03 - [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/)
+- Mar 03 - [Helsinki just went a full year without a single traffic death](https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/)
+- Mar 03 - [Don't Make Me Talk to Your Chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/)
 <!--END_SECTION:hn-->
 
 <!--
