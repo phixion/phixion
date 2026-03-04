@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us)
-- Mar 04 - [Users fume over Outlook.com email 'carnage'](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
-- Mar 04 - [Bet on German Train Delays](https://bahn.bet)
-- Mar 04 - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
-- Mar 04 - [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
+- Mar 04 - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
+- Mar 04 - [Medical journal says the case reports it has published for 25 years are fiction](https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/)
+- Mar 04 - [The one science reform we can all agree on, but we're too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all)
+- Mar 04 - ["It Turns Out"](https://jsomers.net/blog/it-turns-out)
+- Mar 04 - [Apple Announces Low-Cost 'MacBook Neo' with A18 Pro Chip](https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/)
 <!--END_SECTION:hn-->
 
 <!--
