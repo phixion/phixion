@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 04 - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us)
+- Mar 04 - [Users fume over Outlook.com email 'carnage'](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/)
+- Mar 04 - [Bet on German Train Delays](https://bahn.bet)
 - Mar 04 - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
 - Mar 04 - [Better JIT for Postgres](https://github.com/vladich/pg_jitter)
-- Mar 04 - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
-- Mar 04 - [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU)
-- Mar 04 - [Indefinite Book Club Hiatus](https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/)
 <!--END_SECTION:hn-->
 
 <!--
