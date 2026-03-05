@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [No right to relicense this project](https://github.com/chardet/chardet/issues/327)
-- Mar 05 - [Smalltalk's Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
-- Mar 05 - [Poor Man's Polaroid](https://boxart.lt/blog/poor_mans_polaroid)
-- Mar 05 - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
-- Mar 05 - [Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control](https://netbsd-jails.petermann-digital.de/)
+- Mar 05 - [Show HN: Jido 2.0, Elixir Agent Framework](https://jido.run/blog/jido-2-0-is-here)
+- Mar 05 - [The IRIX 6.5.7M (sgi) source code](https://github.com/calmsacibis995/irix-657m-src)
+- Mar 05 - [Google Safe Browsing missed 84% of phishing sites we found in February](https://www.norn-labs.com/blog/huginn-report-feb-2026)
+- Mar 05 - [Rising carbon dioxide levels now detected in human blood](https://phys.org/news/2026-02-carbon-dioxide-human-blood.html)
+- Mar 05 - [Fast-Servers](https://geocar.sdf1.org/fast-servers.html)
 <!--END_SECTION:hn-->
 
 <!--
