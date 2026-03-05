@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 04 - [Father claims Google's AI product fuelled son's delusional spiral](https://www.bbc.com/news/articles/czx44p99457o)
-- Mar 04 - [Google ends its 30 percent app store fee and welcomes third-party app stores](https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html)
-- Mar 04 - [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
-- Mar 04 - [Data Has Weight but Only on SSDs](https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/)
-- Mar 04 - [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
+- Mar 04 - [Anthropic CEO calls OpenAI's messaging around military deal 'straight up lies'](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+- Mar 04 - [Extending single-minus amplitudes to gravitons](https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/)
+- Mar 04 - [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf)
+- Mar 04 - [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)
+- Mar 04 - [Does that use a lot of energy?](https://hannahritchie.github.io/energy-use-comparisons/)
 <!--END_SECTION:hn-->
 
 <!--
