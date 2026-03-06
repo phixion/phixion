@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 06 - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
+- Mar 06 - [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
+- Mar 06 - [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
 - Mar 05 - [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
-- Mar 05 - [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
-- Mar 05 - [Ethiopia gets $350M World Bank financing for its digital ID project (2024)](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project)
-- Mar 05 - [Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
-- Mar 05 - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
+- Mar 05 - [Stop Using Grey Text (2025)](https://catskull.net/stop-using-grey-text.html)
 <!--END_SECTION:hn-->
 
 <!--
