@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 05 - [Pentagon Formally Labels Anthropic Supply-Chain Risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
-- Mar 05 - [Let's Get Physical](https://m4iler.cloud/posts/lets-get-physical/)
-- Mar 05 - [OpenTitan Shipping in Production](https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html)
-- Mar 05 - [Remotely unlocking an encrypted hard disk](https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/)
-- Mar 05 - [US asked Ukraine for help fighting Iranian drones, Zelensky says](https://www.bbc.com/news/articles/cr5llg0e9g9o)
+- Mar 05 - [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
+- Mar 05 - [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
+- Mar 05 - [Ethiopia gets $350M World Bank financing for its digital ID project (2024)](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project)
+- Mar 05 - [Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
+- Mar 05 - [Structured AI (YC F25) Is Hiring](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant)
 <!--END_SECTION:hn-->
 
 <!--
