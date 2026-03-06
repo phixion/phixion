@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 06 - [Stardex (YC S21) is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
+- Mar 06 - [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
 - Mar 06 - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
-- Mar 06 - [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
-- Mar 06 - [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
-- Mar 05 - [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
-- Mar 05 - [Stop Using Grey Text (2025)](https://catskull.net/stop-using-grey-text.html)
+- Mar 06 - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
+- Mar 06 - [Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages](https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/)
 <!--END_SECTION:hn-->
 
 <!--
