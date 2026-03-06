@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Hardening Firefox with Anthropic's Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
-- Mar 06 - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
-- Mar 06 - [If AI has a bright future, why does AI think it doesn't?](https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195)
-- Mar 06 - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
-- Mar 06 - [Stardex (YC S21) is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
+- Mar 06 - [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
+- Mar 06 - [I Dropped Our Production Database and Now Pay 10% More for AWS](https://alexeyondata.substack.com/p/how-i-dropped-our-production-database)
+- Mar 06 - [CT Scans of Health Wearables](https://www.lumafield.com/scan-of-the-month/health-wearables)
+- Mar 06 - [Show HN: Interactive 3D globe of EU shipping emissions](https://seafloor.pages.dev)
+- Mar 06 - [Global Warming Has Accelerated Significantly](https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly)
 <!--END_SECTION:hn-->
 
 <!--
