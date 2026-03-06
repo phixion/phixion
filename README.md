@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 06 - [Hardening Firefox with Anthropic's Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
+- Mar 06 - [LibreSprite – open-source pixel art editor](https://libresprite.github.io/)
+- Mar 06 - [If AI has a bright future, why does AI think it doesn't?](https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195)
+- Mar 06 - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 - Mar 06 - [Stardex (YC S21) is hiring customer success engineers](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration)
-- Mar 06 - [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html)
-- Mar 06 - [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/)
-- Mar 06 - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
-- Mar 06 - [Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages](https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/)
 <!--END_SECTION:hn-->
 
 <!--
