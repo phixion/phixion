@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst)
-- Mar 07 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
-- Mar 07 - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
-- Mar 07 - [Game about Data of America](https://americaindata.com/)
-- Mar 07 - [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
+- Mar 07 - [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
+- Mar 07 - [Boy I was wrong about the Fediverse](https://matduggan.com/boy-i-was-wrong-about-the-fediverse/)
+- Mar 07 - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
+- Mar 07 - [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/)
+- Mar 07 - [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b)
 <!--END_SECTION:hn-->
 
 <!--
