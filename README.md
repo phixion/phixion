@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 06 - [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
-- Mar 06 - [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2)
-- Mar 06 - [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
-- Mar 06 - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
-- Mar 06 - [Art Bits from HyperCard](https://archives.somnolescent.net/web/mari_v2/junk/hypercard/)
+- Mar 07 - [AI and the Illegal War](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)
+- Mar 07 - [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
+- Mar 07 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+- Mar 07 - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
+- Mar 07 - [Game about Data of America](https://americaindata.com/)
 <!--END_SECTION:hn-->
 
 <!--
