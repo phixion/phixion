@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [AI and the Illegal War](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/)
-- Mar 07 - [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease)
+- Mar 07 - [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst)
 - Mar 07 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
 - Mar 07 - [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 - Mar 07 - [Game about Data of America](https://americaindata.com/)
+- Mar 07 - [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula)
 <!--END_SECTION:hn-->
 
 <!--
