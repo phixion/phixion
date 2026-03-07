@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus)
-- Mar 07 - [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://twitter.com/KatanaLarp/status/2029928471632224486)
-- Mar 07 - [Show HN: ANSI-Saver – A macOS Screensaver](https://github.com/lardissone/ansi-saver)
-- Mar 07 - [PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon](https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose)
-- Mar 07 - [The Case of the Disappearing Secretary](https://rowlandmanthorpe.substack.com/p/the-case-of-the-disappearing-secretary)
+- Mar 07 - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
+- Mar 07 - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
+- Mar 07 - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
+- Mar 07 - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
+- Mar 07 - [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
 <!--END_SECTION:hn-->
 
 <!--
