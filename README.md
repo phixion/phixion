@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [Why developers using AI are working longer hours](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
-- Mar 07 - [Put the zip code first](https://zipcodefirst.com)
-- Mar 07 - [Caitlin Kalinowski: I resigned from OpenAI](https://twitter.com/kalinowski007/status/2030320074121478618)
-- Mar 07 - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
-- Mar 07 - [$3T flows through U.S. nonprofits every year](https://charitysense.com/insights/the-3-trillion-blind-spot)
+- Mar 08 - [Will Claude Code ruin our team?](https://justinjackson.ca/claude-code-ruin)
+- Mar 08 - [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame)
+- Mar 08 - [They all said Hormuz closure would be brief. What if they were wrong?](https://www.lloydslist.com/LL1156532/They-all-said-Hormuz-closure-would-be-brief-What-if-they-were-wrong)
+- Mar 08 - ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)
+- Mar 08 - [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 <!--END_SECTION:hn-->
 
 <!--
