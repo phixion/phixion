@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
-- Mar 08 - [FrameBook](https://fb.edoo.gg)
-- Mar 08 - [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)
-- Mar 08 - [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
-- Mar 08 - [Beagle, a source code management system that stores AST trees](https://github.com/gritzko/librdx/tree/master/be)
+- Mar 08 - [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
+- Mar 08 - [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
+- Mar 08 - [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
+- Mar 08 - [In vitro neurons learn and exhibit sentience when embodied in a game-world(2022)](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue)
+- Mar 08 - [WSL Manager](https://github.com/bostrot/wsl2-distro-manager)
 <!--END_SECTION:hn-->
 
 <!--
