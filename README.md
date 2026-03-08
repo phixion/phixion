@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 07 - [We're Training Students to Write Worse to Prove They're Not Robots](https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/)
-- Mar 07 - [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers)
-- Mar 07 - [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance)
-- Mar 07 - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
-- Mar 07 - [The Millisecond That Could Change Cancer Treatment](https://spectrum.ieee.org/flash-radiotherapy)
+- Mar 07 - [Why developers using AI are working longer hours](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/)
+- Mar 07 - [Put the zip code first](https://zipcodefirst.com)
+- Mar 07 - [Caitlin Kalinowski: I resigned from OpenAI](https://twitter.com/kalinowski007/status/2030320074121478618)
+- Mar 07 - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp)
+- Mar 07 - [$3T flows through U.S. nonprofits every year](https://charitysense.com/insights/the-3-trillion-blind-spot)
 <!--END_SECTION:hn-->
 
 <!--
