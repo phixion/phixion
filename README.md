@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
-- Mar 08 - [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
-- Mar 08 - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
-- Mar 08 - [Show HN: Curiosity – DIY 6" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/)
-- Mar 08 - [To the Polypropylene Makers](https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers)
+- Mar 08 - [Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat](https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html)
+- Mar 08 - [FrameBook](https://fb.edoo.gg)
+- Mar 08 - [What if the Apple ][ had run on Field-Sequential?](https://nicole.express/2026/the-apple-that-wasnt.html)
+- Mar 08 - [LibreOffice: Request to the European Commission to adhere to its own guidances](https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/)
+- Mar 08 - [Beagle, a source code management system that stores AST trees](https://github.com/gritzko/librdx/tree/master/be)
 <!--END_SECTION:hn-->
 
 <!--
