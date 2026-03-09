@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Nvidia backs AI data center startup Nscale as it hits $14.6B valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html)
-- Mar 09 - [Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
-- Mar 09 - [Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)
-- Mar 09 - [We Stopped Using the Mathematics That Works](https://gfrm.in/posts/why-decision-theory-lost/index.html)
-- Mar 09 - [US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
+- Mar 09 - [Kuwaiti F/A-18's Triple Friendly Fire Shootdown Gets Stranger by the Day](https://www.twz.com/air/kuwaiti-f-a-18s-triple-friendly-fire-shootdown-gets-stranger-by-the-day)
+- Mar 09 - [Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram](https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram)
+- Mar 09 - [The engine of Germany's wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
+- Mar 09 - [I'm Getting a Whiff of Iain Banks' Culture](https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/)
+- Mar 09 - [Revealed: UK's multibillion AI drive is built on 'phantom investments'](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
 <!--END_SECTION:hn-->
 
 <!--
