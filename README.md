@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Kuwaiti F/A-18's Triple Friendly Fire Shootdown Gets Stranger by the Day](https://www.twz.com/air/kuwaiti-f-a-18s-triple-friendly-fire-shootdown-gets-stranger-by-the-day)
-- Mar 09 - [Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram](https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram)
-- Mar 09 - [The engine of Germany's wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
-- Mar 09 - [I'm Getting a Whiff of Iain Banks' Culture](https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/)
-- Mar 09 - [Revealed: UK's multibillion AI drive is built on 'phantom investments'](https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments)
+- Mar 09 - [Uber reported to the state that I was fired for "annoying a coworker."](https://anon-ex-uber.medium.com/uber-reported-to-the-state-that-i-was-fired-for-annoying-a-coworker-4ba7490cc0b8)
+- Mar 09 - [The Most Beautiful Freezer in the World: Notes on Baking at the South Pole](https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world)
+- Mar 09 - [Bluesky CEO Jay Graber is stepping down](https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky)
+- Mar 09 - [Durdraw – ANSI art editor for Unix-like systems](https://durdraw.org/)
+- Mar 09 - [Workers report watching Ray-Ban Meta-shot footage of people using the bathroom](https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/)
 <!--END_SECTION:hn-->
 
 <!--
