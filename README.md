@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 08 - [Ask HN: Please restrict new accounts from posting](https://news.ycombinator.com/item?id=47300329)
-- Mar 08 - [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
-- Mar 08 - [I made a programming language with M&Ms](https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/)
-- Mar 08 - [In vitro neurons learn and exhibit sentience when embodied in a game-world(2022)](https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue)
-- Mar 08 - [WSL Manager](https://github.com/bostrot/wsl2-distro-manager)
+- Mar 08 - [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/)
+- Mar 08 - [Most of the US economy is in a recession](https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3)
+- Mar 08 - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
+- Mar 08 - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
+- Mar 08 - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
 <!--END_SECTION:hn-->
 
 <!--
