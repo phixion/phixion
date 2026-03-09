@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 09 - [The Death of Social Media Is the Renaissance of RSS](https://www.smartlab.at/rss-revival-life-after-social-media/)
+- Mar 09 - [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
+- Mar 08 - [Last Statements](https://walzr.com/last-statements)
 - Mar 08 - [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/)
-- Mar 08 - [Most of the US economy is in a recession](https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3)
 - Mar 08 - [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
-- Mar 08 - [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy)
-- Mar 08 - [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life)
 <!--END_SECTION:hn-->
 
 <!--
