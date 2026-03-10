@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [Ask HN: Remember Fidonet?](https://news.ycombinator.com/item?id=47321760)
-- Mar 10 - [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
-- Mar 10 - [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
-- Mar 10 - [I put my whole life into a single database](https://howisfelix.today/)
-- Mar 10 - [EVi, a Hard-Fork of Vim](https://codeberg.org/NerdNextDoor/evi)
+- Mar 10 - [Launch HN: Didit (YC W26) – Stripe for Identity Verification](https://news.ycombinator.com/item?id=47324296)
+- Mar 10 - [Amazon is holding a mandatory meeting about AI breaking its systems](https://twitter.com/lukolejnik/status/2031257644724342957)
+- Mar 10 - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+- Mar 10 - [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
+- Mar 10 - [Show HN: A playable version of the Claude Code Terraform destroy incident](https://www.youbrokeprod.com)
 <!--END_SECTION:hn-->
 
 <!--
