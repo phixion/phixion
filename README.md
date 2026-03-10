@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 10 - [LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)](https://loger-project.github.io)
-- Mar 10 - [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
-- Mar 10 - [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
-- Mar 10 - [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live)
-- Mar 10 - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+- Mar 10 - [Ask HN: Remember Fidonet?](https://news.ycombinator.com/item?id=47321760)
+- Mar 10 - [Yann LeCun's AI startup raises $1B in Europe's largest ever seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+- Mar 10 - [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
+- Mar 10 - [I put my whole life into a single database](https://howisfelix.today/)
+- Mar 10 - [EVi, a Hard-Fork of Vim](https://codeberg.org/NerdNextDoor/evi)
 <!--END_SECTION:hn-->
 
 <!--
