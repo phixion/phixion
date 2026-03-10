@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 09 - [Sir Tony Hoare has died](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
-- Mar 09 - [Rendezvous with Rama](https://blog.engora.com/2026/03/rendezvous-with-rama.html)
+- Mar 10 - [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+- Mar 10 - [The “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)
+- Mar 10 - [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
 - Mar 09 - [So you want to write an “app” (2025)](https://arcanenibble.github.io/so-you-want-to-write-an-app.html)
-- Mar 09 - [Oracle is building yesterday's data centers with tomorrow's debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
-- Mar 09 - [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html)
+- Mar 09 - [OpenAI is walking away from expanding its Stargate data center with Oracle](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html)
 <!--END_SECTION:hn-->
 
 <!--
