@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [AutoKernel: Autoresearch for GPU Kernels](https://github.com/RightNow-AI/autokernel)
-- Mar 11 - [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
-- Mar 11 - [TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization](https://www.hume.ai/blog/opensource-tada)
-- Mar 11 - [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/)
-- Mar 11 - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
+- Mar 11 - [Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos](https://www.prismvideos.com)
+- Mar 11 - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/)
+- Mar 11 - [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/)
+- Mar 11 - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
+- Mar 11 - [Why the Global Elite Gave Up on Spelling and Grammar](https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1)
 <!--END_SECTION:hn-->
 
 <!--
