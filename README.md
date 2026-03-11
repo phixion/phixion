@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 11 - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
+- Mar 11 - [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
 - Mar 10 - [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html)
 - Mar 10 - [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
-- Mar 10 - [Cloudflare Crawl Endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
-- Mar 10 - [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
-- Mar 10 - [Against vibes: When is a generative model useful](https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/)
+- Mar 10 - [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
 <!--END_SECTION:hn-->
 
 <!--
