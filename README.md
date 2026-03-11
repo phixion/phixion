@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos](https://www.prismvideos.com)
-- Mar 11 - [Show HN: Klaus – OpenClaw on a VM, batteries included](https://klausai.com/)
-- Mar 11 - [Where Some See Strings, She Sees a Space-Time Made of Fractals](https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/)
-- Mar 11 - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
-- Mar 11 - [Why the Global Elite Gave Up on Spelling and Grammar](https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1)
+- Mar 11 - [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
+- Mar 11 - [Hisense TVs force owners to watch intrusive ads](https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing)
+- Mar 11 - [Personal Computer by Perplexity](https://www.perplexity.ai/personal-computer-waitlist)
+- Mar 11 - [I Was Interviewed by an AI Bot for a Job](https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job)
+- Mar 11 - [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html)
 <!--END_SECTION:hn-->
 
 <!--
