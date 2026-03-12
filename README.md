@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [Another DOGE staffer explaining how he flagged grants at NEH for "DEI"](https://bsky.app/profile/404media.co/post/3mgupw4v3ak2j)
-- Mar 12 - [The Met Releases High-Def 3D Scans of 140 Famous Art Objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html)
-- Mar 12 - [Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion](https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/)
-- Mar 12 - [Colon cancer now leading cause of cancer deaths under 50 in US](https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths)
-- Mar 12 - [Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war](https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/)
+- Mar 12 - [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
+- Mar 12 - [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
+- Mar 12 - [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io)
+- Mar 12 - [Contextual commits – An open standard for capturing the why in Git history](https://vidimitrov.substack.com/p/contextual-commits-an-open-standard)
+- Mar 12 - [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
 <!--END_SECTION:hn-->
 
 <!--
