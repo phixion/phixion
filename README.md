@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
-- Mar 12 - [Returning to Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
-- Mar 12 - [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-- Mar 12 - [Urea prices](https://tradingeconomics.com/commodity/urea)
-- Mar 12 - [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
+- Mar 12 - [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)
+- Mar 12 - [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html)
+- Mar 12 - [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)
+- Mar 12 - [Avoiding Trigonometry (2013)](https://iquilezles.org/articles/noacos/)
+- Mar 12 - [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
 <!--END_SECTION:hn-->
 
 <!--
