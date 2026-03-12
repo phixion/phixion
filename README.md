@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 11 - [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch)
-- Mar 11 - [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/)
-- Mar 11 - [Building Better Country Selects](https://talysto.com/blog/building-better-country-selects/)
-- Mar 11 - [Preliminary data from a longitudinal AI impact study](https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not)
-- Mar 11 - [Britain is ejecting hereditary nobles from Parliament after 700 years](https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4)
+- Mar 12 - [Oil hits $100 a barrel despite deal to release record amount of reserves](https://www.bbc.com/news/articles/c1w5141vx53o)
+- Mar 12 - [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+- Mar 12 - [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/)
+- Mar 12 - [How much of HN is AI?](https://lcamtuf.substack.com/p/how-much-of-hn-is-ai)
+- Mar 12 - [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
 <!--END_SECTION:hn-->
 
 <!--
