@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 12 - [An old photo of a large BBS](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
-- Mar 12 - [White House plan to break up iconic U.S. climate lab moves forward](https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward)
-- Mar 12 - [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io)
-- Mar 12 - [Contextual commits – An open standard for capturing the why in Git history](https://vidimitrov.substack.com/p/contextual-commits-an-open-standard)
-- Mar 12 - [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)
+- Mar 12 - [Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)](https://pycoclaw.com/)
+- Mar 12 - [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
+- Mar 12 - [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+- Mar 12 - [Bringing Chrome to ARM64 Linux Devices](https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html)
+- Mar 12 - [An old photo of a large BBS (2022)](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
 <!--END_SECTION:hn-->
 
 <!--
