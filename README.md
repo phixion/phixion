@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 13 - [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/)
-- Mar 13 - [NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch)
-- Mar 13 - [Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
-- Mar 13 - [Two long-lost episodes of 'Doctor Who' have been found](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8)
-- Mar 13 - [Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/)
+- Mar 13 - [How do you capture WHY engineering decisions were made, not just what?](https://news.ycombinator.com/item?id=47368874)
+- Mar 13 - [The wild six weeks for NanoClaw's creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
+- Mar 13 - [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate)
+- Mar 13 - [Digg is gone again](https://digg.com/)
+- Mar 13 - [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 <!--END_SECTION:hn-->
 
 <!--
