@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [Claude Code's binary reveals silent A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
-- Mar 14 - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
-- Mar 14 - [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens)
-- Mar 14 - [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev)
-- Mar 14 - [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/)
+- Mar 14 - [Philosoph Jürgen Habermas Gestorben](https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363)
+- Mar 14 - [Montana passes Right to Compute act](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
+- Mar 14 - [9 Mothers Defense (YC P26) Is Hiring in Austin](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+- Mar 14 - [The Forth Language [Byte Magazine Volume 05 Number 08]](https://archive.org/details/byte-magazine-1980-08)
+- Mar 14 - [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 <!--END_SECTION:hn-->
 
 <!--
