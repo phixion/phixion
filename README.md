@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 14 - [2026 tech layoffs reach 45,000 in March](https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/)
-- Mar 14 - [Show HN: Zap Code – AI code generator that teaches kids real HTML/CSS/JS](https://www.zapcode.dev)
-- Mar 14 - [Head of FCC threatens broadcaster licenses over critical coverage of Iran war](https://twitter.com/BrendanCarrFCC/status/2032855414233047172)
-- Mar 14 - [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
-- Mar 14 - [Claudetop – htop for Claude Code sessions (see your AI spend in real-time)](https://github.com/liorwn/claudetop)
+- Mar 15 - [FCC chairman threatens TV broadcast licenses over news coverage](https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/)
+- Mar 14 - [Israel is running critically low on interceptors, US officials say](https://www.semafor.com/article/03/14/2026/israel-is-running-critically-low-on-interceptors-us-officials-say)
+- Mar 14 - [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/)
+- Mar 14 - [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)
+- Mar 14 - [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals)
 <!--END_SECTION:hn-->
 
 <!--
