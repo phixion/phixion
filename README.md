@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
-- Mar 15 - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
-- Mar 15 - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
-- Mar 15 - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)
-- Mar 15 - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
+- Mar 15 - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
+- Mar 15 - [Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV](https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/)
+- Mar 15 - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
+- Mar 15 - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
+- Mar 15 - [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
 <!--END_SECTION:hn-->
 
 <!--
