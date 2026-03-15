@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)
-- Mar 15 - [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
-- Mar 15 - [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
-- Mar 15 - [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
-- Mar 15 - [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
+- Mar 15 - [Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300](https://firthemouse.github.io/)
+- Mar 15 - [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
+- Mar 15 - [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode)
+- Mar 15 - [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/)
+- Mar 15 - [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html)
 <!--END_SECTION:hn-->
 
 <!--
