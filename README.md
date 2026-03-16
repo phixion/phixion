@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 15 - [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
-- Mar 15 - [Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV](https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/)
-- Mar 15 - [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
-- Mar 15 - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
-- Mar 15 - [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/)
+- Mar 16 - [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
+- Mar 15 - [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
+- Mar 15 - [Excel incorrectly assumes that the year 1900 is a leap year](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year)
+- Mar 15 - [Show HN: Open-source playground to red-team AI agents with exploits published](https://github.com/fabraix/playground)
+- Mar 15 - [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame)
 <!--END_SECTION:hn-->
 
 <!--
