@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [ASCII and Unicode quotation marks (2007)](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html)
-- Mar 16 - [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
-- Mar 16 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
-- Mar 16 - [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
-- Mar 15 - [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
+- Mar 16 - [Nango (YC W23, API Access for Agents and Apps) Is Hiring](https://jobs.ashbyhq.com/Nango)
+- Mar 16 - [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)
+- Mar 16 - [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)
+- Mar 16 - [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
+- Mar 16 - [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190)
 <!--END_SECTION:hn-->
 
 <!--
