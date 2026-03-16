@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 16 - [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/)
-- Mar 15 - [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html)
-- Mar 15 - [Excel incorrectly assumes that the year 1900 is a leap year](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year)
-- Mar 15 - [Show HN: Open-source playground to red-team AI agents with exploits published](https://github.com/fabraix/playground)
-- Mar 15 - [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame)
+- Mar 16 - [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io)
+- Mar 16 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
+- Mar 16 - [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx)
+- Mar 16 - [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
+- Mar 16 - [An experiment to use GitHub Actions as a control plane for a PaaS](https://towlion.github.io)
 <!--END_SECTION:hn-->
 
 <!--
