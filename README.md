@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Zenclora OS](https://zenclora.org/)
+- Mar 17 - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
 - Mar 17 - [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
 - Mar 17 - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 - Mar 17 - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
