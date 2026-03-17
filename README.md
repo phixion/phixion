@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go](https://github.com/antflydb/antfly)
-- Mar 17 - [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
-- Mar 17 - [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
-- Mar 17 - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
-- Mar 17 - [OpenSUSE Kalpa](https://kalpadesktop.org/)
+- Mar 17 - [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
+- Mar 17 - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
+- Mar 17 - [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
+- Mar 17 - [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
+- Mar 17 - [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
 <!--END_SECTION:hn-->
 
 <!--
