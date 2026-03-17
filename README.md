@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
-- Mar 17 - [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project)
-- Mar 17 - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
-- Mar 17 - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
-- Mar 17 - [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
+- Mar 17 - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
+- Mar 17 - [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
+- Mar 17 - [Kagi Small Web](https://kagi.com/smallweb/)
+- Mar 17 - [Building a Shell](https://healeycodes.com/building-a-shell)
+- Mar 17 - [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
 <!--END_SECTION:hn-->
 
 <!--
