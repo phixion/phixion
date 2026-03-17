@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html)
-- Mar 17 - [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)
-- Mar 17 - [Kagi Small Web](https://kagi.com/smallweb/)
-- Mar 17 - [Building a Shell](https://healeycodes.com/building-a-shell)
-- Mar 17 - [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
+- Mar 17 - [Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go](https://github.com/antflydb/antfly)
+- Mar 17 - [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
+- Mar 17 - [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1)
+- Mar 17 - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
+- Mar 17 - [OpenSUSE Kalpa](https://kalpadesktop.org/)
 <!--END_SECTION:hn-->
 
 <!--
