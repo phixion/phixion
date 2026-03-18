@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 18 - [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)
+- Mar 18 - [The pleasures of poor product design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design)
+- Mar 18 - [A tale about fixing eBPF spinlock issues in the Linux kernel](https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
 - Mar 17 - [Why AI systems don't learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
 - Mar 17 - [Mistral AI Releases Forge](https://mistral.ai/news/forge)
-- Mar 17 - [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
-- Mar 17 - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
-- Mar 17 - [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
 <!--END_SECTION:hn-->
 
 <!--
