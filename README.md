@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 17 - [Meta Horizon Worlds on Meta Quest is being discontinued](https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435)
-- Mar 17 - [Slug Text Rendering Algorithm Dedicated to Public Domain](https://terathon.com/blog/decade-slug.html)
-- Mar 17 - [Java 26 is here, and with it a solid foundation for the future](https://hanno.codes/2026/03/17/java-26-is-here/)
-- Mar 17 - [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
-- Mar 17 - [Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust](https://github.com/peters/horizon)
+- Mar 17 - [Why AI systems don't learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)
+- Mar 17 - [Mistral AI Releases Forge](https://mistral.ai/news/forge)
+- Mar 17 - [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
+- Mar 17 - [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
+- Mar 17 - [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335)
 <!--END_SECTION:hn-->
 
 <!--
