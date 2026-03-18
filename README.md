@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)
-- Mar 18 - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
-- Mar 18 - [Meta will shut down VR Horizon Worlds access June 15](https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html)
-- Mar 18 - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
-- Mar 18 - [Snowflake AI Escapes Sandbox and Executes Malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+- Mar 18 - [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
+- Mar 18 - [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
+- Mar 18 - [EU Inc.: A new harmonised corporate legal regime](https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en)
+- Mar 18 - [AI coding is gambling](https://notes.visaint.space/ai-coding-is-gambling/)
+- Mar 18 - [Google Engineers Launch "Sashiko" for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 <!--END_SECTION:hn-->
 
 <!--
