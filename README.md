@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 18 - [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/)
-- Mar 18 - [Judge orders restoration of Voice of America](https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24)
-- Mar 18 - [OpenAI Has New Focus (On the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)
-- Mar 18 - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
-- Mar 18 - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
+- Mar 18 - [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander)
+- Mar 18 - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
+- Mar 18 - [Meta will shut down VR Horizon Worlds access June 15](https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html)
+- Mar 18 - [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw)
+- Mar 18 - [Snowflake AI Escapes Sandbox and Executes Malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
 <!--END_SECTION:hn-->
 
 <!--
