@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-- Mar 18 - [What’s on HTTP?](https://whatsonhttp.com/)
-- Mar 18 - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
-- Mar 18 - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
-- Mar 18 - [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
+- Mar 19 - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
+- Mar 19 - [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
+- Mar 19 - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
+- Mar 19 - [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
+- Mar 19 - [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
 <!--END_SECTION:hn-->
 
 <!--
