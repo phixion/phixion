@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 19 - [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+- Mar 18 - [What’s on HTTP?](https://whatsonhttp.com/)
+- Mar 18 - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+- Mar 18 - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/)
 - Mar 18 - [Show HN: Playing LongTurn FreeCiv with Friends](https://github.com/ndroo/freeciv.andrewmcgrath.info)
-- Mar 18 - [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com)
-- Mar 18 - [EU Inc.: A new harmonised corporate legal regime](https://commission.europa.eu/topics/business-and-industry/doing-business-eu/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en)
-- Mar 18 - [AI coding is gambling](https://notes.visaint.space/ai-coding-is-gambling/)
-- Mar 18 - [Google Engineers Launch "Sashiko" for Agentic AI Code Review of the Linux Kernel](https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review)
 <!--END_SECTION:hn-->
 
 <!--
