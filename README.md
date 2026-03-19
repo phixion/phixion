@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 19 - [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews)
+- Mar 19 - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 - Mar 19 - [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
 - Mar 19 - [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
 - Mar 19 - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
-- Mar 19 - [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
-- Mar 19 - [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
 <!--END_SECTION:hn-->
 
 <!--
