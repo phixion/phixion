@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/)
-- Mar 20 - [Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot](https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/)
-- Mar 20 - [Chuck Norris has died](https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/)
-- Mar 20 - [Germany Mandates ODF for Public Administration](https://linuxiac.com/germany-mandates-odf-for-public-administration/)
-- Mar 20 - [Java is fast, code might not be](https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/)
+- Mar 20 - [Our Commitment to Windows Quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
+- Mar 20 - [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)
+- Mar 20 - [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472)
+- Mar 20 - [MacBook M5 Pro and Qwen3.5 = Local AI Security System](https://www.sharpai.org/benchmark/)
+- Mar 20 - [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318)
 <!--END_SECTION:hn-->
 
 <!--
