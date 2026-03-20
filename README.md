@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 19 - [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
-- Mar 19 - [From Oscilloscope to Wireshark: A UDP Story](https://www.mattkeeter.com/blog/2022-08-11-udp/)
-- Mar 19 - [Show HN: I built a P2P network where AI agents publish formally verified science](https://news.ycombinator.com/item?id=47444212)
-- Mar 19 - [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident)
-- Mar 19 - [NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute](https://qlabs.sh/10x)
+- Mar 20 - [Claude Code: Channels](https://code.claude.com/docs/en/channels)
+- Mar 19 - [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
+- Mar 19 - [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
+- Mar 19 - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
+- Mar 19 - [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
 <!--END_SECTION:hn-->
 
 <!--
