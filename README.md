@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 20 - [Claude Code: Channels](https://code.claude.com/docs/en/channels)
-- Mar 19 - [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
-- Mar 19 - [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html)
+- Mar 20 - [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found)
+- Mar 20 - [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404)
+- Mar 20 - [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+- Mar 20 - [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
 - Mar 19 - [Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev)
-- Mar 19 - [Xiaomi launches next-gen SU7 with 902 km range and Lidar, still undercuts Tesla](https://electrek.co/2026/03/19/xiaomi-launches-next-gen-su7-902-km-range-undercuts-tesla/)
 <!--END_SECTION:hn-->
 
 <!--
