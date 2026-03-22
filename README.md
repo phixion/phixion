@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)
-- Mar 22 - ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html)
-- Mar 22 - [Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome](https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/)
-- Mar 22 - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
-- Mar 22 - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
+- Mar 22 - [Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'](https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk)
+- Mar 22 - [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana)
+- Mar 22 - [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
+- Mar 22 - [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
+- Mar 22 - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)
 <!--END_SECTION:hn-->
 
 <!--
