@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 21 - [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
-- Mar 21 - [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646)
-- Mar 21 - [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
-- Mar 21 - [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/)
-- Mar 21 - [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/)
+- Mar 22 - [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/)
+- Mar 21 - [Storing 2 bytes of data in your Logitech mouse](https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/)
+- Mar 21 - [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
+- Mar 21 - [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
+- Mar 21 - [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
 <!--END_SECTION:hn-->
 
 <!--
