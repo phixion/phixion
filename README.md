@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Atlassian Says It Had Right to Fire Engineer for Suggesting CEO Is 'Rich Jerk'](https://www.bloomberg.com/news/articles/2026-03-16/atlassian-defends-firing-worker-who-suggested-ceo-is-rich-jerk)
-- Mar 22 - [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana)
-- Mar 22 - [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
-- Mar 22 - [iBook Clamshell](https://www.ibook-clamshell.com/index.php/en/)
-- Mar 22 - [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo)
+- Mar 22 - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
+- Mar 22 - [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
+- Mar 22 - [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage)
+- Mar 22 - [PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+- Mar 22 - [Palantir extends reach into British state as gets access to sensitive FCA data](https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data)
 <!--END_SECTION:hn-->
 
 <!--
