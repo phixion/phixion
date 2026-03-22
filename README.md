@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Ant Mill](https://en.wikipedia.org/wiki/Ant_mill)
-- Mar 22 - [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
-- Mar 22 - [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
-- Mar 21 - [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)
-- Mar 21 - [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
+- Mar 22 - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
+- Mar 22 - [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/)
+- Mar 22 - [Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today)
+- Mar 22 - [Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html)
+- Mar 22 - [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 <!--END_SECTION:hn-->
 
 <!--
