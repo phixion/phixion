@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
-- Mar 23 - [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
-- Mar 23 - [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
-- Mar 23 - [Migrating to the EU](https://rz01.org/eu-migration/)
-- Mar 23 - [Dataframe 1.0.0.0](https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834)
+- Mar 23 - [Is it a pint?](https://isitapint.com/)
+- Mar 23 - [OnlyFans owner Leonid Radvinsky dies of cancer at 43](https://www.reuters.com/world/uk/onlyfans-owner-leonid-radvinsky-dies-cancer-43-bloomberg-news-reports-2026-03-23/)
+- Mar 23 - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
+- Mar 23 - [If DSPy is so great, why isn't anyone using it?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
+- Mar 23 - [Study: 'Security Fatigue' May Weaken Digital Defenses](https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses)
 <!--END_SECTION:hn-->
 
 <!--
