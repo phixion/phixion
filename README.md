@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [Plane and ground vehicle collide at New York's LaGuardia airport halting flights](https://www.bbc.com/news/articles/cy01g522ww4o)
-- Mar 23 - [AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support](https://www.bohrium.com/competitions/9813928053?tab=introduce)
-- Mar 23 - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- Mar 23 - [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
-- Mar 23 - [Migrating the American express payment network, twice](https://americanexpress.io/migrating-the-payments-network-twice/)
+- Mar 23 - [Attractive students no longer receive better results as classes moved online](https://www.sciencedirect.com/science/article/pii/S016517652200283X)
+- Mar 23 - [Jazz CRJ9 at New York on Mar 22nd 2026, collision with fire truck on runway](https://avherald.com/h?article=536bb98e)
+- Mar 23 - [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)
+- Mar 23 - [Migrating to the EU](https://rz01.org/eu-migration/)
+- Mar 23 - [Dataframe 1.0.0.0](https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834)
 <!--END_SECTION:hn-->
 
 <!--
