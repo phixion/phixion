@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Personal Computing (2022)](https://josh8.com/blog/personal_computing.html)
-- Mar 22 - [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html)
-- Mar 22 - [Nebraska wildfires leave ranchers scrambling for forage](https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage)
-- Mar 22 - [PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
-- Mar 22 - [Palantir extends reach into British state as gets access to sensitive FCA data](https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data)
+- Mar 22 - [Why I Vibe in Go, Not Rust or Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)
+- Mar 22 - [Diverse perspectives on AI from Rust contributors and maintainers](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+- Mar 22 - [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
+- Mar 22 - [Iran war energy crisis is a renewable energy wake-up call](https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e)
+- Mar 22 - [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
 <!--END_SECTION:hn-->
 
 <!--
