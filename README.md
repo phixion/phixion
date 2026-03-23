@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 22 - [Why I Vibe in Go, Not Rust or Python](https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python)
-- Mar 22 - [Diverse perspectives on AI from Rust contributors and maintainers](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
+- Mar 23 - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- Mar 23 - ["Collaboration" Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
+- Mar 23 - [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
+- Mar 23 - [Migrating the American Express Payment Network, Twice](https://americanexpress.io/migrating-the-payments-network-twice/)
 - Mar 22 - [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
-- Mar 22 - [Iran war energy crisis is a renewable energy wake-up call](https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e)
-- Mar 22 - [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830)
 <!--END_SECTION:hn-->
 
 <!--
