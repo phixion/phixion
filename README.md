@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 23 - [Plane and ground vehicle collide at New York's LaGuardia airport halting flights](https://www.bbc.com/news/articles/cy01g522ww4o)
+- Mar 23 - [AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support](https://www.bohrium.com/competitions/9813928053?tab=introduce)
 - Mar 23 - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- Mar 23 - ["Collaboration" Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/)
 - Mar 23 - [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)
-- Mar 23 - [Migrating the American Express Payment Network, Twice](https://americanexpress.io/migrating-the-payments-network-twice/)
-- Mar 22 - [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/)
+- Mar 23 - [Migrating the American express payment network, twice](https://americanexpress.io/migrating-the-payments-network-twice/)
 <!--END_SECTION:hn-->
 
 <!--
