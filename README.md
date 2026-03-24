@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Cuba's Fragile Power Grid Finds a Powerful New Partner](https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html)
+- Mar 24 - [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
+- Mar 24 - [Log File Viewer for the Terminal](https://lnav.org/)
 - Mar 24 - [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
 - Mar 24 - [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
-- Mar 24 - [I created my first AI-assisted pull request](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)
 - Mar 23 - [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
 <!--END_SECTION:hn-->
 
