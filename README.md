@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [Pool spare GPU capacity to run LLMs at larger scale](https://github.com/michaelneale/mesh-llm)
-- Mar 24 - [Log File Viewer for the Terminal](https://lnav.org/)
-- Mar 24 - [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
-- Mar 24 - [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
-- Mar 23 - [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
+- Mar 24 - [Debunking Zswap and Zram Myths](https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html)
+- Mar 24 - [curl > /dev/sda: How I made a Linux distro that runs wget | dd](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/)
+- Mar 24 - [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)
+- Mar 24 - [MagicAudio – Free Noise, Echo and Background Music Remover](https://magicaudio.pro/)
+- Mar 24 - [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com)
 <!--END_SECTION:hn-->
 
 <!--
