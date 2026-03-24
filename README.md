@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 24 - [No Terms. No Conditions](https://notermsnoconditions.com)
-- Mar 24 - [WolfGuard: WireGuard with FIPS 140-3 cryptography](https://github.com/wolfssl/wolfguard)
-- Mar 24 - [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/)
-- Mar 24 - [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/)
-- Mar 24 - [LaGuardia pilots raised safety alarms months before deadly runway crash](https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash)
+- Mar 24 - [Welcome to FastMCP](https://gofastmcp.com/getting-started/welcome)
+- Mar 24 - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
+- Mar 24 - [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/)
+- Mar 24 - [Lago (YC S21) Is Hiring](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link)
+- Mar 24 - [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu)
 <!--END_SECTION:hn-->
 
 <!--
