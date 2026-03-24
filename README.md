@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 23 - [No, Windows Start does not use React](https://pathar.tl/blog/no-windows-start-does-not-use-react/)
-- Mar 23 - [Pentagon Adopts New Limits for Journalists After Court Loss](https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html)
+- Mar 24 - [Cuba's Fragile Power Grid Finds a Powerful New Partner](https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html)
+- Mar 24 - [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932)
+- Mar 24 - [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
+- Mar 24 - [I created my first AI-assisted pull request](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/)
 - Mar 23 - [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
-- Mar 23 - [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/)
-- Mar 23 - [Hacker mints $80M USD worth of USR stablecoins](https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/)
 <!--END_SECTION:hn-->
 
 <!--
