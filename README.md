@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
-- Mar 25 - [Musketeer d'Artagnan's remains believed found under Dutch church](https://www.bbc.co.uk/news/articles/cm2rew2dgzzo)
-- Mar 25 - [Sony V. Cox Decision Reversed](https://supreme.justia.com/cases/federal/us/607/24-171/)
-- Mar 25 - [Hubble Snaps a New Dazzling Photo of the Crab Nebula](https://nautil.us/hubble-snaps-a-new-dazzling-photo-of-the-crab-nebula-1279203)
-- Mar 25 - [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
+- Mar 25 - [Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What's to Come](https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come)
+- Mar 25 - [Apple randomly closes bug reports unless you "verify" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
+- Mar 25 - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
+- Mar 25 - [Ball Pit](https://codepen.io/mrdoob_/full/NPRwLZd)
+- Mar 25 - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
 <!--END_SECTION:hn-->
 
 <!--
