@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [I tried to prove I'm not AI. My aunt wasn't convinced](https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake)
-- Mar 25 - [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)
-- Mar 25 - [Why I forked httpx](https://tildeweb.nl/~michiel/httpxyz.html)
-- Mar 25 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
-- Mar 25 - [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn)
+- Mar 25 - [A Eulogy for Vim](https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html)
+- Mar 25 - [Musketeer d'Artagnan's remains believed found under Dutch church](https://www.bbc.co.uk/news/articles/cm2rew2dgzzo)
+- Mar 25 - [Sony V. Cox Decision Reversed](https://supreme.justia.com/cases/federal/us/607/24-171/)
+- Mar 25 - [Hubble Snaps a New Dazzling Photo of the Crab Nebula](https://nautil.us/hubble-snaps-a-new-dazzling-photo-of-the-crab-nebula-1279203)
+- Mar 25 - [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
 <!--END_SECTION:hn-->
 
 <!--
