@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 26 - [LibreOffice and the Art of Overreacting](https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/)
+- Mar 26 - [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/)
 - Mar 26 - [Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn)
-- Mar 26 - [Data is everywhere. The government is buying it without a warrant](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic)
+- Mar 26 - [Government agencies buy commercial data about Americans in bulk](https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic)
 - Mar 26 - [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)
-- Mar 26 - [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/)
-- Mar 26 - [Shell Tricks That Make Life Easier (and Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/)
 <!--END_SECTION:hn-->
 
 <!--
