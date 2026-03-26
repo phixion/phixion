@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 25 - [Drone Attack on Parked U.S. Army BlackHawk in Iraq a Harbinger of What's to Come](https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come)
-- Mar 25 - [Apple randomly closes bug reports unless you "verify" the bug remains unfixed](https://lapcatsoftware.com/articles/2026/3/11.html)
-- Mar 25 - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
-- Mar 25 - [Ball Pit](https://codepen.io/mrdoob_/full/NPRwLZd)
-- Mar 25 - [ARC-AGI-3](https://arcprize.org/arc-agi/3)
+- Mar 25 - [Woman who never stopped updating her lost dog's chip reunites with him after 11y](https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780)
+- Mar 25 - [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/)
+- Mar 25 - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+- Mar 25 - [Health NZ staff told to stop using ChatGPT to write clinical notes](https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes)
+- Mar 25 - [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar)
 <!--END_SECTION:hn-->
 
 <!--
