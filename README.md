@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
-- Mar 26 - [French e, è, é, ê, ë – what's the difference?](https://jakubmarian.com/french-e-e-e-e-e-whats-the-difference/)
-- Mar 26 - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
-- Mar 26 - [Intel Announces Arc Pro B70 and Arc Pro B65 GPUs](https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture)
-- Mar 26 - [Meta and YouTube Found Negligent in Social-Media Addiction Trial](https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d)
+- Mar 26 - [We Haven't Seen the Worst of What Gambling and Prediction Markets Will Do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
+- Mar 26 - [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
+- Mar 26 - [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
+- Mar 26 - [Show HN: Layerleak – Like Trufflehog, but for Docker Hub](https://github.com/Brumbelow/layerleak)
+- Mar 26 - [Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3](https://github.com/russellromney/turbolite)
 <!--END_SECTION:hn-->
 
 <!--
