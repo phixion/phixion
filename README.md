@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 26 - [We Haven't Seen the Worst of What Gambling and Prediction Markets Will Do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
-- Mar 26 - [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/)
-- Mar 26 - [CERN to host Europe's flagship open access publishing platform](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform)
-- Mar 26 - [Show HN: Layerleak – Like Trufflehog, but for Docker Hub](https://github.com/Brumbelow/layerleak)
-- Mar 26 - [Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3](https://github.com/russellromney/turbolite)
+- Mar 26 - [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
+- Mar 26 - [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
+- Mar 26 - [Apple Discontinues Mac Pro](https://news.ycombinator.com/item?id=47537052)
+- Mar 26 - [Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf)
+- Mar 26 - [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 <!--END_SECTION:hn-->
 
 <!--
