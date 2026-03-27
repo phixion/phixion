@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv)
-- Mar 27 - [Agent-to-Agent Pair Programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
+- Mar 27 - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
+- Mar 27 - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
+- Mar 27 - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
+- Mar 27 - [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
 - Mar 27 - [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
-- Mar 26 - [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
-- Mar 26 - [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/)
 <!--END_SECTION:hn-->
 
 <!--
