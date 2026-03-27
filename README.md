@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 27 - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 - Mar 27 - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 - Mar 27 - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
 - Mar 27 - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
 - Mar 27 - [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
-- Mar 27 - [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3)
 <!--END_SECTION:hn-->
 
 <!--
