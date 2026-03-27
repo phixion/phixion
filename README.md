@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
-- Mar 27 - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
-- Mar 27 - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
-- Mar 27 - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
-- Mar 27 - [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming)
+- Mar 27 - [SimpleX Chat](https://simplex.chat/)
+- Mar 27 - [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
+- Mar 27 - [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products)
+- Mar 27 - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+- Mar 27 - [Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules](https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules)
 <!--END_SECTION:hn-->
 
 <!--
