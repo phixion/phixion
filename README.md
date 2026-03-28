@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Militarized snowflakes: The accidental beauty of Renaissance star forts](https://bigthink.com/strange-maps/star-forts/)
-- Mar 28 - [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2)
-- Mar 28 - [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app)
-- Mar 28 - [We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA](https://enlidea.com)
-- Mar 28 - [Folk are getting dangerously attached to AI that always tells them they're right](https://www.theregister.com/2026/03/27/sycophantic_ai_risks/)
+- Mar 28 - [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504)
+- Mar 28 - [Improving personal tax filing with Claude CLI and Obsidian](https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian)
+- Mar 28 - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+- Mar 28 - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
+- Mar 28 - [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
 <!--END_SECTION:hn-->
 
 <!--
