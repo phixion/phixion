@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 27 - [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
-- Mar 27 - [Vibe-Coded Ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
-- Mar 27 - [Some uncomfortable truths about AI coding agents](https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/)
-- Mar 27 - [Browser-based SFX synthesizer using WASM/Zig](https://knell.medieval.software/studio)
-- Mar 27 - [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying)
+- Mar 27 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
+- Mar 27 - [DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
+- Mar 27 - [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo)
+- Mar 27 - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+- Mar 27 - [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
 <!--END_SECTION:hn-->
 
 <!--
