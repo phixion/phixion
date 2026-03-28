@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
-- Mar 28 - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
-- Mar 27 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
-- Mar 27 - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
-- Mar 27 - [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/)
+- Mar 28 - [Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer)
+- Mar 28 - [No one is happy with NASA's new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/)
+- Mar 28 - [Treason in the Futures Markets](https://paulkrugman.substack.com/p/treason-in-the-futures-markets)
+- Mar 28 - [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)
+- Mar 28 - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 <!--END_SECTION:hn-->
 
 <!--
