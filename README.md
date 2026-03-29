@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
-- Mar 29 - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
-- Mar 29 - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
-- Mar 29 - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
-- Mar 29 - [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
+- Mar 29 - [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
+- Mar 29 - [The "Vibe Coding" Wall of Shame](https://crackr.dev/vibe-coding-failures)
+- Mar 29 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+- Mar 29 - [More on Version Control](https://bramcohen.com/p/more-on-version-control)
+- Mar 29 - [Personal AI Development Environment](https://github.com/rbren/personal-ai-devbox)
 <!--END_SECTION:hn-->
 
 <!--
