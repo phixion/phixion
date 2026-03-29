@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)
+- Mar 29 - [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
+- Mar 29 - [Shipment of KitKat bars stolen en route from Italy to Poland](https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e)
+- Mar 29 - [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
 - Mar 29 - [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
 - Mar 28 - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
-- Mar 28 - [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
-- Mar 28 - [Stop picking my Go version for me](https://blog.howardjohn.info/posts/go-mod-version/)
 <!--END_SECTION:hn-->
 
 <!--
