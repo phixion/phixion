@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 28 - [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504)
-- Mar 28 - [Improving personal tax filing with Claude CLI and Obsidian](https://www.mrafayaleem.com/blog/improving-personal-tax-filing-with-claude-obsidian)
-- Mar 28 - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
-- Mar 28 - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
-- Mar 28 - [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish)
+- Mar 28 - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
+- Mar 28 - [Computer chip material inspired by the human brain could slash AI energy use](https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use)
+- Mar 28 - [TreeTrek – A raw Git repository viewer web app](https://repo.autonoma.ca/treetrek)
+- Mar 28 - [Stop picking my Go version for me](https://blog.howardjohn.info/posts/go-mod-version/)
+- Mar 28 - [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
 <!--END_SECTION:hn-->
 
 <!--
