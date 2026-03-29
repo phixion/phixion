@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)
+- Mar 29 - [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
+- Mar 29 - [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
 - Mar 29 - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
 - Mar 29 - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
 - Mar 29 - [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
-- Mar 29 - [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489)
 <!--END_SECTION:hn-->
 
 <!--
