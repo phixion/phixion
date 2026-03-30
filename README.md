@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 29 - [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a)
-- Mar 29 - [The "Vibe Coding" Wall of Shame](https://crackr.dev/vibe-coding-failures)
-- Mar 29 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
-- Mar 29 - [More on Version Control](https://bramcohen.com/p/more-on-version-control)
-- Mar 29 - [Personal AI Development Environment](https://github.com/rbren/personal-ai-devbox)
+- Mar 29 - [There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon)
+- Mar 29 - [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
+- Mar 29 - [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
+- Mar 29 - [Show HN: Crazierl – An Erlang Operating System](https://crazierl.org/demo/)
+- Mar 29 - [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
 <!--END_SECTION:hn-->
 
 <!--
