@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli)
-- Mar 30 - [FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
-- Mar 30 - [Show HN: Coasts – Containerized Hosts for Agents](https://github.com/coast-guard/coasts)
-- Mar 30 - [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
-- Mar 30 - ["Over 1.5 million GitHub PRs have had ads injected into them by Copilot"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
+- Mar 30 - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
+- Mar 30 - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
+- Mar 30 - [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
+- Mar 30 - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
+- Mar 30 - [The Hateful Eight is 85% of S&P 500 Decline](https://paulkedrosky.com/chart-of-the-day-the-hateful-eight-is-85-of-s-p-500-decline/)
 <!--END_SECTION:hn-->
 
 <!--
