@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Ask HN: Where have you found the coding limits of current models?](https://news.ycombinator.com/item?id=47573224)
-- Mar 30 - [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
-- Mar 30 - [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
-- Mar 30 - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
-- Mar 30 - [Show HN: The Alphabetical Clock](https://boat.horse/clock/)
+- Mar 30 - [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli)
+- Mar 30 - [FTC Action Against Match and OkCupid for Deceiving Users, Sharing Personal Data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
+- Mar 30 - [Show HN: Coasts – Containerized Hosts for Agents](https://github.com/coast-guard/coasts)
+- Mar 30 - [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/)
+- Mar 30 - ["Over 1.5 million GitHub PRs have had ads injected into them by Copilot"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/)
 <!--END_SECTION:hn-->
 
 <!--
