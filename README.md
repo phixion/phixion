@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 30 - [Ask HN: Where have you found the coding limits of current models?](https://news.ycombinator.com/item?id=47573224)
+- Mar 30 - [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/)
+- Mar 30 - [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
 - Mar 30 - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
-- Mar 30 - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
-- Mar 30 - [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
-- Mar 30 - [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)
-- Mar 30 - [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
+- Mar 30 - [Show HN: The Alphabetical Clock](https://boat.horse/clock/)
 <!--END_SECTION:hn-->
 
 <!--
