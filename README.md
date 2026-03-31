@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 30 - [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
-- Mar 30 - [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com)
-- Mar 30 - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
-- Mar 30 - [Why I'm betting on ATProto (and why you should, too)](https://brittanyellich.com/atproto/)
-- Mar 30 - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
+- Mar 31 - [Semantic – Reducing LLM "Agent Loops" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic)
+- Mar 31 - [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
+- Mar 31 - [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
+- Mar 31 - [Mr. Chatterbox is a Victorian-era ethically trained model](https://simonwillison.net/2026/Mar/30/mr-chatterbox/)
+- Mar 31 - [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
 <!--END_SECTION:hn-->
 
 <!--
