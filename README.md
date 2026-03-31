@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Italy blocks US use of Sicily air base for Middle East war](https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/)
-- Mar 31 - [Tell HN: Chrome says "Suspicious Download" when trying to download yt-dlp](https://news.ycombinator.com/item?id=47588658)
-- Mar 31 - [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study)
-- Mar 31 - [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
-- Mar 31 - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
+- Mar 31 - [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
+- Mar 31 - [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
+- Mar 31 - [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
+- Mar 31 - [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
+- Mar 31 - [Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search](https://github.com/timescale/pg_textsearch)
 <!--END_SECTION:hn-->
 
 <!--
