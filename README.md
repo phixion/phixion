@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Mar 30 - [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)
+- Mar 30 - [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com)
+- Mar 30 - [Learn Claude Code by doing, not reading](https://claude.nagdy.me/)
+- Mar 30 - [Why I'm betting on ATProto (and why you should, too)](https://brittanyellich.com/atproto/)
 - Mar 30 - [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/)
-- Mar 30 - [William Blake, Remote by the Sea](https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea)
-- Mar 30 - [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
-- Mar 30 - [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/)
-- Mar 30 - [The Hateful Eight is 85% of S&P 500 Decline](https://paulkedrosky.com/chart-of-the-day-the-hateful-eight-is-85-of-s-p-500-decline/)
 <!--END_SECTION:hn-->
 
 <!--
