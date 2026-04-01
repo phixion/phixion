@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 01 - [Analyzing Geekbench 6 under Intel's BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
+- Apr 01 - [We intercepted the White House app's network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
+- Apr 01 - [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
 - Mar 31 - [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
 - Mar 31 - [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
-- Mar 31 - [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
-- Mar 31 - [Ministack (Replacement for LocalStack)](https://ministack.org/)
-- Mar 31 - [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 <!--END_SECTION:hn-->
 
 <!--
