@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Mar 31 - [Accelerating the Next Phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)
-- Mar 31 - [Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology](https://cerno.sh)
-- Mar 31 - [GitHub's Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
-- Mar 31 - [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
-- Mar 31 - [Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search](https://github.com/timescale/pg_textsearch)
+- Mar 31 - [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386)
+- Mar 31 - [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system)
+- Mar 31 - [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
+- Mar 31 - [Ministack (Replacement for LocalStack)](https://ministack.org/)
+- Mar 31 - [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 <!--END_SECTION:hn-->
 
 <!--
