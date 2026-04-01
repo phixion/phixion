@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 01 - [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer)
+- Apr 01 - [Germany Funded Israel's Nuclear Program](https://www.haaretz.com/israel-news/israel-security/2026-03-13/ty-article-magazine/.highlight/historical-clues-indicate-germany-secretly-funded-israels-nuclear-program/0000019c-e17c-d9b7-a5fd-ef7e8c520000)
+- Apr 01 - [A Mysterious Numbers Station Is Broadcasting Through the Iran War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/)
+- Apr 01 - [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 - Apr 01 - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
-- Apr 01 - [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
-- Apr 01 - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
-- Apr 01 - [Analyzing Geekbench 6 under Intel's BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
-- Apr 01 - [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
 <!--END_SECTION:hn-->
 
 <!--
