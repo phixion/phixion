@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [EmDash: A spiritual successor to WordPress and plugin security](https://blog.cloudflare.com/emdash-wordpress/)
-- Apr 01 - [We Built It with Slide Rules. Then We Forgot How](https://unmitigatedrisk.com/?p=1227)
-- Apr 01 - [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859)
-- Apr 01 - [Ask HN: Who wants to be hired? (April 2026)](https://news.ycombinator.com/item?id=47601858)
-- Apr 01 - [Apple Removes iPhone Vibe Coding App from App Store](https://gizmodo.com/apple-removes-iphone-vibe-coding-app-from-app-store-2000740084)
+- Apr 01 - [You're still signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
+- Apr 01 - [Artemis II astronauts arrive at launch pad 39B in an astrovan](https://techfixated.com/artemis-ii-astronauts-arrive-at-launch-pad-39b-in-an-astrovan/)
+- Apr 01 - [Apple at 50](https://www.apple.com/)
+- Apr 01 - [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM)
+- Apr 01 - [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/)
 <!--END_SECTION:hn-->
 
 <!--
