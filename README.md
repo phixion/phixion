@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
-- Apr 02 - [Renewables reached nearly 50% of global electricity capacity last year](https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/)
-- Apr 02 - [Artemis computer running two instances of MS outlook; they can't figure out why](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)
-- Apr 02 - [Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps](https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era)
-- Apr 02 - [Delve allegedly forked an open-source tool and sold it as its own](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
+- Apr 02 - [We sped up bun by 100x](https://vers.sh/blog/git-zig-bun-100x)
+- Apr 02 - [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
+- Apr 02 - [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324)
+- Apr 02 - [Tailscale's New macOS Home](https://tailscale.com/blog/macos-notch-escape)
+- Apr 02 - [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
 <!--END_SECTION:hn-->
 
 <!--
