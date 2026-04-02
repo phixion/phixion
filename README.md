@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
-- Apr 02 - [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
-- Apr 02 - [A.I. Helped One Man (and His Brother) Build a $1.8B Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)
-- Apr 02 - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
-- Apr 02 - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
+- Apr 02 - [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
+- Apr 02 - [Renewables reached nearly 50% of global electricity capacity last year](https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/)
+- Apr 02 - [Artemis computer running two instances of MS outlook; they can't figure out why](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)
+- Apr 02 - [Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps](https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era)
+- Apr 02 - [Delve allegedly forked an open-source tool and sold it as its own](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/)
 <!--END_SECTION:hn-->
 
 <!--
