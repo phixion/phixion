@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
-- Apr 01 - [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
-- Apr 01 - [Obfuscation is not security – AI can deobfuscate any minified JavaScript code](https://www.afterpack.dev/blog/claude-code-source-leak)
-- Apr 01 - [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)
-- Apr 01 - ["Special 301" Comments on Nintendo Game Piracy in Asia and Latin America (1994)](https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6)
+- Apr 02 - [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
+- Apr 02 - [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
+- Apr 02 - [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
+- Apr 02 - [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
+- Apr 02 - [Weather.com/Retro](https://weather.com/retro/)
 <!--END_SECTION:hn-->
 
 <!--
