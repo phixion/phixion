@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
-- Apr 02 - [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
-- Apr 02 - [Solar Balconies Take Europe by Storm](https://hackaday.com/2026/03/31/solar-balconies-take-europe-by-storm/)
-- Apr 02 - [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
-- Apr 02 - [Weather.com/Retro](https://weather.com/retro/)
+- Apr 02 - [They Planned Their Escape: A Systems Architect's Guide to the Iran Trade Scandal](https://60tb.tech/posts/iran-trade-scandal)
+- Apr 02 - [Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
+- Apr 02 - [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
+- Apr 02 - [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
+- Apr 02 - [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
 <!--END_SECTION:hn-->
 
 <!--
