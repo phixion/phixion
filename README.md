@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 01 - [You're still signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
-- Apr 01 - [Artemis II astronauts arrive at launch pad 39B in an astrovan](https://techfixated.com/artemis-ii-astronauts-arrive-at-launch-pad-39b-in-an-astrovan/)
-- Apr 01 - [Apple at 50](https://www.apple.com/)
-- Apr 01 - [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM)
-- Apr 01 - [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/)
+- Apr 01 - [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/)
+- Apr 01 - [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
+- Apr 01 - [Obfuscation is not security – AI can deobfuscate any minified JavaScript code](https://www.afterpack.dev/blog/claude-code-source-leak)
+- Apr 01 - [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/)
+- Apr 01 - ["Special 301" Comments on Nintendo Game Piracy in Asia and Latin America (1994)](https://archive.gamehistory.org/item/8aa9a6fb-1593-47ce-bdf0-aa79abdcb0e6)
 <!--END_SECTION:hn-->
 
 <!--
