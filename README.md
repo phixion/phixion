@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [They Planned Their Escape: A Systems Architect's Guide to the Iran Trade Scandal](https://60tb.tech/posts/iran-trade-scandal)
-- Apr 02 - [Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
-- Apr 02 - [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
-- Apr 02 - [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
-- Apr 02 - [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
+- Apr 02 - [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/)
+- Apr 02 - [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
+- Apr 02 - [A.I. Helped One Man (and His Brother) Build a $1.8B Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html)
+- Apr 02 - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
+- Apr 02 - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 <!--END_SECTION:hn-->
 
 <!--
