@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [We sped up bun by 100x](https://vers.sh/blog/git-zig-bun-100x)
-- Apr 02 - [Zep AI Is Hiring – Building the Agent Context Layer (YC W24)](https://www.ycombinator.com/companies/zep-ai/jobs)
-- Apr 02 - [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324)
-- Apr 02 - [Tailscale's New macOS Home](https://tailscale.com/blog/macos-notch-escape)
-- Apr 02 - [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779)
+- Apr 02 - [Every Law a Commit – US Law in GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)
+- Apr 02 - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
+- Apr 02 - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
+- Apr 02 - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
+- Apr 02 - [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
 <!--END_SECTION:hn-->
 
 <!--
