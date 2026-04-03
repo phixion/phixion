@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
-- Apr 03 - ['Fatal decision': EU slammed for caving to US pressure on digital rules](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)
-- Apr 03 - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
-- Apr 03 - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
-- Apr 03 - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
+- Apr 03 - [US F-15E jet confirmed shot down over Iran as Tehran releases wreckage images](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
+- Apr 03 - [I prefer OG style websites – what are yours?](https://news.ycombinator.com/item?id=47627255)
+- Apr 03 - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
+- Apr 03 - [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
+- Apr 03 - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
 <!--END_SECTION:hn-->
 
 <!--
