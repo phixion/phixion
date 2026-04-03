@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [I Built an SMS Gateway with a $20 Android Phone – Jonno.nz](https://jonno.nz/posts/built-an-sms-gateway-with-a-20-dollar-android-phone/)
-- Apr 02 - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
-- Apr 02 - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
-- Apr 02 - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
-- Apr 02 - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
+- Apr 03 - [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935)
+- Apr 03 - ['Fatal decision': EU slammed for caving to US pressure on digital rules](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)
+- Apr 03 - [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
+- Apr 03 - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
+- Apr 03 - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
 <!--END_SECTION:hn-->
 
 <!--
