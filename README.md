@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 02 - [Every Law a Commit – US Law in GitHub](https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html)
+- Apr 03 - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
+- Apr 02 - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
 - Apr 02 - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
 - Apr 02 - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
 - Apr 02 - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
-- Apr 02 - [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
 <!--END_SECTION:hn-->
 
 <!--
