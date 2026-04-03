@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [US F-15E jet confirmed shot down over Iran as Tehran releases wreckage images](https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran)
-- Apr 03 - [I prefer OG style websites – what are yours?](https://news.ycombinator.com/item?id=47627255)
-- Apr 03 - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
-- Apr 03 - [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
-- Apr 03 - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
+- Apr 03 - [Age Verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
+- Apr 03 - [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
+- Apr 03 - [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
+- Apr 03 - [Update on the eBay Scam](https://kevquirk.com/update-on-the-ebay-scam)
+- Apr 03 - [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
 <!--END_SECTION:hn-->
 
 <!--
