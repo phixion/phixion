@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 03 - [Age Verification on Systemd and Flatpak](https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/)
-- Apr 03 - [Async Python Is Secretly Deterministic](https://www.dbos.dev/blog/async-python-is-secretly-deterministic)
-- Apr 03 - [How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
-- Apr 03 - [Update on the eBay Scam](https://kevquirk.com/update-on-the-ebay-scam)
-- Apr 03 - [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million)
+- Apr 03 - [The FAA "Temporary" Drone Restriction Blatant Attempt to Criminalize Filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
+- Apr 03 - [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
+- Apr 03 - [How to Write Unmaintainable Code (1999)](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html)
+- Apr 03 - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
+- Apr 03 - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
 <!--END_SECTION:hn-->
 
 <!--
