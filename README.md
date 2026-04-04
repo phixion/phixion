@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
-- Apr 04 - [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
-- Apr 04 - [Author of "Careless People" banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
-- Apr 04 - [The Indie Internet Index – submit your favorite sites](https://iii.social)
-- Apr 04 - [No One at Waffle House Remembers FEMA Official Who Says He Teleported In](https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html)
+- Apr 04 - [Sopwith](http://www.sopwith.org/)
+- Apr 04 - [Scientists observe an immune signaling complex forming inside cells](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research)
+- Apr 04 - [A new gene therapy is giving people born deaf the chance to hear](https://www.sciencedaily.com/releases/2026/04/260403044651.htm)
+- Apr 04 - [Plague Ships](https://www.afloat.com.au/feature/plague-ships/)
+- Apr 04 - [IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf]](https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf)
 <!--END_SECTION:hn-->
 
 <!--
