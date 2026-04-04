@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 04 - [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
-- Apr 04 - [Scientists are working on "everything vaccines"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines)
-- Apr 04 - [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr)
-- Apr 04 - [Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)
-- Apr 04 - [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
+- Apr 04 - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
+- Apr 04 - [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
+- Apr 04 - [Tesla Is Sitting on a Record 50k Unsold EVs](https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/)
+- Apr 04 - [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
+- Apr 04 - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
 <!--END_SECTION:hn-->
 
 <!--
