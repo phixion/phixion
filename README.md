@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 05 - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
+- Apr 05 - [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/)
+- Apr 05 - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
+- Apr 05 - [Talk like caveman](https://github.com/JuliusBrussee/caveman)
 - Apr 05 - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
-- Apr 05 - [Modern Generic SVGA driver for Windows 3.1](https://github.com/PluMGMK/vbesvga.drv)
-- Apr 05 - [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
-- Apr 05 - [Demonstrating Real Time AV2 Decoding on Consumer Laptops](http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/)
-- Apr 05 - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
 <!--END_SECTION:hn-->
 
 <!--
