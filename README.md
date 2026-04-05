@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Microsoft terms say Copilot is for entertainment purposes only, not serious use](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice)
-- Apr 05 - [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
-- Apr 05 - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
-- Apr 05 - [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
-- Apr 05 - [SPF/PC v4 for MS-DOS, FreeDOS, x86](https://github.com/moshix/SPFPC)
+- Apr 05 - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
+- Apr 05 - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
+- Apr 05 - [LibreOffice – Let's put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
+- Apr 05 - [Microsoft Hasn't Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
+- Apr 05 - [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/)
 <!--END_SECTION:hn-->
 
 <!--
