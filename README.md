@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
-- Apr 05 - [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/)
-- Apr 05 - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
-- Apr 05 - [Talk like caveman](https://github.com/JuliusBrussee/caveman)
-- Apr 05 - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
+- Apr 05 - [Microsoft terms say Copilot is for entertainment purposes only, not serious use](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice)
+- Apr 05 - [StackOverflow: Retiring the Beta Site](https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site)
+- Apr 05 - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
+- Apr 05 - [Phone-free bars and restaurants on the rise across the U.S.](https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline)
+- Apr 05 - [SPF/PC v4 for MS-DOS, FreeDOS, x86](https://github.com/moshix/SPFPC)
 <!--END_SECTION:hn-->
 
 <!--
