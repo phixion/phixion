@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 05 - [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
-- Apr 04 - [Sens Ask Gabbard to Tell Americans That VPN Use Subjects Them to Surveillance](https://www.techdirt.com/2026/04/03/senators-ask-tulsi-gabbard-to-tell-americans-that-vpn-use-might-subject-them-to-domestic-surveillance/)
-- Apr 04 - [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
-- Apr 04 - [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/)
-- Apr 04 - [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
+- Apr 05 - [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
+- Apr 05 - [Remember Their Names](https://visualizingpalestine.org/visual/end-30-billion-of-us-military-aid-to-israel-green-jobs/)
+- Apr 05 - [Writing Lisp Is AI Resistant and I'm Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+- Apr 05 - [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
+- Apr 05 - [Isseven](https://isseven.app/)
 <!--END_SECTION:hn-->
 
 <!--
