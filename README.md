@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Peter Thiel's big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/)
-- Apr 05 - [OpenAI's fall from grace as investors race to Anthropic](https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic)
-- Apr 05 - [Italian TV Copyright-Strikes Nvidia over Nvidia's Own DLSS 5 Footage](https://twitter.com/NikTek/status/2040898312262324362)
-- Apr 05 - [Introducing GEN-1 [video]](https://www.youtube.com/watch?v=SY2xyrmV44Y)
-- Apr 05 - [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
+- Apr 06 - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
+- Apr 06 - [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
+- Apr 06 - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+- Apr 06 - [The 1987 game "The Last Ninja" was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
+- Apr 06 - [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
 <!--END_SECTION:hn-->
 
 <!--
