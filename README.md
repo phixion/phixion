@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [sc-im Spreadsheets in Your Terminal](https://github.com/andmarti1424/sc-im)
-- Apr 06 - [AI Singer Now Occupies Eleven Spots on iTunes Singles Chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
-- Apr 06 - [More Americans Are Breaking into the Upper Middle Class](https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2)
-- Apr 06 - [Anthropic is burning more and more dev goodwill](https://twitter.com/GergelyOrosz/status/2041133254586122605)
-- Apr 06 - [I Won't Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
+- Apr 06 - [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+- Apr 06 - [Agent Reading Test](https://agentreadingtest.com)
+- Apr 06 - [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
+- Apr 06 - [Londoners are sick of viral videos telling lies about their city](https://www.londoncentric.media/p/london-crime-viral-videos-crime)
+- Apr 06 - [The cult of vibe coding is insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
 <!--END_SECTION:hn-->
 
 <!--
