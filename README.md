@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Tiny Corp's Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592)
-- Apr 06 - [The Intelligence Failure in Iran](https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/)
-- Apr 06 - [Is Germany's gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
-- Apr 06 - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
-- Apr 06 - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
+- Apr 06 - [sc-im Spreadsheets in Your Terminal](https://github.com/andmarti1424/sc-im)
+- Apr 06 - [AI Singer Now Occupies Eleven Spots on iTunes Singles Chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+- Apr 06 - [More Americans Are Breaking into the Upper Middle Class](https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2)
+- Apr 06 - [Anthropic is burning more and more dev goodwill](https://twitter.com/GergelyOrosz/status/2041133254586122605)
+- Apr 06 - [I Won't Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
 <!--END_SECTION:hn-->
 
 <!--
