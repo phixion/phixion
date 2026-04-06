@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
-- Apr 06 - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
-- Apr 06 - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
-- Apr 06 - [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
-- Apr 06 - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
+- Apr 06 - [Tiny Corp's Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592)
+- Apr 06 - [The Intelligence Failure in Iran](https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/)
+- Apr 06 - [Is Germany's gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
+- Apr 06 - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
+- Apr 06 - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 <!--END_SECTION:hn-->
 
 <!--
