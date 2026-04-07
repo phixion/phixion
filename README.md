@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
-- Apr 06 - [Agent Reading Test](https://agentreadingtest.com)
-- Apr 06 - [Zooming UIs in 2026: Prezi, impress.js, and why I built something different](https://news.ycombinator.com/item?id=47665194)
-- Apr 06 - [Londoners are sick of viral videos telling lies about their city](https://www.londoncentric.media/p/london-crime-viral-videos-crime)
-- Apr 06 - [The cult of vibe coding is insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+- Apr 06 - [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
+- Apr 06 - [The back story behind the first "$1.8B" dollar "AI Company"](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18)
+- Apr 06 - [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
+- Apr 06 - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
+- Apr 06 - [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504)
 <!--END_SECTION:hn-->
 
 <!--
