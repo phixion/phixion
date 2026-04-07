@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Some iPhone Apps Receive Mysterious Update 'From Apple'](https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/)
-- Apr 07 - [Three hundred synths, 3 hardware projects, and one app](https://midi.guide/blog/three-hunded-synths-one-app/)
-- Apr 07 - [Dear Heroku: Uhh What's Going On?](https://judoscale.com/blog/heroku-whats-going-on)
-- Apr 07 - [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)
-- Apr 06 - [After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
+- Apr 07 - [LLM may be standardizing human expression – and subtly influencing how we think](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+- Apr 07 - [Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead](https://locker.dev)
+- Apr 07 - [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/)
+- Apr 07 - [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
+- Apr 07 - [Identify a London Underground Line just by listening to it](https://tubesoundquiz.com/)
 <!--END_SECTION:hn-->
 
 <!--
