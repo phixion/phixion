@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 07 - [Good Taste the Only Real Moat Left](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
-- Apr 07 - [12k Tons of Dumped Orange Peel Grew into a Landscape Nobody Expected (2017)](https://www.sciencealert.com/how-12-000-tonnes-of-dumped-orange-peel-produced-something-nobody-imagined)
-- Apr 07 - [Moving fast in hardware: lessons from lab to $100M ARR](https://blog.zacka.io/p/simplify-then-add-lightness-bc4)
-- Apr 07 - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
-- Apr 07 - [Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps](https://github.com/final-run/finalrun-agent)
+- Apr 07 - [Cells for NetBSD: kernel-enforced, jail-like isolation](https://netbsd-cells.petermann-digital.de/)
+- Apr 07 - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+- Apr 07 - [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal)
+- Apr 07 - [US labor force participation continues to slide](https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/)
+- Apr 07 - [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 <!--END_SECTION:hn-->
 
 <!--
