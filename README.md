@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 06 - [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
-- Apr 06 - [The back story behind the first "$1.8B" dollar "AI Company"](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18)
+- Apr 07 - [Dear Heroku: Uhh What's Going On?](https://judoscale.com/blog/heroku-whats-going-on)
+- Apr 07 - [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
+- Apr 06 - [After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
 - Apr 06 - [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
 - Apr 06 - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory)
-- Apr 06 - [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504)
 <!--END_SECTION:hn-->
 
 <!--
