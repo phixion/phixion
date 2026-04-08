@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 08 - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
+- Apr 08 - [LLM scraper bots are overloading acme.com's HTTPS server](http://acme.com/updates/archive/229.html)
+- Apr 08 - [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
 - Apr 07 - [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
-- Apr 07 - [Trump announces two-week ceasefire as Iran says talks to begin](https://www.reuters.com/world/iran-war-live-tehran-rejects-ceasefire-deal-trumps-deadline-reopen-strait-hormuz-2026-04-07)
-- Apr 07 - [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
-- Apr 07 - [Show HN: An interactive map of Tolkien's Middle-earth](https://middle-earth-interactive-map.web.app/)
-- Apr 07 - [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
+- Apr 07 - [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
 <!--END_SECTION:hn-->
 
 <!--
