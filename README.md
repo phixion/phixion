@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Struggle Against the Gods](https://firstthings.com/struggle-against-the-gods/)
-- Apr 08 - [I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)
-- Apr 08 - [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)
-- Apr 08 - [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
-- Apr 08 - [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
+- Apr 08 - [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
+- Apr 08 - [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
+- Apr 08 - [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
+- Apr 08 - [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
+- Apr 08 - [Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
 <!--END_SECTION:hn-->
 
 <!--
