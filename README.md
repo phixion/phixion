@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 08 - [Struggle Against the Gods](https://firstthings.com/struggle-against-the-gods/)
+- Apr 08 - [I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)
+- Apr 08 - [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)
+- Apr 08 - [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/)
 - Apr 08 - [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
-- Apr 08 - [We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
-- Apr 08 - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
-- Apr 08 - [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/)
-- Apr 08 - [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
 <!--END_SECTION:hn-->
 
 <!--
