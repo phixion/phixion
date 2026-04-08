@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Muse Spark – Meta Superintelligence Labs](https://meta.ai/)
-- Apr 08 - [Muse Spark: Scaling Towards Personal Superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1)
-- Apr 08 - [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-- Apr 08 - [Show HN: Explore the Silk Roads through an interactive map](https://www.intofarlands.com/silk-roads-map)
-- Apr 08 - [Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates](https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/)
+- Apr 08 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
+- Apr 08 - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
+- Apr 08 - [One item purchased, ten emails](https://joshghent.com/online-shopping/)
+- Apr 08 - [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
+- Apr 08 - [I've been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
 <!--END_SECTION:hn-->
 
 <!--
