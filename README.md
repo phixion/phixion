@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
-- Apr 09 - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
-- Apr 09 - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
-- Apr 09 - [Study found that young adults have grown less hopeful and more angry about AI](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
-- Apr 09 - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
+- Apr 09 - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+- Apr 09 - [Maine Is About to Become the First State to Ban Major New Data Centers](https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers)
+- Apr 09 - [OpenAI puts Stargate UK on ice, blames energy costs and red tape](https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/)
+- Apr 09 - [Bitmap fonts make computers feel like computers again](https://korigamik.dev/blog/bitmap_fonts/)
+- Apr 09 - [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
 <!--END_SECTION:hn-->
 
 <!--
