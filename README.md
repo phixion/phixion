@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 08 - [Automatic registration for US Military draft to begin in December](https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/)
-- Apr 08 - [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)
+- Apr 09 - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
+- Apr 09 - [App Store sees 84% surge in new apps as AI coding tools take off](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
+- Apr 09 - [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire)
+- Apr 09 - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 - Apr 08 - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
-- Apr 08 - [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
-- Apr 08 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 <!--END_SECTION:hn-->
 
 <!--
