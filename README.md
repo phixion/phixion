@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 08 - [Automatic registration for US Military draft to begin in December](https://thehill.com/policy/defense/5822914-automatic-registration-military-draft/)
+- Apr 08 - [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/)
+- Apr 08 - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
+- Apr 08 - [John Deere to pay $99M in right-to-repair settlement](https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement)
 - Apr 08 - [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
-- Apr 08 - [Expanding Swift's IDE Support](https://swift.org/blog/expanding-swift-ide-support/)
-- Apr 08 - [One item purchased, ten emails](https://joshghent.com/online-shopping/)
-- Apr 08 - [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/)
-- Apr 08 - [I've been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)
 <!--END_SECTION:hn-->
 
 <!--
