@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)
-- Apr 09 - [Process Manager for Autonomous AI Agents](https://botctl.dev/)
-- Apr 09 - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
-- Apr 09 - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
-- Apr 08 - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/)
+- Apr 09 - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
+- Apr 09 - [Show HN: CSS Studio. Design by hand, code by agent](https://cssstudio.ai)
+- Apr 09 - [Wit, unker, Git: The lost medieval pronouns of English intimacy](https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us)
+- Apr 09 - [Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
+- Apr 09 - [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
 <!--END_SECTION:hn-->
 
 <!--
