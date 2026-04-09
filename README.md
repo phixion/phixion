@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 09 - [Launch HN: Relvy (YC F24) – On-call runbooks, automated](https://www.relvy.ai)
-- Apr 09 - [Show HN: CSS Studio. Design by hand, code by agent](https://cssstudio.ai)
-- Apr 09 - [Wit, unker, Git: The lost medieval pronouns of English intimacy](https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us)
-- Apr 09 - [Claude mixes up who said what and that's not OK](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
-- Apr 09 - [Creating the Futurescape for the Fifth Element [2019]](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element)
+- Apr 09 - [I built a Cargo-like build tool for C/C++](https://github.com/randerson112/craft)
+- Apr 09 - [Emperor penguin and Antarctic fur seal now endangered](https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn)
+- Apr 09 - [Vercel Claude Code plugin wants to read your prompt](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)
+- Apr 09 - [Study found that young adults have grown less hopeful and more angry about AI](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+- Apr 09 - [Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)
 <!--END_SECTION:hn-->
 
 <!--
