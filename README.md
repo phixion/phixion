@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Zero-build privacy policies with Astro](https://www.openpolicy.sh/blog/no-build-astro)
-- Apr 10 - [Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
-- Apr 10 - [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
-- Apr 10 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
-- Apr 10 - [Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
+- Apr 10 - [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/)
+- Apr 10 - [White House staff told not to place bets on prediction markets](https://www.bbc.co.uk/news/articles/cgld65x396go)
+- Apr 10 - [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/)
+- Apr 10 - [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
+- Apr 10 - [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
 <!--END_SECTION:hn-->
 
 <!--
