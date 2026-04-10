@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 10 - [Zero-build privacy policies with Astro](https://www.openpolicy.sh/blog/no-build-astro)
+- Apr 10 - [Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia](https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia)
+- Apr 10 - [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html)
 - Apr 10 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer)
-- Apr 10 - [Hip-hop pioneer, Afrika Bambaataa, dies aged 68](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
-- Apr 10 - [The Raft Consensus Algorithm Explained Through "Mean Girls"](https://www.cockroachlabs.com/blog/raft-is-so-fetch/)
-- Apr 10 - [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
-- Apr 10 - [Apple's New iPhone Update Is Restricting Internet Freedom in the UK](https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/)
+- Apr 10 - [Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o)
 <!--END_SECTION:hn-->
 
 <!--
