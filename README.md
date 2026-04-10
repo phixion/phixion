@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Bluesky April 2026 Outage Post-Mortem](https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2)
-- Apr 10 - [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
-- Apr 10 - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
-- Apr 10 - [You can't trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/)
-- Apr 10 - [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/)
+- Apr 10 - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
+- Apr 10 - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+- Apr 10 - [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
+- Apr 10 - [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
+- Apr 10 - [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
 <!--END_SECTION:hn-->
 
 <!--
