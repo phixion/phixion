@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 11 - [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
 - Apr 11 - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-- Apr 10 - [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
+- Apr 10 - [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
 - Apr 10 - [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
 - Apr 10 - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
-- Apr 10 - [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
 <!--END_SECTION:hn-->
 
 <!--
