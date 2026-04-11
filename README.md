@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 10 - [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/)
-- Apr 10 - [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
-- Apr 10 - [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
-- Apr 10 - [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
-- Apr 10 - [Show HN: FluidCAD – Parametric CAD with JavaScript](https://fluidcad.io/)
+- Apr 11 - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+- Apr 10 - [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
+- Apr 10 - [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
+- Apr 10 - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+- Apr 10 - [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
 <!--END_SECTION:hn-->
 
 <!--
