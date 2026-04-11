@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [The Future of Everything Is Lies, I Guess: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
-- Apr 11 - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
-- Apr 11 - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
-- Apr 11 - [Bitcoin miners are losing on every coin produced as difficulty drops](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
-- Apr 11 - [Borges' cartographers and the tacit skill of reading LM output](https://galsapir.github.io/sparse-thoughts/2026/04/11/map-and-territory/)
+- Apr 11 - [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
+- Apr 11 - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+- Apr 11 - [One neat trick to end extreme poverty](https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty)
+- Apr 11 - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+- Apr 11 - [The APL programming language source code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 <!--END_SECTION:hn-->
 
 <!--
