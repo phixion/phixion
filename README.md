@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/)
-- Apr 11 - [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960)
-- Apr 11 - [20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
-- Apr 11 - [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
-- Apr 11 - [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
+- Apr 11 - [The Future of Everything Is Lies, I Guess: Annoyances](https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances)
+- Apr 11 - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
+- Apr 11 - [South Korea introduces universal basic mobile data access](https://www.theregister.com/2026/04/10/south_korea_data_access_universal/)
+- Apr 11 - [Bitcoin miners are losing on every coin produced as difficulty drops](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+- Apr 11 - [Borges' cartographers and the tacit skill of reading LM output](https://galsapir.github.io/sparse-thoughts/2026/04/11/map-and-territory/)
 <!--END_SECTION:hn-->
 
 <!--
