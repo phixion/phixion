@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 11 - [20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
+- Apr 11 - [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
+- Apr 11 - [Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do)
+- Apr 11 - [The Seasons Are Wrong](https://kentwalters.com/posts/seasons/)
 - Apr 11 - [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/)
-- Apr 11 - [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-- Apr 10 - [Italo Calvino: A traveller in a world of uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty)
-- Apr 10 - [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512)
-- Apr 10 - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 <!--END_SECTION:hn-->
 
 <!--
