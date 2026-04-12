@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html)
-- Apr 12 - [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
-- Apr 12 - [Apple update looks like Czech mate for locked-out iPhone user](https://www.theregister.com/2026/04/12/ios_passcode_bug/)
-- Apr 12 - [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/)
-- Apr 12 - [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
+- Apr 12 - [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
+- Apr 12 - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
+- Apr 12 - [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305)
+- Apr 12 - [Pro Max 5x quota exhausted in 1.5 hours despite moderate usage](https://github.com/anthropics/claude-code/issues/45756)
+- Apr 12 - [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases)
 <!--END_SECTION:hn-->
 
 <!--
