@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 11 - [Show HN: Editing 2000 photos made me build a macOS bulk photo editor](https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12)
+- Apr 12 - [AI Job Loss Tracker](https://jobloss.ai/)
+- Apr 11 - [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+- Apr 11 - [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269)
+- Apr 11 - [Dark Castle](https://darkcastle.co.uk/)
 - Apr 11 - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
-- Apr 11 - [One neat trick to end extreme poverty](https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty)
-- Apr 11 - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
-- Apr 11 - [The APL programming language source code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 <!--END_SECTION:hn-->
 
 <!--
