@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)
-- Apr 12 - [Building a Z-Machine in the worst possible language – Whitebeard's Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
+- Apr 12 - [Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war](https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142)
+- Apr 12 - [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
+- Apr 12 - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
+- Apr 12 - [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
 - Apr 12 - [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
-- Apr 12 - [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
-- Apr 12 - [Used Graphify to turn incidents into a queryable knowledge graph](https://github.com/Rootly-AI-Labs/rootly-graphify-importer)
 <!--END_SECTION:hn-->
 
 <!--
