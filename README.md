@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
-- Apr 12 - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
-- Apr 12 - [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305)
-- Apr 12 - [Pro Max 5x quota exhausted in 1.5 hours despite moderate usage](https://github.com/anthropics/claude-code/issues/45756)
-- Apr 12 - [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases)
+- Apr 12 - [European AI. A playbook to own it. By Mistral](https://europe.mistral.ai/)
+- Apr 12 - [The Peril of Laziness Lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
+- Apr 12 - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
+- Apr 12 - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
+- Apr 12 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 <!--END_SECTION:hn-->
 
 <!--
