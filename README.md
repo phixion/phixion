@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 12 - [European AI. A playbook to own it. By Mistral](https://europe.mistral.ai/)
-- Apr 12 - [The Peril of Laziness Lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
-- Apr 12 - [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
-- Apr 12 - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
-- Apr 12 - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+- Apr 12 - [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+- Apr 12 - [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
+- Apr 12 - [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/)
+- Apr 12 - [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html)
+- Apr 12 - [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
 <!--END_SECTION:hn-->
 
 <!--
