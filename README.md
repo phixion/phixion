@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
-- Apr 13 - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
-- Apr 13 - [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
-- Apr 13 - [Claude.ai down](https://status.claude.com/incidents/6jd2m42f8mld)
-- Apr 13 - [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
+- Apr 13 - [Google has the same AI adoption curve as John Deere](https://twitter.com/i/status/2043747998740689171)
+- Apr 13 - [Just Enough Chimera Linux](https://www.dwarmstrong.org/chimera-install-zfs/)
+- Apr 13 - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
+- Apr 13 - [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
+- Apr 13 - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
 <!--END_SECTION:hn-->
 
 <!--
