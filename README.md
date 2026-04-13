@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 13 - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
+- Apr 13 - [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)
 - Apr 13 - [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com)
 - Apr 13 - [Apple's accidental moat: How the "AI Loser" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 - Apr 13 - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
-- Apr 13 - [State of Homelab 2026](https://mrlokans.work/posts/state-of-homelab-2026/)
-- Apr 12 - [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
 <!--END_SECTION:hn-->
 
 <!--
