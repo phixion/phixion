@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/)
-- Apr 13 - [Show HN: I built a social media management tool in 3 weeks with Claude and Codex](https://github.com/brightbeanxyz/brightbean-studio)
-- Apr 13 - [Caffeine, cocaine, and painkillers detected in sharks from The Bahamas](https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880)
-- Apr 13 - [The economics of software teams: Why most engineering orgs are flying blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
-- Apr 13 - [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537)
+- Apr 13 - [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
+- Apr 13 - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
+- Apr 13 - [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
+- Apr 13 - [Claude.ai down](https://status.claude.com/incidents/6jd2m42f8mld)
+- Apr 13 - [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
 <!--END_SECTION:hn-->
 
 <!--
