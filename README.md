@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 13 - [Google has the same AI adoption curve as John Deere](https://twitter.com/i/status/2043747998740689171)
-- Apr 13 - [Just Enough Chimera Linux](https://www.dwarmstrong.org/chimera-install-zfs/)
-- Apr 13 - [The Looming College-Enrollment Death Spiral](https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750/)
-- Apr 13 - [Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours](https://www.ithihasas.in)
-- Apr 13 - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
+- Apr 14 - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- Apr 13 - [Why it's impossible to measure England's coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline)
+- Apr 13 - [SnapState - Persistent state for AI agent workflows](https://snapstate.dev)
+- Apr 13 - [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
+- Apr 13 - [The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers](https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically)
 <!--END_SECTION:hn-->
 
 <!--
