@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'](https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/)
-- Apr 14 - [A new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
-- Apr 14 - [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
-- Apr 14 - [The Journal of C Language Translation](http://jclt.iecc.com/)
-- Apr 14 - [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- Apr 14 - [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
+- Apr 14 - [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
+- Apr 14 - [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)
+- Apr 14 - [Distributed DuckDB Instance](https://github.com/citguru/openduck)
+- Apr 14 - [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166)
 <!--END_SECTION:hn-->
 
 <!--
