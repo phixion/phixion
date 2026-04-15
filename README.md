@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 14 - [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717)
+- Apr 14 - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
+- Apr 14 - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
 - Apr 14 - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
-- Apr 14 - [ClawRun – Deploy and manage AI agents in seconds](https://github.com/clawrun-sh/clawrun)
-- Apr 14 - [California ghost-gun bill wants 3D printers to play cop, EFF says](https://www.theregister.com/2026/04/14/eff_california_3dprinted_firearms/)
-- Apr 14 - [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
-- Apr 14 - [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
+- Apr 14 - [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
 <!--END_SECTION:hn-->
 
 <!--
