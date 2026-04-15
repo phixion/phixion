@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
-- Apr 15 - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
-- Apr 15 - [Don't feel like exercising? Maybe it's the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o)
-- Apr 14 - [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
-- Apr 14 - [Stop Flock](https://stopflock.com)
+- Apr 15 - [Anna's Archive Loses $322M Spotify Piracy Case Without a Fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
+- Apr 15 - [My AI-Assisted Workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow/)
+- Apr 15 - [Peter Steinberger – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
+- Apr 15 - [MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup)
+- Apr 15 - [Amazon to acquire Globalstar and expand Amazon Leo satellite network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
 <!--END_SECTION:hn-->
 
 <!--
