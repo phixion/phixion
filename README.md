@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats)
-- Apr 15 - [Elevated errors on Claude.ai, API, Claude Code](https://claudestatus.com/)
-- Apr 15 - [Gemini Robotics-ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/)
-- Apr 15 - [US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
-- Apr 15 - [The Future of Everything Is Lies, I Guess: New Jobs](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs)
+- Apr 15 - [Farmer Arrested for Speaking Too Long at Datacenter Town Hall Vows to Fight](https://www.404media.co/farmer-arrested-for-speaking-too-long-at-datacenter-town-hall-vows-to-fight/)
+- Apr 15 - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
+- Apr 15 - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
+- Apr 15 - [Is anyone actually using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
+- Apr 15 - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
 <!--END_SECTION:hn-->
 
 <!--
