@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 14 - [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717)
-- Apr 14 - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
-- Apr 14 - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
-- Apr 14 - [Gas Town: From Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec)
-- Apr 14 - [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
+- Apr 15 - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
+- Apr 15 - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
+- Apr 15 - [Don't feel like exercising? Maybe it's the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o)
+- Apr 14 - [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
+- Apr 14 - [Stop Flock](https://stopflock.com)
 <!--END_SECTION:hn-->
 
 <!--
