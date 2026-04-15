@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Anna's Archive Loses $322M Spotify Piracy Case Without a Fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
-- Apr 15 - [My AI-Assisted Workflow](https://www.maiobarbero.dev/articles/ai-assisted-workflow/)
-- Apr 15 - [Peter Steinberger – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
-- Apr 15 - [MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup)
-- Apr 15 - [Amazon to acquire Globalstar and expand Amazon Leo satellite network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network)
+- Apr 15 - [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+- Apr 15 - [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
+- Apr 15 - ['Seeking connection': video game where players stopped shooting, started talking](https://www.theguardian.com/games/2026/apr/15/arc-raiders-players-stopped-shooting-started-talking)
+- Apr 15 - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
+- Apr 15 - [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)
 <!--END_SECTION:hn-->
 
 <!--
