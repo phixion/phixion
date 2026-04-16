@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 15 - [Farmer Arrested for Speaking Too Long at Datacenter Town Hall Vows to Fight](https://www.404media.co/farmer-arrested-for-speaking-too-long-at-datacenter-town-hall-vows-to-fight/)
-- Apr 15 - [Show HN: Jeeves – TUI for browsing and resuming AI agent sessions](https://github.com/robinovitch61/jeeves)
-- Apr 15 - [Flock employees caught watching kids gymnastic class and pools](https://substack.com/home/post/p-193593234)
-- Apr 15 - [Is anyone actually using OpenClaw?](https://news.ycombinator.com/item?id=47783940)
-- Apr 15 - [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
+- Apr 15 - [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes)
+- Apr 15 - [I made a terminal pager](https://theleo.zone/posts/pager/)
+- Apr 15 - [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394)
+- Apr 15 - [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/)
+- Apr 15 - [Hacker News CLI](https://pythonhosted.org/hackernews-cli/commands.html)
 <!--END_SECTION:hn-->
 
 <!--
