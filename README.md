@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [AWS/GCP too expensive? Cloudexit.pro will help you move to bare-metal](https://cloudexit.pro/)
+- Apr 16 - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead)
+- Apr 16 - [Germany suspends military approval for long stays abroad for men under 45](https://www.bbc.com/news/articles/ckgx103wkl1o)
+- Apr 16 - [Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)
 - Apr 16 - [A Look into NaviDial, Japan's Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service)
 - Apr 16 - [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
-- Apr 16 - [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
-- Apr 16 - [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
 <!--END_SECTION:hn-->
 
 <!--
