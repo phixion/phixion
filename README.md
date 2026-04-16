@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs](https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262)
-- Apr 16 - [Study: EVs with V2H cut household electricity costs and need for home batteries](https://adelaide.edu.au/about/news/2026/electric-vehicles-the-key-to-more-efficient-home-energy-use/)
-- Apr 16 - [The noise we make is hurting animals. Can we learn to shut up?](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/)
-- Apr 16 - [Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf)
-- Apr 16 - [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv)
+- Apr 16 - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
+- Apr 16 - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
+- Apr 16 - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
+- Apr 16 - [Claude Opus 4.7 Model Card](https://anthropic.com/claude-opus-4-7-system-card)
+- Apr 16 - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 <!--END_SECTION:hn-->
 
 <!--
