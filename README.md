@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 16 - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
-- Apr 16 - [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch)
-- Apr 16 - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
-- Apr 16 - [Claude Opus 4.7 Model Card](https://anthropic.com/claude-opus-4-7-system-card)
-- Apr 16 - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+- Apr 16 - [European civil servants are being forced off WhatsApp](https://www.politico.eu/article/european-civil-servants-new-messaging-services/)
+- Apr 16 - [German Dog Commands](https://www.fluentu.com/blog/german/german-dog-commands/)
+- Apr 16 - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
+- Apr 16 - [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
+- Apr 16 - [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/)
 <!--END_SECTION:hn-->
 
 <!--
