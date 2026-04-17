@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [How Silicon Valley Is Turning Scientists into Exploited Gig Workers](https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/)
-- Apr 17 - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
-- Apr 17 - [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
-- Apr 17 - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
-- Apr 17 - [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
+- Apr 17 - [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)
+- Apr 17 - [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/)
+- Apr 17 - [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
+- Apr 17 - [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848)
+- Apr 17 - [Iceye Open Data](https://www.iceye.com/open-data-initiative)
 <!--END_SECTION:hn-->
 
 <!--
