@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)
-- Apr 18 - [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)
-- Apr 18 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
-- Apr 18 - [Amiga Graphics](https://amiga.lychesis.net/)
-- Apr 18 - [It is incorrect to "normalize" // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
+- Apr 18 - [Amazon is discontinuing Kindle for PC on June 30th](https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th)
+- Apr 18 - [Fuzix OS](https://www.fuzix.org/)
+- Apr 18 - [Sherry Turkle: "We're losing the raw, human part of being with each other"](https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit)
+- Apr 18 - [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
+- Apr 18 - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
 <!--END_SECTION:hn-->
 
 <!--
