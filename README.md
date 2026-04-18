@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 17 - [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)
-- Apr 17 - [NeoGeo AES+: SNK announces reissue of retro console without emulation](https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html)
-- Apr 17 - [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm)
-- Apr 17 - [Random musings: 80s hardware, cyberdecks](https://strangelyentangled.com/blog/musings-80s-hardware/)
-- Apr 17 - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering)
+- Apr 17 - [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/)
+- Apr 17 - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
+- Apr 17 - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
+- Apr 17 - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
+- Apr 17 - [Even "cat readme.txt" is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
 <!--END_SECTION:hn-->
 
 <!--
