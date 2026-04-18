@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Amazon is discontinuing Kindle for PC on June 30th](https://goodereader.com/blog/kindle/amazon-is-discontinuing-kindle-for-pc-on-june-30th)
-- Apr 18 - [Fuzix OS](https://www.fuzix.org/)
-- Apr 18 - [Sherry Turkle: "We're losing the raw, human part of being with each other"](https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit)
-- Apr 18 - [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
-- Apr 18 - [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
+- Apr 18 - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
+- Apr 18 - [Thoughts and Feelings Around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
+- Apr 18 - [Traders placed over $1B in perfectly timed bets on the Iran war](https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns)
+- Apr 18 - [Headless Everything for Personal AI](https://interconnected.org/home/2026/04/18/headless)
+- Apr 18 - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
 <!--END_SECTION:hn-->
 
 <!--
