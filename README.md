@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 18 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
+- Apr 18 - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
+- Apr 18 - [Amiga Graphics](https://amiga.lychesis.net/)
+- Apr 18 - [It is incorrect to "normalize" // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
 - Apr 18 - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
-- Apr 18 - [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/)
-- Apr 17 - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
-- Apr 17 - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
-- Apr 17 - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 <!--END_SECTION:hn-->
 
 <!--
