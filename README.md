@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 18 - [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)
+- Apr 18 - [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832)
 - Apr 18 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
-- Apr 18 - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
 - Apr 18 - [Amiga Graphics](https://amiga.lychesis.net/)
 - Apr 18 - [It is incorrect to "normalize" // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
-- Apr 18 - [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/)
 <!--END_SECTION:hn-->
 
 <!--
