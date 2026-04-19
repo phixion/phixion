@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 18 - [Young sons of legendary U.S. marshal ride horseback from Oklahoma to New York](https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/)
-- Apr 18 - [Thoughts and Feelings Around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)
-- Apr 18 - [Traders placed over $1B in perfectly timed bets on the Iran war](https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns)
-- Apr 18 - [Headless Everything for Personal AI](https://interconnected.org/home/2026/04/18/headless)
-- Apr 18 - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
+- Apr 18 - [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
+- Apr 18 - [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
+- Apr 18 - [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare)
+- Apr 18 - [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+- Apr 18 - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
 <!--END_SECTION:hn-->
 
 <!--
