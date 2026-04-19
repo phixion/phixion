@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)
-- Apr 19 - [Keep Pushing: We Get 10 More Days to Reform Section 702](https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702)
-- Apr 19 - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
-- Apr 18 - [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/)
-- Apr 18 - [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)
+- Apr 19 - [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)
+- Apr 19 - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
+- Apr 19 - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
+- Apr 19 - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+- Apr 19 - [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)
 <!--END_SECTION:hn-->
 
 <!--
