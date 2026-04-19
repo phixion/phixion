@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/)
-- Apr 19 - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)
-- Apr 19 - [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940)
-- Apr 19 - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
-- Apr 19 - [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd)
+- Apr 19 - [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/)
+- Apr 19 - [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
+- Apr 19 - [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
+- Apr 19 - [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
+- Apr 19 - [When moving fast, talking is the first thing to break](https://daverupert.com/2026/04/more-talk-less-grok/)
 <!--END_SECTION:hn-->
 
 <!--
