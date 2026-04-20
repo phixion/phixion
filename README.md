@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
-- Apr 20 - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
-- Apr 20 - [Kimi K2.6: Advancing Open-Source Coding](https://twitter.com/Kimi_Moonshot/status/2046249571882500354)
-- Apr 20 - [I'm never buying another Kindle, and neither should you](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
-- Apr 20 - [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
+- Apr 20 - [NASA had to train Apollo 11's astronauts to not use profanity](https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/)
+- Apr 20 - [We got 207 tok/s with Qwen3.5-27B on an RTX 3090](https://github.com/Luce-Org/lucebox-hub)
+- Apr 20 - [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
+- Apr 20 - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
+- Apr 20 - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
 <!--END_SECTION:hn-->
 
 <!--
