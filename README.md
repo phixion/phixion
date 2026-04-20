@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)
-- Apr 20 - [Why macOS27 won't be supporting Intel anymore](https://twitter.com/Lina_Hoshino/status/2046112493320458649)
-- Apr 20 - [A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/)
-- Apr 20 - [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/)
-- Apr 20 - [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
+- Apr 20 - [Palantir Wants to Reinstate the Draft](https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/)
+- Apr 20 - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+- Apr 20 - [Kimi K2.6: Advancing Open-Source Coding](https://twitter.com/Kimi_Moonshot/status/2046249571882500354)
+- Apr 20 - [I'm never buying another Kindle, and neither should you](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
+- Apr 20 - [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
 <!--END_SECTION:hn-->
 
 <!--
