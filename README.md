@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
-- Apr 20 - [IEA: Solar overtakes all energy sources in a major global first](https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/)
-- Apr 20 - [How Long Poop Stays in Your Body May Impact Your Health, Study Finds](https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds)
-- Apr 20 - [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design)
-- Apr 20 - [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm)
+- Apr 20 - [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html)
+- Apr 20 - [Why macOS27 won't be supporting Intel anymore](https://twitter.com/Lina_Hoshino/status/2046112493320458649)
+- Apr 20 - [A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/)
+- Apr 20 - [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/)
+- Apr 20 - [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
 <!--END_SECTION:hn-->
 
 <!--
