@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 19 - [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu)
-- Apr 19 - [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/)
-- Apr 19 - [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
-- Apr 19 - [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
-- Apr 19 - [Notes from the SF peptide scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene)
+- Apr 19 - [Got an Old Kindle? It Might Not Work Anymore](https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/)
+- Apr 19 - [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
+- Apr 19 - [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/)
+- Apr 19 - [Aliens.gov will be running as a WordPress multisite](https://aliens.gov/)
+- Apr 19 - [C++26: Reflection, Memory Safety, Contracts, and a New Async Model](https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/)
 <!--END_SECTION:hn-->
 
 <!--
