@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor)
-- Apr 21 - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
-- Apr 21 - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
-- Apr 21 - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
-- Apr 21 - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
+- Apr 21 - [Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins](https://github.com/Yus314/kasane)
+- Apr 21 - [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
+- Apr 21 - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
+- Apr 21 - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
+- Apr 21 - [Your favorite brands got worse on purpose](https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose)
 <!--END_SECTION:hn-->
 
 <!--
