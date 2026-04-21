@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins](https://github.com/Yus314/kasane)
-- Apr 21 - [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
-- Apr 21 - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
-- Apr 21 - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
-- Apr 21 - [Your favorite brands got worse on purpose](https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose)
+- Apr 21 - [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
+- Apr 21 - [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
+- Apr 21 - [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
+- Apr 21 - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
+- Apr 21 - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 <!--END_SECTION:hn-->
 
 <!--
