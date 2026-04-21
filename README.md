@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 21 - [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/)
+- Apr 21 - [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor)
+- Apr 21 - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+- Apr 21 - [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html)
+- Apr 21 - [A type-safe, realtime collaborative Graph Database in a CRDT](https://codemix.com/graph)
 - Apr 21 - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
-- Apr 21 - [A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/)
-- Apr 21 - [Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html)
-- Apr 21 - [Salmon exposed to cocaine and its main byproduct roam more widely](https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust)
 <!--END_SECTION:hn-->
 
 <!--
