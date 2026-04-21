@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 20 - [NASA had to train Apollo 11's astronauts to not use profanity](https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/)
-- Apr 20 - [We got 207 tok/s with Qwen3.5-27B on an RTX 3090](https://github.com/Luce-Org/lucebox-hub)
-- Apr 20 - [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
-- Apr 20 - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
-- Apr 20 - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
+- Apr 20 - [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html)
+- Apr 20 - [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/)
+- Apr 20 - [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+- Apr 20 - [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+- Apr 20 - [Show HN: Holos – QEMU/KVM with a compose-style YAML, GPUs and health checks](https://github.com/zeroecco/holos)
 <!--END_SECTION:hn-->
 
 <!--
