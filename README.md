@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
-- Apr 22 - [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
-- Apr 22 - [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
-- Apr 21 - [Drunk post: Things I've learned as a senior engineer (2021)](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
-- Apr 21 - [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+- Apr 22 - [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
+- Apr 22 - [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)
+- Apr 22 - [Nobody Got Fired for Uber's $8M Ledger Mistake?](https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million)
+- Apr 22 - [CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes](https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/)
+- Apr 22 - [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
 <!--END_SECTION:hn-->
 
 <!--
