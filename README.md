@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
-- Apr 22 - [GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)
-- Apr 22 - [Nobody Got Fired for Uber's $8M Ledger Mistake?](https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million)
-- Apr 22 - [CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes](https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/)
-- Apr 22 - [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
+- Apr 22 - [DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser](https://duckdb.org/2026/04/13/announcing-duckdb-152)
+- Apr 22 - [Show HN submissions tripled and now mostly share the same vibe-coded look](https://www.adriankrebs.ch/blog/design-slop/)
+- Apr 22 - [Treetops glowing during storms captured on film for first time](https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time)
+- Apr 22 - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
+- Apr 22 - [Columnar Storage Is Normalization](https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/)
 <!--END_SECTION:hn-->
 
 <!--
