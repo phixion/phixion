@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 21 - [Claude Code to be removed from Pro Tier?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
+- Apr 21 - [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
+- Apr 21 - [Zindex – Diagram Infrastructure for Agents](https://zindex.ai/)
+- Apr 21 - [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 - Apr 21 - [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
-- Apr 21 - [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy)
-- Apr 21 - [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
-- Apr 21 - [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/)
-- Apr 21 - [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 <!--END_SECTION:hn-->
 
 <!--
