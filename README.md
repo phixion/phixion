@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/)
-- Apr 22 - [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/)
-- Apr 22 - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
-- Apr 22 - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-- Apr 22 - [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
+- Apr 23 - [I Am Building a Cloud](https://crawshaw.io/blog/building-a-cloud)
+- Apr 23 - [A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)
+- Apr 23 - [It's time to reclaim the word "Palantir" for JRR Tolkien](https://www.zig.art/p/its-time-to-reclaim-the-word-palantir)
+- Apr 23 - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
+- Apr 23 - [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW)
 <!--END_SECTION:hn-->
 
 <!--
