@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 22 - [New study compares growing corn for energy to solar production. It's no contest](https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/)
-- Apr 22 - [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
-- Apr 22 - [Website streamed live directly from a model](https://flipbook.page/)
-- Apr 22 - [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/)
-- Apr 22 - [Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)
+- Apr 22 - [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/)
+- Apr 22 - [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/)
+- Apr 22 - [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king)
+- Apr 22 - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+- Apr 22 - [The Illuminated Man: an unconventional portrait of JG Ballard](https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard)
 <!--END_SECTION:hn-->
 
 <!--
