@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
-- Apr 23 - [Jiga (YC W21) Is Hiring](https://jiga.io/about-us/)
-- Apr 23 - [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
-- Apr 23 - [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/)
-- Apr 23 - [Show HN: Built a daily game where you sort historical events chronologically](https://hisorty.app/)
+- Apr 23 - [If America's So Rich, How'd It Get So Sad?](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so)
+- Apr 23 - [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
+- Apr 23 - [To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
+- Apr 23 - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
+- Apr 23 - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
 <!--END_SECTION:hn-->
 
 <!--
