@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 23 - [If America's So Rich, How'd It Get So Sad?](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so)
-- Apr 23 - [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
-- Apr 23 - [To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
-- Apr 23 - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
-- Apr 23 - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
+- Apr 23 - [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
+- Apr 23 - [Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge](https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a)
+- Apr 23 - [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo)
+- Apr 23 - [Meta to cut 10% of jobs, or 8k employees](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
+- Apr 23 - [Astronomers Find the Edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/)
 <!--END_SECTION:hn-->
 
 <!--
