@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
-- Apr 24 - [Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture](https://ynarwal.github.io/how-llms-work/)
-- Apr 24 - [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
-- Apr 24 - [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus)
-- Apr 24 - [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
+- Apr 24 - [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)
+- Apr 24 - [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
+- Apr 24 - [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p)
+- Apr 24 - [Mounting tar archives as a filesystem in WebAssembly](https://jeroen.github.io/notes/webassembly-tar/)
+- Apr 24 - [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 <!--END_SECTION:hn-->
 
 <!--
