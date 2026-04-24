@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)
-- Apr 24 - [Hear your agent suffer through your code](https://github.com/AndrewVos/endless-toil)
-- Apr 24 - [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p)
-- Apr 24 - [Mounting tar archives as a filesystem in WebAssembly](https://jeroen.github.io/notes/webassembly-tar/)
-- Apr 24 - [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+- Apr 24 - [Refuse to let your doctor record you](https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/)
+- Apr 24 - [Why I'm Done Making Desktop Applications](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
+- Apr 24 - [Researchers Simulated a Delusional User to Test Chatbot Safety](https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/)
+- Apr 24 - [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
+- Apr 24 - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
 <!--END_SECTION:hn-->
 
 <!--
