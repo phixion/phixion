@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Refuse to let your doctor record you](https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/)
-- Apr 24 - [Why I'm Done Making Desktop Applications](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
-- Apr 24 - [Researchers Simulated a Delusional User to Test Chatbot Safety](https://www.404media.co/delusion-using-chatgpt-gemini-claude-grok-safety-ai-psychosis-study/)
-- Apr 24 - [Norway Set to Become Latest Country to Ban Social Media for Under 16s](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s)
-- Apr 24 - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
+- Apr 24 - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+- Apr 24 - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
+- Apr 24 - [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
+- Apr 24 - [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
+- Apr 24 - [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
 <!--END_SECTION:hn-->
 
 <!--
