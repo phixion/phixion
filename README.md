@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
+- Apr 24 - [FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)](https://github.com/manankharwar/fusioncore)
+- Apr 24 - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
+- Apr 24 - [Google Flow Music](https://www.flowmusic.app/)
 - Apr 24 - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
 - Apr 24 - [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
-- Apr 24 - [Could a Claude Code routine watch my finances?](https://driggsby.com/blog/claude-code-routine-watch-my-finances)
-- Apr 24 - [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/)
 <!--END_SECTION:hn-->
 
 <!--
