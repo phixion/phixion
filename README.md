@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 25 - [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
+- Apr 25 - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
+- Apr 25 - [Escrow Security for iCloud Keychain](https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web)
 - Apr 25 - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 - Apr 25 - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
-- Apr 25 - [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
-- Apr 25 - [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)
-- Apr 25 - [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
 <!--END_SECTION:hn-->
 
 <!--
