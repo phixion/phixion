@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Jumping into cold water can stop your heart](https://jorgenmelau.substack.com/p/the-first-sixty-seconds)
-- Apr 25 - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
-- Apr 25 - [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf)
-- Apr 25 - [HEALPix](https://en.wikipedia.org/wiki/HEALPix)
-- Apr 25 - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
+- Apr 25 - [Nicholas Carlini – Black-hat LLMs [video]](https://www.youtube.com/watch?v=1sd26pWhfmg)
+- Apr 25 - [America's Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html)
+- Apr 25 - [Show HN: Kloak, A secret manager that keeps K8s workload away from secrets](https://getkloak.io/)
+- Apr 25 - [North American Millets Alliance(2023)](https://milletsalliance.org/)
+- Apr 25 - [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
 <!--END_SECTION:hn-->
 
 <!--
