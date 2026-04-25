@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [Oxford All Souls College General Examination [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
-- Apr 25 - [Show HN: VT Code – Rust TUI coding agent with multi-provider support](https://github.com/vinhnx/VTCode)
+- Apr 25 - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
+- Apr 25 - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
 - Apr 25 - [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
+- Apr 25 - [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)
 - Apr 25 - [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
-- Apr 25 - ["Plain text has been around for decades and it's here to stay." – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
 <!--END_SECTION:hn-->
 
 <!--
