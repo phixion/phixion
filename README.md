@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 24 - [FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)](https://github.com/manankharwar/fusioncore)
-- Apr 24 - [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/)
-- Apr 24 - [Google Flow Music](https://www.flowmusic.app/)
-- Apr 24 - [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
-- Apr 24 - [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)
+- Apr 25 - [Oxford All Souls College General Examination [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf)
+- Apr 25 - [Show HN: VT Code – Rust TUI coding agent with multi-provider support](https://github.com/vinhnx/VTCode)
+- Apr 25 - [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/)
+- Apr 25 - [(Blender) Cosmology with Geometry Nodes](https://www.blender.org/user-stories/cosmology-with-geometry-nodes/)
+- Apr 25 - ["Plain text has been around for decades and it's here to stay." – Unsung](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/)
 <!--END_SECTION:hn-->
 
 <!--
