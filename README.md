@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 25 - [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm)
-- Apr 25 - [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
-- Apr 25 - [Escrow Security for iCloud Keychain](https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web)
-- Apr 25 - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
-- Apr 25 - [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision)
+- Apr 25 - [Jumping into cold water can stop your heart](https://jorgenmelau.substack.com/p/the-first-sixty-seconds)
+- Apr 25 - [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/)
+- Apr 25 - [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf]](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf)
+- Apr 25 - [HEALPix](https://en.wikipedia.org/wiki/HEALPix)
+- Apr 25 - [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)
 <!--END_SECTION:hn-->
 
 <!--
