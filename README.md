@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
-- Apr 26 - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
-- Apr 26 - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
-- Apr 26 - [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
-- Apr 26 - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
+- Apr 26 - [A.I. is creating engineers who can't think without it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+- Apr 26 - [Waymo says expecting driverless taxis to stay out of bike lanes is unrealistic](https://road.cc/news/driverless-taxis-veering-into-cycle-lanes-normal-practice-says-waymo)
+- Apr 26 - [Plants can sense the sound of rain, a new study finds](https://news.mit.edu/2026/plants-can-sense-sound-rain-new-study-finds-0422)
+- Apr 26 - [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/)
+- Apr 26 - [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
 <!--END_SECTION:hn-->
 
 <!--
