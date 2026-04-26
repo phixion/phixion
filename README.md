@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 26 - [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
+- Apr 26 - [GitHub unwanted UX change: issue links now open in a popup](https://github.com/orgs/community/discussions/192666)
+- Apr 26 - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
+- Apr 26 - [QNX on the Commodore 900 – Raiders of the lost hard drive [video]](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
 - Apr 26 - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
-- Apr 26 - [Show HN: A free ESG stock screener that publishes its losses and methodology](https://jumpstartsignal.com/)
-- Apr 26 - [Statecharts: hierarchical state machines](https://statecharts.dev/)
-- Apr 26 - [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
-- Apr 26 - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
 <!--END_SECTION:hn-->
 
 <!--
