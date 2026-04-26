@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [Europe to burned American scientists: We'll take you in](https://www.politico.eu/article/europe-exploit-dunald-trump-brain-drain-academic-research-progressive-institutions/)
-- Apr 26 - [Why Has There Been So Little Progress on Alzheimer's Disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)
-- Apr 25 - [Agents Aren't Coworkers, Embed Them in Your Software](https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software)
-- Apr 25 - [Her Life Savings Mysteriously Disappeared After a Systems Glitch](https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html)
-- Apr 25 - [Colorado Adds Open-Source Exemption to Age-Verification Bill](https://fosstodon.org/@carlrichell/116460505717380644)
+- Apr 26 - [A Home Made PBX](https://wandel.ca/homepage/pbx.html)
+- Apr 26 - [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
+- Apr 26 - [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
+- Apr 26 - [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
+- Apr 26 - [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/)
 <!--END_SECTION:hn-->
 
 <!--
