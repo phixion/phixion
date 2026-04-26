@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 26 - [A Home Made PBX](https://wandel.ca/homepage/pbx.html)
-- Apr 26 - [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
-- Apr 26 - [Reviving BrowserID in 2026](https://wakamoleguy.com/p/reviving-browserid-in-2026)
-- Apr 26 - [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253)
-- Apr 26 - [The Super Nintendo Cartridges](https://fabiensanglard.net/snes_carts/)
+- Apr 26 - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
+- Apr 26 - [Exposing Floating Point – Bartosz Ciechanowski (2019)](https://ciechanow.ski/exposing-floating-point/)
+- Apr 26 - [Tip: Web requests should not be measured in Hz [Hertz]](https://mastodon.catgirl.cloud/@sophie/116467789133733136)
+- Apr 26 - [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)
+- Apr 26 - [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 <!--END_SECTION:hn-->
 
 <!--
