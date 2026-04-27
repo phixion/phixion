@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [It's OK to abandon your side-project](https://robbowen.digital/wrote-about/abandoned-side-projects/)
-- Apr 27 - [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/)
-- Apr 27 - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
-- Apr 27 - [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
-- Apr 27 - [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/)
+- Apr 27 - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
+- Apr 27 - [France's Mistral Built a $14B AI Empire by Not Being American](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+- Apr 27 - [Moleskine's AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/)
+- Apr 27 - [Quarkdown – Markdown with Superpowers](https://quarkdown.com/)
+- Apr 27 - [It's OK to abandon your side-project (2024)](https://robbowen.digital/wrote-about/abandoned-side-projects/)
 <!--END_SECTION:hn-->
 
 <!--
