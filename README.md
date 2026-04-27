@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
-- Apr 27 - [France's Mistral Built a $14B AI Empire by Not Being American](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
-- Apr 27 - [Moleskine's AI Lord of the Rings collection can only mock](https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/)
-- Apr 27 - [Quarkdown – Markdown with Superpowers](https://quarkdown.com/)
-- Apr 27 - [It's OK to abandon your side-project (2024)](https://robbowen.digital/wrote-about/abandoned-side-projects/)
+- Apr 27 - [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
+- Apr 27 - [Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
+- Apr 27 - [Apple is dropping AFP/TimeCapsule support in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/)
+- Apr 27 - [The Woes of Sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/)
+- Apr 27 - [US Supreme Court Reviews Police Use of Cell Location Data to Find Criminals](https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html)
 <!--END_SECTION:hn-->
 
 <!--
