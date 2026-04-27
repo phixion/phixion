@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
-- Apr 26 - [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/)
-- Apr 26 - [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/)
-- Apr 26 - [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca)
-- Apr 26 - [Show HN: Tiao, A two-player turn-based board game](https://playtiao.com)
+- Apr 27 - [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)
+- Apr 27 - [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
+- Apr 27 - [TurboQuant: A First-Principles Walkthrough](https://arkaung.github.io/interactive-turboquant/)
+- Apr 27 - [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
+- Apr 26 - [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book)
 <!--END_SECTION:hn-->
 
 <!--
