@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Apr 27 - [Pitney Bowes - 8,243,989 breached accounts](https://haveibeenpwned.com/Breach/PitneyBowes)
 - Apr 27 - [ADT - 5,488,888 breached accounts](https://haveibeenpwned.com/Breach/ADT)
 - Apr 26 - [Udemy - 1,401,259 breached accounts](https://haveibeenpwned.com/Breach/Udemy)
 - Apr 24 - [Carnival - 7,531,359 breached accounts](https://haveibeenpwned.com/Breach/Carnival)
 - Apr 17 - [Amtrak - 2,147,679 breached accounts](https://haveibeenpwned.com/Breach/Amtrak)
-- Apr 16 - [McGraw Hill - 13,500,136 breached accounts](https://haveibeenpwned.com/Breach/McGrawHill)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 27 - [U.S. companies back Sam Altman's World ID even as much of the world pushes back](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/)
-- Apr 27 - [Our principles](https://openai.com/index/our-principles/)
-- Apr 27 - [United Wizards of the Coast](https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa)
-- Apr 27 - [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
-- Apr 27 - [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
+- Apr 28 - [Generative AI Vegetarianism](https://sboots.ca/2026/03/11/generative-ai-vegetarianism/)
+- Apr 27 - [To My Students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
+- Apr 27 - [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch)
+- Apr 27 - [Claude Pro: Opus model will only be available if extra usage is enabled](https://support.claude.com/en/articles/11940350-claude-code-model-configuration)
+- Apr 27 - [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
 <!--END_SECTION:hn-->
 
 <!--
