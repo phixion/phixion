@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp](https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/)
-- Apr 28 - [GTFOBins](https://gtfobins.org/)
-- Apr 28 - [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
-- Apr 28 - [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map)
-- Apr 28 - [High Performance Git](https://gitperf.com/)
+- Apr 28 - [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
+- Apr 28 - [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
+- Apr 28 - [Period tracking app has been yapping about your flow to Meta](https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been)
+- Apr 28 - [New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Whole Nations](https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/)
+- Apr 28 - [The Social Edge of Intelligence: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/)
 <!--END_SECTION:hn-->
 
 <!--
