@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
-- Apr 28 - [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
-- Apr 28 - [CJIT: C, Just in Time](https://dyne.org/cjit/)
-- Apr 28 - [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)
-- Apr 28 - [Bankruptcies increase 11.9 percent](https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent)
+- Apr 28 - [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)
+- Apr 28 - [ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+- Apr 28 - [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
+- Apr 28 - [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
+- Apr 28 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 <!--END_SECTION:hn-->
 
 <!--
