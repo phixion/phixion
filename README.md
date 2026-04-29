@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 28 - [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)
-- Apr 28 - [ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
-- Apr 28 - [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)
-- Apr 28 - [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
-- Apr 28 - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+- Apr 29 - [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
+- Apr 29 - [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
+- Apr 29 - [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)
+- Apr 28 - [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
+- Apr 28 - [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
 <!--END_SECTION:hn-->
 
 <!--
