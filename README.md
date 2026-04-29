@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns](https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/)
-- Apr 29 - [Show HN: A new benchmark for testing LLMs for deterministic outputs](https://interfaze.ai/blog/introducing-structured-output-benchmark)
-- Apr 29 - [Shrdlu](https://en.wikipedia.org/wiki/SHRDLU)
-- Apr 29 - [Online age verification is the hill to die on](https://xcancel.com/GlennMeder/status/2049088498163216560)
-- Apr 29 - [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
+- Apr 29 - [Pentagon spending on drones jumps from $225M to $55B in one year](https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses)
+- Apr 29 - [OpenTrafficMap](https://opentrafficmap.org/)
+- Apr 29 - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
+- Apr 29 - [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
+- Apr 29 - [Copy Fail – CVE-2026-31431](https://copy.fail/)
 <!--END_SECTION:hn-->
 
 <!--
