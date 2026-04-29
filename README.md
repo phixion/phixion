@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Coffee with a splash of physics: how to make the most out of your brew](https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/)
-- Apr 29 - [Stardex Is Hiring a Founding Customer Success Lead](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead)
-- Apr 29 - [HashiCorp co-founder says GitHub 'no longer a place for serious work'](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/)
-- Apr 29 - [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
-- Apr 29 - [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
+- Apr 29 - [Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns](https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/)
+- Apr 29 - [Show HN: A new benchmark for testing LLMs for deterministic outputs](https://interfaze.ai/blog/introducing-structured-output-benchmark)
+- Apr 29 - [Shrdlu](https://en.wikipedia.org/wiki/SHRDLU)
+- Apr 29 - [Online age verification is the hill to die on](https://xcancel.com/GlennMeder/status/2049088498163216560)
+- Apr 29 - [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them)
 <!--END_SECTION:hn-->
 
 <!--
