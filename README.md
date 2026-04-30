@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [Pentagon spending on drones jumps from $225M to $55B in one year](https://www.foxnews.com/politics/pentagon-jumps-from-225m-55b-drones-cheap-attacks-overwhelm-us-defenses)
+- Apr 29 - [> Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m)
+- Apr 29 - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
+- Apr 29 - [Vera: a programming language designed for machines to write](https://github.com/aallan/vera)
+- Apr 29 - [I benchmarked Claude Code's caveman plugin against "be brief."](https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words)
 - Apr 29 - [OpenTrafficMap](https://opentrafficmap.org/)
-- Apr 29 - [Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years](https://jivx.com/kyoto-bloom)
-- Apr 29 - [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
-- Apr 29 - [Copy Fail – CVE-2026-31431](https://copy.fail/)
 <!--END_SECTION:hn-->
 
 <!--
