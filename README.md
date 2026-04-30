@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Will you heed my warnings now?](https://scottaaronson.blog/?p=9718)
-- Apr 30 - [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
-- Apr 30 - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
-- Apr 30 - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
-- Apr 30 - [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
+- Apr 30 - [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
+- Apr 30 - [GCC 16 has been released](https://gcc.gnu.org/gcc-16/changes.html)
+- Apr 30 - [For the first time in history, more Americans are moving to EU than vice versa](https://twitter.com/benbawan/status/2049303326999609846)
+- Apr 30 - [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html)
+- Apr 30 - [How to Disable Firefox's New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
 <!--END_SECTION:hn-->
 
 <!--
