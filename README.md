@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 29 - [> Be Alexandra Elbakyan](https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m)
-- Apr 29 - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
-- Apr 29 - [Vera: a programming language designed for machines to write](https://github.com/aallan/vera)
-- Apr 29 - [I benchmarked Claude Code's caveman plugin against "be brief."](https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words)
-- Apr 29 - [OpenTrafficMap](https://opentrafficmap.org/)
+- Apr 30 - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
+- Apr 30 - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
+- Apr 30 - [Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
+- Apr 30 - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
+- Apr 30 - [The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 <!--END_SECTION:hn-->
 
 <!--
