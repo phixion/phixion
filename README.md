@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Apr 30 - [Will you heed my warnings now?](https://scottaaronson.blog/?p=9718)
+- Apr 30 - [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 - Apr 30 - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
 - Apr 30 - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
-- Apr 30 - [Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
-- Apr 30 - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
-- Apr 30 - [The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+- Apr 30 - [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
 <!--END_SECTION:hn-->
 
 <!--
