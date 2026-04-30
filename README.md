@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [Spain's parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/)
-- Apr 30 - [A 1960s art school experiment that redefined creativity](https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/)
-- Apr 30 - [Japan Is Building Cardboard Suicide Drones](https://www.404media.co/japan-cardboard-drones-air-kamuy/)
-- Apr 30 - [Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file](https://honker.dev/)
-- Apr 30 - [Claude Code refuses requests or charges extra if your commits mention "OpenClaw"](https://twitter.com/theo/status/2049645973350363168)
+- Apr 30 - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
+- Apr 30 - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
+- Apr 30 - [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
+- Apr 30 - [If Apple makes an iPad Neo, it's all over](https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html)
+- Apr 30 - [The Human Creativity Benchmark – Evaluating Generative AI in Creative Work](https://contralabs.com/research/human-creativity-benchmark)
 <!--END_SECTION:hn-->
 
 <!--
