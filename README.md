@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 01 - [Aman - 215,563 breached accounts](https://haveibeenpwned.com/Breach/Aman)
 - Apr 27 - [Pitney Bowes - 8,243,989 breached accounts](https://haveibeenpwned.com/Breach/PitneyBowes)
 - Apr 27 - [ADT - 5,488,888 breached accounts](https://haveibeenpwned.com/Breach/ADT)
 - Apr 26 - [Udemy - 1,401,259 breached accounts](https://haveibeenpwned.com/Breach/Udemy)
 - Apr 24 - [Carnival - 7,531,359 breached accounts](https://haveibeenpwned.com/Breach/Carnival)
-- Apr 17 - [Amtrak - 2,147,679 breached accounts](https://haveibeenpwned.com/Breach/Amtrak)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [$500M for Virtual Biology Initiative, Funded by Zuckerbergs](https://biohub.org/news/virtual-biology-initiative/)
-- Apr 30 - [AI discovery reveals DNA isn’t locked away in cells after all](https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all)
+- May 01 - [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
+- May 01 - [OpenWarp](https://openwarp.zerx.dev)
+- May 01 - [The Hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/)
+- Apr 30 - [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
 - Apr 30 - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
-- Apr 30 - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
-- Apr 30 - [SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding](https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html)
 <!--END_SECTION:hn-->
 
 <!--
