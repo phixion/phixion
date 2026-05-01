@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Apr 30 - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
-- Apr 30 - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
-- Apr 30 - [Does Postgres Scale?](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres)
-- Apr 30 - [If Apple makes an iPad Neo, it's all over](https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html)
-- Apr 30 - [The Human Creativity Benchmark – Evaluating Generative AI in Creative Work](https://contralabs.com/research/human-creativity-benchmark)
+- May 01 - [$500M for Virtual Biology Initiative, Funded by Zuckerbergs](https://biohub.org/news/virtual-biology-initiative/)
+- Apr 30 - [AI discovery reveals DNA isn’t locked away in cells after all](https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all)
+- Apr 30 - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
+- Apr 30 - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
+- Apr 30 - [SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding](https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html)
 <!--END_SECTION:hn-->
 
 <!--
