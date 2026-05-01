@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
-- May 01 - [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551)
-- May 01 - [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
-- May 01 - [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
-- May 01 - [A beginner's guide to Sourcehut (2025)](https://btxx.org/posts/beginners-guide-sourcehut/)
+- May 01 - [An open letter asking NHS England to keep its code open](https://keepthingsopen.com)
+- May 01 - [Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down](https://www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/)
+- May 01 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676)
+- May 01 - [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas)
+- May 01 - [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571)
 <!--END_SECTION:hn-->
 
 <!--
