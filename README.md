@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
-- May 02 - [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)
-- May 02 - [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
-- May 02 - [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
-- May 02 - [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
+- May 02 - [Uber wants to turn its drivers into a sensor grid for AV companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
+- May 02 - [Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)
+- May 02 - [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462)
+- May 02 - [Oil tanker hijacked off Yemen, steers toward Somalia](https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html)
+- May 02 - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 <!--END_SECTION:hn-->
 
 <!--
