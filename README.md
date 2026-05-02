@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Uber wants to turn its drivers into a sensor grid for AV companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
-- May 02 - [Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)
-- May 02 - [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462)
-- May 02 - [Oil tanker hijacked off Yemen, steers toward Somalia](https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html)
-- May 02 - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+- May 02 - [Canonical Under Attack](https://status.canonical.com)
+- May 02 - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
+- May 02 - [NetHack 5.0.0](https://nethack.org/v500/release.html)
+- May 02 - [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)
+- May 02 - [Do_not_track](https://donottrack.sh/)
 <!--END_SECTION:hn-->
 
 <!--
