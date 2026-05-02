@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [What did you love about VB6?](https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question)
-- May 01 - [U.S. to Withdraw 5k Troops from Germany, Pentagon Says](https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html)
-- May 01 - [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
-- May 01 - [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
-- May 01 - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
+- May 02 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
+- May 02 - [Ask.com has closed](https://www.ask.com/)
+- May 02 - [Governor – a Claude Code plugin to reduce token/context waste](https://github.com/0xhimanshu/governor)
+- May 02 - [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
+- May 02 - [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/)
 <!--END_SECTION:hn-->
 
 <!--
