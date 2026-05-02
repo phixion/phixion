@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 01 - [Show HN: Destiny – Claude Code's fortune Teller skill](https://github.com/xodn348/destiny)
-- May 01 - [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
-- May 01 - [Ubuntu servers taken offline by "sustained, cross-border attack"](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/)
-- May 01 - [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/)
-- May 01 - [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
+- May 02 - [What did you love about VB6?](https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question)
+- May 01 - [U.S. to Withdraw 5k Troops from Germany, Pentagon Says](https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html)
+- May 01 - [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
+- May 01 - [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
+- May 01 - [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
 <!--END_SECTION:hn-->
 
 <!--
