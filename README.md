@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 03 - [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
-- May 02 - [Waymo Drives Off with South Bay Man's Luggage](https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/)
-- May 02 - [Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)
-- May 02 - [The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
-- May 02 - [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
+- May 03 - [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
+- May 03 - [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
+- May 03 - [Open source does not imply open community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
+- May 03 - [Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels](https://www.newsonjapan.com/article/149075.php)
+- May 03 - [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
 <!--END_SECTION:hn-->
 
 <!--
