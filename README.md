@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 02 - [Canonical Under Attack](https://status.canonical.com)
-- May 02 - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
-- May 02 - [NetHack 5.0.0](https://nethack.org/v500/release.html)
-- May 02 - [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go)
-- May 02 - [Do_not_track](https://donottrack.sh/)
+- May 03 - [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+- May 02 - [Waymo Drives Off with South Bay Man's Luggage](https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/)
+- May 02 - [Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)
+- May 02 - [The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious](https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/)
+- May 02 - [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
 <!--END_SECTION:hn-->
 
 <!--
