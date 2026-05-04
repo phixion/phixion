@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Stitch together lots of little HTML pages with navigations for interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
-- May 04 - [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
-- May 03 - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-- May 03 - [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
-- May 03 - [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+- May 04 - [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+- May 04 - [ASML's Best Selling Product Isn't What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)
+- May 04 - [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
+- May 04 - [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
+- May 04 - [Over 8M Thermos jars and bottles recalled after 3 people lost vision](https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152)
 <!--END_SECTION:hn-->
 
 <!--
