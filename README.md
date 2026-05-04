@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
-- May 04 - [ASML's Best Selling Product Isn't What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)
-- May 04 - [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
-- May 04 - [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
-- May 04 - [Over 8M Thermos jars and bottles recalled after 3 people lost vision](https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152)
+- May 04 - [GitHub Is Down](https://www.githubstatus.com/incidents/72q3n8yxthcy)
+- May 04 - [Alberta voter list leak is a potential public safety disaster](https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/)
+- May 04 - [Hallucination Is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
+- May 04 - [1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'](https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/)
+- May 04 - [I tracked 7,700 UK petrol stations every 10 minutes for 3 months](https://www.fuelinsight.co.uk)
 <!--END_SECTION:hn-->
 
 <!--
