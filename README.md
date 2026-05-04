@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 04 - [Humanoid Robot Actuators: The Complete Engineering Guide](https://www.firgelli.com/pages/humanoid-robot-actuators)
+- May 04 - [Stitch together lots of little HTML pages with navigations for interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
+- May 04 - [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
 - May 03 - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 - May 03 - [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
 - May 03 - [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
-- May 03 - [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 <!--END_SECTION:hn-->
 
 <!--
