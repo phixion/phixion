@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
-- May 05 - [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
-- May 05 - [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
-- May 05 - [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
-- May 05 - [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+- May 05 - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+- May 05 - [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
+- May 05 - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
+- May 05 - [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
+- May 05 - [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
 <!--END_SECTION:hn-->
 
 <!--
