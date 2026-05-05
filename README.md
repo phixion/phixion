@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 05 - [Today I've made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723)
+- May 05 - [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 - May 05 - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 - May 05 - [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
 - May 05 - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
-- May 05 - [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
-- May 05 - [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
 <!--END_SECTION:hn-->
 
 <!--
