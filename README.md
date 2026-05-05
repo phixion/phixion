@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [UK: Two millionth electric car registered as market rebounds strongly](https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/)
-- May 05 - [EEVblog: The 555 Timer is 55 years old](https://www.youtube.com/watch?v=6JhK8iCQuqI)
-- May 05 - [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
-- May 05 - [New Landing Page for Awesome PaaS](https://debarshibasak.github.io/awesome-paas/)
-- May 05 - [Show HN: A Mutating Webhook to automatically strip PII from K8s logs](https://github.com/aragossa/pii-shield)
+- May 05 - [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+- May 05 - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
+- May 05 - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
+- May 05 - [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
+- May 05 - [Clarification on the Notepad++ Trademark Issue](https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/)
 <!--END_SECTION:hn-->
 
 <!--
