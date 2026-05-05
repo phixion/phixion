@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 04 - [Agent Skills](https://addyosmani.com/blog/agent-skills/)
+- May 04 - ['Point of no return': New Orleans relocation must start now due to sea level](https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis)
+- May 04 - [Pulitzer Prize Winners 2026](https://www.pulitzer.org/prize-winners-by-year/2026)
 - May 04 - [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
-- May 04 - [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
-- May 04 - [White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)
-- May 04 - [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
-- May 04 - [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
+- May 04 - [Transformers Are Inherently Succinct (2025)](https://arxiv.org/abs/2510.19315)
 <!--END_SECTION:hn-->
 
 <!--
