@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
-- May 06 - [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
-- May 06 - [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
-- May 06 - [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
-- May 06 - [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/)
+- May 06 - [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/)
+- May 06 - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+- May 06 - [Am I Meant to Be Impressed?](https://www.wheresyoured.at/am-i-meant-to-be-impressed/)
+- May 06 - [Our Continuation of MkDocs](https://github.com/orgs/ProperDocs/discussions/33)
+- May 06 - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 <!--END_SECTION:hn-->
 
 <!--
