@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 05 - [Xbox CEO ends Copilot AI development and overhauls leadership](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
-- May 05 - [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
-- May 05 - [NPR finds "no sign" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
-- May 05 - [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
-- May 05 - [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
+- May 06 - [Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
+- May 06 - [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
+- May 06 - [Update on "Co-authored-by: Copilot" in commit messages](https://github.com/microsoft/vscode/issues/314311)
+- May 06 - [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
+- May 06 - [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
 <!--END_SECTION:hn-->
 
 <!--
