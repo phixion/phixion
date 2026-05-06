@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 06 - [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/)
-- May 06 - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
-- May 06 - [Am I Meant to Be Impressed?](https://www.wheresyoured.at/am-i-meant-to-be-impressed/)
-- May 06 - [Our Continuation of MkDocs](https://github.com/orgs/ProperDocs/discussions/33)
-- May 06 - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
+- May 06 - [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
+- May 06 - [McDonald's is a premium product now (2024)](https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/)
+- May 06 - [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
+- May 06 - [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
+- May 06 - [BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/)
 <!--END_SECTION:hn-->
 
 <!--
