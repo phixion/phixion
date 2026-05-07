@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [They don't look like me](https://niccolorastrelli.com/they-dont-look-like-me)
-- May 07 - [Iran hit more U.S. military targets than has been reported, satellite images](https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/)
-- May 06 - [Kash Patel's Personalized Bourbon Stash](https://www.theatlantic.com/politics/2026/05/kash-patel-fbi-bourbon/687066/)
-- May 06 - [Pope Leo called his bank's customer service line. They hung up on him](https://www.usatoday.com/story/news/nation/2026/05/06/pope-leo-bank-customer-service-chicago/89960592007/)
-- May 06 - [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
+- May 07 - [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
+- May 07 - [Permacomputing Principles](https://permacomputing.net/principles/)
+- May 07 - [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
+- May 07 - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
+- May 06 - [What British people mean when they say 'sorry'](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
 <!--END_SECTION:hn-->
 
 <!--
