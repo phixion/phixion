@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- May 07 - [Woflow - 447,593 breached accounts](https://haveibeenpwned.com/Breach/Woflow)
 - May 06 - [LegionProxy - 10,144 breached accounts](https://haveibeenpwned.com/Breach/LegionProxy)
 - May 05 - [Vimeo - 119,167 breached accounts](https://haveibeenpwned.com/Breach/Vimeo)
 - May 04 - [Reborn Gaming - 126 breached accounts](https://haveibeenpwned.com/Breach/RebornGaming)
 - May 03 - [Marcus & Millichap - 1,837,078 breached accounts](https://haveibeenpwned.com/Breach/MarcusMillichap)
-- May 02 - [ZenBusiness - 5,118,184 breached accounts](https://haveibeenpwned.com/Breach/ZenBusiness)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
-- May 07 - [Permacomputing Principles](https://permacomputing.net/principles/)
-- May 07 - [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
-- May 07 - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
-- May 06 - [What British people mean when they say 'sorry'](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
+- May 07 - [How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs](https://unsloth.ai/blog/nvidia-collab)
+- May 07 - [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)
+- May 07 - [Show HN: Trust – Coding Rust like it's 1989](https://github.com/wojtczyk/trust)
+- May 07 - [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
+- May 07 - [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
 <!--END_SECTION:hn-->
 
 <!--
