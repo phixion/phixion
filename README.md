@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 07 - [GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)
-- May 07 - [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
-- May 07 - [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
-- May 07 - [Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)
-- May 07 - [ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math](https://firethering.com/zaya1-8b-open-source-math-coding-model/)
+- May 07 - [Authorities say Flock cameras' data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)
+- May 07 - [I switched from Mac to a Lenovo Chromebook, and you can too](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)
+- May 07 - [Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)
+- May 07 - [Motherboard sales are now collapsing amid unprecedented shortages fueled by AI](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
+- May 07 - [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
 <!--END_SECTION:hn-->
 
 <!--
