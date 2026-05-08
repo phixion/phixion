@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Hackers breach JDownloader website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
-- May 08 - [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
-- May 08 - [GeoJSON](https://geojson.org/)
-- May 08 - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
-- May 08 - [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
+- May 08 - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
+- May 08 - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
+- May 08 - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
+- May 08 - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
+- May 08 - [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
 <!--END_SECTION:hn-->
 
 <!--
