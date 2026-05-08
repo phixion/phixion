@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 08 - [Hackers breach JDownloader website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
+- May 08 - [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
+- May 08 - [GeoJSON](https://geojson.org/)
 - May 08 - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
-- May 08 - [HantaWatch Real time hantavirus outbreak tracker](https://hantawatch.net/)
-- May 08 - [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
-- May 08 - [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/)
-- May 08 - [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)
+- May 08 - [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
 <!--END_SECTION:hn-->
 
 <!--
