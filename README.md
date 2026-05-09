@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [Internet Archive Switzerland](https://internetarchive.ch/)
-- May 09 - [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
-- May 09 - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
-- May 09 - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-- May 08 - [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
+- May 09 - [The context window has been shattered: Subquadratic debuts a 12M token window](https://thenewstack.io/subquadratic-12-million-context-window/)
+- May 09 - [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
+- May 09 - [GrapheneOS fixes Android VPN leak Google refused to patch](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/)
+- May 09 - [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)
+- May 09 - [Read Programming as Theory Building](https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/)
 <!--END_SECTION:hn-->
 
 <!--
