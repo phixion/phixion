@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - [The context window has been shattered: Subquadratic debuts a 12M token window](https://thenewstack.io/subquadratic-12-million-context-window/)
-- May 09 - [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
-- May 09 - [GrapheneOS fixes Android VPN leak Google refused to patch](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/)
-- May 09 - [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)
-- May 09 - [Read Programming as Theory Building](https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/)
+- May 09 - ["Dirty Frag" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
+- May 09 - [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+- May 09 - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
+- May 09 - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
+- May 09 - [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
 <!--END_SECTION:hn-->
 
 <!--
