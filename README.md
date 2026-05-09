@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 08 - [Discord Incident](https://discordstatus.com)
-- May 08 - [Let’s Encrypt – Stopping Issuance for Potential Incident](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3)
-- May 08 - [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
-- May 08 - [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
-- May 08 - [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
+- May 08 - [Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)
+- May 08 - [Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)
+- May 08 - [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
+- May 08 - [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
+- May 08 - [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
 <!--END_SECTION:hn-->
 
 <!--
