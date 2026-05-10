@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
-- May 10 - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
-- May 10 - [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
-- May 10 - [Think Linear Algebra (2023)](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
-- May 10 - [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
+- May 10 - [Scientists warn Atlantic current at risk of shutting down](https://e360.yale.edu/features/amoc-climate-change)
+- May 10 - [Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
+- May 10 - [Shunting-Yard Animation](https://somethingorotherwhatever.com/shunting-yard-animation/)
+- May 10 - [Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer)
+- May 10 - [Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10](https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/)
 <!--END_SECTION:hn-->
 
 <!--
