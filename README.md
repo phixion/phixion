@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 09 - ["Dirty Frag" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
-- May 09 - [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
-- May 09 - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
-- May 09 - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
-- May 09 - [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
+- May 09 - [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+- May 09 - [Getting arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
+- May 09 - [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
+- May 09 - [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+- May 09 - [I caught the car](https://undecidability.net/senior/)
 <!--END_SECTION:hn-->
 
 <!--
