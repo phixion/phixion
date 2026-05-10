@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 10 - [Scientists warn Atlantic current at risk of shutting down](https://e360.yale.edu/features/amoc-climate-change)
-- May 10 - [Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
-- May 10 - [Shunting-Yard Animation](https://somethingorotherwhatever.com/shunting-yard-animation/)
-- May 10 - [Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer)
-- May 10 - [Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10](https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/)
+- May 10 - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+- May 10 - [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
+- May 10 - [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993)
+- May 10 - [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+- May 10 - [Traces Of Humanity](https://tracesofhumanity.org/hello-world/)
 <!--END_SECTION:hn-->
 
 <!--
