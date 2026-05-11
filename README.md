@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [Why we lose our friends as we age](https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/)
-- May 11 - [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html)
-- May 11 - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
-- May 11 - [Scaffold a 1990s Geocities-themed static website](https://pypi.org/project/create-geocities-app/)
-- May 11 - [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+- May 11 - [590k buyers paid $59M for Trump's gold phone, but not one has shipped](https://finance.yahoo.com/markets/stocks/articles/590-000-buyers-paid-59-223500998.html)
+- May 11 - [Linux Terminal Memory Usage](https://gilesorr.com/blog/linux-terminal-memory-usage.html)
+- May 11 - [Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog](https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/)
+- May 11 - [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
+- May 11 - [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/)
 <!--END_SECTION:hn-->
 
 <!--
