@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [OP's script shuts down every single computer in the company](https://www.reddit.com/r/sysadmin/s/7kD2rPS6yV)
-- May 11 - [Using AI for just 10 minutes might make you lazy and dumb](https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/)
-- May 11 - [I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
+- May 11 - [Why we lose our friends as we age](https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/)
+- May 11 - [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html)
+- May 11 - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
+- May 11 - [Scaffold a 1990s Geocities-themed static website](https://pypi.org/project/create-geocities-app/)
 - May 11 - [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
-- May 11 - [All Those A.I. Note Takers? They're Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
 <!--END_SECTION:hn-->
 
 <!--
