@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 11 - [Can we code our way out of gentrification?](https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification)
-- May 11 - [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
-- May 11 - [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-- May 11 - [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
-- May 11 - [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
+- May 12 - [Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads](https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china)
+- May 12 - [Productivity isn't about going faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
+- May 12 - [Why Everyone's Picking Up a PSP Again in 2026](https://gardinerbryant.com/psp-in-2026/)
+- May 12 - [Software Internals Book Club](https://eatonphil.com/bookclub.html)
+- May 12 - [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
 <!--END_SECTION:hn-->
 
 <!--
