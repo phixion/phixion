@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
-- May 13 - ["I applied to be pope"](https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT)
-- May 13 - [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
-- May 13 - [Starship V3](https://www.spacex.com/updates#starship-v3)
-- May 13 - [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+- May 13 - [Substrate (YC S24) Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)
+- May 13 - [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+- May 13 - [Using OR-Tools CP-SAT for Scheduling Problems](https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html)
+- May 13 - [Cost of enum-to-string: C++26 reflection vs. the old ways](https://vittorioromeo.com/index/blog/refl_enum_to_string.html)
+- May 13 - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
 <!--END_SECTION:hn-->
 
 <!--
