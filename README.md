@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 13 - [Haiku](https://www.haiku-os.org)
-- May 13 - [Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Linux-Fragnesia)
-- May 13 - [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
-- May 13 - [Kickstarter is forced to ban adult content by payment processors](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648)
-- May 13 - [50K Tahoe residents need power as utility eyes redirecting lines to data centers](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/)
+- May 13 - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+- May 13 - [Rars: a Rust RAR implementation, mostly written by LLMs](https://bitplane.net/log/2026/05/rars/)
+- May 13 - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
+- May 13 - ["Not Medically Necessary": Helping America's Health Insurers Deny Coverage](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
+- May 13 - [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 <!--END_SECTION:hn-->
 
 <!--
