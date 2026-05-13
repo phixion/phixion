@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 12 - [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
-- May 12 - [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
-- May 12 - [The Rise of the Bullshittery](https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/)
-- May 12 - [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
-- May 12 - [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
+- May 13 - [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
+- May 12 - [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
+- May 12 - [Tell NYT, Atlantic, USA Today to Keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
+- May 12 - [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+- May 12 - [EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)
 <!--END_SECTION:hn-->
 
 <!--
