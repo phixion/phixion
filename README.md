@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 14 - [What the Hell Was Going on with Cigarette Ads in the 70s?](https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/)
+- May 14 - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 - May 14 - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
 - May 14 - [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
-- May 14 - [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
-- May 14 - [Show HN: Nibble](https://github.com/glouw/nibble)
-- May 14 - [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
+- May 14 - [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
 <!--END_SECTION:hn-->
 
 <!--
