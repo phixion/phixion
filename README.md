@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Cuba says it has run out of fuel, blames U.S. embargo](https://www.upi.com/Top_News/World-News/2026/05/14/Cuba-says-oil-reserves-totally-drained/9311778746907/)
-- May 14 - [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
-- May 14 - [On The Conflation of Money and Things](https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/)
-- May 14 - [Anthropic forms $200M partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership)
-- May 14 - [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
+- May 14 - [Germany's Sovereign Tech Fund Backs KDE with €1.3M](https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562)
+- May 14 - [WinUI 3 Performance: A Leap Forward](https://github.com/microsoft/microsoft-ui-xaml/discussions/11096)
+- May 14 - [German intelligence offices snub Palantir software](https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897)
+- May 14 - [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification)
+- May 14 - [The Power of a Free Popsicle (2018)](https://www.gsb.stanford.edu/insights/power-free-popsicle)
 <!--END_SECTION:hn-->
 
 <!--
