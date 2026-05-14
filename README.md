@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [What the Hell Was Going on with Cigarette Ads in the 70s?](https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/)
+- May 14 - [What happens when you post a real Monet and say it's AI?](https://twitter.com/jediwolf/status/2054776716770320631)
+- May 14 - [New York, California pension leaders oppose 'extreme' SpaceX control structure](https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/)
+- May 14 - [Myths about /dev/urandom (2014)](https://www.2uo.de/myths-about-urandom/)
+- May 14 - [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
 - May 14 - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
-- May 14 - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
-- May 14 - [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
-- May 14 - [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
 <!--END_SECTION:hn-->
 
 <!--
