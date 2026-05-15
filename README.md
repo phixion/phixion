@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 14 - [Germany's Sovereign Tech Fund Backs KDE with €1.3M](https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562)
-- May 14 - [WinUI 3 Performance: A Leap Forward](https://github.com/microsoft/microsoft-ui-xaml/discussions/11096)
-- May 14 - [German intelligence offices snub Palantir software](https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897)
-- May 14 - [The AI Zombification of Universities](https://www.thenewcritic.com/p/the-great-zombification)
-- May 14 - [The Power of a Free Popsicle (2018)](https://www.gsb.stanford.edu/insights/power-free-popsicle)
+- May 15 - [Elevated error rates on Opus 4.7](https://status.claude.com/incidents/8z7l5zcy0v3b)
+- May 14 - [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)
+- May 14 - [More than sixty percent of the United States is experiencing drought conditions](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
+- May 14 - [Ontario auditors find doctors' AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+- May 14 - [A few words on DS4](https://antirez.com/news/165)
 <!--END_SECTION:hn-->
 
 <!--
