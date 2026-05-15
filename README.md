@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524)
-- May 15 - [Show HN: GlycemicGPT – Open-source AI-powered diabetes management](https://github.com/GlycemicGPT/GlycemicGPT)
-- May 15 - [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
-- May 15 - [Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616)
-- May 15 - [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)
+- May 15 - [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
+- May 15 - [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
+- May 15 - [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
+- May 15 - [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
+- May 15 - [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
 <!--END_SECTION:hn-->
 
 <!--
