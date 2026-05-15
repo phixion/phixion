@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
-- May 15 - [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
-- May 15 - [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
-- May 15 - [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
-- May 15 - [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
+- May 15 - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+- May 15 - [I love Linux, but I can't quit Windows](https://jpain.io/i-love-linux-but-i-cant-quit-windows/)
+- May 15 - [I built Zenith: a live local-first fixed viewport planetarium](https://smorgasb.org/zenith-tech/)
+- May 15 - [ASCII by Jason Scott](https://ascii.textfiles.com/)
+- May 15 - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
 <!--END_SECTION:hn-->
 
 <!--
