@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Kyber (YC W23) Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community)
-- May 16 - [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735)
-- May 16 - [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
-- May 16 - [OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days](https://twitter.com/steipete/status/2055346265869721905)
-- May 16 - [Futhark by Example](https://futhark-lang.org/examples.html)
+- May 16 - [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2)
+- May 16 - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
+- May 16 - [Accelerate](https://github.com/AccelerateHS/accelerate)
+- May 16 - [My Favorite Bugs: Invalid Surrogate Pairs](https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/)
+- May 16 - [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)
 <!--END_SECTION:hn-->
 
 <!--
