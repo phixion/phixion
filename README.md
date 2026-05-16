@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 15 - [The main thing about P2P meth is that there's so much of it (2022)](https://dynomight.net/p2p-meth/)
+- May 16 - ['No way to prevent this,' says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
+- May 16 - [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
+- May 16 - [NYT and Vaping: How to Lie by Saying Only True Things (2022)](https://gwern.net/vaping)
+- May 15 - [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
 - May 15 - [Erlang/OTP 29.0](https://www.erlang.org/news/188)
-- May 15 - [Spectre Programming Language](https://spectre-docs.pages.dev)
-- May 15 - [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
-- May 15 - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
 <!--END_SECTION:hn-->
 
 <!--
