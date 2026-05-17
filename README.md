@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
-- May 17 - [WHO Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
-- May 17 - [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-- May 17 - [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
-- May 17 - [CUDA Books](https://github.com/alternbits/awesome-cuda-books)
+- May 17 - [Scientists “bottle the sun” with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
+- May 17 - [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
+- May 17 - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
+- May 17 - [Dontsurveil.me](https://opencivics-labs.github.io/dontsurveil.me/c22.html)
+- May 17 - [Don’t Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
 <!--END_SECTION:hn-->
 
 <!--
