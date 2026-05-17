@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 17 - [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/)
+- May 17 - [Grafana Labs internal source code accessed](https://twitter.com/grafana/status/2055827123236171827)
+- May 17 - [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
+- May 17 - [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
 - May 16 - [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
-- May 16 - [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
-- May 16 - [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
-- May 16 - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
-- May 16 - [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
 <!--END_SECTION:hn-->
 
 <!--
