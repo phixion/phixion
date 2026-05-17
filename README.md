@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 16 - [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
-- May 16 - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
-- May 16 - [Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)](https://gamevibe.us/33-tower-defense)
-- May 16 - [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)
-- May 16 - [Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol](https://tangled.org/rocksky.app/rocksky)
+- May 16 - [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
+- May 16 - [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
+- May 16 - [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
+- May 16 - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
+- May 16 - [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
 <!--END_SECTION:hn-->
 
 <!--
