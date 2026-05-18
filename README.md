@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 17 - [Scientists “bottle the sun” with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
-- May 17 - [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
-- May 17 - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
-- May 17 - [Dontsurveil.me](https://opencivics-labs.github.io/dontsurveil.me/c22.html)
-- May 17 - [Don’t Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
+- May 17 - [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster)
+- May 17 - [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
+- May 17 - [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
+- May 17 - [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
+- May 17 - [GenCAD](https://gencad.github.io/)
 <!--END_SECTION:hn-->
 
 <!--
