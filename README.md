@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 18 - [Show HN: InsForge – Open-source Heroku for coding agents](https://github.com/InsForge/InsForge)
-- May 18 - [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
-- May 18 - [What “Amazon Supply Chain Services” Tells Us About What Amazon Is](https://gadallon.substack.com/p/the-third-time-amazon-did-this-what)
-- May 18 - [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
-- May 18 - [Actually, democracy dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
+- May 18 - [Crypto industry lobbies to evade AML/CTF rules](https://www.standwithcrypto.org/eu/en/manifesto)
+- May 18 - [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
+- May 18 - [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
+- May 18 - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+- May 18 - [Show HN: We missed Winamp, so we built an audio player for macOS](https://www.advanced-research.net/180db)
 <!--END_SECTION:hn-->
 
 <!--
