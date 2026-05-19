@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
+- May 19 - [IDF struggles to curb endless feed of soldiers posting misdeeds on social media](https://www.timesofisrael.com/idf-struggles-to-throttle-endless-feed-of-soldiers-posting-misdeeds-on-social-media/)
+- May 19 - [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
+- May 19 - [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+- May 19 - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
 - May 19 - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
-- May 19 - [PyTorch Landscape](https://pytorch.landscape2.io)
-- May 19 - [Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
-- May 19 - [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
 <!--END_SECTION:hn-->
 
 <!--
