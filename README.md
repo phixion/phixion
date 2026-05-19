@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [RuView – See through walls with WiFi](https://github.com/ruvnet/RuView)
-- May 19 - ['You can hear me now or pay me later' Music exec tells graduates booing AI](https://www.independent.co.uk/tv/news/ai-students-scott-borchetta-middle-tennessee-state-university-video-b2979573.html)
-- May 19 - [Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs](https://superlog.sh/)
-- May 19 - [I've built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
-- May 19 - [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
+- May 19 - [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
+- May 19 - [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
+- May 19 - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
+- May 19 - [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html)
+- May 19 - [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
 <!--END_SECTION:hn-->
 
 <!--
