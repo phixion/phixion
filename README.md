@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [IDF struggles to curb endless feed of soldiers posting misdeeds on social media](https://www.timesofisrael.com/idf-struggles-to-throttle-endless-feed-of-soldiers-posting-misdeeds-on-social-media/)
-- May 19 - [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
-- May 19 - [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
-- May 19 - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
-- May 19 - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
+- May 19 - [RuView – See through walls with WiFi](https://github.com/ruvnet/RuView)
+- May 19 - ['You can hear me now or pay me later' Music exec tells graduates booing AI](https://www.independent.co.uk/tv/news/ai-students-scott-borchetta-middle-tennessee-state-university-video-b2979573.html)
+- May 19 - [Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs](https://superlog.sh/)
+- May 19 - [I've built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
+- May 19 - [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
 <!--END_SECTION:hn-->
 
 <!--
