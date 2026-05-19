@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 19 - [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
+- May 19 - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
 - May 19 - [PyTorch Landscape](https://pytorch.landscape2.io)
-- May 19 - [Codex-Maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
+- May 19 - [Codex-maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
 - May 19 - [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
-- May 19 - [Apple Silicon costs more than OpenRouter](https://twitter.com/rohan_sood15/status/2056585919805714777)
-- May 19 - [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
 <!--END_SECTION:hn-->
 
 <!--
