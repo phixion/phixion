@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 20 - [India's hottest district shuts at 10 am as mercury breaches 48 C mark](https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html)
+- May 20 - [GitHub Compromised](https://twitter.com/i/status/2056949168208552080)
+- May 20 - [Evals will break](https://wanglun1996.github.io/blog/your-evals-will-break.html)
+- May 20 - [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
 - May 20 - [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
-- May 20 - [El Niño is coming. The last time ocean temp. looked like this, millions died](https://respublicamgz.substack.com/p/a-super-el-nino-is-coming-the-last)
-- May 20 - [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
-- May 19 - [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
-- May 19 - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
 <!--END_SECTION:hn-->
 
 <!--
