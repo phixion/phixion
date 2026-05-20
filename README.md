@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 19 - [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
-- May 19 - [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
+- May 20 - [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
+- May 20 - [El Niño is coming. The last time ocean temp. looked like this, millions died](https://respublicamgz.substack.com/p/a-super-el-nino-is-coming-the-last)
+- May 20 - [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
+- May 19 - [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
 - May 19 - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
-- May 19 - [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html)
-- May 19 - [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
 <!--END_SECTION:hn-->
 
 <!--
