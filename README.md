@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer)
-- May 21 - [Vivaldi 8.0](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
-- May 21 - [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
-- May 21 - [What is a Demand Coop](https://cahootzcoops.com/blog/what-is-a-demand-coop)
-- May 21 - [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+- May 21 - [Gemini randomly dumped its system prompt](https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c)
+- May 21 - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+- May 21 - [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
+- May 21 - [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
+- May 21 - [Lost Images from the 1945 Trinity Nuclear Test Restored](https://spectrum.ieee.org/trinity-nuclear-test)
 <!--END_SECTION:hn-->
 
 <!--
