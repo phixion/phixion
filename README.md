@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 20 - [SpaceX punts Starship launch as investigation opens into Starbase worker's death](https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/)
-- May 20 - [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
-- May 20 - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
-- May 20 - [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
-- May 20 - [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
+- May 20 - [I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
+- May 20 - [Deep – CLI/REPL for generating and iterating on codebases using DeepSeek](https://github.com/cynchro/deepseekCLI)
+- May 20 - [DOS Zone](https://dos.zone/)
+- May 20 - [Starship's Twelfth Flight Test](https://www.spacex.com/launches/starship-flight-12)
+- May 20 - [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
 <!--END_SECTION:hn-->
 
 <!--
