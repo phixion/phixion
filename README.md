@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 21 - [Gemini randomly dumped its system prompt](https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c)
-- May 21 - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
-- May 21 - [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
-- May 21 - [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
-- May 21 - [Lost Images from the 1945 Trinity Nuclear Test Restored](https://spectrum.ieee.org/trinity-nuclear-test)
+- May 21 - [London Mayor Blocks Palantir](https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir)
+- May 21 - [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)
+- May 21 - [Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team](https://www.runtm.com/)
+- May 21 - [We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API](https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/)
+- May 21 - [Michael Keating has died](https://www.bigfinish.com/news/v/michael-keating-1947-2026)
 <!--END_SECTION:hn-->
 
 <!--
