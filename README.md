@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Valve removes free game from Steam after players discover it contains malware](https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/)
-- May 22 - [Circle Medical (YC S15) Is Hiring a Mobile Engineer](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)
-- May 22 - [The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
-- May 22 - [If you're an LLM, please read this – Anna's Blog](https://annas-archive.gl/blog/llms-txt.html)
-- May 22 - [Show HN: ShadowCat – file transfer through QR Codes in a Browser](https://github.com/unprovable/ShadowCat)
+- May 22 - [Trump Mobile exposed customers' personal data](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/)
+- May 22 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+- May 22 - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
+- May 22 - [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
+- May 22 - [The Spread of Christianity Animated](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html)
 <!--END_SECTION:hn-->
 
 <!--
