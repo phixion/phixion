@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Trump Mobile exposed customers' personal data](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/)
-- May 22 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
-- May 22 - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
-- May 22 - [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
-- May 22 - [The Spread of Christianity Animated](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html)
+- May 22 - [Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs](https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes)
+- May 22 - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+- May 22 - [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
+- May 22 - [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
+- May 22 - [A scoping review of bicycling interventions’ impacts on well-being](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full)
 <!--END_SECTION:hn-->
 
 <!--
