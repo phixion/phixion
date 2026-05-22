@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 21 - [Google Is Shattering Under Its Own Weight (The IBM-Ification of Google?)](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/)
+- May 21 - [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
+- May 21 - [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 - May 21 - [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
 - May 21 - [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
-- May 21 - [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
-- May 21 - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
-- May 21 - [Where are all the UK red telephone kiosks?](https://www.thek6project.co.uk/)
 <!--END_SECTION:hn-->
 
 <!--
