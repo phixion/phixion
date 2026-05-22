@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 22 - [We should get rid of average CPU utilization](https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/)
+- May 22 - [Deepfakes Tore a High School Apart](https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/)
+- May 22 - [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)
 - May 22 - [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
-- May 22 - [Show HN: Spec-Driven Development Workflow for Claude Code](https://news.ycombinator.com/item?id=48231575)
-- May 22 - [Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
-- May 22 - [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
-- May 21 - [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
+- May 22 - [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
 <!--END_SECTION:hn-->
 
 <!--
