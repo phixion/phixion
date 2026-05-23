@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)
-- May 23 - [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
-- May 23 - [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
-- May 23 - [The FBI Wants 'Near Real-Time' Access to US License Plate Readers](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/)
-- May 23 - [On The <dl>](https://benmyers.dev/blog/on-the-dl/)
+- May 23 - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+- May 23 - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
+- May 23 - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+- May 23 - [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
+- May 23 - [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 <!--END_SECTION:hn-->
 
 <!--
