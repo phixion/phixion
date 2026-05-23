@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 22 - [Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs](https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes)
-- May 22 - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-- May 22 - [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
-- May 22 - [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
-- May 22 - [A scoping review of bicycling interventions’ impacts on well-being](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full)
+- May 23 - [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
+- May 22 - [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505)
+- May 22 - [Why We've Filed a Referendum](https://www.stopstratos.org)
+- May 22 - [Don't just paste the AI at me](https://dontquotetheai.com/)
+- May 22 - [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
 <!--END_SECTION:hn-->
 
 <!--
