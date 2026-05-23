@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
-- May 23 - [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)
-- May 23 - [DHS Quits Granting Green Cards–Almost](https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely)
-- May 23 - [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/)
-- May 23 - [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330)
+- May 23 - [Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)
+- May 23 - [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
+- May 23 - [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
+- May 23 - [The FBI Wants 'Near Real-Time' Access to US License Plate Readers](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/)
+- May 23 - [On The <dl>](https://benmyers.dev/blog/on-the-dl/)
 <!--END_SECTION:hn-->
 
 <!--
