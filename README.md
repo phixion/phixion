@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
-- May 24 - [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)
-- May 24 - [All Lean Books and Where to Find Them](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
-- May 24 - [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
-- May 24 - [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+- May 24 - [When (if ever) it's appropriate to make jokes before the US Supreme Court](https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/)
+- May 24 - [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
+- May 24 - [No Juniors Today, No Seniors in 2031](https://www.fbritoferreira.com/blog/no-juniors-today-no-seniors-in-2031/)
+- May 24 - ['AI washing': firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
+- May 24 - [Omarchy Is Not A Distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 <!--END_SECTION:hn-->
 
 <!--
