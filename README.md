@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 24 - [wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
-- May 23 - [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)
-- May 23 - [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
-- May 23 - [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html)
-- May 23 - [Byrne's Euclid](https://www.c82.net/euclid/)
+- May 24 - [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
+- May 24 - ['Fuck you, Bambu': How one private message could change the face of 3D printing](https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github)
+- May 24 - [Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+- May 24 - [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
+- May 24 - [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 <!--END_SECTION:hn-->
 
 <!--
