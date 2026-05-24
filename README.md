@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 23 - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
-- May 23 - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
-- May 23 - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
-- May 23 - [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
-- May 23 - [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+- May 24 - [wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+- May 23 - [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)
+- May 23 - [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
+- May 23 - [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html)
+- May 23 - [Byrne's Euclid](https://www.c82.net/euclid/)
 <!--END_SECTION:hn-->
 
 <!--
