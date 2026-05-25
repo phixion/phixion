@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
-- May 25 - [Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481)
-- May 25 - [The Cost of Safetyism](https://stevemagness.substack.com/p/the-cost-of-safetyism)
-- May 25 - [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
-- May 25 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+- May 25 - [Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
+- May 25 - [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
+- May 25 - [The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
+- May 25 - [Alaska's oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
+- May 25 - [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
 <!--END_SECTION:hn-->
 
 <!--
