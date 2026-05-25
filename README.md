@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
-- May 25 - [Leave Me Behind](http://androidessence.com/leave-me-behind/)
-- May 25 - [GPT Guesses Between 1 and 100](https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100)
-- May 25 - [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
-- May 25 - [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/)
+- May 25 - [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
+- May 25 - [Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481)
+- May 25 - [The Cost of Safetyism](https://stevemagness.substack.com/p/the-cost-of-safetyism)
+- May 25 - [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
+- May 25 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 <!--END_SECTION:hn-->
 
 <!--
