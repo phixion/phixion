@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 25 - [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/blog/companies-graph-of-algorithms)
+- May 25 - [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
+- May 25 - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
+- May 24 - [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
 - May 24 - [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-- May 24 - [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
-- May 24 - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
-- May 24 - [Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)
-- May 24 - [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
 <!--END_SECTION:hn-->
 
 <!--
