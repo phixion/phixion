@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team](https://vllm.ai/blog/2026-05-26-eagle-3-1)
-- May 26 - [Netherlands blocks US takeover of vital digital supplier](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/)
-- May 26 - [GitHub Actions down again today](https://www.githubstatus.com/?today)
-- May 26 - [Incident with Actions and Pages](https://www.githubstatus.com/incidents/gnftqj9htp0g)
-- May 26 - [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/)
+- May 26 - [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
+- May 26 - [What Color is Your Function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- May 26 - [Uber, Lyft drivers in Massachusetts form first US ride-share union](https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/)
+- May 26 - [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
+- May 26 - [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
 <!--END_SECTION:hn-->
 
 <!--
