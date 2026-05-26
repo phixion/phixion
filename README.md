@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
-- May 25 - [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
-- May 25 - [The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
-- May 25 - [Alaska's oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
-- May 25 - [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
+- May 25 - [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
+- May 25 - [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
+- May 25 - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+- May 25 - [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
+- May 25 - [Agentic Patterns](https://veso.ai/research/agentic-patterns/)
 <!--END_SECTION:hn-->
 
 <!--
