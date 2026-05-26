@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 26 - [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
-- May 26 - [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
-- May 26 - [Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq](https://github.com/andreoliwa/logseq-doctor)
-- May 26 - [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
-- May 26 - [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
+- May 26 - [Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team](https://vllm.ai/blog/2026-05-26-eagle-3-1)
+- May 26 - [Netherlands blocks US takeover of vital digital supplier](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/)
+- May 26 - [GitHub Actions down again today](https://www.githubstatus.com/?today)
+- May 26 - [Incident with Actions and Pages](https://www.githubstatus.com/incidents/gnftqj9htp0g)
+- May 26 - [A reality check on the AI jobs hysteria](https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/)
 <!--END_SECTION:hn-->
 
 <!--
