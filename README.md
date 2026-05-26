@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 26 - [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
+- May 26 - [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
+- May 26 - [Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq](https://github.com/andreoliwa/logseq-doctor)
+- May 26 - [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
 - May 26 - [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
-- May 26 - [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
-- May 26 - [Why the smart home bubble popped](https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/)
-- May 26 - [Does anybody like React?](https://jsx.lol)
-- May 26 - [Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
 <!--END_SECTION:hn-->
 
 <!--
