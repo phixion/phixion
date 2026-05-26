@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 25 - [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
-- May 25 - [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
-- May 25 - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
-- May 25 - [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
-- May 25 - [Agentic Patterns](https://veso.ai/research/agentic-patterns/)
+- May 26 - [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
+- May 26 - [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
+- May 26 - [Why the smart home bubble popped](https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/)
+- May 26 - [Does anybody like React?](https://jsx.lol)
+- May 26 - [Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
 <!--END_SECTION:hn-->
 
 <!--
