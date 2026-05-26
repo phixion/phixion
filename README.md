@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 26 - [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+- May 26 - [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
+- May 26 - [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 - May 26 - [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
-- May 26 - [What Color is Your Function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
-- May 26 - [Uber, Lyft drivers in Massachusetts form first US ride-share union](https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/)
-- May 26 - [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
-- May 26 - [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
+- May 26 - [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)
 <!--END_SECTION:hn-->
 
 <!--
