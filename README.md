@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
-- May 27 - [XLIDE: VBA without excel](https://github.com/WilliamSmithEdward/xlide_vscode)
-- May 27 - [Private Equity Bought America's Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)
-- May 27 - [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
-- May 27 - [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+- May 27 - [Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs)
+- May 27 - [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+- May 27 - [PostHog will train AI models with your data (opted-in by default)](https://posthog.com/blog/training-ai-models)
+- May 27 - [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
+- May 27 - [An Update on Composer and Packagist Supply Chain Security](https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/)
 <!--END_SECTION:hn-->
 
 <!--
