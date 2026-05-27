@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks)
-- May 27 - [Unicode 18.0.0 Beta](https://www.unicode.org/versions/Unicode18.0.0/)
-- May 27 - [Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs](https://arps18.github.io/posts/claude-code-mastery/)
-- May 27 - [Show HN: Posthorn, self-hosted mail without the mail server](https://github.com/craigmccaskill/posthorn)
-- May 27 - [TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation](https://tsduck.io/)
+- May 27 - [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
+- May 27 - [XLIDE: VBA without excel](https://github.com/WilliamSmithEdward/xlide_vscode)
+- May 27 - [Private Equity Bought America's Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)
+- May 27 - [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+- May 27 - [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
 <!--END_SECTION:hn-->
 
 <!--
