@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs)
-- May 27 - [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
-- May 27 - [PostHog will train AI models with your data (opted-in by default)](https://posthog.com/blog/training-ai-models)
-- May 27 - [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
-- May 27 - [An Update on Composer and Packagist Supply Chain Security](https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/)
+- May 27 - [YouTube to automatically label AI-generated videos](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/)
+- May 27 - [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
+- May 27 - [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html)
+- May 27 - [What Apple and Google are doing to your push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
+- May 27 - [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)
 <!--END_SECTION:hn-->
 
 <!--
