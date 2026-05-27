@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 27 - [Agent Memory: An Anatomy](https://brgsk.xyz/agent-memory-anatomy/)
-- May 27 - [Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
-- May 26 - [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
-- May 26 - [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
-- May 26 - [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
+- May 27 - [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
+- May 27 - [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+- May 27 - [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
+- May 27 - [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
+- May 27 - [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
 <!--END_SECTION:hn-->
 
 <!--
