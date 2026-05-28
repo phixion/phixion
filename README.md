@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 28 - [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+- May 28 - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
+- May 28 - [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
 - May 28 - [Can we have the day off?](https://mlsu.io/posts/day-off/)
-- May 27 - [You Should Not Update Your Dependencies](https://www.mendral.com/blog/you-should-not-update)
-- May 27 - [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
-- May 27 - [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
-- May 27 - [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d)
+- May 27 - [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
 <!--END_SECTION:hn-->
 
 <!--
