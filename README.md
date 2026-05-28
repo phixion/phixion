@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Cities Are Covering Flock Cameras with Trash Bags](https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/)
-- May 28 - [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
-- May 28 - [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
-- May 28 - [Trivial Pursuits](https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits)
-- May 28 - [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/)
+- May 28 - [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
+- May 28 - [Social Animus](https://justine.lol/animus/)
+- May 28 - [Caio, a cleaner search engine for 500k+ tech jobs](https://caio-jobs.com/)
+- May 28 - [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
+- May 28 - [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
 <!--END_SECTION:hn-->
 
 <!--
