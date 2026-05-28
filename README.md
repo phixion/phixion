@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 28 - [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
-- May 28 - [Commission fines Temu €200M for breaching the Digital Services Act](https://ec.europa.eu/commission/presscorner/home/en)
-- May 28 - [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)
-- May 28 - [AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
-- May 28 - [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
+- May 28 - [Cities Are Covering Flock Cameras with Trash Bags](https://www.404media.co/cities-are-covering-flock-cameras-with-trash-bags/)
+- May 28 - [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
+- May 28 - [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+- May 28 - [Trivial Pursuits](https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits)
+- May 28 - [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/)
 <!--END_SECTION:hn-->
 
 <!--
