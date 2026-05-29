@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
-- May 28 - [More License Plate Reader Mission Creep: School Residency Verification, More](https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background)
-- May 28 - [Bot Company allegedly trashing Airbnb rentals with their prototype robots](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
-- May 28 - [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
-- May 28 - [The Silent Critic](https://www.tft.io/the-silent-critic/)
+- May 29 - [Python utility package for building Claude Code hooks](https://github.com/RasmusGodske/claude-hook-utils)
+- May 29 - [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
+- May 29 - [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+- May 29 - [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching)
+- May 29 - [Blue Origin's New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
 <!--END_SECTION:hn-->
 
 <!--
