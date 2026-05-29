@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [Prolific Wikipedia editors are threatening to go on strike](https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike)
-- May 29 - [The UK Government's Low Value Purchase System Is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/)
-- May 29 - [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/)
-- May 29 - [Cedana (YC S23) Is Hiring](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc)
-- May 29 - [Tulip mania: when a single flower was worth more than a house](https://dutchreview.com/culture/tulip-mania-netherlands/)
+- May 29 - [Notes from the Mistral AI Now Summit in Paris](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+- May 29 - [CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)
+- May 29 - [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
+- May 29 - [GTA 6 Developers Unionize](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/)
+- May 29 - [The Framework 12 is dead. Apple killed it [video]](https://www.youtube.com/watch?v=aPVAnwuSjfk)
 <!--END_SECTION:hn-->
 
 <!--
