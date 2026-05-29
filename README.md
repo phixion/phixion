@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 29 - [Notes from the Mistral AI Now Summit in Paris](https://koenvangilst.nl/lab/mistral-ai-now-summit)
-- May 29 - [CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)
-- May 29 - [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
-- May 29 - [GTA 6 Developers Unionize](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/)
-- May 29 - [The Framework 12 is dead. Apple killed it [video]](https://www.youtube.com/watch?v=aPVAnwuSjfk)
+- May 29 - [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
+- May 29 - [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
+- May 29 - [The California State Assembly Has Passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
+- May 29 - [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
+- May 29 - [Microsoft 0-day feud escalates as researcher threatens another exploit dump](https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085)
 <!--END_SECTION:hn-->
 
 <!--
