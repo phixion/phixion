@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 30 - [A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits](https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D)
-- May 30 - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
-- May 30 - [Memory decline after menopause linked to loss of estrogen production in brain](https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue)
-- May 30 - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
-- May 30 - [Airlines Can't Charge You for What You Wear](https://voyagecoat.com/)
+- May 30 - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
+- May 30 - [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
+- May 30 - [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
+- May 30 - [EY Canada published a cybersecurity report and most citations were hallucinated](https://gptzero.me/investigations/ey)
+- May 30 - [Thiel moves family to Milei's libertarian Argentina](https://www.ft.com/content/3d7ab893-1842-4c6c-a3d9-26871d79dde4)
 <!--END_SECTION:hn-->
 
 <!--
