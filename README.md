@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 30 - [Rsync 3.4.3 has hundreds of Claude commits](https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390)
+- May 30 - [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
+- May 30 - [OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
 - May 30 - [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
-- May 30 - [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)
-- May 30 - [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/)
-- May 30 - [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
-- May 29 - [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
+- May 30 - [Naphtha shortages in Japan](https://www.nippon.com/en/japan-data/h02783/)
 <!--END_SECTION:hn-->
 
 <!--
