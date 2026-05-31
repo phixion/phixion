@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
-- May 31 - [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
-- May 31 - [The Website Specification](https://specification.website/)
-- May 31 - [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
-- May 31 - [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
+- May 31 - [An Analysis of GrapheneOS's Server Infrastructure](https://write.as/hcbg2iz91vzqh)
+- May 31 - [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
+- May 31 - [Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil)
+- May 31 - [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
+- May 31 - [I'm So Tired of Ads](https://blog.absurdpirate.com/im-so-tired-of-ads/)
 <!--END_SECTION:hn-->
 
 <!--
