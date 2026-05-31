@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
-- May 31 - [Building a LangGraph pipeline for production data engineering](https://labyrinthanalyticsconsulting.com/blog/building-first-langgraph-pipeline)
-- May 31 - [Mechanical Pencin: A website about the hidden engineering in everyday objects](https://mechanical-pencil.com/)
-- May 30 - [Microsoft Office 2019 and 2021 for Mac view-only conversion](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
-- May 30 - [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
+- May 31 - [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+- May 31 - [The Website Specification](https://specification.website/)
+- May 31 - [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
+- May 31 - [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
+- May 31 - [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)
 <!--END_SECTION:hn-->
 
 <!--
