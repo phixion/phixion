@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- May 31 - [An Analysis of GrapheneOS's Server Infrastructure](https://write.as/hcbg2iz91vzqh)
-- May 31 - [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
-- May 31 - [Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil)
-- May 31 - [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
-- May 31 - [I'm So Tired of Ads](https://blog.absurdpirate.com/im-so-tired-of-ads/)
+- May 31 - ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
+- May 31 - [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
+- May 31 - [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
+- May 31 - [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
+- May 31 - [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock](https://lwn.net/Articles/104185/)
 <!--END_SECTION:hn-->
 
 <!--
