@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- May 31 - [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
 - May 31 - [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
 - May 31 - [The Website Specification](https://specification.website/)
 - May 31 - [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
 - May 31 - [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
-- May 31 - [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)
 <!--END_SECTION:hn-->
 
 <!--
