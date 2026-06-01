@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Why Are Large Language Models So Terrible at Video Games?](https://spectrum.ieee.org/ai-video-games-llms-togelius)
-- Jun 01 - [Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html)
-- Jun 01 - [Meta legal action forces Facebook whistleblower to sit in silence](https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival)
-- Jun 01 - [Dune's Butlerian Jihad and the Future of AI](https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai)
-- Jun 01 - [Lean, Not Backpressure](https://entropicthoughts.com/lean-not-backpressure)
+- Jun 01 - [Sysadmining Like It's 2009](https://lambdacreate.com/posts/sysadmining-like-its-2009)
+- Jun 01 - [Nvidia Cosmos 3](https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/)
+- Jun 01 - [NPM packages from RedHat have been compromised](https://github.com/RedHatInsights/javascript-clients/issues/492)
+- Jun 01 - [Windows GOG DOS Games on M-Series Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/)
+- Jun 01 - [Flipper Zero Zig Template](https://github.com/NishantJoshi00/flipper-template)
 <!--END_SECTION:hn-->
 
 <!--
