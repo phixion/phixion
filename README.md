@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [What's gonna happen to software engineers?](https://yakko.dev/blog/whats-gonna-happen-to-software-developers)
+- Jun 02 - [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+- Jun 02 - [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
+- Jun 02 - [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
 - Jun 01 - [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
-- Jun 01 - [The Frame Problem (2004)](https://plato.stanford.edu/entries/frame-problem/)
 - Jun 01 - [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
-- Jun 01 - [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 <!--END_SECTION:hn-->
 
 <!--
