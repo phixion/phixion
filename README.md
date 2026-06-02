@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 01 - [Alphabet Announces $80B Equity Capital Raise to Expand AI Infra and Compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
-- Jun 01 - [Debug Project](https://debug.com/)
-- Jun 01 - [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
-- Jun 01 - [Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices](https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo)
-- Jun 01 - [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released)
+- Jun 02 - [What's gonna happen to software engineers?](https://yakko.dev/blog/whats-gonna-happen-to-software-developers)
+- Jun 01 - [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- Jun 01 - [The Frame Problem (2004)](https://plato.stanford.edu/entries/frame-problem/)
+- Jun 01 - [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
+- Jun 01 - [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 <!--END_SECTION:hn-->
 
 <!--
