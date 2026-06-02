@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Great Question (YC W21) Is Hiring Applied AI Interns](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern)
-- Jun 02 - [Apple rejected my dictation app for using the accessibility API](https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/)
-- Jun 02 - [CSS-Native Parallax Effect](https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/)
-- Jun 02 - [Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai](https://blog.adafruit.com/)
-- Jun 02 - [Stop Ruining It](https://seths.blog/2026/06/stop-ruining-it/)
+- Jun 02 - [Three Ways to Get Paid](https://jasonzweig.com/three-ways-to-get-paid/)
+- Jun 02 - [Coreutils for Windows](https://github.com/microsoft/coreutils)
+- Jun 02 - [Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
+- Jun 02 - [Show HN: DropLock – E2EE secret sharing web app with no backend](https://droplock.apitman.com/)
+- Jun 02 - [Preparing for KDE Plasma's Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
 <!--END_SECTION:hn-->
 
 <!--
