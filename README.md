@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [Three Ways to Get Paid](https://jasonzweig.com/three-ways-to-get-paid/)
-- Jun 02 - [Coreutils for Windows](https://github.com/microsoft/coreutils)
-- Jun 02 - [Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
-- Jun 02 - [Show HN: DropLock – E2EE secret sharing web app with no backend](https://droplock.apitman.com/)
-- Jun 02 - [Preparing for KDE Plasma's Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
+- Jun 02 - [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+- Jun 02 - [Uber caps employee AI spending after blowing through budget in four months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
+- Jun 02 - [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
+- Jun 02 - [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
+- Jun 02 - [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
 <!--END_SECTION:hn-->
 
 <!--
