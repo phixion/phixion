@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 02 - [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
-- Jun 02 - [Uber caps employee AI spending after blowing through budget in four months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
-- Jun 02 - [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
-- Jun 02 - [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
-- Jun 02 - [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
+- Jun 03 - [I Don't Want My Search Engine to Think for Me](https://searchzee.com/blog/search-without-ai-summaries)
+- Jun 03 - [My Students Can't Read](https://www.chronicle.com/article/my-students-cant-read)
+- Jun 02 - [More than 6 out of 10 people turn to AI for psychological support](https://www.axa.com/en/press/press-releases/2026-mind-health-report)
+- Jun 02 - [AI Outperforms Law Professors in Stanford Law Study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+- Jun 02 - [LLMs are not the black box you were promised](https://www.jay.ai/blog/llms-are-not-a-black-box)
 <!--END_SECTION:hn-->
 
 <!--
