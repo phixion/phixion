@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Take Action: LAPD Removed Crime Location Data. Here's Why It Matters](https://blog.spotcrime.com/2026/06/take-action-lapd-removed-crime-location.html)
-- Jun 03 - [Which sparkling water is the best?](https://www.maximevidal.com/sparkling-water)
-- Jun 03 - [32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
-- Jun 03 - [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
-- Jun 03 - [Piramidal (YC W24) – Software Engineers – NYC Onsite](https://news.ycombinator.com/item?id=48382853)
+- Jun 03 - [Launch HN: Hyper (YC P26) – Company brain for AI agents and automations](https://news.ycombinator.com/item?id=48387095)
+- Jun 03 - [Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai)
+- Jun 03 - [The Public Should Own Half of the Big A.I. Companies](https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/)
+- Jun 03 - [If AI Data Centers Are So Great, Why Are They Being Built in Secret?](https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why)
+- Jun 03 - [Angular v22](https://blog.angular.dev/announcing-angular-v22-c52bb83a4664)
 <!--END_SECTION:hn-->
 
 <!--
