@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 03 - [Launch HN: Hyper (YC P26) – Company brain for AI agents and automations](https://news.ycombinator.com/item?id=48387095)
-- Jun 03 - [Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai)
-- Jun 03 - [The Public Should Own Half of the Big A.I. Companies](https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/)
-- Jun 03 - [If AI Data Centers Are So Great, Why Are They Being Built in Secret?](https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why)
-- Jun 03 - [Angular v22](https://blog.angular.dev/announcing-angular-v22-c52bb83a4664)
+- Jun 03 - [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
+- Jun 03 - [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
+- Jun 03 - [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)
+- Jun 03 - [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/)
+- Jun 03 - [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 <!--END_SECTION:hn-->
 
 <!--
