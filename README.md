@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Ask HN: So what happened to Facebook "localhost" tracking?](https://news.ycombinator.com/item?id=48397731)
-- Jun 04 - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
-- Jun 04 - [French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56](https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56)
-- Jun 04 - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
-- Jun 04 - [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
+- Jun 04 - [Zettascale (YC S24) Is Hiring Founding FPGA Engineers](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect)
+- Jun 04 - [Show HN: Open Terminal – A Bloomberg Style App for Research](https://tesseractanalytics.ai/)
+- Jun 04 - [Google Employees Internally Share Memes About How Its AI Sucks](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
+- Jun 04 - [The LLM warnings Google fired Timnit Gebru over have all come true](https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from)
+- Jun 04 - [KVarN: Native vLLM KV-cache quantization back end by Huawei](https://github.com/huawei-csl/KVarN)
 <!--END_SECTION:hn-->
 
 <!--
