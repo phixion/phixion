@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 04 - [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
+- Jun 04 - [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
+- Jun 04 - [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/)
+- Jun 04 - [The desperation of NYTimes](https://rozumem.xyz/posts/16)
 - Jun 04 - [Zettascale (YC S24) Is Hiring Founding FPGA Engineers](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect)
-- Jun 04 - [Show HN: Open Terminal – A Bloomberg Style App for Research](https://tesseractanalytics.ai/)
-- Jun 04 - [Google Employees Internally Share Memes About How Its AI Sucks](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
-- Jun 04 - [The LLM warnings Google fired Timnit Gebru over have all come true](https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from)
-- Jun 04 - [KVarN: Native vLLM KV-cache quantization back end by Huawei](https://github.com/huawei-csl/KVarN)
 <!--END_SECTION:hn-->
 
 <!--
