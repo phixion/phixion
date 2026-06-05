@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
-- Jun 05 - [U.S. Military Turned GPS into a Global "Numbers Station"](https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/)
-- Jun 05 - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
-- Jun 05 - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
-- Jun 05 - [Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)](https://news.ycombinator.com/item?id=48413629)
+- Jun 05 - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
+- Jun 05 - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
+- Jun 05 - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
+- Jun 05 - [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
+- Jun 05 - [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
 <!--END_SECTION:hn-->
 
 <!--
