@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
-- Jun 05 - [US tobacco firms applied tobacco strategies to globalize ultra-processed foods](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
-- Jun 05 - [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
-- Jun 05 - [Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens](https://github.com/zdk/lowfat)
-- Jun 05 - [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
+- Jun 05 - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
+- Jun 05 - [U.S. Military Turned GPS into a Global "Numbers Station"](https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/)
+- Jun 05 - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
+- Jun 05 - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
+- Jun 05 - [Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)](https://news.ycombinator.com/item?id=48413629)
 <!--END_SECTION:hn-->
 
 <!--
