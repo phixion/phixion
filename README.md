@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 04 - [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-- Jun 04 - [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
-- Jun 04 - [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/)
-- Jun 04 - [The desperation of NYTimes](https://rozumem.xyz/posts/16)
-- Jun 04 - [Zettascale (YC S24) Is Hiring Founding FPGA Engineers](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect)
+- Jun 05 - [Meta enables adb on deprecated Portal devices](https://fb.watch/HxPu0fSyeH/)
+- Jun 05 - [Bricks and Minifigs Parts Ways with Franchise Owners](https://bricksandminifigs.com/blog/blog/2026/06/04/bricks-and-minifigs-salem-joshua-johnson-brandon-best-resignation/)
+- Jun 04 - [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
+- Jun 04 - [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)
+- Jun 04 - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 <!--END_SECTION:hn-->
 
 <!--
