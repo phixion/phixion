@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 05 - [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
+- Jun 05 - [US tobacco firms applied tobacco strategies to globalize ultra-processed foods](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
+- Jun 05 - [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
+- Jun 05 - [Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens](https://github.com/zdk/lowfat)
 - Jun 05 - [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
-- Jun 05 - [ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)
-- Jun 05 - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
-- Jun 05 - [There's no escaping it: an exploration of ANSI codes](https://blog.safia.rocks/2025/12/22/ansi-codes/)
-- Jun 05 - [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/)
 <!--END_SECTION:hn-->
 
 <!--
