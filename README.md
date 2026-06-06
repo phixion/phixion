@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 05 - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
+- Jun 06 - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+- Jun 05 - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 - Jun 05 - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
 - Jun 05 - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
 - Jun 05 - [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
-- Jun 05 - [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
 <!--END_SECTION:hn-->
 
 <!--
