@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 06 - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+- Jun 06 - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+- Jun 06 - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
+- Jun 06 - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
 - Jun 06 - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
-- Jun 06 - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
-- Jun 06 - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
-- Jun 06 - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
-- Jun 06 - [US House lawmakers release draft bill to prohibit state AI rules](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
 <!--END_SECTION:hn-->
 
 <!--
