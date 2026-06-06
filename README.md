@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
-- Jun 05 - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
-- Jun 05 - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
-- Jun 05 - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
-- Jun 05 - [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
+- Jun 06 - [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+- Jun 06 - [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
+- Jun 06 - [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
+- Jun 06 - [C++: The Programming Language back cover raises questions not answered by front](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
+- Jun 06 - [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
 <!--END_SECTION:hn-->
 
 <!--
