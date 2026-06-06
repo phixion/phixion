@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
-- Jun 06 - [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
-- Jun 06 - [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
-- Jun 06 - [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
-- Jun 06 - [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
+- Jun 06 - [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
+- Jun 06 - [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+- Jun 06 - [Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/)
+- Jun 06 - [Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)
+- Jun 06 - [Is anyone here interested in contributing to this OS?](https://github.com/valivalivali/x-os)
 <!--END_SECTION:hn-->
 
 <!--
