@@ -22,7 +22,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Jun 06 - [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
 - Jun 06 - [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
 - Jun 06 - [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
-- Jun 06 - [C++: The Programming Language back cover raises questions not answered by front](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
+- Jun 06 - [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
 - Jun 06 - [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
 <!--END_SECTION:hn-->
 
