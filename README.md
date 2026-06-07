@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 07 - [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
+- Jun 07 - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
+- Jun 07 - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
 - Jun 07 - [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
 - Jun 07 - [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
-- Jun 07 - [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
-- Jun 07 - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
-- Jun 07 - [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)
 <!--END_SECTION:hn-->
 
 <!--
