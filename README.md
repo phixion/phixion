@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Show HN: Ironwall, a safety-first native programming language and compiler](https://news.ycombinator.com/item?id=48430077)
-- Jun 06 - [Context Sculpting](https://perceptiontheory.bearblog.dev/context-sculpting/)
-- Jun 06 - [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)
-- Jun 06 - [New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)
-- Jun 06 - [Computex 2026: Are We Heading for the Agentic PC Era Yet?](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
+- Jun 07 - [The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/)
+- Jun 07 - [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
+- Jun 07 - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
+- Jun 07 - [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)
+- Jun 07 - [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
 <!--END_SECTION:hn-->
 
 <!--
