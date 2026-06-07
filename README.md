@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 06 - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
-- Jun 06 - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
-- Jun 06 - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
-- Jun 06 - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
-- Jun 06 - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
+- Jun 06 - [Show HN: Ironwall, a safety-first native programming language and compiler](https://news.ycombinator.com/item?id=48430077)
+- Jun 06 - [Context Sculpting](https://perceptiontheory.bearblog.dev/context-sculpting/)
+- Jun 06 - [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)
+- Jun 06 - [New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)
+- Jun 06 - [Computex 2026: Are We Heading for the Agentic PC Era Yet?](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
 <!--END_SECTION:hn-->
 
 <!--
