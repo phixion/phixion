@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 07 - [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
-- Jun 07 - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
-- Jun 07 - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
-- Jun 07 - [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
-- Jun 07 - [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
+- Jun 07 - [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
+- Jun 07 - [The OnlyFans Economy of American AI](https://leoveanu.com/2026-06-06-qwen3.7max/)
+- Jun 07 - [Podman 6: machine usability improvements](https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/)
+- Jun 07 - [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
+- Jun 07 - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
 <!--END_SECTION:hn-->
 
 <!--
