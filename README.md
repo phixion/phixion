@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
-- Jun 07 - [Firefox Merges Support for Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
-- Jun 07 - [Why isn't the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
-- Jun 07 - [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
-- Jun 07 - [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
+- Jun 08 - [Wow, if it's this easy in 1998, I bet it'll be even easier in 2026](https://retro.social/@ifixcoinops/116711332505710610)
+- Jun 08 - [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
+- Jun 08 - [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- Jun 08 - [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+- Jun 08 - [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
 <!--END_SECTION:hn-->
 
 <!--
