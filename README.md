@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [The Cypherpunk Library](https://www.cypherpunkbooks.com)
-- Jun 08 - [OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)
-- Jun 08 - [Do agents.md files help coding agents?](https://twitter.com/rasbt/status/2063649136323252397)
-- Jun 08 - [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
-- Jun 08 - [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- Jun 08 - [Zig by Example](https://github.com/boringcollege/zig-by-example)
+- Jun 08 - [Spanish traders set the standard forGnuCash database design](https://handson.money/blog/2026-06-06-horse-arse-and-design/)
+- Jun 08 - [Nvidia partners with LG robotics to build humanoid robots in South Korea](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)
+- Jun 08 - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
+- Jun 08 - [Config Files That Run Code: Supply Chain Security Blindspot](https://safedep.io/config-files-that-run-code/)
 <!--END_SECTION:hn-->
 
 <!--
