@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [Why are so many young people getting cancer? What researchers do and don't know](https://www.nature.com/articles/d41586-026-01780-6)
-- Jun 08 - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
-- Jun 08 - [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/)
-- Jun 08 - [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
-- Jun 08 - [A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/)
+- Jun 08 - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
+- Jun 08 - [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
+- Jun 08 - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+- Jun 08 - [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
+- Jun 08 - [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative)
 <!--END_SECTION:hn-->
 
 <!--
