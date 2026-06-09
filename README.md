@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 09 - [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
+- Jun 09 - [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+- Jun 09 - [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
+- Jun 09 - [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
 - Jun 09 - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- Jun 09 - [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
-- Jun 09 - [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
-- Jun 08 - [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
-- Jun 08 - [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
 <!--END_SECTION:hn-->
 
 <!--
