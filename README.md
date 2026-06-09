@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit](https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html)
-- Jun 09 - [Launch HN: Transload (YC P26) – Measuring freight items with CCTV](https://news.ycombinator.com/item?id=48463273)
-- Jun 09 - [Apple decided not to roll out Siri in EU after denied request for exemption](https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/)
-- Jun 09 - [Biff.core: system composition for Clojure web apps](https://biffweb.com/p/core/)
-- Jun 09 - ['Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
+- Jun 09 - [Google's 20% 'project' has become AI's 120% 'attention'](https://joe.dev/posts/new-20pct-time/)
+- Jun 09 - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
+- Jun 09 - [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
+- Jun 09 - [Ask HN: Are you still using a Vision Pro?](https://news.ycombinator.com/item?id=48465702)
+- Jun 09 - [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
 <!--END_SECTION:hn-->
 
 <!--
