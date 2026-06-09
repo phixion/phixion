@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
-- Jun 09 - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
-- Jun 09 - [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
-- Jun 09 - [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
-- Jun 09 - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
+- Jun 09 - [I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit](https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html)
+- Jun 09 - [Launch HN: Transload (YC P26) – Measuring freight items with CCTV](https://news.ycombinator.com/item?id=48463273)
+- Jun 09 - [Apple decided not to roll out Siri in EU after denied request for exemption](https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/)
+- Jun 09 - [Biff.core: system composition for Clojure web apps](https://biffweb.com/p/core/)
+- Jun 09 - ['Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
 <!--END_SECTION:hn-->
 
 <!--
