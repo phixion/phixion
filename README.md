@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 08 - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
-- Jun 08 - [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
-- Jun 08 - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-- Jun 08 - [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
-- Jun 08 - [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative)
+- Jun 09 - [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
+- Jun 08 - [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach)
+- Jun 08 - [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- Jun 08 - [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
+- Jun 08 - [FrontierCode](https://cognition.ai/blog/frontier-code)
 <!--END_SECTION:hn-->
 
 <!--
