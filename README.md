@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 09 - [Google's 20% 'project' has become AI's 120% 'attention'](https://joe.dev/posts/new-20pct-time/)
-- Jun 09 - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
-- Jun 09 - [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
-- Jun 09 - [Ask HN: Are you still using a Vision Pro?](https://news.ycombinator.com/item?id=48465702)
-- Jun 09 - [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+- Jun 10 - [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+- Jun 09 - [It's Death](https://jesseduffield.com/ITS-DEATH/)
+- Jun 09 - [Show HN: Nucleus – A security-hardened, Nix-native container runtime](https://github.com/sig-id/nucleus)
+- Jun 09 - [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
+- Jun 09 - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 <!--END_SECTION:hn-->
 
 <!--
