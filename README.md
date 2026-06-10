@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
-- Jun 10 - [Postgres by Example](https://github.com/boringcollege/postgres-by-example)
-- Jun 10 - [The Last Evolution, by John W Campbell Jr. (1932)](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
-- Jun 10 - [GitHub Authentication issues related to API requests](https://www.githubstatus.com/incidents/fcj3088jg1wx)
-- Jun 10 - [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
+- Jun 10 - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
+- Jun 10 - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
+- Jun 10 - [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
+- Jun 10 - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
+- Jun 10 - [ΠFS](https://github.com/philipl/pifs)
 <!--END_SECTION:hn-->
 
 <!--
