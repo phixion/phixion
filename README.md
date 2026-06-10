@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
-- Jun 10 - [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
-- Jun 10 - [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
-- Jun 10 - [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
-- Jun 10 - [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
+- Jun 10 - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
+- Jun 10 - [Postgres by Example](https://github.com/boringcollege/postgres-by-example)
+- Jun 10 - [The Last Evolution, by John W Campbell Jr. (1932)](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
+- Jun 10 - [GitHub Authentication issues related to API requests](https://www.githubstatus.com/incidents/fcj3088jg1wx)
+- Jun 10 - [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
 <!--END_SECTION:hn-->
 
 <!--
