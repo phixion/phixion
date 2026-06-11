@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 11 - [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
+- Jun 11 - [BYD is bringing its 5-min 'Flash' electric car charging to Canada](https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/)
+- Jun 11 - [Human migration has surged since 2000 – these maps reveal where people are going](https://www.nature.com/articles/d41586-026-01796-y)
 - Jun 11 - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 - Jun 11 - [Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items)
-- Jun 11 - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
-- Jun 11 - [Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki)
-- Jun 11 - [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
 <!--END_SECTION:hn-->
 
 <!--
