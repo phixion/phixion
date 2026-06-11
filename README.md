@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
-- Jun 11 - [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
-- Jun 11 - [Waymo Premier, an elevated rider experience](https://waymo.com/blog/2026/06/waymo-premier/)
-- Jun 11 - [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/)
-- Jun 11 - [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
+- Jun 11 - [I stopped tracking my time. Now I can't focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
+- Jun 11 - [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
+- Jun 11 - [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+- Jun 11 - [Apple didn't revolutionize power supplies; new transistors did](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
+- Jun 11 - [Building agents without harness engineering](https://rajitkhanna.com/agents/)
 <!--END_SECTION:hn-->
 
 <!--
