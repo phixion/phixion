@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jun 10 - [University of Nottingham - 454,635 breached accounts](https://haveibeenpwned.com/Breach/UniversityOfNottingham)
 - Jun 07 - [Baker Distributing - 102,935 breached accounts](https://haveibeenpwned.com/Breach/BakerDistributing)
 - Jun 05 - [BCD Travel - 396,313 breached accounts](https://haveibeenpwned.com/Breach/BCDTravel)
 - Jun 03 - [DentaQuest - 2,553,599 breached accounts](https://haveibeenpwned.com/Breach/DentaQuest)
 - Jun 01 - [Edmunds - 177,860 breached accounts](https://haveibeenpwned.com/Breach/Edmunds)
-- May 30 - [Atlas Menu - 63,926 breached accounts](https://haveibeenpwned.com/Breach/AtlasMenu)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 10 - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-- Jun 10 - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
-- Jun 10 - [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
-- Jun 10 - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
-- Jun 10 - [ΠFS](https://github.com/philipl/pifs)
+- Jun 11 - [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)
+- Jun 11 - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+- Jun 10 - [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
+- Jun 10 - [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
+- Jun 10 - [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
 <!--END_SECTION:hn-->
 
 <!--
