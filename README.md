@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 11 - [I stopped tracking my time. Now I can't focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
-- Jun 11 - [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
-- Jun 11 - [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
-- Jun 11 - [Apple didn't revolutionize power supplies; new transistors did](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
-- Jun 11 - [Building agents without harness engineering](https://rajitkhanna.com/agents/)
+- Jun 12 - [Nobody ever gets credit for fixing problems that never happened (2002) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+- Jun 11 - [Biological evolution and information acquisition](https://www.construction-physics.com/p/biological-evolution-and-information)
+- Jun 11 - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+- Jun 11 - [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
+- Jun 11 - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
 <!--END_SECTION:hn-->
 
 <!--
