@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job](https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN)
-- Jun 12 - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
-- Jun 12 - [A PDF that changes based on who is reading](https://sgaud.com/texts/pdf)
-- Jun 12 - [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
-- Jun 12 - [Keygen.music](https://keygen.music)
+- Jun 12 - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
+- Jun 12 - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
+- Jun 12 - ["Don't You Just Upload It to ChatGPT?"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
+- Jun 12 - [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
+- Jun 12 - [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)
 <!--END_SECTION:hn-->
 
 <!--
