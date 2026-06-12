@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
-- Jun 12 - [Maxproof](https://arxiv.org/abs/2606.13473)
-- Jun 12 - [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
-- Jun 12 - [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/)
-- Jun 12 - [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
+- Jun 12 - [Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job](https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN)
+- Jun 12 - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
+- Jun 12 - [A PDF that changes based on who is reading](https://sgaud.com/texts/pdf)
+- Jun 12 - [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
+- Jun 12 - [Keygen.music](https://keygen.music)
 <!--END_SECTION:hn-->
 
 <!--
