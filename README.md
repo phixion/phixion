@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
-- Jun 12 - [Device Clock Generation](https://zipcpu.com/blog/2025/12/17/devclk.html)
+- Jun 12 - [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/)
+- Jun 12 - [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+- Jun 12 - [Device Clock Generation (2025)](https://zipcpu.com/blog/2025/12/17/devclk.html)
 - Jun 12 - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
 - Jun 12 - [Removing 'um' from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
-- Jun 12 - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 <!--END_SECTION:hn-->
 
 <!--
