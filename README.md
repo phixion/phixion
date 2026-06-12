@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Nobody ever gets credit for fixing problems that never happened (2002) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-- Jun 11 - [Biological evolution and information acquisition](https://www.construction-physics.com/p/biological-evolution-and-information)
-- Jun 11 - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
-- Jun 11 - [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
-- Jun 11 - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
+- Jun 12 - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+- Jun 12 - [Device Clock Generation](https://zipcpu.com/blog/2025/12/17/devclk.html)
+- Jun 12 - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
+- Jun 12 - [Removing 'um' from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
+- Jun 12 - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 <!--END_SECTION:hn-->
 
 <!--
