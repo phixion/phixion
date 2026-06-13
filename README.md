@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
-- Jun 12 - [I Think They [Anthropic] Are Lying to You [video]](https://www.youtube.com/watch?v=zfYsSFY4l18)
-- Jun 12 - [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)
-- Jun 12 - [Show HN: Putt.day a daily mini golf game](https://putt.day/)
-- Jun 12 - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+- Jun 13 - [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)
+- Jun 13 - [Our response to the US ban on Fable 5 and Mythos 5](https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5)
+- Jun 13 - [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
+- Jun 13 - [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+- Jun 13 - [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
 <!--END_SECTION:hn-->
 
 <!--
