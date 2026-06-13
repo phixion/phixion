@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
-- Jun 13 - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
-- Jun 13 - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
-- Jun 13 - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
-- Jun 13 - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
+- Jun 13 - [Texas is America Inc's new centre of gravity](https://www.economist.com/business/2026/05/31/texas-is-america-incs-new-centre-of-gravity)
+- Jun 13 - [What Happens to an Economy When It's Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)
+- Jun 13 - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
+- Jun 13 - [GameBoy Workboy](https://tcrf.net/Workboy)
+- Jun 13 - [PwC Report: AI Making Medical Bills Higher](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
 <!--END_SECTION:hn-->
 
 <!--
