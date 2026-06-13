@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [Thoughts on AI and Jobs](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
-- Jun 13 - [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
-- Jun 13 - [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
-- Jun 13 - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
-- Jun 13 - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+- Jun 13 - [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
+- Jun 13 - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
+- Jun 13 - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
+- Jun 13 - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
+- Jun 13 - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
 <!--END_SECTION:hn-->
 
 <!--
