@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 12 - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
-- Jun 12 - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
-- Jun 12 - ["Don't You Just Upload It to ChatGPT?"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
-- Jun 12 - [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
-- Jun 12 - [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)
+- Jun 13 - [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- Jun 12 - [I Think They [Anthropic] Are Lying to You [video]](https://www.youtube.com/watch?v=zfYsSFY4l18)
+- Jun 12 - [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)
+- Jun 12 - [Show HN: Putt.day a daily mini golf game](https://putt.day/)
+- Jun 12 - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 <!--END_SECTION:hn-->
 
 <!--
