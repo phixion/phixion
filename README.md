@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 14 - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
-- Jun 14 - [I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)
-- Jun 14 - [Measles surge in Utah sparks fears US could undo decades of progress](https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html)
-- Jun 14 - [Perlisisms](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
-- Jun 14 - [Cloud-based LLM gold rush is ending](https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo)
+- Jun 14 - [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
+- Jun 14 - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
+- Jun 14 - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+- Jun 14 - [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
+- Jun 14 - [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779)
 <!--END_SECTION:hn-->
 
 <!--
