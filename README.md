@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 13 - [State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)
-- Jun 13 - [ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
-- Jun 13 - [Ancient genome duplications laid the foundations of complex brains](https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains)
-- Jun 13 - [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
-- Jun 13 - [Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
+- Jun 14 - [Tribblix: the retro illumos distribution](http://tribblix.org/)
+- Jun 14 - [Pac-Man, but You're the Ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+- Jun 14 - [Software Architecture Guide](https://martinfowler.com/architecture/)
+- Jun 14 - [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
+- Jun 14 - [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
 <!--END_SECTION:hn-->
 
 <!--
