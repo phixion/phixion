@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Jun 14 - [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
-- Jun 14 - [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)
 - Jun 14 - [Tribblix: The retro Illumos distribution](http://tribblix.org/)
-- Jun 14 - [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
+- Jun 14 - [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
 - Jun 14 - [Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+- Jun 14 - [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
 <!--END_SECTION:hn-->
 
 <!--
