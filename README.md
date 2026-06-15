@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [India, UAE partner on AI sovereignty to bypass Google, Microsoft](https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/)
-- Jun 15 - [Google Flight Simulator](https://developers.google.com/maps/documentation/earth/flight-simulator)
-- Jun 15 - [Applying Brevity and Language Efficiency in Prompt Engineering](https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html)
-- Jun 15 - [Salesforce to Acquire Fin (formerly Intercom) for $3.6BN](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
-- Jun 15 - [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
+- Jun 15 - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
+- Jun 15 - [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)
+- Jun 15 - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
+- Jun 15 - [Memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
+- Jun 15 - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 <!--END_SECTION:hn-->
 
 <!--
