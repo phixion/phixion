@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Anthropic flies staff to D.C. to clean up White House fight](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable)
-- Jun 15 - [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
-- Jun 15 - [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion)
-- Jun 15 - [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
-- Jun 15 - [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
+- Jun 15 - [India, UAE partner on AI sovereignty to bypass Google, Microsoft](https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/)
+- Jun 15 - [Google Flight Simulator](https://developers.google.com/maps/documentation/earth/flight-simulator)
+- Jun 15 - [Applying Brevity and Language Efficiency in Prompt Engineering](https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html)
+- Jun 15 - [Salesforce to Acquire Fin (formerly Intercom) for $3.6BN](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
+- Jun 15 - [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
 <!--END_SECTION:hn-->
 
 <!--
