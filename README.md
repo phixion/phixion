@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 14 - [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- Jun 14 - [Stanford grads walk out on Google CEO Sundar Pichai speech](https://twitter.com/maattttbrown/status/2066215255987163246)
+- Jun 14 - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
+- Jun 14 - [AI is code – and can't be prompted into being smarter](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
 - Jun 14 - [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
-- Jun 14 - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
-- Jun 14 - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-- Jun 14 - [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
-- Jun 14 - [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779)
 <!--END_SECTION:hn-->
 
 <!--
