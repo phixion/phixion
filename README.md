@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Claude: Elevated errors across many models](https://status.claude.com/incidents/xmhsglsz3h3w)
-- Jun 16 - [Gamers beware: malicious wallpapers on Steam found stealing accounts](https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/)
-- Jun 16 - [Specs Augmented Reality Glasses](https://newsroom.snap.com/introducing-specs-augmented-reality-glasses)
-- Jun 16 - [Why is Meta destroying its engineering organization?](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
-- Jun 16 - [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
+- Jun 16 - [Frood, an Alpine Initramfs NAS](https://words.filippo.io/frood/)
+- Jun 16 - [Nobody clicks share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
+- Jun 16 - [Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical)
+- Jun 16 - [U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
+- Jun 16 - [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/)
 <!--END_SECTION:hn-->
 
 <!--
