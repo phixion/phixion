@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 15 - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
-- Jun 15 - [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
-- Jun 15 - [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
-- Jun 15 - [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
-- Jun 15 - [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
+- Jun 16 - [I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
+- Jun 16 - [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+- Jun 16 - [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
+- Jun 16 - [Humanity isn't ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion)
+- Jun 16 - [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
 <!--END_SECTION:hn-->
 
 <!--
