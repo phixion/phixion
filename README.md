@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 15 - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+- Jun 15 - [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
+- Jun 15 - [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
 - Jun 15 - [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
 - Jun 15 - [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
-- Jun 15 - [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083)
-- Jun 15 - [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/)
-- Jun 15 - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
 <!--END_SECTION:hn-->
 
 <!--
