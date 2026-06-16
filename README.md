@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - ['Wow, it really worked ': 70s TV show causing worldwide panic today](https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later)
-- Jun 16 - [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo)
-- Jun 16 - [Russian artist and Putin critic shot dead in Poland](https://www.bbc.com/news/articles/clyrzd5g6k2o)
-- Jun 16 - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
-- Jun 16 - [Unicorn – The Ultimate CPU Emulator](https://www.unicorn-engine.org/)
+- Jun 16 - [Claude: Elevated errors across many models](https://status.claude.com/incidents/xmhsglsz3h3w)
+- Jun 16 - [Gamers beware: malicious wallpapers on Steam found stealing accounts](https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/)
+- Jun 16 - [Specs Augmented Reality Glasses](https://newsroom.snap.com/introducing-specs-augmented-reality-glasses)
+- Jun 16 - [Why is Meta destroying its engineering organization?](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
+- Jun 16 - [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
 <!--END_SECTION:hn-->
 
 <!--
