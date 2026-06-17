@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Hacker News but for Independent Blogs](https://bubbles.town/)
-- Jun 17 - [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)
-- Jun 17 - [Why do commercial spaces sit vacant?](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant)
-- Jun 17 - [From Chesterton's fence to Chesterton's gap](https://stephantul.github.io/blog/unfence/)
-- Jun 17 - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
+- Jun 17 - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
+- Jun 17 - [A Google ad penalty halved our revenue; fixing it meant becoming a publisher](https://www.scrumpoker-online.org/en/blog/recovering-from-a-google-ad-penalty/)
+- Jun 17 - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
+- Jun 17 - [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
+- Jun 17 - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
 <!--END_SECTION:hn-->
 
 <!--
