@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
-- Jun 17 - [A Google ad penalty halved our revenue; fixing it meant becoming a publisher](https://www.scrumpoker-online.org/en/blog/recovering-from-a-google-ad-penalty/)
-- Jun 17 - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
-- Jun 17 - [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
-- Jun 17 - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
+- Jun 17 - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
+- Jun 17 - [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
+- Jun 17 - [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)
+- Jun 17 - [Agentic coding deserves more than a chat box bolted onto VS Code](https://github.com/evanklem/polypore)
+- Jun 17 - [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
 <!--END_SECTION:hn-->
 
 <!--
