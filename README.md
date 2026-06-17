@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 17 - [Solar in California surpassed natural gas in the first five months of 2026](https://www.eia.gov/todayinenergy/detail.php?id=67784#)
+- Jun 17 - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
+- Jun 17 - [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
+- Jun 17 - [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
 - Jun 17 - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
-- Jun 17 - [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
-- Jun 17 - [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)
-- Jun 17 - [Agentic coding deserves more than a chat box bolted onto VS Code](https://github.com/evanklem/polypore)
-- Jun 17 - [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
 <!--END_SECTION:hn-->
 
 <!--
