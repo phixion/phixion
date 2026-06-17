@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 16 - [Frood, an Alpine Initramfs NAS](https://words.filippo.io/frood/)
-- Jun 16 - [Nobody clicks share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
-- Jun 16 - [Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical)
-- Jun 16 - [U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
-- Jun 16 - [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/)
+- Jun 16 - [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
+- Jun 16 - [NLnet announces funding for 67 more open-source projects](https://nlnet.nl/news/2026/20260616-67-new-projects.html)
+- Jun 16 - [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
+- Jun 16 - [The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/)
+- Jun 16 - [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
 <!--END_SECTION:hn-->
 
 <!--
