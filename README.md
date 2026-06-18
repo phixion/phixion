@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 17 - [Solar in California surpassed natural gas in the first five months of 2026](https://www.eia.gov/todayinenergy/detail.php?id=67784#)
-- Jun 17 - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
-- Jun 17 - [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
-- Jun 17 - [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
-- Jun 17 - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
+- Jun 18 - [ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt)
+- Jun 17 - [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
+- Jun 17 - [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
+- Jun 17 - [The (real) dead economy theory](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)
+- Jun 17 - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
 <!--END_SECTION:hn-->
 
 <!--
