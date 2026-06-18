@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Securing the Future of AI Agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
-- Jun 18 - [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
-- Jun 18 - [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
-- Jun 18 - [A website that lists websites to submit your website to](https://www.submission.directory/)
-- Jun 18 - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
+- Jun 18 - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
+- Jun 18 - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
+- Jun 18 - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
+- Jun 18 - [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
+- Jun 18 - [TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
 <!--END_SECTION:hn-->
 
 <!--
