@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
-- Jun 18 - [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
-- Jun 18 - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
-- Jun 18 - [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
-- Jun 18 - [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
+- Jun 18 - [Securing the Future of AI Agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
+- Jun 18 - [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
+- Jun 18 - [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
+- Jun 18 - [A website that lists websites to submit your website to](https://www.submission.directory/)
+- Jun 18 - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
 <!--END_SECTION:hn-->
 
 <!--
