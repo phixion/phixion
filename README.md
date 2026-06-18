@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
-- Jun 18 - [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
-- Jun 18 - [War Books: The Marine Corps Commandant's 2026 Reading List](https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/)
-- Jun 18 - [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
-- Jun 18 - [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
+- Jun 18 - [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+- Jun 18 - [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
+- Jun 18 - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+- Jun 18 - [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+- Jun 18 - [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
 <!--END_SECTION:hn-->
 
 <!--
