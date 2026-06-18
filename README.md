@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 18 - [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
-- Jun 18 - [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
-- Jun 18 - [Nim Conf 2026 (Online, Sat June 20)](https://conf.nim-lang.org/)
-- Jun 18 - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
-- Jun 18 - [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
+- Jun 18 - [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
+- Jun 18 - [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
+- Jun 18 - [War Books: The Marine Corps Commandant's 2026 Reading List](https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/)
+- Jun 18 - [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
+- Jun 18 - [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
 <!--END_SECTION:hn-->
 
 <!--
