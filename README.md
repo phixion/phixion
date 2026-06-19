@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
-- Jun 19 - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
-- Jun 19 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-- Jun 19 - [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
-- Jun 19 - [Lift Challenge](https://www.darpa.mil/research/challenges/lift)
+- Jun 19 - [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
+- Jun 19 - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
+- Jun 19 - [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
+- Jun 19 - [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+- Jun 19 - [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
 <!--END_SECTION:hn-->
 
 <!--
