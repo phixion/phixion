@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
-- Jun 19 - [From Australia to Europe, countries move to curb children's social media access](https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/)
-- Jun 19 - [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
+- Jun 19 - [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
 - Jun 19 - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
 - Jun 19 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+- Jun 19 - [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+- Jun 19 - [Lift Challenge](https://www.darpa.mil/research/challenges/lift)
 <!--END_SECTION:hn-->
 
 <!--
