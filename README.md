@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Let's Encrypt has been down most of today (Fixed)](https://letsencrypt.status.io/#2026)
-- Jun 19 - [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+- Jun 19 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+- Jun 19 - [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+- Jun 19 - [Fable Converted Pylint to Rust](https://pypi.org/project/prylint/)
+- Jun 19 - [Ice water drowning survival of young patient (2025)](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
 - Jun 19 - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
-- Jun 19 - [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
-- Jun 18 - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
 <!--END_SECTION:hn-->
 
 <!--
