@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 19 - [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
-- Jun 19 - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
-- Jun 19 - [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
-- Jun 19 - [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-- Jun 19 - [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
+- Jun 20 - [Hey, N00B, We Didn't Hire You to Complete Tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
+- Jun 19 - [Aikido Code Audit](https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase)
+- Jun 19 - [Iran requires insurance on ships using Strait of Hormuz, fees likely to follow](https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow)
+- Jun 19 - [Americans express unease over SpaceX's influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk)
+- Jun 19 - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 <!--END_SECTION:hn-->
 
 <!--
