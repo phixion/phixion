@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 20 - [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
+- Jun 20 - [CSSQuake](https://cssquake.com/)
 - Jun 20 - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-- Jun 20 - [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html)
 - Jun 20 - [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
 - Jun 20 - [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
-- Jun 19 - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
 <!--END_SECTION:hn-->
 
 <!--
