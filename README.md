@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
-- Jun 20 - [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
-- Jun 20 - [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
-- Jun 20 - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
-- Jun 20 - [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
+- Jun 21 - [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
+- Jun 21 - [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
+- Jun 21 - [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
+- Jun 21 - [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+- Jun 21 - [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 <!--END_SECTION:hn-->
 
 <!--
