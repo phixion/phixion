@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
-- Jun 21 - [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
-- Jun 21 - [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
-- Jun 21 - [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
-- Jun 21 - [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+- Jun 21 - [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+- Jun 21 - [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+- Jun 21 - [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+- Jun 21 - [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah)
+- Jun 21 - [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
 <!--END_SECTION:hn-->
 
 <!--
