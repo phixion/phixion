@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 20 - [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
-- Jun 20 - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
-- Jun 20 - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
-- Jun 20 - [Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions](https://github.com/confh/Tiny)
-- Jun 20 - [Show HN: Make PDFs look scanned (CLI or in the browser via WASM)](https://github.com/overflowy/make-look-scanned)
+- Jun 21 - [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
+- Jun 20 - [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+- Jun 20 - [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+- Jun 20 - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
+- Jun 20 - [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
 <!--END_SECTION:hn-->
 
 <!--
