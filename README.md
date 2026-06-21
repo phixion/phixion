@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [100 Greatest Bird Names of All Time](https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all)
-- Jun 21 - [Foreign-Born Entrepreneurs Drive America's Unicorn Boom](https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/)
-- Jun 21 - [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
-- Jun 21 - [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
-- Jun 21 - [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+- Jun 21 - [Code duplication is far cheaper than the wrong abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+- Jun 21 - [(How to Write a (Lisp) Interpreter (In Python))](https://norvig.com/lispy.html)
+- Jun 21 - [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
+- Jun 21 - [Who Owns Your ATProto Identity? Hint: It's Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
+- Jun 21 - [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
 <!--END_SECTION:hn-->
 
 <!--
