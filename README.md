@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 21 - [100 Greatest Bird Names of All Time](https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all)
+- Jun 21 - [Foreign-Born Entrepreneurs Drive America's Unicorn Boom](https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/)
+- Jun 21 - [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
+- Jun 21 - [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 - Jun 21 - [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
-- Jun 21 - [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
-- Jun 21 - [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
-- Jun 21 - [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah)
-- Jun 21 - [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
 <!--END_SECTION:hn-->
 
 <!--
