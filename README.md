@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 21 - [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
-- Jun 21 - [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
-- Jun 21 - [Wildcard (YC W25) is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
-- Jun 21 - [Burnout is real for open source maintainers](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)
-- Jun 21 - [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit)
+- Jun 21 - [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)
+- Jun 21 - [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
+- Jun 21 - [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
+- Jun 21 - [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+- Jun 21 - [My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/prog/fortran-i.html)
 <!--END_SECTION:hn-->
 
 <!--
