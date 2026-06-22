@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
-- Jun 22 - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
-- Jun 22 - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
-- Jun 22 - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
-- Jun 22 - [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
+- Jun 22 - [Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
+- Jun 22 - [window.showDirectoryPicker opens up a whole new world](https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/)
+- Jun 22 - [Becoming a dad changes men's brains](https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/)
+- Jun 22 - [Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
+- Jun 22 - [Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust](https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust)
 <!--END_SECTION:hn-->
 
 <!--
