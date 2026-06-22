@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 22 - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
+- Jun 22 - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
+- Jun 22 - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
+- Jun 22 - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 - Jun 22 - [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
-- Jun 22 - [Sakana Fugu](https://sakana.ai/fugu/)
-- Jun 22 - [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
-- Jun 21 - [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
-- Jun 21 - [Japanese verb conjugation the simple hard way](https://underreacted.leaflet.pub/3mmevu6woys27)
 <!--END_SECTION:hn-->
 
 <!--
