@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 22 - [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
+- Jun 22 - [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
 - Jun 22 - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-- Jun 22 - [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
-- Jun 22 - [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
+- Jun 22 - [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
 - Jun 22 - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
-- Jun 22 - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
 <!--END_SECTION:hn-->
 
 <!--
