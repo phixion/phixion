@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 22 - [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
-- Jun 22 - [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
-- Jun 22 - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-- Jun 22 - [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
-- Jun 22 - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
+- Jun 23 - [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
+- Jun 23 - [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
+- Jun 23 - [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+- Jun 23 - [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
+- Jun 23 - [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
 <!--END_SECTION:hn-->
 
 <!--
