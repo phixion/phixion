@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Oracle shed about 20k roles globally in the last year](https://www.bbc.com/news/articles/c4gy0x0j5deo)
-- Jun 23 - [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
-- Jun 23 - [Wikipedia cofounder Larry Sanger blocked from editing Wikipedia](https://en.wikipedia.org/wiki/User:Larry_Sanger)
-- Jun 23 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
-- Jun 23 - [Apple is going to raise device prices, but when?](https://daringfireball.net/linked/2026/06/22/apple-device-prices-when)
+- Jun 23 - [Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards](https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html)
+- Jun 23 - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+- Jun 23 - [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
+- Jun 23 - [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
+- Jun 23 - [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
 <!--END_SECTION:hn-->
 
 <!--
