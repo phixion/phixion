@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards](https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html)
-- Jun 23 - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
-- Jun 23 - [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
-- Jun 23 - [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
-- Jun 23 - [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
+- Jun 23 - [Scars mark Britain's economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)
+- Jun 23 - [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
+- Jun 23 - [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
+- Jun 23 - [Jerry's Map](http://www.jerrysmap.com/the-map)
+- Jun 23 - [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
 <!--END_SECTION:hn-->
 
 <!--
