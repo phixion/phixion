@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
-- Jun 23 - [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
-- Jun 23 - [Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)
-- Jun 23 - [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
-- Jun 23 - [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
+- Jun 23 - [Oracle shed about 20k roles globally in the last year](https://www.bbc.com/news/articles/c4gy0x0j5deo)
+- Jun 23 - [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
+- Jun 23 - [Wikipedia cofounder Larry Sanger blocked from editing Wikipedia](https://en.wikipedia.org/wiki/User:Larry_Sanger)
+- Jun 23 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
+- Jun 23 - [Apple is going to raise device prices, but when?](https://daringfireball.net/linked/2026/06/22/apple-device-prices-when)
 <!--END_SECTION:hn-->
 
 <!--
