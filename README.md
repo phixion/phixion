@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 23 - [AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+- Jun 23 - [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+- Jun 23 - [Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)
+- Jun 23 - [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
 - Jun 23 - [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
-- Jun 23 - [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
-- Jun 23 - [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
-- Jun 23 - [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
-- Jun 23 - [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
 <!--END_SECTION:hn-->
 
 <!--
