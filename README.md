@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Scars mark Britain's economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)
-- Jun 23 - [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
-- Jun 23 - [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
-- Jun 23 - [Jerry's Map](http://www.jerrysmap.com/the-map)
-- Jun 23 - [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
+- Jun 23 - [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+- Jun 23 - [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)
+- Jun 23 - [California AB 2047 makes 3D printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
+- Jun 23 - [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)
+- Jun 23 - [Don't verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
 <!--END_SECTION:hn-->
 
 <!--
