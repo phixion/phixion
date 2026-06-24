@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 24 - [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
-- Jun 24 - [CAPTCHAs have failed for 20 years](https://www.browserbase.com/blog/why-captchas-are-getting-harder)
-- Jun 24 - [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
-- Jun 24 - [Quebec town recognizes trees as living beings with rights](https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634)
-- Jun 24 - [Boffin claims Microsoft's "quantum leap" is invalid due to "basic Python errors"](https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489)
+- Jun 24 - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
+- Jun 24 - [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
+- Jun 24 - [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
+- Jun 24 - [Wikipedia Workers to Seek Union Recognition](https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/)
+- Jun 24 - [I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code](https://posthog.com/blog/sql-parser)
 <!--END_SECTION:hn-->
 
 <!--
