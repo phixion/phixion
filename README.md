@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 23 - [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-- Jun 23 - [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)
-- Jun 23 - [California AB 2047 makes 3D printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
-- Jun 23 - [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)
-- Jun 23 - [Don't verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
+- Jun 24 - [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
+- Jun 24 - [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)
+- Jun 24 - [The war on terror primed America for autocracy](https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy)
+- Jun 24 - [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
+- Jun 24 - [DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers](https://github.com/End2End-Diffusion/diffusion-bench)
 <!--END_SECTION:hn-->
 
 <!--
