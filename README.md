@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
-- Jun 24 - [Blogging Can Just Be Stating the Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
-- Jun 24 - [PostgreSQL is enough (2024)](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
-- Jun 24 - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
-- Jun 24 - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
+- Jun 25 - [GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box](https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box)
+- Jun 25 - [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
+- Jun 25 - [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
+- Jun 25 - [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
+- Jun 25 - [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/)
 <!--END_SECTION:hn-->
 
 <!--
