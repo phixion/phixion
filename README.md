@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Deno 2.9](https://deno.com/blog/v2.9)
+- Jun 25 - [The Doorman's Fallacy in Action](https://rozumem.xyz/posts/17)
+- Jun 25 - [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
+- Jun 25 - [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
 - Jun 25 - [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
-- Jun 25 - [Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
-- Jun 25 - [Apple increases MacBook and iPad prices by 20%](https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c)
-- Jun 25 - [Zig's New BitCast Semantics and LLVM Back End Improvements](https://ziglang.org/devlog/2026/#2026-06-25)
+- Jun 25 - [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 <!--END_SECTION:hn-->
 
 <!--
