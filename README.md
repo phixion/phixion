@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported)
+- Jun 25 - [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
+- Jun 25 - [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
 - Jun 25 - [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
 - Jun 25 - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
-- Jun 25 - [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
 - Jun 25 - [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
 <!--END_SECTION:hn-->
 
