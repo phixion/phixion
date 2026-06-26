@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 25 - [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)](https://gchandbook.org/)
-- Jun 25 - [Military branches restore flu shot requirement after virus swept through base](https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/)
-- Jun 25 - [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
-- Jun 25 - [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
-- Jun 25 - [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+- Jun 26 - [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
+- Jun 26 - [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
+- Jun 26 - [A data race that doesn't compile](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/)
+- Jun 26 - [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- Jun 25 - [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)](https://gchandbook.org/)
 <!--END_SECTION:hn-->
 
 <!--
