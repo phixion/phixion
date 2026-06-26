@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 26 - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
-- Jun 26 - [Jolla Phone (October 2026)](https://commerce.jolla.com/products/jolla-phone-october-2026)
-- Jun 26 - [Springer Nature has removed two studies by Max Planck](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
-- Jun 26 - [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
-- Jun 26 - [Ultrasound imaging of the brain](https://alephneuro.com/blog/ultrasound-brain)
+- Jun 26 - [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
+- Jun 26 - [Slisp: Simple Lisp compiler (Linux/amd64)](https://github.com/skx/slisp)
+- Jun 26 - [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+- Jun 26 - [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)
+- Jun 26 - [Data centers trigger voter backlash](https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327)
 <!--END_SECTION:hn-->
 
 <!--
