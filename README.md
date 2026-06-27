@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 27 - [Is America becoming a gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
+- Jun 27 - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+- Jun 27 - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 - Jun 27 - [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
-- Jun 27 - [Ask HN: MacBook vs. Dedicated GPU for LLM](https://news.ycombinator.com/item?id=48694802)
 - Jun 27 - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
-- Jun 27 - [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
-- Jun 26 - [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 <!--END_SECTION:hn-->
 
 <!--
