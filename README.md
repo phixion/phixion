@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [OpenRA](https://www.openra.net/)
-- Jun 27 - [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
-- Jun 27 - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
-- Jun 27 - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
-- Jun 27 - [Beer CSS – Build material design in record time](https://www.beercss.com)
+- Jun 27 - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
+- Jun 27 - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
+- Jun 27 - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
+- Jun 27 - [Like a Bouncer at a Bookstore: Texas' App Store Accountability Act](https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/)
+- Jun 27 - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
 <!--END_SECTION:hn-->
 
 <!--
