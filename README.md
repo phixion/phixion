@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [Is America becoming a gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
-- Jun 27 - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
-- Jun 27 - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
-- Jun 27 - [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
-- Jun 27 - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
+- Jun 27 - [OpenRA](https://www.openra.net/)
+- Jun 27 - [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
+- Jun 27 - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
+- Jun 27 - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+- Jun 27 - [Beer CSS – Build material design in record time](https://www.beercss.com)
 <!--END_SECTION:hn-->
 
 <!--
