@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)
+- Jun 28 - [More evidence of life on Mars but still no life](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
+- Jun 28 - [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
+- Jun 28 - [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
 - Jun 28 - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
 - Jun 28 - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
-- Jun 28 - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
-- Jun 28 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
 <!--END_SECTION:hn-->
 
 <!--
