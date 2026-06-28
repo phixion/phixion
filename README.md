@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jun 28 - [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)
+- Jun 28 - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
 - Jun 28 - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
 - Jun 28 - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 - Jun 28 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-- Jun 28 - [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
-- Jun 28 - [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
 <!--END_SECTION:hn-->
 
 <!--
