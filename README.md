@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [More evidence of life on Mars but still no life](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
-- Jun 28 - [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
-- Jun 28 - [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
-- Jun 28 - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
-- Jun 28 - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+- Jun 28 - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
+- Jun 28 - [Does Your Paper Really Suck?](https://www.sina.bio/posts/does-your-paper-really-suck.html)
+- Jun 28 - [Show HN: Zanagrams](https://zanagrams.com/)
+- Jun 28 - [California legislature agrees to upload driver's licenses to national database](https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/)
+- Jun 28 - [Michigan bill would bar employers from requiring after-hours coms with workers](https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/)
 <!--END_SECTION:hn-->
 
 <!--
