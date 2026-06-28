@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Jun 28 - [Sysco - 2,691,852 breached accounts](https://haveibeenpwned.com/Breach/Sysco)
 - Jun 26 - [American Tower - 216,601 breached accounts](https://haveibeenpwned.com/Breach/AmericanTower)
 - Jun 24 - [Madison Square Garden Sports - 9,796,738 breached accounts](https://haveibeenpwned.com/Breach/MadisonSquareGardenSports)
 - Jun 20 - [JCPenney - 368,418 breached accounts](https://haveibeenpwned.com/Breach/JCPenney)
 - Jun 18 - [Ralph Lauren - 139,903 breached accounts](https://haveibeenpwned.com/Breach/RalphLauren)
-- Jun 18 - [Operation Endgame 4.0 - 4,160,519 breached accounts](https://haveibeenpwned.com/Breach/OperationEndgame4)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
-- Jun 28 - [Does Your Paper Really Suck?](https://www.sina.bio/posts/does-your-paper-really-suck.html)
-- Jun 28 - [Show HN: Zanagrams](https://zanagrams.com/)
-- Jun 28 - [California legislature agrees to upload driver's licenses to national database](https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/)
-- Jun 28 - [Michigan bill would bar employers from requiring after-hours coms with workers](https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/)
+- Jun 28 - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
+- Jun 28 - [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
+- Jun 28 - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+- Jun 28 - [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+- Jun 28 - [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
 <!--END_SECTION:hn-->
 
 <!--
