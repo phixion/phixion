@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [America's Large Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/investigations/homebuilders)
-- Jun 27 - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
-- Jun 27 - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
-- Jun 27 - [Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)
-- Jun 27 - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
+- Jun 28 - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+- Jun 28 - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
+- Jun 28 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+- Jun 28 - [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
+- Jun 28 - [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
 <!--END_SECTION:hn-->
 
 <!--
