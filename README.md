@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 27 - [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
-- Jun 27 - [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
-- Jun 27 - [The Card That Made the Apple II Serious](https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/)
-- Jun 27 - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
-- Jun 27 - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
+- Jun 28 - [America's Large Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/investigations/homebuilders)
+- Jun 27 - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
+- Jun 27 - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
+- Jun 27 - [Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)
+- Jun 27 - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
 <!--END_SECTION:hn-->
 
 <!--
