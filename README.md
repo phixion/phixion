@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [We need tech news sources which exclude AI](https://news.ycombinator.com/item?id=48713041)
-- Jun 28 - [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
-- Jun 28 - [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
-- Jun 28 - [Xonaly – Canada's Independent Search Engine](https://xonaly.com/)
-- Jun 28 - [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
+- Jun 29 - [Some Simple Economics of AGI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838)
+- Jun 29 - [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
+- Jun 29 - [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- Jun 29 - [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+- Jun 28 - [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
 <!--END_SECTION:hn-->
 
 <!--
