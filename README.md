@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 28 - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
-- Jun 28 - [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
-- Jun 28 - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-- Jun 28 - [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
-- Jun 28 - [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
+- Jun 28 - [We need tech news sources which exclude AI](https://news.ycombinator.com/item?id=48713041)
+- Jun 28 - [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
+- Jun 28 - [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
+- Jun 28 - [Xonaly – Canada's Independent Search Engine](https://xonaly.com/)
+- Jun 28 - [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
 <!--END_SECTION:hn-->
 
 <!--
