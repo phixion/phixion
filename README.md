@@ -20,10 +20,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
 - Jun 30 - [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
-- Jun 30 - [Study suggests most Americans would be healthier without daylight saving time](https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html)
+- Jun 30 - [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
+- Jun 30 - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 - Jun 30 - [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)
 - Jun 30 - [Memory Safe Context Switching](https://fil-c.org/context_switches)
-- Jun 30 - [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
 <!--END_SECTION:hn-->
 
 <!--
