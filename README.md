@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
-- Jun 30 - [BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range](https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/)
-- Jun 30 - [County with 37 Data Centers Asks Schools to 'Conserve Electricity'](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)
-- Jun 30 - [Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist](https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/)
-- Jun 30 - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
+- Jun 30 - [AI Is Making Us Lose Our Individuality](https://emmettbuckthompson.com/blog/ai-is-making-us-lose-our-individuality)
+- Jun 30 - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
+- Jun 30 - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+- Jun 30 - [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
+- Jun 30 - [Claude Science](https://claude.com/product/claude-science)
 <!--END_SECTION:hn-->
 
 <!--
