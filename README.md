@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [Sony erases digital content from libraries; reminded we don't own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/)
-- Jun 30 - [Parse, Don't Validate – In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
-- Jun 30 - [European digital ID wallets are a gift to Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
-- Jun 30 - [Exercise intensity influences body composition in healthy older adults](https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext)
-- Jun 30 - [The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)
+- Jun 30 - [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
+- Jun 30 - [BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range](https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/)
+- Jun 30 - [County with 37 Data Centers Asks Schools to 'Conserve Electricity'](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)
+- Jun 30 - [Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist](https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/)
+- Jun 30 - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 <!--END_SECTION:hn-->
 
 <!--
