@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)
-- Jul 01 - [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
-- Jul 01 - [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
-- Jul 01 - [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
-- Jul 01 - [Single header Parser Combinators for C](https://github.com/steve-chavez/CParseC)
+- Jul 01 - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
+- Jul 01 - [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
+- Jul 01 - [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
+- Jul 01 - [Show HN: HackerNows – Native iOS HN Client](https://hackernows.app/)
+- Jul 01 - [The Internet I Grew Up with Doesn't Exist Anymore](https://cleberg.net/blog/internet.html)
 <!--END_SECTION:hn-->
 
 <!--
