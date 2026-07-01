@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jun 30 - [AI Is Making Us Lose Our Individuality](https://emmettbuckthompson.com/blog/ai-is-making-us-lose-our-individuality)
-- Jun 30 - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
-- Jun 30 - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
-- Jun 30 - [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
-- Jun 30 - [Claude Science](https://claude.com/product/claude-science)
+- Jul 01 - [Claude Fable 5 export control lifted](https://twitter.com/synthwavedd/status/2072103052635451559)
+- Jun 30 - [Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow](https://xcancel.com/AnthropicAI/status/2072106151890809341)
+- Jun 30 - [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
+- Jun 30 - [Google copybara: moving code between repositories](https://github.com/google/copybara)
+- Jun 30 - [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
 <!--END_SECTION:hn-->
 
 <!--
