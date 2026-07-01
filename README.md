@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
-- Jul 01 - [Meta loses bid to dismiss US states' claims that FB, Instagram addict children](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)
-- Jul 01 - [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
-- Jul 01 - [Show HN: GolemUI – The new paradigm for JavaScript forms](https://golemui.com)
-- Jul 01 - [Ask HN: Who is hiring? (July 2026)](https://news.ycombinator.com/item?id=48747976)
+- Jul 01 - [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)
+- Jul 01 - [Claude Fable 5 Promotional Access](https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access)
+- Jul 01 - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/)
+- Jul 01 - [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
+- Jul 01 - [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
 <!--END_SECTION:hn-->
 
 <!--
