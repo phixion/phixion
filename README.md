@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Claude Fable 5 export control lifted](https://twitter.com/synthwavedd/status/2072103052635451559)
-- Jun 30 - [Anthropic restoring access to Claude Fable 5 and Mythos 5 from tomorrow](https://xcancel.com/AnthropicAI/status/2072106151890809341)
-- Jun 30 - [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
-- Jun 30 - [Google copybara: moving code between repositories](https://github.com/google/copybara)
-- Jun 30 - [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
+- Jul 01 - [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
+- Jul 01 - [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
+- Jul 01 - [How employment changes when firms adopt generative AI](https://ramp.com/data/ai-jobs-impact)
+- Jul 01 - [ArXiv's Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
+- Jul 01 - [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
 <!--END_SECTION:hn-->
 
 <!--
