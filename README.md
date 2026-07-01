@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
-- Jul 01 - [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
-- Jul 01 - [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
-- Jul 01 - [Show HN: HackerNows – Native iOS HN Client](https://hackernows.app/)
-- Jul 01 - [The Internet I Grew Up with Doesn't Exist Anymore](https://cleberg.net/blog/internet.html)
+- Jul 01 - [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
+- Jul 01 - [Meta loses bid to dismiss US states' claims that FB, Instagram addict children](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)
+- Jul 01 - [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
+- Jul 01 - [Show HN: GolemUI – The new paradigm for JavaScript forms](https://golemui.com)
+- Jul 01 - [Ask HN: Who is hiring? (July 2026)](https://news.ycombinator.com/item?id=48747976)
 <!--END_SECTION:hn-->
 
 <!--
