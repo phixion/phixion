@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 01 - [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)
-- Jul 01 - [Claude Fable 5 Promotional Access](https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access)
-- Jul 01 - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/)
-- Jul 01 - [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
-- Jul 01 - [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+- Jul 02 - [Billions of doses later: Global review confirms mRNA vaccines safe and effective](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
+- Jul 01 - [Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
+- Jul 01 - [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
+- Jul 01 - [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
+- Jul 01 - [The Underhanded C Contest](https://underhanded-c.org/)
 <!--END_SECTION:hn-->
 
 <!--
