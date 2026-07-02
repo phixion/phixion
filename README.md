@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
-- Jul 02 - [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
-- Jul 02 - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
-- Jul 02 - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
-- Jul 02 - [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
+- Jul 02 - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
+- Jul 02 - [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
+- Jul 02 - [Job seekers giving up: Labor force participation falls to lowest in 50 years](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
+- Jul 02 - [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
+- Jul 02 - [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
 <!--END_SECTION:hn-->
 
 <!--
