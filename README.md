@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Billions of doses later: Global review confirms mRNA vaccines safe and effective](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
-- Jul 01 - [Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
-- Jul 01 - [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
-- Jul 01 - [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
-- Jul 01 - [The Underhanded C Contest](https://underhanded-c.org/)
+- Jul 02 - [The gauge broke: devs felt 20% faster with AI, measured 19% slower](https://intrepidkarthi.com/writing/the-gauge-broke/)
+- Jul 02 - [CursorBench 3.1](https://cursor.com/evals)
+- Jul 02 - [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+- Jul 02 - [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
+- Jul 02 - [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
 <!--END_SECTION:hn-->
 
 <!--
