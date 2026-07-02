@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
-- Jul 02 - [Hazel (YC W24) Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
-- Jul 02 - [Winamp Skin Museum](https://skins.webamp.org)
-- Jul 02 - [Germany's Infineon opens $5.7B chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
-- Jul 02 - [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+- Jul 02 - [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
+- Jul 02 - [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
+- Jul 02 - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
+- Jul 02 - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
+- Jul 02 - [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
 <!--END_SECTION:hn-->
 
 <!--
