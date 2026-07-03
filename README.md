@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 02 - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
-- Jul 02 - [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
-- Jul 02 - [Job seekers giving up: Labor force participation falls to lowest in 50 years](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
-- Jul 02 - [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
-- Jul 02 - [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
+- Jul 03 - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+- Jul 03 - [Order a burned CD of your own public GitHub repo](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl)
+- Jul 03 - [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
+- Jul 02 - [Right to Local Intelligence](https://righttointelligence.org/)
+- Jul 02 - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
 <!--END_SECTION:hn-->
 
 <!--
