@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 03 - [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515)
+- Jul 03 - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://stefan.schueller.net/posts/the-free-market-lie/)
+- Jul 03 - [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
+- Jul 03 - [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
 - Jul 03 - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-- Jul 03 - [Order a burned CD of your own public GitHub repo](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl)
-- Jul 03 - [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
-- Jul 02 - [Right to Local Intelligence](https://righttointelligence.org/)
-- Jul 02 - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
 <!--END_SECTION:hn-->
 
 <!--
