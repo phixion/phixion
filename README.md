@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Hackers shoveled snow for company, were rewarded with network admin access](https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240)
-- Jul 03 - [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
-- Jul 03 - [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
-- Jul 03 - [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm)
-- Jul 03 - [Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html)
+- Jul 03 - [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
+- Jul 03 - [US residents angry datacenters 'shoved down our throats' are recalling officials](https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections)
+- Jul 03 - [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
+- Jul 03 - [60% Fable cost cut by converting code to images and having the model OCR it](https://github.com/teamchong/pxpipe)
+- Jul 03 - [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
 <!--END_SECTION:hn-->
 
 <!--
