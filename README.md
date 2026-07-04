@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 03 - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
-- Jul 03 - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
-- Jul 03 - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
-- Jul 03 - [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji)
-- Jul 03 - [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
+- Jul 04 - [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
+- Jul 04 - [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
+- Jul 03 - [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
+- Jul 03 - [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
+- Jul 03 - [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
 <!--END_SECTION:hn-->
 
 <!--
