@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Leaking YouTube Creators Private Videos](https://javoriuski.com/post/youtube)
-- Jul 04 - [Rob Pike – 'Concurrency Is Not Parallelism' [video]](https://vimeo.com/49718712)
-- Jul 04 - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
-- Jul 04 - [Curveball](https://mightyburger.net/projects/curveball/)
-- Jul 04 - [Windows CE Dreamcast Community Edition (wince-dc)](https://github.com/maximqaxd/wince-dc)
+- Jul 04 - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+- Jul 04 - [Wicklow hotel cancels 'secretive' Peter Thiel group conference](https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/)
+- Jul 04 - [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
+- Jul 04 - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+- Jul 04 - [Game Boy Advance Dev: Logging to the Console](https://www.mattgreer.dev/blog/gba-dev-logging/)
 <!--END_SECTION:hn-->
 
 <!--
