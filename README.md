@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
-- Jul 04 - [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
-- Jul 03 - [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
-- Jul 03 - [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
-- Jul 03 - [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+- Jul 04 - [Bloomberg Terminal Is Ugly and Clunky–Everyone Still Uses It](https://oztalking.com/en/issues/bloomberg-terminal-lock-in)
+- Jul 04 - [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
+- Jul 04 - [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+- Jul 04 - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
+- Jul 04 - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
 <!--END_SECTION:hn-->
 
 <!--
