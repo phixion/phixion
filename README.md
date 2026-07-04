@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 04 - [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
-- Jul 04 - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
-- Jul 04 - [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results)
-- Jul 04 - [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
-- Jul 04 - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
+- Jul 04 - [Leaking YouTube Creators Private Videos](https://javoriuski.com/post/youtube)
+- Jul 04 - [Rob Pike – 'Concurrency Is Not Parallelism' [video]](https://vimeo.com/49718712)
+- Jul 04 - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
+- Jul 04 - [Curveball](https://mightyburger.net/projects/curveball/)
+- Jul 04 - [Windows CE Dreamcast Community Edition (wince-dc)](https://github.com/maximqaxd/wince-dc)
 <!--END_SECTION:hn-->
 
 <!--
