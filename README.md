@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
-- Jul 05 - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
-- Jul 05 - [Programmers need to start meditating now](https://jacob.gold/posts/programmers-need-to-start-meditating-now/)
-- Jul 05 - [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
-- Jul 05 - [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+- Jul 05 - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
+- Jul 05 - [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
+- Jul 05 - [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
+- Jul 05 - [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
+- Jul 05 - [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
 <!--END_SECTION:hn-->
 
 <!--
