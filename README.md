@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
-- Jul 05 - [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
-- Jul 05 - [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
-- Jul 05 - [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
-- Jul 05 - [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
+- Jul 05 - [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
+- Jul 05 - [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
+- Jul 05 - [Why DMARC's new "NP" tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
+- Jul 05 - [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
+- Jul 05 - [Solar rail could become common in Europe after successful trial in Switzerland](https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri)
 <!--END_SECTION:hn-->
 
 <!--
