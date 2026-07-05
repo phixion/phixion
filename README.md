@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
-- Jul 05 - [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/)
-- Jul 05 - [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
-- Jul 05 - [Beeg float library, a Rust port of Fabrice Bellard's libbf](https://github.com/lifthrasiir/libbeef)
-- Jul 05 - [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
+- Jul 05 - [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
+- Jul 05 - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
+- Jul 05 - [Programmers need to start meditating now](https://jacob.gold/posts/programmers-need-to-start-meditating-now/)
+- Jul 05 - [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
+- Jul 05 - [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
 <!--END_SECTION:hn-->
 
 <!--
