@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
-- Jul 05 - [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
-- Jul 05 - [Why DMARC's new "NP" tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
-- Jul 05 - [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
-- Jul 05 - [Solar rail could become common in Europe after successful trial in Switzerland](https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri)
+- Jul 05 - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
+- Jul 05 - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+- Jul 05 - [You need a webring](https://shub.club/writings/2026/july/you-need-a-webring/)
+- Jul 05 - [Jim Keller's startup is building a factory to mass-produce small chip fabs](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
+- Jul 05 - [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
 <!--END_SECTION:hn-->
 
 <!--
