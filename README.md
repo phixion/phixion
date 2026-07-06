@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
-- Jul 06 - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html)
-- Jul 06 - [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
-- Jul 06 - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
-- Jul 06 - [Show HN: Pulpie – Models for Cleaning the Web](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)
+- Jul 06 - [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
+- Jul 06 - [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
+- Jul 06 - [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
+- Jul 06 - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+- Jul 06 - [Linux on the Atari Jaguar](https://cakehonolulu.github.io/linux-for-jaguar/)
 <!--END_SECTION:hn-->
 
 <!--
