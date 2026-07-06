@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
-- Jul 06 - [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
-- Jul 06 - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
-- Jul 06 - [The Sneakerweb](https://sneakerweb.org/)
-- Jul 06 - [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- Jul 06 - [1k Words: A Writing Contest](https://writingclub.world/1picture1000words)
+- Jul 06 - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+- Jul 06 - [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/)
+- Jul 06 - [Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot)
+- Jul 06 - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
 <!--END_SECTION:hn-->
 
 <!--
