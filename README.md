@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [1k Words: A Writing Contest](https://writingclub.world/1picture1000words)
-- Jul 06 - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
-- Jul 06 - [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/)
-- Jul 06 - [Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot)
-- Jul 06 - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
+- Jul 06 - [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
+- Jul 06 - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html)
+- Jul 06 - [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
+- Jul 06 - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
+- Jul 06 - [Show HN: Pulpie – Models for Cleaning the Web](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)
 <!--END_SECTION:hn-->
 
 <!--
