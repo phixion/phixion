@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 06 - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
+- Jul 06 - [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
 - Jul 06 - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
 - Jul 06 - [The Sneakerweb](https://sneakerweb.org/)
 - Jul 06 - [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-- Jul 06 - [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
-- Jul 05 - [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
 <!--END_SECTION:hn-->
 
 <!--
