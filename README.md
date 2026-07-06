@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 05 - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
-- Jul 05 - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
-- Jul 05 - [You need a webring](https://shub.club/writings/2026/july/you-need-a-webring/)
-- Jul 05 - [Jim Keller's startup is building a factory to mass-produce small chip fabs](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
-- Jul 05 - [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
+- Jul 06 - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
+- Jul 06 - [The Sneakerweb](https://sneakerweb.org/)
+- Jul 06 - [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- Jul 06 - [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+- Jul 05 - [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
 <!--END_SECTION:hn-->
 
 <!--
