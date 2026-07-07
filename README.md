@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 07 - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
-- Jul 07 - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
-- Jul 07 - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
-- Jul 07 - [Jim's TrueType QR Code Font](https://github.com/jimparis/qr-font)
-- Jul 07 - [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
+- Jul 07 - [All Cars Sold in the EU Now Require a Camera Aimed at Your Face](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
+- Jul 07 - [Show HN: Davit, a Apple Containers UI](https://davit.app)
+- Jul 07 - [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
+- Jul 07 - [Astro 7.0](https://astro.build/blog/astro-7/)
+- Jul 07 - [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
 <!--END_SECTION:hn-->
 
 <!--
