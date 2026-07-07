@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 06 - [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
-- Jul 06 - [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
-- Jul 06 - [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
-- Jul 06 - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
-- Jul 06 - [Linux on the Atari Jaguar](https://cakehonolulu.github.io/linux-for-jaguar/)
+- Jul 07 - [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+- Jul 06 - [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+- Jul 06 - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
+- Jul 06 - [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+- Jul 06 - [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
 <!--END_SECTION:hn-->
 
 <!--
