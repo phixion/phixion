@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)
-- Jul 08 - [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)
-- Jul 08 - [The Age of Reading Is Over](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/)
-- Jul 08 - [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
-- Jul 08 - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+- Jul 08 - [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
+- Jul 08 - [EU now one step away from reviving private message scanning rules](https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/)
+- Jul 08 - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
+- Jul 08 - [TypeScript 7](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
+- Jul 08 - [Show HN: Kastor – Terraform-style specs for AI agents](https://github.com/weirdGuy/kastor)
 <!--END_SECTION:hn-->
 
 <!--
