@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
-- Jul 08 - [EU now one step away from reviving private message scanning rules](https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/)
-- Jul 08 - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
-- Jul 08 - [TypeScript 7](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
-- Jul 08 - [Show HN: Kastor – Terraform-style specs for AI agents](https://github.com/weirdGuy/kastor)
+- Jul 08 - [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+- Jul 08 - [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
+- Jul 08 - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
+- Jul 08 - [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
+- Jul 08 - [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
 <!--END_SECTION:hn-->
 
 <!--
