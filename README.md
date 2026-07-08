@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 08 - [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+- Jul 08 - [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
+- Jul 08 - [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- Jul 08 - [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
 - Jul 08 - [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
-- Jul 08 - [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
-- Jul 08 - [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
-- Jul 08 - [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
-- Jul 08 - [Show HN: Fortress – a stealth Chromium so your agents stop getting blocked](https://github.com/tiliondev/fortress)
 <!--END_SECTION:hn-->
 
 <!--
