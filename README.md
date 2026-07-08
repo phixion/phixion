@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 08 - [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)
+- Jul 08 - [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)
+- Jul 08 - [The Age of Reading Is Over](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/)
+- Jul 08 - [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
 - Jul 08 - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-- Jul 08 - [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
-- Jul 08 - [The space bit of SpaceX is worth $8 a share, says Morgan Stanley](https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388)
-- Jul 08 - [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
-- Jul 08 - [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
 <!--END_SECTION:hn-->
 
 <!--
