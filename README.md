@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 08 - [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
-- Jul 08 - [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
-- Jul 08 - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
-- Jul 08 - [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
-- Jul 08 - [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
+- Jul 09 - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+- Jul 09 - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
+- Jul 09 - [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
+- Jul 08 - [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+- Jul 08 - [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
 <!--END_SECTION:hn-->
 
 <!--
