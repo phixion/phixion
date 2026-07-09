@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
-- Jul 09 - [Show HN: Analog Watch](https://analog.watch)
-- Jul 09 - [New open access book on history of computers and politics](https://mitpress.mit.edu/9780262053198/simpolitics/)
-- Jul 09 - [PostHog Open Sourced](https://github.com/PostHog/posthog-foss)
-- Jul 09 - [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
+- Jul 09 - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
+- Jul 09 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- Jul 09 - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+- Jul 09 - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
+- Jul 09 - [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
 <!--END_SECTION:hn-->
 
 <!--
