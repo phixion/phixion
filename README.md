@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
-- Jul 09 - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
-- Jul 09 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
-- Jul 09 - [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
-- Jul 09 - [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
+- Jul 09 - [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
+- Jul 09 - [Show HN: Analog Watch](https://analog.watch)
+- Jul 09 - [New open access book on history of computers and politics](https://mitpress.mit.edu/9780262053198/simpolitics/)
+- Jul 09 - [PostHog Open Sourced](https://github.com/PostHog/posthog-foss)
+- Jul 09 - [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
 <!--END_SECTION:hn-->
 
 <!--
