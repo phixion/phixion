@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
-- Jul 09 - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
-- Jul 09 - [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
-- Jul 08 - [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-- Jul 08 - [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
+- Jul 09 - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
+- Jul 09 - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
+- Jul 09 - [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+- Jul 09 - [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
+- Jul 09 - [I think I have LLM burnout](https://www.alecscollon.com/blog/llm-burnout/)
 <!--END_SECTION:hn-->
 
 <!--
