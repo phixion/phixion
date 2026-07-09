@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
+- Jul 09 - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
+- Jul 09 - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
+- Jul 09 - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
+- Jul 09 - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
 - Jul 09 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
-- Jul 09 - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
-- Jul 09 - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
-- Jul 09 - [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
 <!--END_SECTION:hn-->
 
 <!--
