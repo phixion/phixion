@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 09 - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
-- Jul 09 - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
-- Jul 09 - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
-- Jul 09 - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
-- Jul 09 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- Jul 10 - [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
+- Jul 10 - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
+- Jul 10 - [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)
+- Jul 10 - [Focus](https://boz.com/articles/focus)
+- Jul 10 - [Study: "Mommy, do you love your phone more than me?"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
 <!--END_SECTION:hn-->
 
 <!--
