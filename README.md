@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
 - Jul 10 - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-- Jul 10 - [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)
-- Jul 10 - [Focus](https://boz.com/articles/focus)
 - Jul 10 - [Study: "Mommy, do you love your phone more than me?"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
+- Jul 09 - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
+- Jul 09 - [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+- Jul 09 - [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
 <!--END_SECTION:hn-->
 
 <!--
