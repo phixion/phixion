@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
-- Jul 10 - [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/)
-- Jul 10 - [Parental device use and the adolescent-caregiver attachment bond](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
-- Jul 09 - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
-- Jul 09 - [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+- Jul 10 - [ActivityPub over ATProto](https://berjon.com/ap-at/)
+- Jul 10 - [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)
+- Jul 10 - [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
+- Jul 10 - [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
+- Jul 10 - [Scarf has moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
 <!--END_SECTION:hn-->
 
 <!--
