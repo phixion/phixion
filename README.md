@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 10 - [ActivityPub over ATProto](https://berjon.com/ap-at/)
-- Jul 10 - [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)
-- Jul 10 - [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
-- Jul 10 - [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
-- Jul 10 - [Scarf has moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
+- Jul 10 - [You're Not a Better Engineer Because You Type Git Commands by Hand](https://www.minid.net/2026/7/10/ai-works-for-me)
+- Jul 10 - [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
+- Jul 10 - [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
+- Jul 10 - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
+- Jul 10 - [Hands-On with the AMD Ryzen AI Halo](https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx)
 <!--END_SECTION:hn-->
 
 <!--
