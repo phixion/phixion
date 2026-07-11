@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 11 - [Companies are scrambling to curtail soaring AI costs](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs)
+- Jul 11 - [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 - Jul 10 - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 - Jul 10 - [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
 - Jul 10 - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-- Jul 10 - [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
-- Jul 10 - [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 <!--END_SECTION:hn-->
 
 <!--
