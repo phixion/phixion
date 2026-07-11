@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
-- Jul 11 - [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
-- Jul 11 - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
-- Jul 11 - [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-- Jul 10 - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+- Jul 11 - [Modern Decor May Be Straining People's Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
+- Jul 11 - [Tropical forests facing increasing risks of exposure to critical temp thresholds](https://www.pnas.org/doi/10.1073/pnas.2528622123)
+- Jul 11 - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
+- Jul 11 - [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
+- Jul 11 - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
 <!--END_SECTION:hn-->
 
 <!--
