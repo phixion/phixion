@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [An explanation of our search results](https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html)
-- Jul 12 - [TK, or the secret to effortless writing (2024)](https://atthis.link/blog/2024/49629.html)
-- Jul 12 - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
-- Jul 12 - [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
-- Jul 12 - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
+- Jul 12 - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+- Jul 12 - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+- Jul 12 - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
+- Jul 12 - [Neocities: Create your own free website](https://neocities.org/)
+- Jul 12 - [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
 <!--END_SECTION:hn-->
 
 <!--
