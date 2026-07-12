@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)](https://github.com/PJHkorea/quantum-mesh-qec)
+- Jul 12 - [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
+- Jul 12 - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+- Jul 12 - [Why are US consumers so angry? It's not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
 - Jul 12 - [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
 - Jul 12 - [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
-- Jul 12 - [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
-- Jul 12 - [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
 <!--END_SECTION:hn-->
 
 <!--
