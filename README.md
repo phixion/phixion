@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 11 - [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
-- Jul 11 - [The Chinese Voice Actor Forced to Prove He's Human](https://www.sixthtone.com/news/1018753)
-- Jul 11 - [How to hide from killer drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
-- Jul 11 - [ZeroFS vs. Amazon S3 Files](https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/)
-- Jul 11 - [AI 2040 and the cult of intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+- Jul 12 - [Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)](https://github.com/PJHkorea/quantum-mesh-qec)
+- Jul 12 - [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+- Jul 12 - [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
+- Jul 12 - [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
+- Jul 12 - [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
 <!--END_SECTION:hn-->
 
 <!--
