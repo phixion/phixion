@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Understanding the Odin Programming Language](https://odinbook.com/)
-- Jul 12 - [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
-- Jul 12 - [Woman in Brazil enslaved for 55 years by 3 generations of the same family](https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html)
-- Jul 12 - [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
-- Jul 12 - [Datacentres drive up big tech's carbon emissions to a third of those of France](https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france)
+- Jul 12 - [An explanation of our search results](https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html)
+- Jul 12 - [TK, or the secret to effortless writing (2024)](https://atthis.link/blog/2024/49629.html)
+- Jul 12 - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
+- Jul 12 - [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
+- Jul 12 - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
 <!--END_SECTION:hn-->
 
 <!--
