@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
-- Jul 13 - [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
-- Jul 13 - [Count Binface](https://countbinface.com)
-- Jul 13 - [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
-- Jul 12 - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+- Jul 13 - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
+- Jul 13 - [Berkshire's $397B Bet Against an Overheated Market](https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/)
+- Jul 13 - [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
+- Jul 13 - [Quadrupling code performance with a "useless" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
+- Jul 13 - [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
 <!--END_SECTION:hn-->
 
 <!--
