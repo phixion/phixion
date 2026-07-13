@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
-- Jul 13 - [Berkshire's $397B Bet Against an Overheated Market](https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/)
-- Jul 13 - [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
-- Jul 13 - [Quadrupling code performance with a "useless" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
-- Jul 13 - [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+- Jul 13 - [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
+- Jul 13 - [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
+- Jul 13 - [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/i/status/2076598897779020159)
+- Jul 13 - [A Right Too Expensive to Exercise Isn't a Right](https://deepbluedynamics.com/blog/right-too-expensive-to-exercise)
+- Jul 13 - [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
 <!--END_SECTION:hn-->
 
 <!--
