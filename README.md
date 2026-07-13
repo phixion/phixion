@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 12 - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
-- Jul 12 - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
-- Jul 12 - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
-- Jul 12 - [Neocities: Create your own free website](https://neocities.org/)
-- Jul 12 - [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
+- Jul 13 - [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county)
+- Jul 13 - [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
+- Jul 12 - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+- Jul 12 - [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
+- Jul 12 - [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
 <!--END_SECTION:hn-->
 
 <!--
