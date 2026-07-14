@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
-- Jul 14 - [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
-- Jul 14 - [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
-- Jul 14 - [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
-- Jul 14 - [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
+- Jul 14 - [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+- Jul 14 - [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
+- Jul 14 - [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
+- Jul 14 - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- Jul 14 - [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)
 <!--END_SECTION:hn-->
 
 <!--
