@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Proof of Care in the Age of A.I](https://jacobfilipp.com/care/)
-- Jul 14 - [Tensor Is the Might](https://zserge.com/posts/tensor/)
-- Jul 14 - [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai)
-- Jul 14 - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
-- Jul 14 - [Coding agents think ahead of time](https://arxiv.org/abs/2607.05188)
+- Jul 14 - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
+- Jul 14 - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
+- Jul 14 - [S&P downgrades Oracle to BBB – only one notch above junk level](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html)
+- Jul 14 - [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
+- Jul 14 - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
 <!--END_SECTION:hn-->
 
 <!--
