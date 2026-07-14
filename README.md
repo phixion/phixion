@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 13 - [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
-- Jul 13 - [Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py)
-- Jul 13 - [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)
-- Jul 13 - [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
-- Jul 13 - [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me)
+- Jul 14 - [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
+- Jul 14 - [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
+- Jul 14 - [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
+- Jul 14 - [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
+- Jul 14 - [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
 <!--END_SECTION:hn-->
 
 <!--
