@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [European "age verification" "app" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
-- Jul 14 - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
-- Jul 14 - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
-- Jul 14 - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
-- Jul 14 - [Just Let Me Write Digits](https://gendx.dev/blog/2026/07/13/input-digits.html)
+- Jul 14 - [Proof of Care in the Age of A.I](https://jacobfilipp.com/care/)
+- Jul 14 - [Tensor Is the Might](https://zserge.com/posts/tensor/)
+- Jul 14 - [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai)
+- Jul 14 - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
+- Jul 14 - [Coding agents think ahead of time](https://arxiv.org/abs/2607.05188)
 <!--END_SECTION:hn-->
 
 <!--
