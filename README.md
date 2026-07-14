@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 14 - [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
-- Jul 14 - [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
-- Jul 14 - [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
-- Jul 14 - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-- Jul 14 - [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)
+- Jul 14 - [European "age verification" "app" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
+- Jul 14 - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
+- Jul 14 - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
+- Jul 14 - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
+- Jul 14 - [Just Let Me Write Digits](https://gendx.dev/blog/2026/07/13/input-digits.html)
 <!--END_SECTION:hn-->
 
 <!--
