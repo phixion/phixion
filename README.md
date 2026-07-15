@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 15 - [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
+- Jul 15 - [Voxatron](https://www.lexaloffle.com/voxatron.php)
+- Jul 15 - [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
+- Jul 15 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 - Jul 15 - [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
-- Jul 15 - [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
-- Jul 15 - [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
-- Jul 15 - [Collection of Digital Clock Designs](https://clocks.dev)
-- Jul 15 - [Starlink 2X Price Increase](https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/)
 <!--END_SECTION:hn-->
 
 <!--
