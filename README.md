@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [America pays workers just 27% of what its wealth allows – the worst in the OECD](https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/)
-- Jul 15 - [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
-- Jul 15 - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
-- Jul 15 - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
-- Jul 15 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
+- Jul 15 - [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)
+- Jul 15 - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
+- Jul 15 - [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)
+- Jul 15 - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+- Jul 15 - [SpaceX bond worth 10% less than issue price – heading for junk bond status](https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541)
 <!--END_SECTION:hn-->
 
 <!--
