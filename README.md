@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)
-- Jul 15 - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
-- Jul 15 - [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)
-- Jul 15 - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
-- Jul 15 - [SpaceX bond worth 10% less than issue price – heading for junk bond status](https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541)
+- Jul 15 - [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
+- Jul 15 - [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
+- Jul 15 - [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
+- Jul 15 - [Collection of Digital Clock Designs](https://clocks.dev)
+- Jul 15 - [Starlink 2X Price Increase](https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/)
 <!--END_SECTION:hn-->
 
 <!--
