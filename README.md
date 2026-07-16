@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 15 - [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
-- Jul 15 - [Voxatron](https://www.lexaloffle.com/voxatron.php)
-- Jul 15 - [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
-- Jul 15 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- Jul 15 - [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
+- Jul 15 - [Show HN: One More Letter](https://playonemoreletter.com/)
+- Jul 15 - [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
+- Jul 15 - [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
+- Jul 15 - [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
+- Jul 15 - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 <!--END_SECTION:hn-->
 
 <!--
