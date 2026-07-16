@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
-- Jul 16 - [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
-- Jul 16 - [Show HN: I've built a words game based on binary search](https://hilogame.cc/)
-- Jul 16 - [Introduction to KizunaShelf: A shelf for everything you love](https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/)
-- Jul 16 - [Teen hackers who live streamed cyber-attack on TfL jailed](https://www.bbc.com/news/articles/c4gyg0y6yg2o)
+- Jul 16 - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
+- Jul 16 - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
+- Jul 16 - ['We used acid to sabotage Microsoft hyperscale data centre construction'](https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/)
+- Jul 16 - [Detecting LLM-Generated Texts with "Classical" Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
+- Jul 16 - [Show HN: Galois connections for composable numeric casts in Rust](https://github.com/cmk/connections)
 <!--END_SECTION:hn-->
 
 <!--
