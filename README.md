@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [DJB Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
+- Jul 16 - [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
+- Jul 16 - [Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
 - Jul 16 - [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
-- Jul 16 - [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
-- Jul 16 - [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
+- Jul 16 - [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
 - Jul 16 - [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
 <!--END_SECTION:hn-->
 
