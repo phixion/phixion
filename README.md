@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
-- Jul 16 - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
-- Jul 16 - ['We used acid to sabotage Microsoft hyperscale data centre construction'](https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/)
-- Jul 16 - [Detecting LLM-Generated Texts with "Classical" Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
-- Jul 16 - [Show HN: Galois connections for composable numeric casts in Rust](https://github.com/cmk/connections)
+- Jul 16 - [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
+- Jul 16 - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
+- Jul 16 - [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+- Jul 16 - [The privacy problems hidden in your period tracker](https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details)
+- Jul 16 - [Kimi K3 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/kimi-k3)
 <!--END_SECTION:hn-->
 
 <!--
