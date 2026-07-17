@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer)
-- Jul 17 - [Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology](https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/)
-- Jul 17 - [Minikotlin](https://minikotlin.run)
-- Jul 17 - [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
-- Jul 17 - [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
+- Jul 17 - [CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years](https://link.springer.com/article/10.1007/s11869-026-01918-5)
+- Jul 17 - [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
+- Jul 17 - [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
+- Jul 17 - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
+- Jul 17 - [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)
 <!--END_SECTION:hn-->
 
 <!--
