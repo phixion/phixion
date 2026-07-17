@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 16 - [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
-- Jul 16 - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
-- Jul 16 - [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
-- Jul 16 - [The privacy problems hidden in your period tracker](https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details)
-- Jul 16 - [Kimi K3 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/kimi-k3)
+- Jul 17 - [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
+- Jul 17 - [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
+- Jul 16 - [Show HN: Mojibake – A low-level Unicode library written in C](https://mojibake.zaerl.com/)
+- Jul 16 - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
+- Jul 16 - [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
 <!--END_SECTION:hn-->
 
 <!--
