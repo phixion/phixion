@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
-- Jul 17 - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
-- Jul 17 - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-- Jul 17 - [UIUC AI Teaching Assistant](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc)
-- Jul 17 - [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
+- Jul 17 - [Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer)
+- Jul 17 - [Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology](https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/)
+- Jul 17 - [Minikotlin](https://minikotlin.run)
+- Jul 17 - [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
+- Jul 17 - [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 <!--END_SECTION:hn-->
 
 <!--
