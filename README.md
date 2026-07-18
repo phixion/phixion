@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 17 - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
-- Jul 17 - [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
-- Jul 17 - [Lego building instructions through time](https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time)
-- Jul 17 - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
-- Jul 17 - [Homomorphically encrypted CIFAR-10 inference in 200ms](https://sofar.belfortlabs.cloud/)
+- Jul 18 - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+- Jul 18 - [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+- Jul 18 - [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+- Jul 18 - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
+- Jul 18 - [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed)
 <!--END_SECTION:hn-->
 
 <!--
