@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 18 - [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
-- Jul 18 - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
-- Jul 18 - [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
-- Jul 18 - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
-- Jul 18 - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
+- Jul 19 - [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+- Jul 19 - [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
+- Jul 19 - [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
+- Jul 18 - [Harness Engineering](https://github.com/lopopolo/harness-engineering)
+- Jul 18 - [Codex Resets](https://codex-resets.com/)
 <!--END_SECTION:hn-->
 
 <!--
