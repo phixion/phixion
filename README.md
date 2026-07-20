@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
-- Jul 20 - [Kimi Work](https://www.kimi.com/products/kimi-work)
-- Jul 20 - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
-- Jul 20 - [My husbands suicide shows theres something very wrong with US insurance industry](https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/)
-- Jul 20 - [Over 30% of new ArXiv submissions now read as AI-written](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
+- Jul 20 - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
+- Jul 20 - [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
+- Jul 20 - [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
+- Jul 20 - [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
+- Jul 20 - [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)
 <!--END_SECTION:hn-->
 
 <!--
