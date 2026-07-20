@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
-- Jul 20 - [Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas](https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510)
-- Jul 20 - [Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)
-- Jul 20 - [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
-- Jul 20 - [Codex is wearing out our devices](https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/)
+- Jul 20 - [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
+- Jul 20 - [Kimi Work](https://www.kimi.com/products/kimi-work)
+- Jul 20 - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+- Jul 20 - [My husbands suicide shows theres something very wrong with US insurance industry](https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/)
+- Jul 20 - [Over 30% of new ArXiv submissions now read as AI-written](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 <!--END_SECTION:hn-->
 
 <!--
