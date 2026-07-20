@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 20 - [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
-- Jul 20 - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
-- Jul 20 - [How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/)
-- Jul 20 - [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
-- Jul 20 - [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
+- Jul 20 - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+- Jul 20 - [Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas](https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510)
+- Jul 20 - [Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)
+- Jul 20 - [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
+- Jul 20 - [Codex is wearing out our devices](https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/)
 <!--END_SECTION:hn-->
 
 <!--
