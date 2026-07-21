@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Meta's AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
-- Jul 21 - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
-- Jul 21 - [The World's 2,400 Castles](https://thecastlemap.com/)
-- Jul 21 - [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
-- Jul 21 - [Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
+- Jul 21 - [Mickey Mouse Sells a Bundle](https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn)
+- Jul 21 - [OpenAI and Hugging Face partner to address security incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- Jul 21 - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
+- Jul 21 - [Advertise in ChatGPT](https://ads.openai.com/)
+- Jul 21 - [The Price of Happiness (2024)](https://happiness-science.org/price-of-happiness/)
 <!--END_SECTION:hn-->
 
 <!--
