@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/)
-- Jul 21 - [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
-- Jul 21 - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
-- Jul 21 - [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
-- Jul 21 - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
+- Jul 21 - [Meta's AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
+- Jul 21 - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
+- Jul 21 - [The World's 2,400 Castles](https://thecastlemap.com/)
+- Jul 21 - [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
+- Jul 21 - [Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
 <!--END_SECTION:hn-->
 
 <!--
