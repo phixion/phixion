@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
+- Jul 22 - [Codeberg: ToU extension to prohibit LLM-extrusions](https://codeberg.org/Codeberg/org/pulls/1253)
+- Jul 22 - [I graded 36 popular MCP servers on agent usability. A third got a D or F](https://tengli.dev/posts/mcp-servers-failing-agents.html)
 - Jul 22 - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
 - Jul 22 - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
-- Jul 22 - [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
 - Jul 22 - [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 <!--END_SECTION:hn-->
 
