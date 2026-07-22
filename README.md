@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 21 - [Mickey Mouse Sells a Bundle](https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn)
-- Jul 21 - [OpenAI and Hugging Face partner to address security incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
-- Jul 21 - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
-- Jul 21 - [Advertise in ChatGPT](https://ads.openai.com/)
-- Jul 21 - [The Price of Happiness (2024)](https://happiness-science.org/price-of-happiness/)
+- Jul 22 - [Ten Steps Towards Happiness](http://hintjens.com/blog:99)
+- Jul 22 - [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)
+- Jul 22 - [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
+- Jul 21 - [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
+- Jul 21 - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
 <!--END_SECTION:hn-->
 
 <!--
