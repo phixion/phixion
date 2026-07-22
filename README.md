@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
-- Jul 22 - [Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)
-- Jul 22 - [Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)
-- Jul 22 - [A Zipper Patent Sat in a Garage for 40 Years. Now It's Real](https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/)
-- Jul 22 - [Making](https://beej.us/blog/data/ai-making/)
+- Jul 22 - [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
+- Jul 22 - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
+- Jul 22 - [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit)
+- Jul 22 - [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
+- Jul 22 - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 <!--END_SECTION:hn-->
 
 <!--
