@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Ten Steps Towards Happiness](http://hintjens.com/blog:99)
-- Jul 22 - [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)
-- Jul 22 - [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
-- Jul 21 - [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
-- Jul 21 - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+- Jul 22 - [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
+- Jul 22 - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
+- Jul 22 - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
+- Jul 22 - [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
+- Jul 22 - [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 <!--END_SECTION:hn-->
 
 <!--
