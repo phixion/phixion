@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Codeberg: ToU extension to prohibit LLM-extrusions](https://codeberg.org/Codeberg/org/pulls/1253)
-- Jul 22 - [I graded 36 popular MCP servers on agent usability. A third got a D or F](https://tengli.dev/posts/mcp-servers-failing-agents.html)
-- Jul 22 - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
+- Jul 22 - [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
+- Jul 22 - [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
+- Jul 22 - [10 REM"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
+- Jul 22 - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
 - Jul 22 - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
-- Jul 22 - [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 <!--END_SECTION:hn-->
 
 <!--
