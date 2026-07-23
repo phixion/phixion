@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 22 - [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
-- Jul 22 - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
-- Jul 22 - [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit)
-- Jul 22 - [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
-- Jul 22 - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+- Jul 23 - [Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
+- Jul 23 - [Run large language models at home, BitTorrent‑style](https://petals.dev/)
+- Jul 23 - [OpenAI's accidental cyberattack against Hugging Face is science fiction](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)
+- Jul 23 - [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
+- Jul 22 - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 <!--END_SECTION:hn-->
 
 <!--
