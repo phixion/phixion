@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 23 - [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)
 - Jul 23 - [Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
-- Jul 23 - [Run large language models at home, BitTorrent‑style](https://petals.dev/)
-- Jul 23 - [OpenAI's accidental cyberattack against Hugging Face is science fiction](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)
+- Jul 23 - [Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs](https://arxiv.org/abs/2607.20386)
+- Jul 23 - [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
 - Jul 23 - [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
-- Jul 22 - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 <!--END_SECTION:hn-->
 
 <!--
