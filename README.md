@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [What just happened to TheNumbers.com should worry us all](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
-- Jul 23 - [Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording](https://news.ycombinator.com/item?id=49024620)
-- Jul 23 - [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
-- Jul 23 - [Free way to get your data out of ChatGPT Business accounts](https://github.com/Conradqh/scrapemychats)
-- Jul 23 - [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
+- Jul 23 - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+- Jul 23 - [Selfie for sign-in: a new, easy way to access your Google Account](https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/)
+- Jul 23 - [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
+- Jul 23 - [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
+- Jul 23 - [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
 <!--END_SECTION:hn-->
 
 <!--
