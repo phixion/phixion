@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [For most US drivers, EVs offer emissions benefits and cost savings](https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512)
-- Jul 24 - [Show HN: A factory simulator game built on Spreadsheets](https://www.logisheets.com/?craft=factory-simulator)
-- Jul 23 - [The Visual 6502](http://visual6502.org/JSSim/index.html)
-- Jul 23 - [98.css](https://jdan.github.io/98.css/#status-bar)
-- Jul 23 - [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
+- Jul 24 - [Show HN: A static, client-side tarot calculator for Brazilian Portuguese](https://meuarcanopessoal.net/)
+- Jul 24 - [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+- Jul 24 - [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html)
+- Jul 24 - [Nothing works and everyone is euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
+- Jul 24 - [The day Steve Jobs dissed me in a keynote (2010)](https://sive.rs/itunes)
 <!--END_SECTION:hn-->
 
 <!--
