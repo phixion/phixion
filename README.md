@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Claude Opus 5](https://www.anthropic.com/claude-opus-5-system-card)
-- Jul 24 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- Jul 24 - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
-- Jul 24 - [Online Historical Encyclopaedia of Programming Languages](https://hopl.info/)
-- Jul 24 - [Apple won't let me show my app](https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/)
+- Jul 24 - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+- Jul 24 - [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
+- Jul 24 - [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
+- Jul 24 - [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/)
+- Jul 24 - [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
 <!--END_SECTION:hn-->
 
 <!--
