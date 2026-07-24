@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Show HN: A static, client-side tarot calculator for Brazilian Portuguese](https://meuarcanopessoal.net/)
-- Jul 24 - [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
-- Jul 24 - [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html)
-- Jul 24 - [Nothing works and everyone is euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
-- Jul 24 - [The day Steve Jobs dissed me in a keynote (2010)](https://sive.rs/itunes)
+- Jul 24 - [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
+- Jul 24 - [Ah, the Codeberg Drama](https://gagliardoni.net/#20260724_codeberg_drama)
+- Jul 24 - [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
+- Jul 24 - [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
+- Jul 24 - [Why is programming so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing)
 <!--END_SECTION:hn-->
 
 <!--
