@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 23 - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
-- Jul 23 - [Selfie for sign-in: a new, easy way to access your Google Account](https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/)
-- Jul 23 - [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
-- Jul 23 - [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
-- Jul 23 - [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
+- Jul 24 - [Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond](https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607)
+- Jul 23 - [The Visual 6502](http://visual6502.org/JSSim/index.html)
+- Jul 23 - [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369)
+- Jul 23 - [98.css](https://jdan.github.io/98.css/#status-bar)
+- Jul 23 - [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
 <!--END_SECTION:hn-->
 
 <!--
