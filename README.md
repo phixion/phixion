@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond](https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607)
+- Jul 24 - [For most US drivers, EVs offer emissions benefits and cost savings](https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512)
+- Jul 24 - [Show HN: A factory simulator game built on Spreadsheets](https://www.logisheets.com/?craft=factory-simulator)
 - Jul 23 - [The Visual 6502](http://visual6502.org/JSSim/index.html)
-- Jul 23 - [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369)
 - Jul 23 - [98.css](https://jdan.github.io/98.css/#status-bar)
-- Jul 23 - [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
+- Jul 23 - [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
 <!--END_SECTION:hn-->
 
 <!--
