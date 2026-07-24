@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 24 - [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
-- Jul 24 - [Ah, the Codeberg Drama](https://gagliardoni.net/#20260724_codeberg_drama)
-- Jul 24 - [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
-- Jul 24 - [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
-- Jul 24 - [Why is programming so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing)
+- Jul 24 - [Claude Opus 5](https://www.anthropic.com/claude-opus-5-system-card)
+- Jul 24 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- Jul 24 - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
+- Jul 24 - [Online Historical Encyclopaedia of Programming Languages](https://hopl.info/)
+- Jul 24 - [Apple won't let me show my app](https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/)
 <!--END_SECTION:hn-->
 
 <!--
