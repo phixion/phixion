@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 24 - [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+- Jul 24 - [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)
+- Jul 24 - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 - Jul 24 - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- Jul 24 - [I got into YC Startup School by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
 - Jul 24 - [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
-- Jul 24 - [The small, real, original web](https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/)
-- Jul 24 - [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
 <!--END_SECTION:hn-->
 
 <!--
