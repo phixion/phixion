@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 25 - [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)
+- Jul 25 - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+- Jul 25 - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
+- Jul 25 - [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
 - Jul 25 - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
-- Jul 25 - [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
-- Jul 25 - [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
-- Jul 25 - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
-- Jul 25 - [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
 <!--END_SECTION:hn-->
 
 <!--
