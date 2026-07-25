@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Rauno's Field Notes #2](https://rauno.me/notes/2)
-- Jul 25 - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
-- Jul 25 - [Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
-- Jul 25 - [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
-- Jul 25 - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
+- Jul 25 - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
+- Jul 25 - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
+- Jul 25 - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
+- Jul 25 - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
+- Jul 25 - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 <!--END_SECTION:hn-->
 
 <!--
