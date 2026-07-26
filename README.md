@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 25 - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
-- Jul 25 - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
-- Jul 25 - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
-- Jul 25 - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
-- Jul 25 - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
+- Jul 26 - [JetZero](https://www.jetzero.aero)
+- Jul 26 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+- Jul 26 - [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
+- Jul 26 - [Show HN: What 180k words look like as a temporal knowledge graph (Oz series)](https://synaptale.com/graph?ch=100)
+- Jul 26 - [Show HN: ZWPlayer – Free player with interactive annotations and subtitle search](https://www.zwplayer.com/)
 <!--END_SECTION:hn-->
 
 <!--
