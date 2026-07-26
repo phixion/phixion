@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
-- Jul 26 - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
-- Jul 26 - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
-- Jul 26 - [Design Is Compromise](https://stephango.com/design-is-compromise)
-- Jul 26 - [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
+- Jul 26 - [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
+- Jul 26 - [What does GitHub's security team even do?](https://orchidfiles.com/github-security-team/)
+- Jul 26 - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
+- Jul 26 - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
+- Jul 26 - [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
 <!--END_SECTION:hn-->
 
 <!--
