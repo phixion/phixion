@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
-- Jul 26 - [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
-- Jul 26 - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
-- Jul 26 - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
-- Jul 26 - [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
+- Jul 26 - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
+- Jul 26 - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
+- Jul 26 - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
+- Jul 26 - [Design Is Compromise](https://stephango.com/design-is-compromise)
+- Jul 26 - [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
 <!--END_SECTION:hn-->
 
 <!--
