@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 26 - [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
+- Jul 26 - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 - Jul 26 - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
-- Jul 26 - [Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
 - Jul 26 - [JetZero](https://www.jetzero.aero)
 - Jul 26 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- Jul 26 - [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
 <!--END_SECTION:hn-->
 
 <!--
