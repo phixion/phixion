@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
-- Jul 26 - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
-- Jul 26 - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
-- Jul 26 - [JetZero](https://www.jetzero.aero)
-- Jul 26 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+- Jul 26 - [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
+- Jul 26 - [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
+- Jul 26 - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
+- Jul 26 - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
+- Jul 26 - [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
 <!--END_SECTION:hn-->
 
 <!--
