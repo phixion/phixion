@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 26 - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
+- Jul 26 - [Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
 - Jul 26 - [JetZero](https://www.jetzero.aero)
 - Jul 26 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- Jul 26 - [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
-- Jul 26 - [Show HN: What 180k words look like as a temporal knowledge graph (Oz series)](https://synaptale.com/graph?ch=100)
-- Jul 26 - [Show HN: ZWPlayer – Free player with interactive annotations and subtitle search](https://www.zwplayer.com/)
+- Jul 26 - [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
 <!--END_SECTION:hn-->
 
 <!--
