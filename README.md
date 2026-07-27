@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-- Jul 27 - [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/)
-- Jul 27 - [MAI-Cyber 1](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
-- Jul 27 - [Decathlon Germany adds Wero payment option to decathlon.de website](https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article)
-- Jul 27 - [Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat](https://infrawrench.com)
+- Jul 27 - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
+- Jul 27 - [Professor's invisible prompt trap catches 32/35 students cheating with AI](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
+- Jul 27 - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
+- Jul 27 - [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
+- Jul 27 - [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
 <!--END_SECTION:hn-->
 
 <!--
