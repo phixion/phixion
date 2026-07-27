@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 27 - [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
+- Jul 27 - [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
 - Jul 27 - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-- Jul 27 - [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
 - Jul 26 - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
 - Jul 26 - [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
-- Jul 26 - [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 <!--END_SECTION:hn-->
 
 <!--
