@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 26 - [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
-- Jul 26 - [What does GitHub's security team even do?](https://orchidfiles.com/github-security-team/)
-- Jul 26 - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
-- Jul 26 - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
-- Jul 26 - [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+- Jul 27 - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- Jul 27 - [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
+- Jul 26 - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
+- Jul 26 - [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+- Jul 26 - [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 <!--END_SECTION:hn-->
 
 <!--
