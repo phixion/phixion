@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [The Birth of the American 12-string Guitar](https://www.harpguitars.net/history/grunewald/12-string.htm)
-- Jul 27 - [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
-- Jul 27 - [Why I Left Google DeepMind](https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind)
-- Jul 27 - [Shay Locomotives](https://www.shaylocomotives.com/)
-- Jul 27 - [Chinese chipmaker shares surge 470%](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
+- Jul 27 - [We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
+- Jul 27 - [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
+- Jul 27 - [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
+- Jul 27 - [The Proof Machine (2016)](https://incredible.pm/)
+- Jul 27 - [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
 <!--END_SECTION:hn-->
 
 <!--
