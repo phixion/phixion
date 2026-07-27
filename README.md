@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
-- Jul 27 - [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
-- Jul 27 - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-- Jul 26 - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
-- Jul 26 - [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+- Jul 27 - [The Birth of the American 12-string Guitar](https://www.harpguitars.net/history/grunewald/12-string.htm)
+- Jul 27 - [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
+- Jul 27 - [Why I Left Google DeepMind](https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind)
+- Jul 27 - [Shay Locomotives](https://www.shaylocomotives.com/)
+- Jul 27 - [Chinese chipmaker shares surge 470%](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
 <!--END_SECTION:hn-->
 
 <!--
