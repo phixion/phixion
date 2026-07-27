@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
-- Jul 27 - [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
-- Jul 27 - [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
-- Jul 27 - [The Proof Machine (2016)](https://incredible.pm/)
-- Jul 27 - [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
+- Jul 27 - [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+- Jul 27 - [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/)
+- Jul 27 - [MAI-Cyber 1](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
+- Jul 27 - [Decathlon Germany adds Wero payment option to decathlon.de website](https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article)
+- Jul 27 - [Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat](https://infrawrench.com)
 <!--END_SECTION:hn-->
 
 <!--
