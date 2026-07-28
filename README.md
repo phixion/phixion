@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 27 - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
-- Jul 27 - [Professor's invisible prompt trap catches 32/35 students cheating with AI](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
-- Jul 27 - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
-- Jul 27 - [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
-- Jul 27 - [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
+- Jul 27 - [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
+- Jul 27 - [Show HN: Trylle – The Next-Gen Git Platform for Modern Teams](https://trylle.com/home)
+- Jul 27 - [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
+- Jul 27 - [DConf 2026 in London](https://dconf.org/2026/index.html)
+- Jul 27 - [C/C++ projects packaged for Zig](https://github.com/allyourcodebase)
 <!--END_SECTION:hn-->
 
 <!--
