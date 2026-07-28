@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
-- Jul 28 - [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
-- Jul 28 - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/)
-- Jul 28 - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)
-- Jul 28 - [Many "serious" mathematicians are aghast](https://twitter.com/lemire/status/2082091243597697071)
+- Jul 28 - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
+- Jul 28 - [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)
+- Jul 28 - [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
+- Jul 28 - [WOFF 1.0: a milestone on W3C's journey of fonts on the web](https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/)
+- Jul 28 - [Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code](https://github.com/xyTom/coding-tools-mcp)
 <!--END_SECTION:hn-->
 
 <!--
