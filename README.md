@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [What Even Are Microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
-- Jul 28 - [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
-- Jul 28 - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
-- Jul 28 - [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
-- Jul 28 - [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
+- Jul 28 - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
+- Jul 28 - [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
+- Jul 28 - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/)
+- Jul 28 - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)
+- Jul 28 - [Many "serious" mathematicians are aghast](https://twitter.com/lemire/status/2082091243597697071)
 <!--END_SECTION:hn-->
 
 <!--
