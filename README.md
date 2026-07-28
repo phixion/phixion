@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
-- Jul 28 - [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)
-- Jul 28 - [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
-- Jul 28 - [WOFF 1.0: a milestone on W3C's journey of fonts on the web](https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/)
-- Jul 28 - [Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code](https://github.com/xyTom/coding-tools-mcp)
+- Jul 28 - [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
+- Jul 28 - [Recursion is lying to you](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
+- Jul 28 - [Pacing the frontier](https://www.pacingthefrontier.com/)
+- Jul 28 - [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
+- Jul 28 - [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 <!--END_SECTION:hn-->
 
 <!--
