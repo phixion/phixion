@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
-- Jul 29 - [Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications)
-- Jul 29 - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
-- Jul 29 - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
-- Jul 29 - [I Want to Leave the Internet](https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/)
+- Jul 29 - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+- Jul 29 - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
+- Jul 29 - [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
+- Jul 29 - [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
+- Jul 29 - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
 <!--END_SECTION:hn-->
 
 <!--
