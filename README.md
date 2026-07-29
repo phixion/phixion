@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 28 - [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
-- Jul 28 - [Recursion is lying to you](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
-- Jul 28 - [Pacing the frontier](https://www.pacingthefrontier.com/)
-- Jul 28 - [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
-- Jul 28 - [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
+- Jul 29 - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
+- Jul 29 - [Show HN: Learning Rust by writing a Markdown to HTML compiler](https://andreadimatteo.com/md-to-html-compiler.html)
+- Jul 29 - [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
+- Jul 29 - [Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]](https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf)
+- Jul 29 - [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
 <!--END_SECTION:hn-->
 
 <!--
