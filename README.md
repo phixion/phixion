@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Why the future is local app](https://getapps.cafe/blog/why-the-future-is-local-app)
-- Jul 30 - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
-- Jul 30 - [Logic for Programmers](https://logicforprogrammers.com/)
-- Jul 29 - [The Productivity Mirage](https://frantic.im/mirage/)
-- Jul 29 - [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
+- Jul 30 - [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev)
+- Jul 30 - [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
+- Jul 30 - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
+- Jul 30 - [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
+- Jul 30 - [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
 <!--END_SECTION:hn-->
 
 <!--
