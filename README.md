@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev)
-- Jul 30 - [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
-- Jul 30 - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
-- Jul 30 - [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
-- Jul 30 - [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
+- Jul 30 - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
+- Jul 30 - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+- Jul 30 - [Rise Reforming (YC S26) Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
+- Jul 30 - [How Olinia Turns Mexico's EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
+- Jul 30 - [Toot.community Is Shutting Down](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
 <!--END_SECTION:hn-->
 
 <!--
