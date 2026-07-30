@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 30 - [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
-- Jul 30 - [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
+- Jul 30 - [1,741 "informed" consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
+- Jul 30 - [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+- Jul 30 - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
+- Jul 30 - [Logic for Programmers](https://logicforprogrammers.com/)
 - Jul 30 - [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
-- Jul 29 - [The Productivity Mirage](https://frantic.im/mirage/)
-- Jul 29 - [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
 <!--END_SECTION:hn-->
 
 <!--
