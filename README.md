@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 29 - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
-- Jul 29 - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
-- Jul 29 - [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
-- Jul 29 - [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
-- Jul 29 - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
+- Jul 30 - [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
+- Jul 30 - [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
+- Jul 30 - [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
+- Jul 29 - [The Productivity Mirage](https://frantic.im/mirage/)
+- Jul 29 - [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
 <!--END_SECTION:hn-->
 
 <!--
