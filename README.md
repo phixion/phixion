@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Jul 31 - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
+- Jul 31 - [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do)
+- Jul 31 - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 - Jul 31 - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
-- Jul 31 - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
-- Jul 31 - [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
-- Jul 31 - [The session you cannot take with you](https://earendil.com/posts/session-portability/)
-- Jul 31 - [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
+- Jul 31 - [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
 <!--END_SECTION:hn-->
 
 <!--
