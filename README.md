@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
-- Jul 31 - [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
-- Jul 31 - [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
-- Jul 31 - [Algorithms on billion-scale graph using 10GB RAM: I love DataFusion](https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/)
-- Jul 31 - [The Art of Decision-Making (2019)](https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making)
+- Jul 31 - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
+- Jul 31 - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+- Jul 31 - [Show HN: How to build and self-host a code review agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
+- Jul 31 - [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
+- Jul 31 - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 <!--END_SECTION:hn-->
 
 <!--
