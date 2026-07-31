@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Jul 31 - [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
-- Jul 31 - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
-- Jul 31 - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-- Jul 31 - [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
-- Jul 31 - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
+- Jul 31 - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
+- Jul 31 - [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
+- Jul 31 - [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
+- Jul 31 - [Algorithms on billion-scale graph using 10GB RAM: I love DataFusion](https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/)
+- Jul 31 - [The Art of Decision-Making (2019)](https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making)
 <!--END_SECTION:hn-->
 
 <!--
