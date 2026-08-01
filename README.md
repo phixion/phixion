@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
-- Aug 01 - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
-- Aug 01 - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
-- Aug 01 - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
-- Aug 01 - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
+- Aug 01 - [Diátaxis](https://diataxis.fr/)
+- Aug 01 - [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
+- Aug 01 - [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
+- Aug 01 - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
+- Aug 01 - [Google News is just Forrest Gump's shrimp boat now](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
 <!--END_SECTION:hn-->
 
 <!--
