@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 01 - [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
+- Aug 01 - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
+- Aug 01 - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 - Aug 01 - [RamenHaus](https://ramen.haus/)
-- Aug 01 - [How to Do Great Work](https://paulgraham.com/greatwork.html)
-- Aug 01 - [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
-- Aug 01 - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
-- Aug 01 - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+- Aug 01 - [How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)
 <!--END_SECTION:hn-->
 
 <!--
