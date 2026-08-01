@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
-- Aug 01 - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
-- Aug 01 - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
-- Aug 01 - [RamenHaus](https://ramen.haus/)
-- Aug 01 - [How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)
+- Aug 01 - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
+- Aug 01 - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
+- Aug 01 - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
+- Aug 01 - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
+- Aug 01 - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
 <!--END_SECTION:hn-->
 
 <!--
