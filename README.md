@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Has the New Cocaine Arrived?](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
+- Aug 02 - [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
+- Aug 02 - [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
+- Aug 02 - [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
+- Aug 02 - [A Rant About “Technology” (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
 - Aug 02 - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
-- Aug 02 - [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
-- Aug 02 - [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
-- Aug 02 - [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)
 <!--END_SECTION:hn-->
 
 <!--
