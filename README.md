@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
-- Aug 02 - [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
-- Aug 02 - [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
-- Aug 02 - [A Rant About “Technology” (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
-- Aug 02 - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+- Aug 02 - [My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."](https://frogs.vaguespac.es/)
+- Aug 02 - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
+- Aug 02 - [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
+- Aug 02 - [Europe EV Sales BEVs Jump 50% & Reach 26% Market Share](https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/)
+- Aug 02 - ['Crush this lady': how eBay harassment campaign led to $56M payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
 <!--END_SECTION:hn-->
 
 <!--
