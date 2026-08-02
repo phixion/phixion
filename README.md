@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 01 - [Diátaxis](https://diataxis.fr/)
-- Aug 01 - [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
-- Aug 01 - [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
-- Aug 01 - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
-- Aug 01 - [Google News is just Forrest Gump's shrimp boat now](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
+- Aug 02 - [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
+- Aug 02 - [When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
+- Aug 02 - [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+- Aug 02 - [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
+- Aug 02 - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
 <!--END_SECTION:hn-->
 
 <!--
