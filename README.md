@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 02 - [My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."](https://frogs.vaguespac.es/)
-- Aug 02 - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
-- Aug 02 - [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
-- Aug 02 - [Europe EV Sales BEVs Jump 50% & Reach 26% Market Share](https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/)
-- Aug 02 - ['Crush this lady': how eBay harassment campaign led to $56M payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
+- Aug 03 - [Apple engineer says he was fired after refusing to send cust. device IDs to AT&T](https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic)
+- Aug 03 - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- Aug 03 - [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
+- Aug 03 - [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+- Aug 03 - [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
 <!--END_SECTION:hn-->
 
 <!--
