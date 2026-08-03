@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [The Future, Made in China](https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china)
-- Aug 03 - [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
-- Aug 03 - [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)
-- Aug 03 - [Ask HN: What are the viable alternatives to DuckDuckGo?](https://news.ycombinator.com/item?id=49155492)
-- Aug 03 - [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+- Aug 03 - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
+- Aug 03 - [SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust)
+- Aug 03 - [Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)
+- Aug 03 - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+- Aug 03 - [Show HN: Product analytics (and evals) for agent sessions on your MCP](https://armature.tech/)
 <!--END_SECTION:hn-->
 
 <!--
