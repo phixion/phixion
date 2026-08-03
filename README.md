@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-- Aug 03 - [SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust)
-- Aug 03 - [Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)
-- Aug 03 - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
-- Aug 03 - [Show HN: Product analytics (and evals) for agent sessions on your MCP](https://armature.tech/)
+- Aug 03 - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
+- Aug 03 - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
+- Aug 03 - [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+- Aug 03 - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+- Aug 03 - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
 <!--END_SECTION:hn-->
 
 <!--
