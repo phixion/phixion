@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Your open tabs are unfinished decisions, not bookmarks](https://gettably.tech/articles/open-tabs-are-unfinished-decisions/)
-- Aug 04 - [Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
-- Aug 04 - [Webb telescope finds signs of ancient disaster for Neptune's moons](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
-- Aug 04 - [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/)
-- Aug 04 - [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
+- Aug 04 - [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
+- Aug 04 - [Waymo CEO explains why Tesla's camera-only self-driving falls short](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)
+- Aug 04 - [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
+- Aug 04 - [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
+- Aug 04 - [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
 <!--END_SECTION:hn-->
 
 <!--
