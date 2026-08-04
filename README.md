@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/)
-- Aug 04 - [The Myth, the Mythos, and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
-- Aug 03 - [Why did we wait so long for the bicycle? (2019)](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
-- Aug 03 - [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
-- Aug 03 - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+- Aug 04 - [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
+- Aug 04 - [The US is not a democracy but an oligarchy, study concludes (2014)](https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/)
+- Aug 04 - [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+- Aug 04 - [Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
+- Aug 04 - [Show HN: I made a private self-destructing image hosting site in Golang](https://picburn.xyz/)
 <!--END_SECTION:hn-->
 
 <!--
