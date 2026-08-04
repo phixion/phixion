@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 03 - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
-- Aug 03 - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
-- Aug 03 - [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
-- Aug 03 - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
-- Aug 03 - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
+- Aug 04 - [Native Apps Should Be Avoided Whenever Possible](https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/)
+- Aug 03 - [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+- Aug 03 - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+- Aug 03 - [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
+- Aug 03 - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 <!--END_SECTION:hn-->
 
 <!--
