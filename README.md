@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
-- Aug 04 - [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
-- Aug 04 - [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
-- Aug 04 - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
-- Aug 04 - [Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)
+- Aug 04 - [Your open tabs are unfinished decisions, not bookmarks](https://gettably.tech/articles/open-tabs-are-unfinished-decisions/)
+- Aug 04 - [Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
+- Aug 04 - [Webb telescope finds signs of ancient disaster for Neptune's moons](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
+- Aug 04 - [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/)
+- Aug 04 - [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
 <!--END_SECTION:hn-->
 
 <!--
