@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 04 - [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
-- Aug 04 - [Waymo CEO explains why Tesla's camera-only self-driving falls short](https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/)
-- Aug 04 - [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
-- Aug 04 - [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
-- Aug 04 - [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
+- Aug 05 - [After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted](https://www.asiae.co.kr/en/article/2026080416131786841)
+- Aug 05 - [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221)
+- Aug 05 - [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
+- Aug 05 - [Flowise Is Shutting Down](https://flowiseai.com/sunset)
+- Aug 04 - [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
 <!--END_SECTION:hn-->
 
 <!--
