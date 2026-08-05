@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
-- Aug 05 - [A Sick People](https://householderkarl.com/a-sick-people/)
-- Aug 05 - [Universities would prefer no AI](https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to)
-- Aug 05 - [Piece of SpaceX rocket believed to have crashed into the moon](https://www.reuters.com/science/piece-spacex-rocket-will-crash-into-moon-wednesday-2026-08-04/)
-- Aug 05 - [Drone carrying explosive device causes disruption at major German airport](https://www.cnn.com/2026/08/05/europe/cargo-plane-leipzig-disruption-intl)
+- Aug 05 - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
+- Aug 05 - [Discovery Loop](https://www.discoveryloop.com/)
+- Aug 05 - [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
+- Aug 05 - [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
+- Aug 05 - [The next chapter of our AI momentum](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
 <!--END_SECTION:hn-->
 
 <!--
