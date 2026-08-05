@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 05 - [The software group Palantir paid just £2M in corporation tax in the UK in 2024](https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices)
-- Aug 05 - [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
-- Aug 05 - [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
-- Aug 05 - [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla)
-- Aug 05 - [Bugtraq is back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
+- Aug 05 - [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
+- Aug 05 - [A Sick People](https://householderkarl.com/a-sick-people/)
+- Aug 05 - [Universities would prefer no AI](https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to)
+- Aug 05 - [Piece of SpaceX rocket believed to have crashed into the moon](https://www.reuters.com/science/piece-spacex-rocket-will-crash-into-moon-wednesday-2026-08-04/)
+- Aug 05 - [Drone carrying explosive device causes disruption at major German airport](https://www.cnn.com/2026/08/05/europe/cargo-plane-leipzig-disruption-intl)
 <!--END_SECTION:hn-->
 
 <!--
