@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
-- Aug 06 - [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
-- Aug 06 - [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
-- Aug 06 - [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
-- Aug 05 - [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+- Aug 06 - [I added a real-time chat to my blog, people used it to attack me](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
+- Aug 06 - [Telephones Caught in Between](https://computer.rip/2026-08-02-telephone-leasing.html)
+- Aug 06 - [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
+- Aug 06 - [Show HN: demake – one source project compiles to any retro game console ROM](https://geosona.com/demake/)
+- Aug 06 - [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 <!--END_SECTION:hn-->
 
 <!--
