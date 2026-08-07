@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 06 - [I added a real-time chat to my blog, people used it to attack me](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
-- Aug 06 - [Telephones Caught in Between](https://computer.rip/2026-08-02-telephone-leasing.html)
-- Aug 06 - [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
-- Aug 06 - [Show HN: demake – one source project compiles to any retro game console ROM](https://geosona.com/demake/)
-- Aug 06 - [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- Aug 07 - [Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds](https://github.com/Kayvan-Zahiri/asr-age-gap)
+- Aug 07 - [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
+- Aug 06 - [Trump again tries to limit US birthright citizenship with new executive orders](https://www.bbc.com/news/articles/cj63966j95yo)
+- Aug 06 - [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
+- Aug 06 - [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 <!--END_SECTION:hn-->
 
 <!--
