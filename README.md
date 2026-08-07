@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
-- Aug 07 - [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
-- Aug 07 - [Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
-- Aug 07 - [Software is about people, not code (2020)](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
-- Aug 07 - [99% of My Website Traffic Is Bots](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
+- Aug 07 - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
+- Aug 07 - [Psychological Warfare in Reverse Engineering](https://github.com/xoreaxeaxeax/repsych)
+- Aug 07 - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
+- Aug 07 - [Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+- Aug 07 - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 <!--END_SECTION:hn-->
 
 <!--
