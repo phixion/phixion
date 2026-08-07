@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 07 - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
+- Aug 07 - [DOGE overstated savings, government watchdog says](https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797)
+- Aug 07 - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
+- Aug 07 - [Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)
 - Aug 07 - [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
 - Aug 07 - [New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
-- Aug 07 - [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-- Aug 06 - [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
 <!--END_SECTION:hn-->
 
 <!--
