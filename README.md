@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
+- Aug 08 - [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+- Aug 08 - [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+- Aug 08 - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 - Aug 07 - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
 - Aug 07 - [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
-- Aug 07 - [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)
-- Aug 07 - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
 <!--END_SECTION:hn-->
 
 <!--
