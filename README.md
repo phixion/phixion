@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [A Tome of Forbidden Technologies](https://ecosophia.net/a-tome-of-forbidden-technologies/)
-- Aug 08 - [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
-- Aug 08 - [The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)
-- Aug 08 - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)
-- Aug 08 - [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
+- Aug 08 - [Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
+- Aug 08 - [Don't use your phone while you poop](https://nate.spot/no-phone-while-poop/)
+- Aug 08 - [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
+- Aug 08 - [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
+- Aug 08 - [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
 <!--END_SECTION:hn-->
 
 <!--
