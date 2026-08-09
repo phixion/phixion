@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
-- Aug 09 - [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
-- Aug 09 - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
-- Aug 09 - [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
-- Aug 09 - [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
+- Aug 09 - [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
+- Aug 09 - [Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)](https://alexanderwanyoike.github.io/vibez/)
+- Aug 09 - [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
+- Aug 09 - [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+- Aug 09 - [Windows 11's built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html)
 <!--END_SECTION:hn-->
 
 <!--
