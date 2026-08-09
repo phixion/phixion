@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 09 - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
-- Aug 08 - [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
-- Aug 08 - [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-- Aug 08 - [My server is a phone now](https://seg6.space/posts/phone-server/)
-- Aug 08 - [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
+- Aug 09 - ["The original URL for this prediction will no longer be available in 11 years." (2011)](https://longbets.org/601/)
+- Aug 09 - [Illinois Just Told Every Operating System to Start Reporting Your Kid's Age](https://itsfoss.com/news/illinois-age-verification-bill/)
+- Aug 09 - [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+- Aug 09 - [ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
+- Aug 09 - [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
 <!--END_SECTION:hn-->
 
 <!--
