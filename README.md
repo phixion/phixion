@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 08 - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
-- Aug 08 - [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
-- Aug 08 - [Amazon Is Creating the Biggest Pollution Source in the Country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
-- Aug 08 - [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
-- Aug 08 - [Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html)
+- Aug 09 - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
+- Aug 08 - [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+- Aug 08 - [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+- Aug 08 - [My server is a phone now](https://seg6.space/posts/phone-server/)
+- Aug 08 - [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
 <!--END_SECTION:hn-->
 
 <!--
