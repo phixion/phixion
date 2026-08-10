@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)
+- Aug 10 - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- Aug 10 - [The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 - Aug 10 - [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
 - Aug 10 - [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
 - Aug 10 - [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
-- Aug 10 - [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
 <!--END_SECTION:hn-->
 
 <!--
