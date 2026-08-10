@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
-- Aug 10 - [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
-- Aug 10 - [DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years](https://twitter.com/thdxr/status/2086599224674681242)
-- Aug 10 - [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/)
-- Aug 10 - [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/)
+- Aug 10 - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
+- Aug 10 - [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
+- Aug 10 - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+- Aug 10 - [GLP-1 drugs linked to bigger jump in women’s employment than a college degree](https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html)
+- Aug 10 - [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
 <!--END_SECTION:hn-->
 
 <!--
