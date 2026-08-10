@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 10 - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
+- Aug 10 - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 - Aug 10 - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
-- Aug 10 - [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
 - Aug 10 - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-- Aug 10 - [GLP-1 drugs linked to bigger jump in women’s employment than a college degree](https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html)
 - Aug 10 - [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
 <!--END_SECTION:hn-->
 
