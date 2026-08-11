@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
-- Aug 11 - [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
-- Aug 11 - [Launch HN: Keet (YC S24) – An app to create video courses on anything](https://www.trykeet.com/)
-- Aug 11 - [Federal vendor with $50M in contracts leaves portal broken for a month](https://www.propublica.org/article/foia-requests-responses)
-- Aug 11 - [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users)
+- Aug 11 - [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+- Aug 11 - [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction)
+- Aug 11 - [Bluesky's active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
+- Aug 11 - [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- Aug 11 - [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 <!--END_SECTION:hn-->
 
 <!--
