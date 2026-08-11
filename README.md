@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-- Aug 10 - [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
-- Aug 10 - [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
-- Aug 10 - [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
-- Aug 10 - [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
+- Aug 11 - [Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
+- Aug 11 - [Updated GPG Key for Signing Firefox and Thunderbird Releases](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
+- Aug 11 - [Why My Father Is Wrong: A Defense of Guitar Hero](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
+- Aug 11 - [Hyperspace](https://hypercritical.co/hyperspace/)
+- Aug 11 - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
 <!--END_SECTION:hn-->
 
 <!--
