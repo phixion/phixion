@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 10 - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
-- Aug 10 - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
-- Aug 10 - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
-- Aug 10 - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-- Aug 10 - [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
+- Aug 11 - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+- Aug 10 - [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+- Aug 10 - [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
+- Aug 10 - [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
+- Aug 10 - [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
 <!--END_SECTION:hn-->
 
 <!--
