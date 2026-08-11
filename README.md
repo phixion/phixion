@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
-- Aug 11 - [Updated GPG Key for Signing Firefox and Thunderbird Releases](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
-- Aug 11 - [Why My Father Is Wrong: A Defense of Guitar Hero](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
-- Aug 11 - [Hyperspace](https://hypercritical.co/hyperspace/)
+- Aug 11 - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+- Aug 11 - [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
 - Aug 11 - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
+- Aug 11 - [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
+- Aug 11 - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
 <!--END_SECTION:hn-->
 
 <!--
