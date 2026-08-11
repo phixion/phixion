@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 11 - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-- Aug 11 - [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
-- Aug 11 - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
-- Aug 11 - [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
-- Aug 11 - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+- Aug 11 - [OpenAI's Only Ethicist Reportedly Left Last Month](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
+- Aug 11 - [How to organize Claude Code for product work](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
+- Aug 11 - [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/)
+- Aug 11 - [More than 10 firms pay up to $100k a month for access to Truth Social posts](https://www.bbc.com/news/articles/ce3q5nxpgk1o)
+- Aug 11 - [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
 <!--END_SECTION:hn-->
 
 <!--
