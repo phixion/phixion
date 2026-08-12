@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
-- Aug 12 - [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
-- Aug 11 - [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
-- Aug 11 - [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
-- Aug 11 - [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
+- Aug 12 - [llama.cpp](https://llama.app)
+- Aug 12 - [Dropbox, loved by the masses, a shareholder dead end](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
+- Aug 12 - [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+- Aug 12 - [Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+- Aug 12 - [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
 <!--END_SECTION:hn-->
 
 <!--
