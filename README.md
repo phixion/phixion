@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 12 - [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
 - Aug 12 - [llama.cpp](https://llama.app)
-- Aug 12 - [Dropbox, loved by the masses, a shareholder dead end](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
+- Aug 12 - [DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
 - Aug 12 - [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
-- Aug 12 - [Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 - Aug 12 - [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
 <!--END_SECTION:hn-->
 
