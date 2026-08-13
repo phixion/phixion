@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 12 - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
-- Aug 12 - [Delta](https://zed.dev/blog/introducing-delta)
-- Aug 12 - [People who grew up with high economic connectedness earn more](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
-- Aug 12 - [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
-- Aug 12 - [Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
+- Aug 13 - [What is AI governance and how to operationalize it?](https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/)
+- Aug 13 - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
+- Aug 12 - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+- Aug 12 - [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+- Aug 12 - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
 <!--END_SECTION:hn-->
 
 <!--
