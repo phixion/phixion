@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 13 - [My Rules for Using Spreadsheets](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
+- Aug 13 - [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+- Aug 13 - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
 - Aug 13 - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
 - Aug 12 - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-- Aug 12 - [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-- Aug 12 - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
-- Aug 12 - [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
 <!--END_SECTION:hn-->
 
 <!--
