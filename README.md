@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [What is AI governance and how to operationalize it?](https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/)
 - Aug 13 - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
 - Aug 12 - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-- Aug 12 - [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 - Aug 12 - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+- Aug 12 - [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
+- Aug 12 - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 <!--END_SECTION:hn-->
 
 <!--
