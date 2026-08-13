@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 13 - [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
-- Aug 13 - [I requested a copy of my data from McDonald’s loyalty program](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
-- Aug 13 - [Kubernetes on Oxide: How customer needs shaped our integrations](https://oxide.computer/blog/kubernetes-on-oxide)
-- Aug 13 - [Graduate student proves a quantum uncertainty principle for fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
-- Aug 13 - [We eliminated 1,400 CVEs in NanoClaw's container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
+- Aug 13 - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
+- Aug 13 - [How Gödel's Proof Works](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+- Aug 13 - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+- Aug 13 - [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+- Aug 13 - [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
 <!--END_SECTION:hn-->
 
 <!--
