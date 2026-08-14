@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 14 - [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
-- Aug 14 - [France blocks social media ban because it would require adults to prove age](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
-- Aug 14 - [RayforceDB – a pure C analytics database with a Lisp-like syntax](https://rayforcedb.com/)
-- Aug 14 - [Show HN: Online SNMP MIB database - upload/view your own MIBs](https://mib-viewer.com/)
-- Aug 14 - ["Solving a largely imaginary user goal"](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)
+- Aug 14 - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
+- Aug 14 - [Jason Arday: Former Cambridge university professor found dead](https://www.bbc.com/news/articles/c1j1ye6n30no)
+- Aug 14 - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
+- Aug 14 - [Anthropic Risk August 2026 [pdf]](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
+- Aug 14 - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
 <!--END_SECTION:hn-->
 
 <!--
