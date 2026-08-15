@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus)
-- Aug 15 - [The AI Situation in Software Development](https://srikanth.ch/posts/the-ai-situation/)
-- Aug 15 - [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
-- Aug 15 - [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
-- Aug 15 - [Show HN: Quasicrystals Animation Playground with WebXR](https://hypnagogic-quasicrystals.github.io/)
+- Aug 15 - [So How Is AI Drug Discovery Doing, Really?](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+- Aug 15 - [First human trials of designer protein therapies stun US neuroscientists](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
+- Aug 15 - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
+- Aug 15 - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+- Aug 15 - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 <!--END_SECTION:hn-->
 
 <!--
