@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
-- Aug 16 - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
-- Aug 16 - [GPS and the Lost Art of Getting Lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost)
-- Aug 16 - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
-- Aug 16 - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
+- Aug 16 - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+- Aug 16 - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
+- Aug 16 - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
+- Aug 16 - [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
+- Aug 16 - [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
 <!--END_SECTION:hn-->
 
 <!--
