@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 16 - [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
+- Aug 16 - [Access to telemetry data: Automotive industry criticizes intelligence reform](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
+- Aug 16 - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 - Aug 16 - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 - Aug 16 - [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
-- Aug 16 - [Government sponsored study on alcohol doesn't stand up to scrutiny](https://nntaleb.substack.com/p/have-another-drink)
-- Aug 16 - [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-- Aug 16 - [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!--END_SECTION:hn-->
 
 <!--
