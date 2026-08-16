@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 15 - [So How Is AI Drug Discovery Doing, Really?](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-- Aug 15 - [First human trials of designer protein therapies stun US neuroscientists](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
-- Aug 15 - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
-- Aug 15 - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
-- Aug 15 - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
+- Aug 16 - [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)
+- Aug 15 - [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+- Aug 15 - [Credit card debt rises to $1.26T, nearing all-time record](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)
+- Aug 15 - [SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/)
+- Aug 15 - [Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)
 <!--END_SECTION:hn-->
 
 <!--
