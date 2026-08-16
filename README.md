@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)
-- Aug 15 - [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
-- Aug 15 - [Credit card debt rises to $1.26T, nearing all-time record](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)
-- Aug 15 - [SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/)
-- Aug 15 - [Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)
+- Aug 16 - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
+- Aug 16 - [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
+- Aug 16 - [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
+- Aug 16 - [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+- Aug 16 - [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!--END_SECTION:hn-->
 
 <!--
