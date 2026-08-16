@@ -19,9 +19,9 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
-- Aug 16 - [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
-- Aug 16 - [Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb](https://nntaleb.substack.com/p/have-another-drink)
+- Aug 16 - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
+- Aug 16 - [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
+- Aug 16 - [Government sponsored study on alcohol doesn't stand up to scrutiny](https://nntaleb.substack.com/p/have-another-drink)
 - Aug 16 - [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 - Aug 16 - [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!--END_SECTION:hn-->
