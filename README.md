@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
-- Aug 17 - [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
-- Aug 17 - [Linear algebra done right](https://linear.axler.net/)
-- Aug 17 - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
-- Aug 17 - [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
+- Aug 17 - [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
+- Aug 17 - [Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed](https://www.bgr.com/2233625/who-owns-commodore-retro-brand/)
+- Aug 17 - [People are worried about America's solvency](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)
+- Aug 17 - [Self hosted email continues to steeply decline](https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/)
+- Aug 17 - [The Marxist Case for the Technofeudal Hypothesis](https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism)
 <!--END_SECTION:hn-->
 
 <!--
