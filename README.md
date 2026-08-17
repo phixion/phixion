@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 16 - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
-- Aug 16 - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
-- Aug 16 - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
-- Aug 16 - [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
-- Aug 16 - [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
+- Aug 17 - [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
+- Aug 17 - [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- Aug 17 - [The federal keyword lists that canceled billions in research funding](https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/)
+- Aug 17 - [Webmaster a Manifesto for Everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
+- Aug 16 - [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
 <!--END_SECTION:hn-->
 
 <!--
