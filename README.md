@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
-- Aug 17 - [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-- Aug 17 - [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly)
-- Aug 17 - [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
-- Aug 17 - [Applying a photosynthetic process to treat "dry eye"](https://www.science.org/content/blog-post/taking-tip-plants-eyes)
+- Aug 17 - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
+- Aug 17 - [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
+- Aug 17 - [Linear algebra done right](https://linear.axler.net/)
+- Aug 17 - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
+- Aug 17 - [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
 <!--END_SECTION:hn-->
 
 <!--
