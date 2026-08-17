@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
-- Aug 17 - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://news.ycombinator.com/item?id=49332751)
-- Aug 17 - [Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
-- Aug 17 - [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/)
-- Aug 17 - [Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized](https://saggar.marginalutility.dev/)
+- Aug 17 - [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
+- Aug 17 - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+- Aug 17 - [India built the biggest digital payments miracle: Now comes the bill](https://www.bbc.com/news/articles/c8xnwqe00v1o)
+- Aug 17 - [AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+- Aug 17 - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 <!--END_SECTION:hn-->
 
 <!--
