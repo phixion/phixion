@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Launch HN: Machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
-- Aug 18 - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
-- Aug 18 - [Show HN: Openleetcode – local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
-- Aug 18 - [Code-native generation of highly programmable 3D assets (2026)](https://arxiv.org/abs/2607.22738)
-- Aug 18 - [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
+- Aug 18 - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
+- Aug 18 - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
+- Aug 18 - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](https://pantheongpu.com/)
+- Aug 18 - [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
+- Aug 18 - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 <!--END_SECTION:hn-->
 
 <!--
