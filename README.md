@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 18 - [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 - Aug 18 - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 - Aug 17 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
 - Aug 17 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 - Aug 17 - [scScript for Linux](https://scapplications.com/)
-- Aug 17 - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 <!--END_SECTION:hn-->
 
 <!--
