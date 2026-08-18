@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [PM Carney announces largest clean energy investment in North American history](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north)
+- Aug 18 - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 - Aug 17 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
-- Aug 17 - [Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
-- Aug 17 - [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/)
 - Aug 17 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+- Aug 17 - [scScript for Linux](https://scapplications.com/)
+- Aug 17 - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 <!--END_SECTION:hn-->
 
 <!--
