@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
-- Aug 18 - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
-- Aug 17 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
-- Aug 17 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- Aug 17 - [scScript for Linux](https://scapplications.com/)
+- Aug 18 - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
+- Aug 18 - [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+- Aug 18 - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+- Aug 18 - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
+- Aug 18 - [Finger: Social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
 <!--END_SECTION:hn-->
 
 <!--
