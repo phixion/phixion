@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 17 - [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
-- Aug 17 - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
-- Aug 17 - [India built the biggest digital payments miracle: Now comes the bill](https://www.bbc.com/news/articles/c8xnwqe00v1o)
-- Aug 17 - [AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
-- Aug 17 - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+- Aug 18 - [PM Carney announces largest clean energy investment in North American history](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north)
+- Aug 17 - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
+- Aug 17 - [Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
+- Aug 17 - [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/)
+- Aug 17 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 <!--END_SECTION:hn-->
 
 <!--
