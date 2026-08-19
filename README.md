@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 19 - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
+- Aug 19 - [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
+- Aug 19 - [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 - Aug 19 - [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements)
-- Aug 19 - [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
-- Aug 19 - ["Sabotage": Experts, lawmakers blast RFK Jr. for destroying healthcare research](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
-- Aug 19 - [Berd](https://berd.xyz)
 - Aug 19 - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
 <!--END_SECTION:hn-->
 
