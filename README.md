@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 18 - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
-- Aug 18 - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
-- Aug 18 - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](https://pantheongpu.com/)
-- Aug 18 - [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
-- Aug 18 - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
+- Aug 19 - [Cerebras CS4](https://www.cerebras.ai/cs4)
+- Aug 19 - [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
+- Aug 18 - [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
+- Aug 18 - [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
+- Aug 18 - [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
 <!--END_SECTION:hn-->
 
 <!--
