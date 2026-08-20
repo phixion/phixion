@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
-- Aug 20 - [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
-- Aug 20 - [Launch HN: Vendo (YC S26) – Let users build features on top of your product](https://github.com/runvendo/vendo)
-- Aug 20 - [Clean up Claude 5's token vomit with a separate LLM](https://github.com/zachahn/vomit)
-- Aug 20 - [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
+- Aug 20 - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
+- Aug 20 - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
+- Aug 20 - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
+- Aug 20 - [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
+- Aug 20 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 <!--END_SECTION:hn-->
 
 <!--
