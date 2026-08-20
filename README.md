@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Don't Paste the AI, please](https://dontpastetheai.com/)
-- Aug 20 - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
-- Aug 20 - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
-- Aug 20 - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- Aug 19 - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
+- Aug 20 - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
+- Aug 20 - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
+- Aug 20 - [Australia passes law to levy tech giants that fail to pay for local news](https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/)
+- Aug 20 - [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
+- Aug 20 - [Risk Engineering](https://risk-engineering.org/)
 <!--END_SECTION:hn-->
 
 <!--
