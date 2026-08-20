@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 19 - [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
-- Aug 19 - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
-- Aug 19 - [Ramp Launches a Model Router](https://router.com)
-- Aug 19 - [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
-- Aug 19 - [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+- Aug 20 - [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)
+- Aug 20 - [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
+- Aug 19 - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
+- Aug 19 - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
+- Aug 19 - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
 <!--END_SECTION:hn-->
 
 <!--
