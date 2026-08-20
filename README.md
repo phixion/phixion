@@ -19,7 +19,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)
+- Aug 20 - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
 - Aug 20 - [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
 - Aug 19 - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 - Aug 19 - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
