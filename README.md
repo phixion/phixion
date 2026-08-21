@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 20 - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
-- Aug 20 - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
-- Aug 20 - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
-- Aug 20 - [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
-- Aug 20 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
+- Aug 21 - [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+- Aug 21 - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+- Aug 20 - [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
+- Aug 20 - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
+- Aug 20 - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 <!--END_SECTION:hn-->
 
 <!--
