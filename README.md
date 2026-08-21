@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
-- Aug 21 - [I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
-- Aug 21 - [How We Made a Text-to-Speech Model Respond in Sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
-- Aug 21 - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](https://canews24.online/?p=71)
-- Aug 21 - [Cancer-Related Mortality Among US Pilots and Flight Attendants](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504)
+- Aug 21 - [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
+- Aug 21 - [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
+- Aug 21 - [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
+- Aug 21 - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+- Aug 21 - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 <!--END_SECTION:hn-->
 
 <!--
