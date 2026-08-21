@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 21 - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
+- Aug 21 - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
 - Aug 21 - [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-- Aug 21 - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-- Aug 20 - [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
-- Aug 20 - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
+- Aug 20 - [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
 - Aug 20 - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 <!--END_SECTION:hn-->
 
