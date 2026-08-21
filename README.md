@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 21 - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-- Aug 21 - [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
-- Aug 21 - [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)
-- Aug 21 - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
-- Aug 21 - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
+- Aug 21 - [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
+- Aug 21 - [I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
+- Aug 21 - [How We Made a Text-to-Speech Model Respond in Sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
+- Aug 21 - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](https://canews24.online/?p=71)
+- Aug 21 - [Cancer-Related Mortality Among US Pilots and Flight Attendants](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504)
 <!--END_SECTION:hn-->
 
 <!--
