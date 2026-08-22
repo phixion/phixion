@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 22 - [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
+- Aug 22 - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- Aug 22 - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 - Aug 21 - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
 - Aug 21 - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
-- Aug 21 - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-- Aug 21 - [Remotely unlocking electric scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
-- Aug 21 - [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 <!--END_SECTION:hn-->
 
 <!--
