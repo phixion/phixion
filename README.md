@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
-- Aug 23 - [So, You Found a Foden Steam Lorry in a Field. What Next?](https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/)
-- Aug 23 - [Universal Housing](https://twitter.com/christianreber/status/2091532545577849008)
-- Aug 23 - [How Complex Systems Fail](https://how.complexsystems.fail/)
-- Aug 23 - [Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/)
+- Aug 23 - ['The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
+- Aug 23 - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+- Aug 23 - [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
+- Aug 23 - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
+- Aug 23 - [Say It Four Times (In Your System Prompt)](https://www.khola.blog/p/say-it-four-times)
 <!--END_SECTION:hn-->
 
 <!--
