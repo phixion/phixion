@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [US Military newspaper editor voices censorship fears after being fired](https://www.bbc.com/news/articles/cm2g23ng8p4o)
+- Aug 23 - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+- Aug 23 - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
+- Aug 23 - [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
 - Aug 22 - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
 - Aug 22 - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-- Aug 22 - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- Aug 22 - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
 <!--END_SECTION:hn-->
 
 <!--
