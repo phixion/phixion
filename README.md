@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 23 - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-- Aug 23 - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
-- Aug 23 - [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
-- Aug 22 - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
-- Aug 22 - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+- Aug 23 - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+- Aug 23 - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
+- Aug 23 - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+- Aug 23 - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
+- Aug 23 - [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
 <!--END_SECTION:hn-->
 
 <!--
