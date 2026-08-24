@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54)
-- Aug 24 - [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
-- Aug 24 - [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
-- Aug 24 - [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
-- Aug 24 - [Anthropic Claude and API service outages](https://status.claude.com/uptime)
+- Aug 24 - [Ask HN: Why do corporate failures always seem to punish the wrong people?](https://news.ycombinator.com/item?id=49418675)
+- Aug 24 - [Anthropic candidates face blunt money question](https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question)
+- Aug 24 - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
+- Aug 24 - [Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
+- Aug 24 - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
 <!--END_SECTION:hn-->
 
 <!--
