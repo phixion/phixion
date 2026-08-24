@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [A Practical Intuition for C++20 Coroutines](https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub)
-- Aug 24 - [Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)
-- Aug 24 - [A Server Lost Power at 00:32. We Found Out at 08:18](https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026)
-- Aug 24 - [a Blackstone real estate company exposed SSN digits, DOBs, addresses and more](https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure)
-- Aug 24 - [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+- Aug 24 - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
+- Aug 24 - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
+- Aug 24 - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
+- Aug 24 - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
+- Aug 24 - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
 <!--END_SECTION:hn-->
 
 <!--
