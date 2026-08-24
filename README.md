@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Ask HN: Why do corporate failures always seem to punish the wrong people?](https://news.ycombinator.com/item?id=49418675)
-- Aug 24 - [Anthropic candidates face blunt money question](https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question)
-- Aug 24 - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
-- Aug 24 - [Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
-- Aug 24 - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
+- Aug 24 - [A Practical Intuition for C++20 Coroutines](https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub)
+- Aug 24 - [Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)
+- Aug 24 - [A Server Lost Power at 00:32. We Found Out at 08:18](https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026)
+- Aug 24 - [a Blackstone real estate company exposed SSN digits, DOBs, addresses and more](https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure)
+- Aug 24 - [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
 <!--END_SECTION:hn-->
 
 <!--
