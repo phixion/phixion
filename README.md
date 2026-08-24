@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o)
-- Aug 24 - [Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
-- Aug 24 - [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
-- Aug 24 - [The first search engine for Internet-connected devices](https://www.shodan.io/)
-- Aug 23 - [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
+- Aug 24 - [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54)
+- Aug 24 - [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
+- Aug 24 - [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
+- Aug 24 - [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
+- Aug 24 - [Anthropic Claude and API service outages](https://status.claude.com/uptime)
 <!--END_SECTION:hn-->
 
 <!--
