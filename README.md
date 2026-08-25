@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 25 - [Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)
+- Aug 25 - [Volcanoes that made history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
 - Aug 25 - [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
-- Aug 25 - [Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?](https://news.ycombinator.com/item?id=49428842)
+- Aug 25 - [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
 - Aug 25 - [Thomson Reuters Launches Its Own Frontier Model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
-- Aug 25 - [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
-- Aug 24 - [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
 <!--END_SECTION:hn-->
 
 <!--
