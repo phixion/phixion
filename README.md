@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 24 - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
-- Aug 24 - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
-- Aug 24 - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
-- Aug 24 - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
-- Aug 24 - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
+- Aug 24 - [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
+- Aug 24 - [Show HN: Flostep – Diagrams people can actually walkthrough](https://flostep.dev/)
+- Aug 24 - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- Aug 24 - [Moon (2024)](https://ciechanow.ski/moon/)
+- Aug 24 - [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 <!--END_SECTION:hn-->
 
 <!--
