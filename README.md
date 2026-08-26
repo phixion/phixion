@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies](https://www.risklytics.ai/)
-- Aug 26 - [Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80](https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film)
-- Aug 26 - [Tim Curry Has Died](https://en.wikipedia.org/wiki/Tim_Curry)
-- Aug 26 - [The turbulent AI era is here](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make)
-- Aug 26 - [It's so hard to finish an idea that is not yours (and suggested by AI)](https://www.ssp.sh/brain/using-obsidian-with-ai/)
+- Aug 26 - [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+- Aug 26 - [What will be left for us to work on](https://ICML.cc/virtual/2026/invited-talk/67274)
+- Aug 26 - [Show HN: We built the smallest dual-band aircraft tracker](https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/)
+- Aug 26 - [mold: A Parallel Linker](https://arxiv.org/abs/2608.23228)
+- Aug 26 - [Infrastructure as Raclette](https://lois.postu.la/posts/infrastructure-as-a-raclette)
 <!--END_SECTION:hn-->
 
 <!--
