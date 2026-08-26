@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Aug 25 - [Carhartt - 12,933,413 breached accounts](https://haveibeenpwned.com/Breach/Carhartt)
 - Aug 23 - [NIUS - 6,090 breached accounts](https://haveibeenpwned.com/Breach/NIUS)
 - Aug 22 - [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
 - Aug 19 - [Oz Hair and Beauty - 1,988,331 breached accounts](https://haveibeenpwned.com/Breach/OzHairAndBeauty)
 - Aug 19 - [Fanlore - 144,520 breached accounts](https://haveibeenpwned.com/Breach/Fanlore)
-- Aug 13 - [RingCentral - 1,596,490 breached accounts](https://haveibeenpwned.com/Breach/RingCentral)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 25 - [Perplexity Portable Computer](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
-- Aug 25 - [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-- Aug 25 - [Pgbot: A 5.9 MB read-only Postgres tool for humans and agents](https://pgbot.dev/)
-- Aug 25 - [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
-- Aug 25 - [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
+- Aug 26 - [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+- Aug 25 - [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+- Aug 25 - [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
+- Aug 25 - [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
+- Aug 25 - [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 <!--END_SECTION:hn-->
 
 <!--
