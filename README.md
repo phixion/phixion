@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 26 - [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
-- Aug 26 - [What will be left for us to work on](https://ICML.cc/virtual/2026/invited-talk/67274)
-- Aug 26 - [Show HN: We built the smallest dual-band aircraft tracker](https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/)
-- Aug 26 - [mold: A Parallel Linker](https://arxiv.org/abs/2608.23228)
-- Aug 26 - [Infrastructure as Raclette](https://lois.postu.la/posts/infrastructure-as-a-raclette)
+- Aug 27 - [Kusama Yayoi has died](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
+- Aug 27 - [Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video)
+- Aug 27 - [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
+- Aug 27 - [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
+- Aug 27 - [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
 <!--END_SECTION:hn-->
 
 <!--
