@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 27 - [Show HN: We built open OpenRouter that distills usage into a better model](https://github.com/experientiallabs/experiential)
-- Aug 27 - [Canada Hires 48 Scholars Away from Top U.S. Universities](https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html)
-- Aug 27 - [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/)
-- Aug 27 - [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
-- Aug 27 - [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
+- Aug 28 - [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
+- Aug 28 - [Climate change is strengthening El Niño, coral records suggest](https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest)
+- Aug 28 - [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
+- Aug 28 - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+- Aug 28 - [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
 <!--END_SECTION:hn-->
 
 <!--
