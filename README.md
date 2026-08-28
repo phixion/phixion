@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
-- Aug 28 - [Climate change is strengthening El Niño, coral records suggest](https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest)
-- Aug 28 - [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
-- Aug 28 - [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-- Aug 28 - [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
+- Aug 28 - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
+- Aug 28 - [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
+- Aug 28 - [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)
+- Aug 28 - [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/)
+- Aug 28 - [Bye, Bye GitHub](https://log.ozgur.works/bye-bye-github.html)
 <!--END_SECTION:hn-->
 
 <!--
