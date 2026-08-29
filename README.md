@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Aug 29 - [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
+- Aug 29 - [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 - Aug 29 - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
-- Aug 29 - [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
 - Aug 29 - [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
 - Aug 29 - [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-- Aug 28 - [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
 <!--END_SECTION:hn-->
 
 <!--
