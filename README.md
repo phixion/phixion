@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)
-- Aug 29 - [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
-- Aug 29 - [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
-- Aug 29 - [Good Culture Is the Biggest Productivity Hack, Not AI](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
-- Aug 29 - [A better SQL in 11 lines of code](https://prela-lang.org/tutorial/)
+- Aug 29 - [Palestinian woman and NBC News team attacked by masked Israeli settlers](https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024)
+- Aug 29 - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
+- Aug 29 - [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+- Aug 29 - [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- Aug 29 - [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
 <!--END_SECTION:hn-->
 
 <!--
