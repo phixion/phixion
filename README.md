@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 28 - [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
-- Aug 28 - [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
-- Aug 28 - [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)
-- Aug 28 - [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/)
-- Aug 28 - [Bye, Bye GitHub](https://log.ozgur.works/bye-bye-github.html)
+- Aug 29 - [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- Aug 29 - [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
+- Aug 29 - [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+- Aug 29 - [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
+- Aug 28 - [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
 <!--END_SECTION:hn-->
 
 <!--
