@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 29 - [Palestinian woman and NBC News team attacked by masked Israeli settlers](https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024)
-- Aug 29 - [$44M Solar-Powered EV Production Deal Struck](https://frequal.com/aptera/ProductionDealAug2026.html)
-- Aug 29 - [What we want is a hunter gatherer lifestyle with space age tools](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
-- Aug 29 - [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-- Aug 29 - [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
+- Aug 30 - [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
+- Aug 30 - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
+- Aug 30 - [Benjamin Franklin's Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
+- Aug 30 - [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server)
+- Aug 30 - [Bug Blindness](https://danluu.com/bug-blind/)
 <!--END_SECTION:hn-->
 
 <!--
