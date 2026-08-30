@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 30 - [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
-- Aug 30 - [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
-- Aug 30 - [Benjamin Franklin's Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
-- Aug 30 - [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server)
-- Aug 30 - [Bug Blindness](https://danluu.com/bug-blind/)
+- Aug 30 - [Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)
+- Aug 30 - [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go)
+- Aug 30 - [Automating Immersive Reading](https://smoores.dev/post/automating_immersive_reading/)
+- Aug 30 - [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)
+- Aug 30 - [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
 <!--END_SECTION:hn-->
 
 <!--
