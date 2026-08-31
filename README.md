@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
-- Aug 31 - [UC Berkeley indefinitely suspends international student work authorizations](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html)
-- Aug 31 - [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- Aug 31 - [SolarWindow launches 0.85 mm-thick, self-adhesive solar film](https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/)
-- Aug 31 - [Flock Safety's controversial CEO just got a taste of his own medicine](https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/)
+- Aug 31 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
+- Aug 31 - [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow)
+- Aug 31 - [Agentic Trust Controls](https://trustcontrols.ai/)
+- Aug 31 - [Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)
+- Aug 31 - [Doubling of Kobo's U.S. sales in both 2025 and 2026, 70% US female customer base](https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and/)
 <!--END_SECTION:hn-->
 
 <!--
