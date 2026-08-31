@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
-- Aug 31 - [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow)
-- Aug 31 - [Agentic Trust Controls](https://trustcontrols.ai/)
-- Aug 31 - [Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)
-- Aug 31 - [Doubling of Kobo's U.S. sales in both 2025 and 2026, 70% US female customer base](https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and/)
+- Aug 31 - [Autonomous (YC F25) Is Hiring Engineers](https://news.ycombinator.com/item?id=49514781)
+- Aug 31 - [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+- Aug 31 - [Kids These Days](https://smallpotatoes.paulbloom.net/p/kids-these-days)
+- Aug 31 - ['Stunning' percolation proof solves decades-old puzzle about phase transitions](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
+- Aug 31 - [Konrad Zuse Museum shutting down due to lack of funding](https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html)
 <!--END_SECTION:hn-->
 
 <!--
