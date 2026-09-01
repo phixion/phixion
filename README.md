@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Aug 31 - [Autonomous (YC F25) Is Hiring Engineers](https://news.ycombinator.com/item?id=49514781)
-- Aug 31 - [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
-- Aug 31 - [Kids These Days](https://smallpotatoes.paulbloom.net/p/kids-these-days)
-- Aug 31 - ['Stunning' percolation proof solves decades-old puzzle about phase transitions](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
-- Aug 31 - [Konrad Zuse Museum shutting down due to lack of funding](https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html)
+- Sep 01 - [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/)
+- Sep 01 - [Fastpotify](https://fastpotify.rocks/)
+- Sep 01 - [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)
+- Sep 01 - [Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur](https://www.bbc.com/news/articles/c24j5192j7jo)
+- Sep 01 - [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
 <!--END_SECTION:hn-->
 
 <!--
