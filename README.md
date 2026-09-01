@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [EFF to Courts: Don't Rewrite Copyright over AI Hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
-- Sep 01 - [Tim Cook Sold Out Steve Jobs](https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/)
-- Sep 01 - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
-- Sep 01 - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
-- Sep 01 - [NASA: Fill in a name, and you can have an exclusive coordinate in the universe](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/)
+- Sep 01 - [UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it](https://sariyuce.com/blog/2026/UEFA-Draw/)
+- Sep 01 - [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- Sep 01 - [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
+- Sep 01 - [Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)
+- Sep 01 - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
 <!--END_SECTION:hn-->
 
 <!--
