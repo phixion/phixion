@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 01 - [UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it](https://sariyuce.com/blog/2026/UEFA-Draw/)
-- Sep 01 - [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- Sep 01 - [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)
-- Sep 01 - [Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)
-- Sep 01 - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+- Sep 01 - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+- Sep 01 - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
+- Sep 01 - [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/)
+- Sep 01 - [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue)
+- Sep 01 - [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
 <!--END_SECTION:hn-->
 
 <!--
