@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 02 - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-- Sep 02 - [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
-- Sep 02 - [Exit the Cave](https://turtlespace.blog/p/exit-the-cave)
-- Sep 02 - [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)
-- Sep 02 - [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
+- Sep 02 - [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
+- Sep 02 - [Mamdani Bans AI in NYC Schools](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+- Sep 02 - [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+- Sep 02 - [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+- Sep 02 - [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
 <!--END_SECTION:hn-->
 
 <!--
