@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 02 - [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
+- Sep 02 - [WebFPGA](https://webfpga.io/)
+- Sep 02 - [True Rate of Unemployment](https://www.lisep.org/tru)
 - Sep 01 - [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
 - Sep 01 - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
-- Sep 01 - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
-- Sep 01 - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
-- Sep 01 - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
 <!--END_SECTION:hn-->
 
 <!--
