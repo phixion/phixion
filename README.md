@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/)
-- Sep 03 - [ChatGPT, Claude, and Grok Are Down](https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/)
-- Sep 03 - [Grok Outage](https://status.x.ai/)
-- Sep 03 - [Anatomy of a Browser](https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8)
-- Sep 03 - [Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?](https://news.ycombinator.com/item?id=49551096)
+- Sep 03 - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+- Sep 03 - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+- Sep 03 - [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
+- Sep 03 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- Sep 03 - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 <!--END_SECTION:hn-->
 
 <!--
