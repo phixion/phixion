@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 03 - [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
-- Sep 03 - [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
-- Sep 02 - [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
-- Sep 02 - [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
-- Sep 02 - [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
+- Sep 03 - [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/)
+- Sep 03 - [ChatGPT, Claude, and Grok Are Down](https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/)
+- Sep 03 - [Grok Outage](https://status.x.ai/)
+- Sep 03 - [Anatomy of a Browser](https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8)
+- Sep 03 - [Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?](https://news.ycombinator.com/item?id=49551096)
 <!--END_SECTION:hn-->
 
 <!--
