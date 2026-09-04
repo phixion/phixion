@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 04 - [Never Forget How Eagerly Apple and Google Coddled Fascism](https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/)
+- Sep 04 - [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+- Sep 04 - [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+- Sep 03 - [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 - Sep 03 - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
-- Sep 03 - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-- Sep 03 - [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
-- Sep 03 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-- Sep 03 - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 <!--END_SECTION:hn-->
 
 <!--
