@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Never Forget How Eagerly Apple and Google Coddled Fascism](https://karlbode.com/never-forget-how-eagerly-apple-and-google-coddled-fascism/)
+- Sep 04 - [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
+- Sep 04 - [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
+- Sep 04 - [A mysterious kidney disease has arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
 - Sep 04 - [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
-- Sep 04 - [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
-- Sep 03 - [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
-- Sep 03 - [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+- Sep 04 - [Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu)
 <!--END_SECTION:hn-->
 
 <!--
