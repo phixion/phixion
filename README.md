@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Corporate America Is Getting Hooked on Open-Source A.I](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
-- Sep 04 - [GMails custom domain "send as" discontinues January 2027](https://support.google.com/mail/answer/22370?hl=en)
-- Sep 04 - [Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
-- Sep 04 - [US Military disables ad trackers on troops' phones](https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers)
-- Sep 04 - [IBM Bob](https://bob.ibm.com/)
+- Sep 04 - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+- Sep 04 - [Hayes AT command set](https://en.wikipedia.org/wiki/Hayes_AT_command_set)
+- Sep 04 - [The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/)
+- Sep 04 - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
+- Sep 04 - [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)
 <!--END_SECTION:hn-->
 
 <!--
