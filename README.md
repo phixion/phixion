@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
-- Sep 04 - [Grep beats LSP? Why coding agents ignore your fancier tools](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
-- Sep 04 - [A mysterious kidney disease has arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
-- Sep 04 - [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
-- Sep 04 - [Project Xanadu: Even More Hindsight (2025)](https://gwern.net/xanadu)
+- Sep 04 - [Corporate America Is Getting Hooked on Open-Source A.I](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+- Sep 04 - [GMails custom domain "send as" discontinues January 2027](https://support.google.com/mail/answer/22370?hl=en)
+- Sep 04 - [Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
+- Sep 04 - [US Military disables ad trackers on troops' phones](https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers)
+- Sep 04 - [IBM Bob](https://bob.ibm.com/)
 <!--END_SECTION:hn-->
 
 <!--
