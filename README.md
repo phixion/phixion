@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 05 - [Git hosting that never leaves Europe](https://pushin.eu)
+- Sep 05 - [Why are European countries moving their gold out of North America?](https://www.bbc.com/news/articles/cvgyn8q8gqxo)
+- Sep 05 - [GPT-6 Astra in code review: Gains, privacy, and cost](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
 - Sep 05 - [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
 - Sep 05 - [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
-- Sep 04 - [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)
-- Sep 04 - [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
-- Sep 04 - [Connecting every app to every other app](https://blog.val.town/connectors)
 <!--END_SECTION:hn-->
 
 <!--
