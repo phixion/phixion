@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 05 - [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)
-- Sep 05 - [Meet the Ig Nobel Prize Winners](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
-- Sep 05 - [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
-- Sep 05 - [.gitignore Everything by Default](https://packagemain.tech/p/gitignore-everything-by-default)
-- Sep 05 - [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
+- Sep 05 - [Flock used >100 times to track veteran who recorded traffic stop](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/)
+- Sep 05 - [Bob and Van](https://marco.org/2026/09/04/bob-and-van)
+- Sep 05 - [How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
+- Sep 05 - [Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
+- Sep 05 - [How the Disaster of "Forever Chemicals" Was Kept Secret](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
 <!--END_SECTION:hn-->
 
 <!--
