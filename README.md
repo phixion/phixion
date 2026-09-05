@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 04 - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-- Sep 04 - [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
-- Sep 04 - [Statichost.eu – 100% European static site hosting](https://www.statichost.eu/)
-- Sep 04 - [How to Create a Tor Exit Node](https://madpsy.uk/how-to-create-a-tor-exit-node/)
-- Sep 04 - [An open DNS recursive service for free security and high privacy](https://quad9.net/)
+- Sep 05 - [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+- Sep 05 - [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+- Sep 04 - [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)
+- Sep 04 - [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+- Sep 04 - [Connecting every app to every other app](https://blog.val.town/connectors)
 <!--END_SECTION:hn-->
 
 <!--
