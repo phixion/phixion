@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 06 - [Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)
-- Sep 06 - [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
-- Sep 06 - [Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats](https://www.phoronix.com/news/Asahi-Linux-Official-M3)
-- Sep 06 - [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
-- Sep 06 - [QBittorrent breaks out of sandbox to commit crimes](https://beige.party/@intransitivelie/117057396732763183)
+- Sep 06 - [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+- Sep 06 - [We monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
+- Sep 06 - [An Alien Mind](https://openai.com/index/an-alien-mind/)
+- Sep 06 - [Research carried out using NetBSD](https://www.netbsd.org/gallery/research.html)
+- Sep 06 - [Cultivating Trust](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
 <!--END_SECTION:hn-->
 
 <!--
