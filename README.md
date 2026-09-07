@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
-- Sep 07 - [Nördlinger Ries Impact Crater](https://en.wikipedia.org/wiki/Nördlinger_Ries)
-- Sep 07 - [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
-- Sep 07 - [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
-- Sep 07 - [If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one](https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/)
+- Sep 07 - [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
+- Sep 07 - [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
+- Sep 07 - [The smallest edge AI device for local LLMs](https://tiiny.ai/)
+- Sep 07 - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+- Sep 07 - [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
 <!--END_SECTION:hn-->
 
 <!--
