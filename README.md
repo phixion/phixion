@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
-- Sep 07 - [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)
-- Sep 06 - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-- Sep 06 - [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
-- Sep 06 - [Signing TLS handshakes inside a TPM](https://bschaatsbergen.com/posts/go-tpm-tls/)
+- Sep 07 - [Programming is Art](https://orchidfiles.com/programming-is-art/)
+- Sep 07 - [It's time for Mark Zuckerberg to resign from Meta](https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta)
+- Sep 07 - [Switzerland's Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)
+- Sep 07 - [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)
+- Sep 07 - [TiVo to charge money for skipping commercials in your own recordings](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
 <!--END_SECTION:hn-->
 
 <!--
