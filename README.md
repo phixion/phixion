@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [Programming is Art](https://orchidfiles.com/programming-is-art/)
-- Sep 07 - [It's time for Mark Zuckerberg to resign from Meta](https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta)
-- Sep 07 - [Switzerland's Federal Government Is Replacing Microsoft on 3k Computers](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/)
-- Sep 07 - [Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)
-- Sep 07 - [TiVo to charge money for skipping commercials in your own recordings](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
+- Sep 07 - [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
+- Sep 07 - [Nördlinger Ries Impact Crater](https://en.wikipedia.org/wiki/Nördlinger_Ries)
+- Sep 07 - [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
+- Sep 07 - [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
+- Sep 07 - [If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one](https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/)
 <!--END_SECTION:hn-->
 
 <!--
