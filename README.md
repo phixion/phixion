@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 07 - [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer)
-- Sep 07 - [Working on Economics with Fable 5](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
-- Sep 07 - [The smallest edge AI device for local LLMs](https://tiiny.ai/)
-- Sep 07 - [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-- Sep 07 - [A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
+- Sep 08 - [Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)](https://albertjoseph0.github.io/nyc-maptap/)
+- Sep 08 - [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
+- Sep 08 - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+- Sep 07 - [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+- Sep 07 - [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
 <!--END_SECTION:hn-->
 
 <!--
