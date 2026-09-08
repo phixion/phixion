@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
-- Sep 08 - [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-- Sep 08 - [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
-- Sep 08 - [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
-- Sep 08 - [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+- Sep 08 - [US police fear Meta smart glasses could be used to secretly record them](https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses)
+- Sep 08 - [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)
+- Sep 08 - [Reverse engineering the 2008 LogiCola, a logic drill program](https://logicola.org/blog/the-new-logicola)
+- Sep 08 - [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+- Sep 08 - [ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
 <!--END_SECTION:hn-->
 
 <!--
