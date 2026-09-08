@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)](https://albertjoseph0.github.io/nyc-maptap/)
-- Sep 08 - [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
-- Sep 08 - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
-- Sep 07 - [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-- Sep 07 - [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+- Sep 08 - [UAE-based Falcon AI NSFW classifier among top global open-source models (2025)](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
+- Sep 08 - [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- Sep 08 - [Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)
+- Sep 08 - [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+- Sep 08 - [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
 <!--END_SECTION:hn-->
 
 <!--
