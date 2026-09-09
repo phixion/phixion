@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 08 - [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-- Sep 08 - [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-- Sep 08 - [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
-- Sep 08 - [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
-- Sep 08 - [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116)
+- Sep 09 - [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
+- Sep 09 - [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)
+- Sep 09 - [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+- Sep 08 - [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+- Sep 08 - [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 <!--END_SECTION:hn-->
 
 <!--
