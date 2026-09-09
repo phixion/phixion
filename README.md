@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
-- Sep 09 - [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)
-- Sep 09 - [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
-- Sep 08 - [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-- Sep 08 - [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+- Sep 09 - [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
+- Sep 09 - [On Really Trying (2009)](https://gwern.net/on-really-trying)
+- Sep 09 - [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
+- Sep 09 - [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
+- Sep 09 - [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
 <!--END_SECTION:hn-->
 
 <!--
