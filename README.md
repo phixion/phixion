@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
-- Sep 09 - [On Really Trying (2009)](https://gwern.net/on-really-trying)
-- Sep 09 - [Copyright does more harm than good and should be abolished](https://grapheneos.social/@GrapheneOS/117231186011306184)
-- Sep 09 - [“Tweet” and the bird logo apparently enter the public domain](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
-- Sep 09 - [AI Has a Discovery Problem](https://mhacevedo.com/posts/the-discovery-problem)
+- Sep 09 - [GNU Radio in the Browser](https://gnuradioworld.com/)
+- Sep 09 - [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
+- Sep 09 - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
+- Sep 09 - [Planet Labs' Open Satellite Feed](https://tech.marksblogg.com/planet-labs-open-satellite-feed.html)
+- Sep 09 - [Rails 8 Guide: Features, Requirements and Upgrade Path (2026)](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 <!--END_SECTION:hn-->
 
 <!--
