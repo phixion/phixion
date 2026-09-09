@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 09 - [GNU Radio in the Browser](https://gnuradioworld.com/)
-- Sep 09 - [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
-- Sep 09 - [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier)
-- Sep 09 - [Planet Labs' Open Satellite Feed](https://tech.marksblogg.com/planet-labs-open-satellite-feed.html)
-- Sep 09 - [Rails 8 Guide: Features, Requirements and Upgrade Path (2026)](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
+- Sep 09 - [Automattic CEO Matt Mullenweg Put on 'Leave of Absence'](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
+- Sep 09 - [iPhone Duo](https://www.apple.com/iphone-duo/)
+- Sep 09 - [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)
+- Sep 09 - [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
+- Sep 09 - [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 <!--END_SECTION:hn-->
 
 <!--
