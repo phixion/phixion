@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [Don't Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
-- Sep 10 - [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
-- Sep 10 - [Show HN: I couldn't afford interview prep, so I built a free alternative](https://learningto.co/)
-- Sep 10 - [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
-- Sep 10 - [Who Dung It? (Turdle.fun)](https://turdle.fun/)
+- Sep 10 - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+- Sep 10 - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+- Sep 10 - [Bodily Oddities](https://vester.si/bodily-oddities/)
+- Sep 10 - [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
+- Sep 10 - [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
 <!--END_SECTION:hn-->
 
 <!--
