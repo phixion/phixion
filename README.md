@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
-- Sep 10 - [OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)
-- Sep 10 - [All grown-ups were once children, but only few of them remember it](https://mathstodon.xyz/@tao/117244102901892965)
-- Sep 10 - [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
-- Sep 10 - [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+- Sep 10 - [Don't Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
+- Sep 10 - [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
+- Sep 10 - [Show HN: I couldn't afford interview prep, so I built a free alternative](https://learningto.co/)
+- Sep 10 - [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+- Sep 10 - [Who Dung It? (Turdle.fun)](https://turdle.fun/)
 <!--END_SECTION:hn-->
 
 <!--
