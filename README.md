@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 10 - [NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
-- Sep 10 - [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
-- Sep 10 - [Bodily Oddities](https://vester.si/bodily-oddities/)
-- Sep 10 - [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
-- Sep 10 - [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+- Sep 11 - [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
+- Sep 11 - [Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure](https://github.com/HimanshuJ16/Algo-Trading-Skills)
+- Sep 11 - [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+- Sep 11 - [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
+- Sep 11 - [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
 <!--END_SECTION:hn-->
 
 <!--
