@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
-- Sep 11 - [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
-- Sep 11 - [HuggingFace: Security.txt](https://huggingface.co/security.txt)
-- Sep 11 - [New York thoracic surgeon: "For many patients 9/11 is not over"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
-- Sep 11 - [Show HN: Clawfight.ai MCP-driven agentic game play](https://clawfight.ai/agents.md)
+- Sep 11 - [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
+- Sep 11 - [GPT-6 built this earth exploration site in 5 prompts](https://earth.ethanplus.ai/)
+- Sep 11 - [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
+- Sep 11 - [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
+- Sep 11 - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
 <!--END_SECTION:hn-->
 
 <!--
