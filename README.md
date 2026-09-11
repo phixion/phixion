@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
-- Sep 11 - [Anthropic blocks 'malicious use' of AI that could develop biological weapons](https://www.bbc.com/news/articles/cx2zrrpkx20o)
-- Sep 11 - [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
-- Sep 11 - [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
-- Sep 11 - [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+- Sep 11 - [Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
+- Sep 11 - [Show HN: Hacker News, without AI](https://hcker.news/?ai=exclude)
+- Sep 11 - [HuggingFace: Security.txt](https://huggingface.co/security.txt)
+- Sep 11 - [New York thoracic surgeon: "For many patients 9/11 is not over"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
+- Sep 11 - [Show HN: Clawfight.ai MCP-driven agentic game play](https://clawfight.ai/agents.md)
 <!--END_SECTION:hn-->
 
 <!--
