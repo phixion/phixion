@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
-- Sep 11 - [Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure](https://github.com/HimanshuJ16/Algo-Trading-Skills)
-- Sep 11 - [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-- Sep 11 - [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
-- Sep 11 - [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
+- Sep 11 - [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+- Sep 11 - [Anthropic blocks 'malicious use' of AI that could develop biological weapons](https://www.bbc.com/news/articles/cx2zrrpkx20o)
+- Sep 11 - [GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
+- Sep 11 - [We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower](https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/)
+- Sep 11 - [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
 <!--END_SECTION:hn-->
 
 <!--
