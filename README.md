@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
-- Sep 12 - [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
-- Sep 12 - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
-- Sep 12 - [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
-- Sep 12 - [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+- Sep 12 - [Ask HN: What default model do you use and why?](https://news.ycombinator.com/item?id=49672966)
+- Sep 12 - [Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun)
+- Sep 12 - [You Don't Need Matrix Calculus](https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html)
+- Sep 12 - [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
+- Sep 12 - [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
 <!--END_SECTION:hn-->
 
 <!--
