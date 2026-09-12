@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
-- Sep 12 - [Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google)
-- Sep 12 - [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
-- Sep 12 - [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)
-- Sep 11 - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+- Sep 12 - [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+- Sep 12 - [WeWorm: Zero-Click WeChat Worm](https://calif.io/research/weworm)
+- Sep 12 - [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+- Sep 12 - [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- Sep 12 - [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
 <!--END_SECTION:hn-->
 
 <!--
