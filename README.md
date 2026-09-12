@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [Ask HN: What default model do you use and why?](https://news.ycombinator.com/item?id=49672966)
-- Sep 12 - [Waymo pulls over, calls cops on juvenile riders who had 'ghost gun"](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun)
-- Sep 12 - [You Don't Need Matrix Calculus](https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html)
-- Sep 12 - [We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
-- Sep 12 - [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
+- Sep 12 - [Will There Be a 7G?](https://arxiv.org/abs/2609.01877)
+- Sep 12 - [How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?](https://news.ycombinator.com/item?id=49674396)
+- Sep 12 - [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- Sep 12 - [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
+- Sep 12 - [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 <!--END_SECTION:hn-->
 
 <!--
