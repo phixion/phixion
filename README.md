@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 11 - [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
-- Sep 11 - [GPT-6 built this earth exploration site in 5 prompts](https://earth.ethanplus.ai/)
-- Sep 11 - [ElevenLabs Music v2.5](https://elevenmusic.io/blog/introducing-music-v2-5)
-- Sep 11 - [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/)
-- Sep 11 - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- Sep 12 - [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
+- Sep 12 - [Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google)
+- Sep 12 - [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+- Sep 12 - [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)
+- Sep 11 - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
 <!--END_SECTION:hn-->
 
 <!--
