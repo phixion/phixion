@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
-- Sep 13 - [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
-- Sep 13 - [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
-- Sep 13 - [Key symbols we lost to time, pt. 1: The PC side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/)
-- Sep 13 - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
+- Sep 13 - [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html)
+- Sep 13 - [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+- Sep 13 - [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
+- Sep 13 - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](https://twitter.com/DavidSacks/status/2098973625252708460)
+- Sep 13 - [Docket – Per-commit evidence records for agent-written code](https://github.com/Dillonsmart/docket)
 <!--END_SECTION:hn-->
 
 <!--
