@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 13 - [The Interim Computer Museum](https://icm.museum/)
-- Sep 13 - [Don't call yourself an artisanal programmer](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/)
-- Sep 13 - [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
-- Sep 13 - [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
-- Sep 13 - [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+- Sep 13 - [Dramatic insider warnings over AI fall flat with some in Silicon Valley](https://www.bbc.co.uk/news/articles/cq635037g18o)
+- Sep 13 - [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- Sep 13 - [A wandering black hole caught feeding on the run](https://phys.org/news/2026-08-black-hole-caught.html)
+- Sep 13 - [A succession crisis that tore England apart (2023)](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+- Sep 13 - [Aligned to whom?](https://hyperbo.la/w/aligned-to-whom/)
 <!--END_SECTION:hn-->
 
 <!--
