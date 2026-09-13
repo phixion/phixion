@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 12 - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
-- Sep 12 - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-- Sep 12 - [Benchmark: CadQuery vs. OpenSCAD for agentic CAD work](https://modelrift.com/blog/cadquery-vs-openscad/)
-- Sep 12 - [LG Says We're Fake News [video]](https://www.youtube.com/watch?v=ToP9xfLDSME)
-- Sep 12 - [Linux Zoom client proactively reading everything written to X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062)
+- Sep 13 - [The Interim Computer Museum](https://icm.museum/)
+- Sep 13 - [Don't call yourself an artisanal programmer](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/)
+- Sep 13 - [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- Sep 13 - [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
+- Sep 13 - [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
 <!--END_SECTION:hn-->
 
 <!--
