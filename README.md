@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 14 - [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe)
-- Sep 14 - [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
-- Sep 14 - [Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%](https://blog.cloudflare.com/automatic-key-exchange-for-origins/)
-- Sep 14 - [Cua (YC P25) Is Hiring a Founding Technical GTM Lead](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead)
-- Sep 14 - [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
+- Sep 14 - [LLMs are real, AI is fake](https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake)
+- Sep 14 - [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
+- Sep 14 - [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
+- Sep 14 - [GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
+- Sep 14 - [Backprop Alternative: Augmented Lagrangian Predictive Coding](https://pub.sakana.ai/pc-alm/)
 <!--END_SECTION:hn-->
 
 <!--
