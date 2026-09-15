@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+- Sep 15 - [Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
+- Sep 15 - [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+- Sep 15 - [Linux from Scratch](https://www.linuxfromscratch.org/)
+- Sep 15 - [US confirms for first time it has deployed space weapons](https://www.bbc.com/news/articles/ck790xg41ygro)
 - Sep 14 - [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
-- Sep 14 - [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
-- Sep 14 - [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
-- Sep 14 - [GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
 <!--END_SECTION:hn-->
 
 <!--
