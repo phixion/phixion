@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
-- Sep 15 - [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
-- Sep 15 - [Linux from Scratch](https://www.linuxfromscratch.org/)
-- Sep 15 - [US confirms for first time it has deployed space weapons](https://www.bbc.com/news/articles/ck790xg41ygro)
-- Sep 14 - [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
+- Sep 15 - [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
+- Sep 15 - [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
+- Sep 15 - [The bitter lesson of browser agents](https://browser-use.com/posts/bitter-lesson-browser-agents)
+- Sep 15 - [Closing the IPv6 First-Packet Gap with Grand](https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/)
+- Sep 15 - [The CSS Zen Garden dream shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/)
 <!--END_SECTION:hn-->
 
 <!--
