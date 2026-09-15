@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 15 - [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
-- Sep 15 - [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
-- Sep 15 - [The bitter lesson of browser agents](https://browser-use.com/posts/bitter-lesson-browser-agents)
-- Sep 15 - [Closing the IPv6 First-Packet Gap with Grand](https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/)
-- Sep 15 - [The CSS Zen Garden dream shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/)
+- Sep 15 - [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+- Sep 15 - [Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+- Sep 15 - [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
+- Sep 15 - [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
+- Sep 15 - [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 <!--END_SECTION:hn-->
 
 <!--
