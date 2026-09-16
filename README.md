@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
-- Sep 16 - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
-- Sep 16 - [Can we stop with the uptime percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
-- Sep 16 - [PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/)
-- Sep 16 - [Anatomy of a Texture](https://agentlien.github.io/texture/)
+- Sep 16 - [Common Crawl Data Stored on a Hugging Face Bucket](https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face)
+- Sep 16 - [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+- Sep 16 - [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+- Sep 16 - [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
+- Sep 16 - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
 <!--END_SECTION:hn-->
 
 <!--
