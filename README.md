@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [MartyPC – A Cycle-Accurate IBM PC/XT Emulator](https://github.com/dbalsom/martypc)
-- Sep 16 - [A software thing I built: GPS on a 25MHz 486-SX](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)
-- Sep 16 - [Datamimic – don't let your coding agent invent its own test world](https://github.com/rapiddweller/datamimic)
-- Sep 16 - [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-- Sep 16 - [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
+- Sep 16 - [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+- Sep 16 - [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+- Sep 16 - [Can we stop with the uptime percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/)
+- Sep 16 - [PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/)
+- Sep 16 - [Anatomy of a Texture](https://agentlien.github.io/texture/)
 <!--END_SECTION:hn-->
 
 <!--
