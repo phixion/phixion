@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
-- Sep 17 - [How, Exactly, Could A.I. Kill Us?](https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us)
-- Sep 17 - [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
-- Sep 17 - [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
-- Sep 17 - [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
+- Sep 17 - [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)
+- Sep 17 - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties)
+- Sep 17 - [Economic policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
+- Sep 17 - [Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)
+- Sep 17 - [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
 <!--END_SECTION:hn-->
 
 <!--
