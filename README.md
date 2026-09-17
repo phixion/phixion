@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Don't Make Job Referrals Public](https://blog.melashri.net/micro/public-job-referral/)
-- Sep 17 - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties)
-- Sep 17 - [Economic policy for AGI](https://institute.deepmind.com/essays/economic-policy-for-agi/)
-- Sep 17 - [Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI](https://zscc.ai/careers?job_id=109821)
-- Sep 17 - [Towards Self-Driving Codebases](https://blog.detail.dev/posts/towards-self-driving-codebases/)
+- Sep 17 - [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
+- Sep 17 - [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+- Sep 17 - [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
+- Sep 17 - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+- Sep 17 - [The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/)
 <!--END_SECTION:hn-->
 
 <!--
