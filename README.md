@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 16 - [Common Crawl Data Stored on a Hugging Face Bucket](https://commoncrawl.org/blog/getting-started-with-common-crawl-data-on-hugging-face)
-- Sep 16 - [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-- Sep 16 - [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
-- Sep 16 - [macOS 27 Golden Gate – Review](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
-- Sep 16 - [How good are frontier models at physics?](https://arxiv.org/abs/2609.13009)
+- Sep 17 - [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- Sep 17 - [Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)](https://www.vanityfair.com/news/2008/05/monsanto200805)
+- Sep 17 - [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
+- Sep 17 - [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
+- Sep 17 - [Pangram – AI detector for text and images](https://www.pangram.com)
 <!--END_SECTION:hn-->
 
 <!--
