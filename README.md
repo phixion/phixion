@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
-- Sep 17 - [Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)](https://www.vanityfair.com/news/2008/05/monsanto200805)
-- Sep 17 - [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
-- Sep 17 - [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
-- Sep 17 - [Pangram – AI detector for text and images](https://www.pangram.com)
+- Sep 17 - [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
+- Sep 17 - [How, Exactly, Could A.I. Kill Us?](https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us)
+- Sep 17 - [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
+- Sep 17 - [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+- Sep 17 - [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
 <!--END_SECTION:hn-->
 
 <!--
