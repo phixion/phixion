@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
-- Sep 18 - [Build Faster Feedback Loops Using Qualitative User Research](https://blog.nseldeib.com/p/build-faster-feedback-loops-using)
-- Sep 18 - [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/)
-- Sep 18 - [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
-- Sep 18 - [Mathematicians Build Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/)
+- Sep 18 - [War may be coming. Are we psychologically ready?](https://www.bbc.com/news/articles/cmn0jke547r5o)
+- Sep 18 - [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
+- Sep 18 - [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
+- Sep 18 - [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+- Sep 18 - [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
 <!--END_SECTION:hn-->
 
 <!--
