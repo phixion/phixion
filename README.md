@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
-- Sep 18 - [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
-- Sep 18 - [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
-- Sep 18 - [A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai)
-- Sep 18 - [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
+- Sep 18 - [GrassLobster: AI Agentic Generation of Parametric Geometry Workflows](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
+- Sep 18 - [Build Faster Feedback Loops Using Qualitative User Research](https://blog.nseldeib.com/p/build-faster-feedback-loops-using)
+- Sep 18 - [Show HN: Rickub – The Smartest Git in the Universe](https://rickub.com/)
+- Sep 18 - [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
+- Sep 18 - [Mathematicians Build Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/)
 <!--END_SECTION:hn-->
 
 <!--
