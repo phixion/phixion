@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [Code Scans](https://devin.ai/blog/introducing-code-scans)
-- Sep 18 - [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
-- Sep 18 - [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)
+- Sep 18 - [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+- Sep 18 - [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+- Sep 18 - [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
+- Sep 18 - [A heap overflow and SSO misconfiguration to compromise OpenAI internal repos](https://www.hacktron.ai/blog/hacking-openai)
 - Sep 18 - [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
-- Sep 18 - [Minimal Phone 2](https://minimalcompany.com/)
 <!--END_SECTION:hn-->
 
 <!--
