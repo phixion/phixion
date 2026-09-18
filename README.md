@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 17 - [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-- Sep 17 - [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
-- Sep 17 - [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
-- Sep 17 - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
-- Sep 17 - [The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/)
+- Sep 18 - [Code Scans](https://devin.ai/blog/introducing-code-scans)
+- Sep 18 - [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+- Sep 18 - [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)
+- Sep 18 - [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
+- Sep 18 - [Minimal Phone 2](https://minimalcompany.com/)
 <!--END_SECTION:hn-->
 
 <!--
