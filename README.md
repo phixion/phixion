@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
-- Sep 19 - [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
-- Sep 19 - [Gemini hacked three companies in first known breakout by Google's AI](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/)
-- Sep 19 - [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/)
-- Sep 18 - [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
+- Sep 19 - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+- Sep 19 - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- Sep 19 - [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
+- Sep 19 - [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- Sep 19 - [Stepfun Step 5 Preview (LLM): On AA Pareto frontier](https://artificialanalysis.ai/models/step-5)
 <!--END_SECTION:hn-->
 
 <!--
