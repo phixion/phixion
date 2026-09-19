@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 18 - [War may be coming. Are we psychologically ready?](https://www.bbc.com/news/articles/cmn0jke547r5o)
-- Sep 18 - [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
-- Sep 18 - [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
-- Sep 18 - [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
-- Sep 18 - [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
+- Sep 19 - [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
+- Sep 19 - [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
+- Sep 19 - [Gemini hacked three companies in first known breakout by Google's AI](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/)
+- Sep 19 - [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/)
+- Sep 18 - [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
 <!--END_SECTION:hn-->
 
 <!--
