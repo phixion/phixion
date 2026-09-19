@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [People who know the most often sound the least certain](https://vrash.substack.com/p/the-people-who-know-the-most-often)
-- Sep 19 - [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
-- Sep 19 - [Almost Never Use AI to Write Anything Substantive](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
-- Sep 19 - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
-- Sep 19 - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+- Sep 19 - [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
+- Sep 19 - [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
+- Sep 19 - [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+- Sep 19 - [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
+- Sep 19 - [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
 <!--END_SECTION:hn-->
 
 <!--
