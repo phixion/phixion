@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
-- Sep 19 - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-- Sep 19 - [Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7](https://browser.geekbench.com/v7/cpu/389219)
-- Sep 19 - [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
-- Sep 19 - [Stepfun Step 5 Preview (LLM): On AA Pareto frontier](https://artificialanalysis.ai/models/step-5)
+- Sep 19 - [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
+- Sep 19 - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+- Sep 19 - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+- Sep 19 - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
+- Sep 19 - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
 <!--END_SECTION:hn-->
 
 <!--
