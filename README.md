@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
+- Sep 19 - [People who know the most often sound the least certain](https://vrash.substack.com/p/the-people-who-know-the-most-often)
+- Sep 19 - [Supabase (YC S20) Is Hiring for OrioleDB](https://supabase.link/orioledbjob)
+- Sep 19 - [Almost Never Use AI to Write Anything Substantive](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
 - Sep 19 - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
 - Sep 19 - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
-- Sep 19 - [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
-- Sep 19 - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
 <!--END_SECTION:hn-->
 
 <!--
