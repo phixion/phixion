@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [The Millennium Problems for Biology](https://millenniumproblems.bio/)
-- Sep 20 - [If AI coding is lowering your code quality, you're not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
-- Sep 20 - [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
-- Sep 20 - [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
-- Sep 20 - [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+- Sep 20 - [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
+- Sep 20 - [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)
+- Sep 20 - [Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM](https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/)
+- Sep 20 - [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- Sep 20 - [Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++](https://github.com/adonis-singh/re4)
 <!--END_SECTION:hn-->
 
 <!--
