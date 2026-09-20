@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [A Necessary History of the Oddest Letter: W](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
-- Sep 20 - [I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)
-- Sep 20 - [Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM](https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/)
-- Sep 20 - [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
-- Sep 20 - [Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++](https://github.com/adonis-singh/re4)
+- Sep 20 - [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
+- Sep 20 - [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
+- Sep 20 - [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
+- Sep 20 - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
+- Sep 20 - [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
 <!--END_SECTION:hn-->
 
 <!--
