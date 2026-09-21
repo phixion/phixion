@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/)
-- Sep 21 - [Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge)
-- Sep 21 - [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
-- Sep 21 - [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
-- Sep 21 - [How do Traffic Signals Work (2019)](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)
+- Sep 21 - [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+- Sep 21 - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- Sep 21 - [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy)
+- Sep 21 - [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- Sep 21 - [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
 <!--END_SECTION:hn-->
 
 <!--
