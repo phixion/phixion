@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Why back propagation goes backward](https://gregorygundersen.com/blog/2018/04/15/backprop/)
-- Sep 20 - [Amiga Unix, Again](https://amigaux.org/)
-- Sep 20 - [DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO)
-- Sep 20 - [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-- Sep 20 - [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+- Sep 21 - [Jev-Leftpad](https://github.com/f/jev-leftpad)
+- Sep 21 - [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
+- Sep 21 - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+- Sep 21 - [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/)
+- Sep 21 - [Heretic removes restrictions from language models](https://heretic-project.org/)
 <!--END_SECTION:hn-->
 
 <!--
