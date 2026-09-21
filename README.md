@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 20 - [Nipple tattooist 'frustrated' by online censorship](https://www.bbc.com/news/articles/cx2z7ejn891o)
-- Sep 20 - [Nobody pays for FOSS, we can force them to](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
-- Sep 20 - [Ogre Battle 64 Recompiled Project at 99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
-- Sep 20 - [OpenAI's Sam Altman to Brief UN Security Council Next Week](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
-- Sep 20 - [Frontier Labs Are Selling Garbage to Fools in Washington](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
+- Sep 21 - [Why back propagation goes backward](https://gregorygundersen.com/blog/2018/04/15/backprop/)
+- Sep 20 - [Amiga Unix, Again](https://amigaux.org/)
+- Sep 20 - [DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO)
+- Sep 20 - [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- Sep 20 - [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
 <!--END_SECTION:hn-->
 
 <!--
