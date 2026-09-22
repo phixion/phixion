@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Claude Opus 5.5](https://github.com/anthropics/ClaudeForFoundationModels/commit/5180901338a50bef050d5e9464583753ed3869a3)
-- Sep 22 - [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
-- Sep 22 - [Xbox continues its "reset" with dramatic restructuring](https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/)
-- Sep 22 - [Writing Rust code that's fast by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/)
-- Sep 22 - [I asked Meta’s Muse for its filesystem and it sent me 6.8GB](https://mouse.dev/blog/muse-runtime-export/)
+- Sep 22 - [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
+- Sep 22 - [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
+- Sep 22 - [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
+- Sep 22 - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+- Sep 22 - [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
 <!--END_SECTION:hn-->
 
 <!--
