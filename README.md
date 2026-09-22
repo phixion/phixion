@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 21 - [Data Protection Commission fines Google €403M over processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+- Sep 22 - [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
+- Sep 22 - [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)
+- Sep 21 - [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+- Sep 21 - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
 - Sep 21 - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-- Sep 21 - [Suspension of the de minimis administrative exemption for imports $800 or less](https://www.personalimportation.org/advocacy)
-- Sep 21 - [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-- Sep 21 - [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
 <!--END_SECTION:hn-->
 
 <!--
