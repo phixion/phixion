@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 22 - [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
-- Sep 22 - [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)
-- Sep 21 - [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
-- Sep 21 - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-- Sep 21 - [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- Sep 22 - [Tell HN: Claude Code just accepted and signed a contract for me. Without asking](https://news.ycombinator.com/item?id=49798257)
+- Sep 22 - [I said no and Apple said yes](https://dbushell.com/2026/09/22/apple-intelligence/)
+- Sep 22 - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- Sep 22 - [Used ThinkPad Buyer's Guide (2019)](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide)
+- Sep 22 - [MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)
 <!--END_SECTION:hn-->
 
 <!--
