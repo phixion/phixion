@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting](https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/)
-- Sep 23 - [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
-- Sep 23 - [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
-- Sep 23 - [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
-- Sep 23 - [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/)
+- Sep 23 - [OpenAI 'agent' hacked Australia's health service](https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507)
+- Sep 23 - [Bulk Orders Surge at Used Bookstores in Japan; 50 Tons Sent to U.S.](https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6)
+- Sep 23 - [VSCode's SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
+- Sep 23 - [OpenAI breaches Medicare, Albanese reveals](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
+- Sep 23 - [Once Claude can measure something, it can make it faster](https://claude.dev/blog/how-we-made-claude-ai-faster/)
 <!--END_SECTION:hn-->
 
 <!--
