@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 23 - [Transit rewards (Waymo pays you to take the train)](https://waymo.com/blog/2026/09/transit-rewards/)
+- Sep 23 - [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
 - Sep 22 - [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
-- Sep 22 - [The UV index is not the warm sensation of sunlight on bare skin](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
 - Sep 22 - [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
 - Sep 22 - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
-- Sep 22 - [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
 <!--END_SECTION:hn-->
 
 <!--
