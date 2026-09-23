@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [Transit rewards (Waymo pays you to take the train)](https://waymo.com/blog/2026/09/transit-rewards/)
-- Sep 23 - [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
-- Sep 22 - [The current balance of power in open models](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
-- Sep 22 - [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
-- Sep 22 - [Native apps written in TypeScript and CSS](https://github.com/geastack/examples)
+- Sep 23 - [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/)
+- Sep 23 - [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- Sep 23 - [How often do you think about the 1893 World's Fair?](https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/)
+- Sep 23 - [Grammarly will send unhinged messages to all your users if you try to cancel](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
+- Sep 23 - [Data-only attacks are easier than you think (2024)](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
 <!--END_SECTION:hn-->
 
 <!--
