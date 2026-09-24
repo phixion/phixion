@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [LinkedIn wins court order blocking mass scraping of user data](https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping)
-- Sep 24 - [I Have a Confession: I Built This Site with AI – Please Forgive Me](https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai)
-- Sep 24 - [QR Codes That Route to the Appropriate App Store](https://matthuggins.com/blog/posts/qr-codes-that-route-to-the-appropriate-app-store)
-- Sep 24 - [GitHub has not removed malicious imitation software after 3 weeks](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/)
-- Sep 24 - [F-Droid 2.0: A New Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+- Sep 24 - [Back and shoulder surgery is often worse than useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
+- Sep 24 - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
+- Sep 24 - [International observers to investigate Swedish election fraud](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
+- Sep 24 - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+- Sep 24 - [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
 <!--END_SECTION:hn-->
 
 <!--
