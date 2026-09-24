@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 23 - [OpenAI 'agent' hacked Australia's health service](https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507)
-- Sep 23 - [Bulk Orders Surge at Used Bookstores in Japan; 50 Tons Sent to U.S.](https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6)
-- Sep 23 - [VSCode's SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
-- Sep 23 - [OpenAI breaches Medicare, Albanese reveals](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
-- Sep 23 - [Once Claude can measure something, it can make it faster](https://claude.dev/blog/how-we-made-claude-ai-faster/)
+- Sep 24 - [Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
+- Sep 24 - [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
+- Sep 24 - [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
+- Sep 24 - [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)
+- Sep 24 - [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
 <!--END_SECTION:hn-->
 
 <!--
