@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
-- Sep 24 - [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
-- Sep 24 - [Six-year-old breaks women's world Rubik's Cube record [video]](https://www.youtube.com/watch?v=UCMRgvyTm08)
-- Sep 24 - [Contrastive Language Models](https://contrastive-lm.notion.site/)
-- Sep 24 - [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+- Sep 24 - [LinkedIn wins court order blocking mass scraping of user data](https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping)
+- Sep 24 - [I Have a Confession: I Built This Site with AI – Please Forgive Me](https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai)
+- Sep 24 - [QR Codes That Route to the Appropriate App Store](https://matthuggins.com/blog/posts/qr-codes-that-route-to-the-appropriate-app-store)
+- Sep 24 - [GitHub has not removed malicious imitation software after 3 weeks](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/)
+- Sep 24 - [F-Droid 2.0: A New Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
 <!--END_SECTION:hn-->
 
 <!--
