@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 24 - [Show HN: Koi.rest – watch some fish and regain your balance](https://koi.rest)
-- Sep 24 - [The Board Game of the Alpha Nerds (2014)](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-- Sep 24 - [California is chasing wealth that has feet](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
-- Sep 24 - [Opus 5.5 is good at explainer videos](https://launchvideo.io)
-- Sep 24 - [Sourcehut account takeover via build logs (XSS in ansi2html)](https://blog.arusekk.pl/posts/srht-account-takeover/)
+- Sep 25 - [Show HN: Hamilton – a no-internet Android health dashboard, named after my dog](https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US)
+- Sep 25 - [The Test](https://tante.cc/2026/09/24/the-test/)
+- Sep 25 - [I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
+- Sep 25 - [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- Sep 25 - [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
 <!--END_SECTION:hn-->
 
 <!--
