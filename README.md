@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [Supreme Court permits states to use SAVE database for citizenship checks](https://cyberscoop.com/supreme-court-save-database-voter-citizenship/)
-- Sep 25 - [Advice to a Beginning Graduate Student (2001)](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
-- Sep 25 - [Zelensky says Russia has widened attacks to hit Ukraine's data centres](https://www.bbc.com/news/articles/c84gkwgk7d06o)
-- Sep 25 - [Alan Kay: Shannon gave us a way of dealing with noisy channels [video]](https://www.youtube.com/watch?v=Cjntrqhn8pk)
-- Sep 25 - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- Sep 25 - [What Even Is an OS Now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+- Sep 25 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- Sep 25 - [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
+- Sep 25 - [How we learned to stop worrying and love campus surveillance](https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/)
+- Sep 25 - [Ask HN: Who's still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)
 <!--END_SECTION:hn-->
 
 <!--
