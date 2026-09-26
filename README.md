@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 25 - [What Even Is an OS Now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
-- Sep 25 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
-- Sep 25 - [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
-- Sep 25 - [How we learned to stop worrying and love campus surveillance](https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/)
-- Sep 25 - [Ask HN: Who's still keeping a DOS machine up because the business depends on it?](https://news.ycombinator.com/item?id=49848955)
+- Sep 26 - [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+- Sep 26 - [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
+- Sep 26 - [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide)
+- Sep 26 - [TiddlyInstall: A universal, reusable, install system](https://robertsdotpm.github.io/_static/tiddlyinstall.html)
+- Sep 26 - [Show HN: A game about fake news and memes](https://unspin.app/)
 <!--END_SECTION:hn-->
 
 <!--
