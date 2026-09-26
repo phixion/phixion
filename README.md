@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 26 - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
-- Sep 26 - [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-- Sep 26 - [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
-- Sep 26 - [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
-- Sep 26 - [Floci: Locally emulating any cloud service](https://floci.io)
+- Sep 26 - [Japan moves to tighten rules for foreigners, throwing futures into doubt](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
+- Sep 26 - [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+- Sep 26 - [US jury says Apple owes record $5.7B in haptic technology patent case](https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/)
+- Sep 26 - [I'm the mom in that viral Giants clip. Let me tell you about my husband](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
+- Sep 26 - [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
 <!--END_SECTION:hn-->
 
 <!--
