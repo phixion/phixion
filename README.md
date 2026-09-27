@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Sep 27 - [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
+- Sep 27 - [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+- Sep 27 - [OpenAI agents tried to bruteforce a UN website's API fields](https://swarmcha.se/posts/openai-unctad)
+- Sep 27 - [Real-time feedback: My closing move in every interview](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
 - Sep 26 - [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
-- Sep 26 - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-- Sep 26 - [Japan moves to tighten rules for foreigners](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
-- Sep 26 - [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-- Sep 26 - [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
 <!--END_SECTION:hn-->
 
 <!--
