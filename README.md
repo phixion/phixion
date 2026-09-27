@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
-- Sep 27 - [Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)
-- Sep 27 - [Ember-1](https://fireworks.ai/blog/ember-1)
-- Sep 27 - [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
-- Sep 27 - [Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/)
+- Sep 27 - [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
+- Sep 27 - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+- Sep 27 - [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
+- Sep 27 - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- Sep 27 - [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
 <!--END_SECTION:hn-->
 
 <!--
