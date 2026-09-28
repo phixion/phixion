@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 27 - [EV Sales Are Booming in Europe with Gasoline at $10 a Gallon](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
-- Sep 27 - [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
-- Sep 27 - [My Recent Woodworking Projects](https://notoriousbfg.com/recent-woodworking-projects/)
-- Sep 27 - [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-- Sep 27 - [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
+- Sep 28 - [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
+- Sep 28 - [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
+- Sep 28 - [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+- Sep 28 - [TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
+- Sep 28 - [Musk, the Movie](https://bleeckerstreetmedia.com/musk)
 <!--END_SECTION:hn-->
 
 <!--
