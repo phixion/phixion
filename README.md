@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
-- Sep 28 - [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
-- Sep 28 - [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
-- Sep 28 - [TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
-- Sep 28 - [Musk, the Movie](https://bleeckerstreetmedia.com/musk)
+- Sep 28 - [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+- Sep 28 - [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- Sep 28 - [Nvidia wants to put a watchdog chip next to every AI agent](https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/)
+- Sep 28 - [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
+- Sep 28 - [Kids turned low-traffic NPR Spotify comments into a secret group chat](https://www.thisamericanlife.org/897/transcript)
 <!--END_SECTION:hn-->
 
 <!--
