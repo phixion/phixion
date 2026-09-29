@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 28 - [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
-- Sep 28 - [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
-- Sep 28 - [Nvidia wants to put a watchdog chip next to every AI agent](https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/)
-- Sep 28 - [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
-- Sep 28 - [Kids turned low-traffic NPR Spotify comments into a secret group chat](https://www.thisamericanlife.org/897/transcript)
+- Sep 28 - [Anthropic's IPO prospectus shows AI vision, surging costs](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/)
+- Sep 28 - [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
+- Sep 28 - [Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
+- Sep 28 - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- Sep 28 - [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
 <!--END_SECTION:hn-->
 
 <!--
