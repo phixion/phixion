@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
-- Sep 30 - [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
-- Sep 30 - [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
-- Sep 30 - [Ballmer Peak](https://en.wikipedia.org/wiki/Ballmer_Peak)
-- Sep 30 - [Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)](https://mightygodking.com/2008/04/21/fun-from-yesterday/)
+- Sep 30 - [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+- Sep 30 - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
+- Sep 30 - [Most data centers refusing to say how much water, electricity they use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
+- Sep 30 - [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- Sep 30 - [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
 <!--END_SECTION:hn-->
 
 <!--
