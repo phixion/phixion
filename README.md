@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/)
-- Oct 01 - [Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html)
-- Oct 01 - [An AI sovereign wealth fund isn't progressive – it's techno-imperialism](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243)
-- Oct 01 - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
-- Oct 01 - [Google breaks promise to provide 10 years of updates to Chromebooks](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
+- Oct 01 - [Manyfold's Agents.md Is Based](https://github.com/manyfold3d/manyfold/blob/main/AGENTS.md)
+- Oct 01 - [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
+- Oct 01 - [ArXiv's Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)
+- Oct 01 - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- Oct 01 - [Pi Durable](https://earendil.com/posts/pi-durable/)
 <!--END_SECTION:hn-->
 
 <!--
