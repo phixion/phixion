@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Sep 30 - [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-- Sep 30 - [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
-- Sep 30 - [America.gov goes crazy on "play Minecraft"](https://america.gov/chat)
-- Sep 30 - [EDG C++ front-end goes public](https://edgcpp.org/#transition)
-- Sep 30 - [Surprisingly Complex Waves Reveal the Brain's Inner Workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
+- Oct 01 - [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)
+- Oct 01 - [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/)
+- Oct 01 - [Jevotron: Multiple Jev integrations from the command line](https://cmungall.github.io/jevotron/)
+- Sep 30 - [56k.rip – the 1996 dial-up internet experience](https://56k.rip/)
+- Sep 30 - [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
 <!--END_SECTION:hn-->
 
 <!--
