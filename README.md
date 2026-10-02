@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [The Legend of von Neumann [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
-- Oct 02 - [Memory executives expect RAM shortage to continue through 2028](https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/)
-- Oct 02 - [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
-- Oct 02 - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
-- Oct 02 - [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
+- Oct 02 - [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+- Oct 02 - [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
+- Oct 02 - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+- Oct 02 - [Muse Gadgets](https://gadgets.muse.ai)
+- Oct 02 - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 <!--END_SECTION:hn-->
 
 <!--
