@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 01 - [Manyfold's Agents.md Is Based](https://github.com/manyfold3d/manyfold/blob/main/AGENTS.md)
-- Oct 01 - [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
-- Oct 01 - [ArXiv's Updated Rate Limit Policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/)
-- Oct 01 - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
-- Oct 01 - [Pi Durable](https://earendil.com/posts/pi-durable/)
+- Oct 02 - [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
+- Oct 02 - [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+- Oct 01 - [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
+- Oct 01 - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- Oct 01 - [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
 <!--END_SECTION:hn-->
 
 <!--
