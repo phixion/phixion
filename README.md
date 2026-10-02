@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 02 - [The Legend of von Neumann [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
+- Oct 02 - [Memory executives expect RAM shortage to continue through 2028](https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/)
+- Oct 02 - [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
+- Oct 02 - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
 - Oct 02 - [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/)
-- Oct 02 - [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
-- Oct 01 - [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
-- Oct 01 - [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-- Oct 01 - [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
 <!--END_SECTION:hn-->
 
 <!--
