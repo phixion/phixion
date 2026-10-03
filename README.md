@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 03 - [ADHD, autism or complex trauma? [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
-- Oct 03 - [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
-- Oct 03 - [Pop!_OS bans AI-generated code from much of its codebase](https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/)
-- Oct 03 - [Kolibri – Tech Report [pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)
-- Oct 03 - [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
+- Oct 03 - [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+- Oct 03 - [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+- Oct 03 - [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
+- Oct 03 - [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+- Oct 03 - [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
 <!--END_SECTION:hn-->
 
 <!--
