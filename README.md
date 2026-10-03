@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 02 - [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
-- Oct 02 - [GrapheneOS has fixed the Android 17 QPR1 kernel performance regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
-- Oct 02 - [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
-- Oct 02 - [Muse Gadgets](https://gadgets.muse.ai)
-- Oct 02 - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+- Oct 03 - [Cloudflare Ohttp Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+- Oct 03 - [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
+- Oct 03 - [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- Oct 03 - [Where Is the Planet](http://whereistheplanet.com)
+- Oct 03 - [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
 <!--END_SECTION:hn-->
 
 <!--
