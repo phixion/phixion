@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Building a RAG pipeline for semantic code search](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
-- Oct 04 - [Blindsight (Watts Novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
-- Oct 04 - [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-- Oct 04 - [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
-- Oct 04 - [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
+- Oct 04 - [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
+- Oct 04 - [Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+- Oct 04 - [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
+- Oct 04 - [Show HN: Build with Python – a beginner course where your code draws](https://scimigo.com/en/learn/build-with-python/01-draw-with-python)
+- Oct 04 - [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
 <!--END_SECTION:hn-->
 
 <!--
