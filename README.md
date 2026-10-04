@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 04 - [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-- Oct 04 - [Religious scholars met with Anthropic](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
-- Oct 04 - [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
-- Oct 04 - [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-- Oct 03 - [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+- Oct 04 - [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+- Oct 04 - [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
+- Oct 04 - [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
+- Oct 04 - [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
+- Oct 04 - [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
 <!--END_SECTION:hn-->
 
 <!--
