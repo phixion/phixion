@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
-- Oct 05 - [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
-- Oct 05 - [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
-- Oct 04 - [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-- Oct 04 - [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+- Oct 05 - [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/)
+- Oct 05 - [Florida woman arrested for allegedly making threats in an AI chat](https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat)
+- Oct 05 - [Borland Turbo Basic](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
+- Oct 05 - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+- Oct 05 - [Picard 3.0](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
 <!--END_SECTION:hn-->
 
 <!--
