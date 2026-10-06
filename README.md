@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 05 - [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/)
-- Oct 05 - [Florida woman arrested for allegedly making threats in an AI chat](https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat)
-- Oct 05 - [Borland Turbo Basic](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
-- Oct 05 - [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
-- Oct 05 - [Picard 3.0](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
+- Oct 06 - [AI Tutoring with Khanmigo in a Two-Year School Experiment](https://edworkingpapers.com/ai26-1551)
+- Oct 05 - [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
+- Oct 05 - [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
+- Oct 05 - [Worth Building](https://armstr.ng/writing/worth-building)
+- Oct 05 - [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
 <!--END_SECTION:hn-->
 
 <!--
