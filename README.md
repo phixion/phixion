@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Asos users receive pop-up notification apparently sent by hackers](https://www.bbc.co.uk/news/live/cjkg7205q9ret)
-- Oct 06 - [ASOS app users receive push notifications apparently sent by hackers](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o)
-- Oct 06 - [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
-- Oct 06 - [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
-- Oct 06 - [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
+- Oct 06 - [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)
+- Oct 06 - [Nano Banana 2.1](https://twitter.com/googleaistudio/status/2107501303890915550)
+- Oct 06 - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+- Oct 06 - [The Early History of Smalltalk (1993)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+- Oct 06 - [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
 <!--END_SECTION:hn-->
 
 <!--
