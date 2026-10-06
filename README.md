@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [AI Tutoring with Khanmigo in a Two-Year School Experiment](https://edworkingpapers.com/ai26-1551)
-- Oct 05 - [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
-- Oct 05 - [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
-- Oct 05 - [Worth Building](https://armstr.ng/writing/worth-building)
-- Oct 05 - [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+- Oct 06 - [Asos users receive pop-up notification apparently sent by hackers](https://www.bbc.co.uk/news/live/cjkg7205q9ret)
+- Oct 06 - [ASOS app users receive push notifications apparently sent by hackers](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o)
+- Oct 06 - [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+- Oct 06 - [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
+- Oct 06 - [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
 <!--END_SECTION:hn-->
 
 <!--
