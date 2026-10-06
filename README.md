@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 06 - [Adobe Creative Suite Cleanroom Ported to Rust](https://github.com/storytold/photocraft)
-- Oct 06 - [Nano Banana 2.1](https://twitter.com/googleaistudio/status/2107501303890915550)
-- Oct 06 - [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
-- Oct 06 - [The Early History of Smalltalk (1993)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-- Oct 06 - [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
+- Oct 06 - [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- Oct 06 - [The Query Transformation Pipeline](https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline)
+- Oct 06 - [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
+- Oct 06 - [How Fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15)
+- Oct 06 - [Ask HN: Why is Ask HN only showing me 14 posts?](https://news.ycombinator.com/item?id=49984484)
 <!--END_SECTION:hn-->
 
 <!--
