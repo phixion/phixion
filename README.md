@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 07 - [We Built an Alternative to Vector RAG for AI Agent Memory](https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval)
-- Oct 07 - [Device detection and occupancy monitoring for Airbnb hosts](https://www.minut.com/features/occupancy-monitoring)
-- Oct 07 - [SynthID Detector](https://synthid.com/)
-- Oct 07 - [AI-assisted proof of optimal packing for 11 squares](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
-- Oct 07 - [Google Playground](https://labs.google/playground)
+- Oct 07 - [Despite what Watson said, Rosalind Franklin understood structure of DNA first](https://link.springer.com/article/10.1007/s10739-026-09866-7)
+- Oct 07 - [Show HN: gtlds.fyi – All the proposed new gTLDs](https://gtlds.fyi/)
+- Oct 07 - [The Mathocalypse](https://scottaaronson.blog/)
+- Oct 07 - [The Mathocalypse](https://scottaaronson.blog/?p=10169)
+- Oct 07 - [ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains](https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en)
 <!--END_SECTION:hn-->
 
 <!--
