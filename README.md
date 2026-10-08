@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
-- Oct 07 - [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-- Oct 07 - ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
-- Oct 07 - [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
-- Oct 07 - [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
+- Oct 08 - [Show HN: I've been paying for a rural Tanzanian's education for 10 years](https://tanzaniaeducationproject.org/)
+- Oct 08 - [2027 Web Platform Feature Ranking](https://interop-rank.fxdx.dev/)
+- Oct 08 - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
+- Oct 08 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+- Oct 08 - [I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)
 <!--END_SECTION:hn-->
 
 <!--
