@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [Show HN: I've been paying for a rural Tanzanian's education for 10 years](https://tanzaniaeducationproject.org/)
-- Oct 08 - [2027 Web Platform Feature Ranking](https://interop-rank.fxdx.dev/)
-- Oct 08 - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
-- Oct 08 - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
-- Oct 08 - [I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)
+- Oct 08 - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+- Oct 08 - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
+- Oct 08 - [Theranos.world](https://www.theranos.world/)
+- Oct 08 - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- Oct 08 - [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)
 <!--END_SECTION:hn-->
 
 <!--
