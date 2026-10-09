@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 08 - [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
-- Oct 08 - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
-- Oct 08 - [Theranos.world](https://www.theranos.world/)
-- Oct 08 - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-- Oct 08 - [OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)
+- Oct 09 - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+- Oct 09 - [Anger as man sentenced to death for Facebook comment](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
+- Oct 09 - [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
+- Oct 08 - [Bevy 0.20](https://bevy.org/news/bevy-0-20/)
+- Oct 08 - [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)
 <!--END_SECTION:hn-->
 
 <!--
