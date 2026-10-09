@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
-- Oct 09 - [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
-- Oct 09 - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
-- Oct 09 - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
-- Oct 09 - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
+- Oct 09 - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+- Oct 09 - [open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI](https://codeberg.org/ethical-foss/open-slopware)
+- Oct 09 - [You might want to try being less creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
+- Oct 09 - [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
+- Oct 09 - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
 <!--END_SECTION:hn-->
 
 <!--
