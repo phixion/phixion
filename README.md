@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 09 - [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
-- Oct 09 - [open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI](https://codeberg.org/ethical-foss/open-slopware)
-- Oct 09 - [You might want to try being less creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
-- Oct 09 - [Microsoft-Decision-1, our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
-- Oct 09 - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
+- Oct 10 - [Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html)
+- Oct 10 - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+- Oct 10 - [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
+- Oct 10 - [REA Reverse – Engineer Anything](https://rea.tools/)
+- Oct 09 - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
 <!--END_SECTION:hn-->
 
 <!--
