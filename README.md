@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 10 - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- Oct 10 - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+- Oct 10 - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
 - Oct 10 - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
 - Oct 10 - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
-- Oct 10 - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
-- Oct 10 - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
-- Oct 10 - [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
 <!--END_SECTION:hn-->
 
 <!--
