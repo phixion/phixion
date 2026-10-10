@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html)
-- Oct 10 - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-- Oct 10 - [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
-- Oct 10 - [REA Reverse – Engineer Anything](https://rea.tools/)
-- Oct 09 - [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
+- Oct 10 - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+- Oct 10 - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
+- Oct 10 - [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
+- Oct 10 - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+- Oct 10 - [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
 <!--END_SECTION:hn-->
 
 <!--
