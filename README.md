@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
-- Oct 10 - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
-- Oct 10 - [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
-- Oct 10 - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
-- Oct 10 - [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+- Oct 10 - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
+- Oct 10 - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+- Oct 10 - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
+- Oct 10 - [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
+- Oct 10 - [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
 <!--END_SECTION:hn-->
 
 <!--
