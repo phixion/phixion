@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 10 - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-- Oct 10 - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
-- Oct 10 - [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
-- Oct 10 - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
-- Oct 10 - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+- Oct 11 - [Vegetables half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
+- Oct 11 - [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager)
+- Oct 11 - [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+- Oct 11 - [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
+- Oct 11 - [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
 <!--END_SECTION:hn-->
 
 <!--
