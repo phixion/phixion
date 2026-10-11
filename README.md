@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Open-Source Microsoft Office Excel, PowerPoint, and Word Replications](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
-- Oct 11 - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
-- Oct 11 - [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
-- Oct 11 - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
-- Oct 11 - [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
+- Oct 11 - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
+- Oct 11 - [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
+- Oct 11 - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- Oct 11 - [NYC's "Click to Cancel" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)
+- Oct 11 - [apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)
 <!--END_SECTION:hn-->
 
 <!--
