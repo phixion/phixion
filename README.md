@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Vegetables half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
-- Oct 11 - [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager)
-- Oct 11 - [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
-- Oct 11 - [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
-- Oct 11 - [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
+- Oct 11 - [Open-Source Microsoft Office Excel, PowerPoint, and Word Replications](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
+- Oct 11 - [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+- Oct 11 - [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+- Oct 11 - [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+- Oct 11 - [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
 <!--END_SECTION:hn-->
 
 <!--
