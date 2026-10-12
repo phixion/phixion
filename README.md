@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [X Is Bad, Though](https://lexontech.org/x-is-bad-though)
-- Oct 12 - [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
-- Oct 12 - [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
-- Oct 12 - [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)
-- Oct 11 - [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
+- Oct 12 - [Muse Wonder](https://research.meta.ai/blog/muse-wonder)
+- Oct 12 - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
+- Oct 12 - [Reverse engineer anything with agents, from app behavior down to native binaries](https://github.com/morluto/rea)
+- Oct 12 - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+- Oct 12 - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
 <!--END_SECTION:hn-->
 
 <!--
