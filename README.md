@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 11 - [Google Data Centers around the world](https://datacenters.google/locations/)
-- Oct 11 - [Fingerprints Are the New Cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-- Oct 11 - [Google is illegaly cutting forest to build data centers](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
-- Oct 11 - [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
-- Oct 11 - [Passkeys are a trap. Do not use them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+- Oct 12 - [X Is Bad, Though](https://lexontech.org/x-is-bad-though)
+- Oct 12 - [Doory – Open-Source Canva](https://github.com/shaongitbd/doory)
+- Oct 12 - [Local Indexing to reduce tool calling and token usage](https://tedhaley.ca/pensieve/)
+- Oct 12 - [HashiCorp archives the Boundary open source repo](https://github.com/hashicorp/boundary)
+- Oct 11 - [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
 <!--END_SECTION:hn-->
 
 <!--
