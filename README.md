@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 13 - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
-- Oct 13 - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
-- Oct 13 - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
-- Oct 13 - [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
-- Oct 13 - [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
+- Oct 13 - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
+- Oct 13 - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
+- Oct 13 - [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)
+- Oct 13 - [Show HN: XY Music Notation](https://music.xy.dev/)
+- Oct 13 - [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
 <!--END_SECTION:hn-->
 
 <!--
