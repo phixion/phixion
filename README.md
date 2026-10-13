@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 12 - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
-- Oct 12 - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
-- Oct 12 - [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
-- Oct 12 - [RJ Mitte has died](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
-- Oct 12 - [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
+- Oct 13 - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
+- Oct 13 - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
+- Oct 13 - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
+- Oct 13 - [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran)
+- Oct 13 - [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
 <!--END_SECTION:hn-->
 
 <!--
