@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Oct 14 - [Crunchbase - 559,908 breached accounts](https://haveibeenpwned.com/Breach/Crunchbase)
 - Oct 12 - [Sharecare - 318,185 breached accounts](https://haveibeenpwned.com/Breach/Sharecare)
 - Oct 09 - [Neogen - 435,963 breached accounts](https://haveibeenpwned.com/Breach/Neogen)
 - Oct 07 - [CyrusOne - 373,460 breached accounts](https://haveibeenpwned.com/Breach/CyrusOne)
 - Oct 07 - [Double Counter - 274,922 breached accounts](https://haveibeenpwned.com/Breach/DoubleCounter)
-- Oct 07 - [Angel One - 6,765,054 breached accounts](https://haveibeenpwned.com/Breach/AngelOne)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
-- Oct 14 - [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
-- Oct 14 - [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
-- Oct 13 - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
-- Oct 13 - [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
+- Oct 14 - [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
+- Oct 14 - [The Aaronson Oracle](https://aaronsonoracle.com/)
+- Oct 14 - [Smart people don't think others are stupid](https://sive.rs/ss)
+- Oct 14 - [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+- Oct 14 - [TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
 <!--END_SECTION:hn-->
 
 <!--
