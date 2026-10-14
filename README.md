@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 14 - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
+- Oct 14 - [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
+- Oct 14 - [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
 - Oct 13 - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
-- Oct 13 - [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
-- Oct 13 - [AlphaNIST](https://alpha-nist.github.io/)
-- Oct 13 - [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
-- Oct 13 - [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+- Oct 13 - [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 <!--END_SECTION:hn-->
 
 <!--
