@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 15 - [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
-- Oct 15 - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
-- Oct 15 - [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
-- Oct 15 - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
-- Oct 14 - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- Oct 15 - [The technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
+- Oct 15 - [Neural Networks Are Already Clean](https://already-clean.goodfire.com/)
+- Oct 15 - [Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher](https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/)
+- Oct 15 - [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)
+- Oct 15 - [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
 <!--END_SECTION:hn-->
 
 <!--
