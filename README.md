@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 15 - [AI was great until it was not](https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not)
+- Oct 15 - [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)
+- Oct 15 - [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)
 - Oct 15 - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
 - Oct 14 - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
-- Oct 14 - [Tiny Little Office](https://tinylittleoffice.com/)
-- Oct 14 - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
-- Oct 14 - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 <!--END_SECTION:hn-->
 
 <!--
