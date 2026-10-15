@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 14 - [Private equity ownership affects dental practices](https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55341670/how-does-private-equity-ownership-really-affect-dental-practices)
-- Oct 14 - [Suicide rates highest ever among middle-aged men](https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/)
-- Oct 14 - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
-- Oct 14 - [Fire at Starlink site in Bulgaria after suspected sabotage in Poland](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
-- Oct 14 - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+- Oct 15 - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+- Oct 14 - [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- Oct 14 - [Tiny Little Office](https://tinylittleoffice.com/)
+- Oct 14 - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
+- Oct 14 - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 <!--END_SECTION:hn-->
 
 <!--
