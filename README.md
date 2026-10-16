@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)
-- Oct 16 - [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
-- Oct 16 - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
-- Oct 16 - [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)
-- Oct 16 - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
+- Oct 16 - [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
+- Oct 16 - [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
+- Oct 16 - [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
+- Oct 16 - [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
+- Oct 16 - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
 <!--END_SECTION:hn-->
 
 <!--
