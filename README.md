@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 16 - [The insider trading you're allowed to do](https://coached.com/essays/the-insider-trading-youre-allowed-to-do/)
+- Oct 16 - [Last rites for Gentoo's Chromium package](https://lwn.net/Articles/1097760/)
+- Oct 16 - [The Folders Programming Language](https://danieltemkin.com/esolangs/folders)
+- Oct 16 - [Porsche Mission S](https://www.porsche.com/international/models/mission-s/)
 - Oct 16 - [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
-- Oct 16 - [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
-- Oct 16 - [Tesla Roadster](https://www.tesla.com/roadster)
-- Oct 16 - [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
-- Oct 16 - [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
 <!--END_SECTION:hn-->
 
 <!--
