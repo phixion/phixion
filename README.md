@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [US Rep Announces Congressional Legislation to Protect Video Game Ownership](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games)
-- Oct 16 - [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
-- Oct 16 - [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co)
-- Oct 16 - [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
-- Oct 16 - [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
+- Oct 16 - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
+- Oct 16 - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
+- Oct 16 - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
+- Oct 16 - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
+- Oct 16 - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 <!--END_SECTION:hn-->
 
 <!--
