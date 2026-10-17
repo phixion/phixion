@@ -19,10 +19,10 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 16 - [Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
-- Oct 16 - [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314)
+- Oct 17 - [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+- Oct 17 - [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
+- Oct 16 - [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
 - Oct 16 - [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-- Oct 16 - [The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 - Oct 16 - [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 <!--END_SECTION:hn-->
 
