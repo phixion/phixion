@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
-- Oct 17 - [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
-- Oct 17 - [OpenAI discloses four more rogue incidents](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
-- Oct 17 - [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
-- Oct 17 - [Amazon uses AI to monitor union risk in UK warehouses](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
+- Oct 17 - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+- Oct 17 - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
+- Oct 17 - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
+- Oct 17 - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
+- Oct 17 - [Codex is EATING my Mac's disk space](https://github.com/openai/codex/issues/25921)
 <!--END_SECTION:hn-->
 
 <!--
