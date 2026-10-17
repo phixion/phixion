@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 17 - [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
-- Oct 17 - [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
-- Oct 17 - [Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)
-- Oct 17 - [The future of programming – A.I. Wasserman and S. Gutz (1982)](https://dl.acm.org/doi/10.1145/358453.358459)
-- Oct 17 - [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
+- Oct 17 - [Development statistics for the 7.2 kernel](https://lwn.net/Articles/1088776/)
+- Oct 17 - [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
+- Oct 17 - [OpenAI discloses four more rogue incidents](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
+- Oct 17 - [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
+- Oct 17 - [Amazon uses AI to monitor union risk in UK warehouses](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
 <!--END_SECTION:hn-->
 
 <!--
