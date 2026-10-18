@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [PalmOS Lemmings by Aaron Ardiri](https://github.com/ardiri/palmos-lemmings)
-- Oct 18 - [Mitos editor is a fork of Helix](https://mitos.computer/)
-- Oct 18 - [Namecheap just seized and disabled all my domains](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/)
-- Oct 18 - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-- Oct 18 - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+- Oct 18 - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- Oct 18 - [Netflix vmaf: Perceptual video quality assessment based on multi-method fusion](https://github.com/Netflix/vmaf)
+- Oct 18 - [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
+- Oct 18 - [Florida's HOAs and condo associations are making the housing crisis worse](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
+- Oct 18 - [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
 <!--END_SECTION:hn-->
 
 <!--
