@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 18 - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-- Oct 18 - [A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
-- Oct 18 - [Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
-- Oct 18 - [A Mole Infiltrated the Highest Ranks of American Militias (2025)](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
-- Oct 18 - [Notes on the Complex Roots of Unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
+- Oct 18 - [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
+- Oct 18 - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+- Oct 18 - [Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model)
+- Oct 18 - [Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car](https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car)
+- Oct 18 - [Theranos-Style Fraud Has Become the Norm](https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/)
 <!--END_SECTION:hn-->
 
 <!--
