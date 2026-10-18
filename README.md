@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 18 - [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
+- Oct 17 - [JDK 28](https://openjdk.org/projects/jdk/28/)
 - Oct 17 - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
-- Oct 17 - [Microsoft and CMU Team Up to Train Early Career Software Engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
-- Oct 17 - [Pattern Matching Beats Narrative Reasoning](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
-- Oct 17 - [OpenCode Hacked: User credentials leaked](https://twitter.com/opencode/status/2111516673953935833)
-- Oct 17 - [Codex is EATING my Mac's disk space](https://github.com/openai/codex/issues/25921)
+- Oct 17 - [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
+- Oct 17 - [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
 <!--END_SECTION:hn-->
 
 <!--
