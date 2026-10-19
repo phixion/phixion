@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-- Oct 19 - [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
-- Oct 18 - [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-- Oct 18 - [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
-- Oct 18 - [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
+- Oct 19 - [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
+- Oct 19 - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
+- Oct 19 - [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
+- Oct 19 - [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
+- Oct 19 - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
 <!--END_SECTION:hn-->
 
 <!--
