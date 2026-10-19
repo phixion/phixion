@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
-- Oct 19 - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
-- Oct 19 - [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
-- Oct 19 - [Ukraine carries out first ever aerial drone evacuation of a wounded soldier](https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html)
-- Oct 19 - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
+- Oct 19 - [Drupal is now light-years ahead of its reputation](https://dri.es/state-of-drupal-presentation-september-2026)
+- Oct 19 - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+- Oct 19 - [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
+- Oct 19 - [One Hash Bloom Filters](https://calabro.io/ohbf)
+- Oct 19 - [The End of Rationing](https://sanketsaurav.com/writing/end-of-rationing)
 <!--END_SECTION:hn-->
 
 <!--
