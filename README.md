@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 19 - [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
-- Oct 19 - [Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)
-- Oct 19 - [Flatpak – An Insecurity Nightmare](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
-- Oct 19 - [DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
-- Oct 19 - [Verisign .com Domain Name Registry Consumer Class Action](https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action)
+- Oct 19 - [Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)
+- Oct 19 - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
+- Oct 19 - [Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+- Oct 19 - [Ukraine carries out first ever aerial drone evacuation of a wounded soldier](https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html)
+- Oct 19 - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
 <!--END_SECTION:hn-->
 
 <!--
