@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-- Oct 20 - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
-- Oct 20 - [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
-- Oct 20 - [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
-- Oct 20 - [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
+- Oct 20 - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+- Oct 20 - [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
+- Oct 20 - [SimCity, but with Permits](https://permit.petercai.com/)
+- Oct 20 - [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
+- Oct 20 - [What shall I teach my son?](https://stevekrouse.com/ends)
 <!--END_SECTION:hn-->
 
 <!--
