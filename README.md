@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Everything is going wrong for Muhammad bin Salman](https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman)
-- Oct 20 - [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
-- Oct 20 - [Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)
-- Oct 20 - [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
-- Oct 20 - [OpenBSD 8.0](https://www.openbsd.org/80.html)
+- Oct 20 - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- Oct 20 - [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga)
+- Oct 20 - [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
+- Oct 20 - [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)
+- Oct 20 - [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
 <!--END_SECTION:hn-->
 
 <!--
