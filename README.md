@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Pillowfort Is Closing](https://www.pillowfort.social/posts/8413273)
-- Oct 21 - [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo)
-- Oct 21 - [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/)
-- Oct 21 - [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
-- Oct 21 - [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm)
+- Oct 21 - [What I learned from six months of being stupid on purpose](https://wvez.org/blog/learning-to-be-stupid/)
+- Oct 21 - [Your MCU Likely Escaped the eMudhra Intermediate CA Compromise](https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/)
+- Oct 21 - [AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
+- Oct 21 - [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+- Oct 21 - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
 <!--END_SECTION:hn-->
 
 <!--
