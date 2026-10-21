@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [What I learned from six months of being stupid on purpose](https://wvez.org/blog/learning-to-be-stupid/)
-- Oct 21 - [Your MCU Likely Escaped the eMudhra Intermediate CA Compromise](https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/)
-- Oct 21 - [AI agent fixed the bug, but what else did it change?](https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/)
-- Oct 21 - [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
-- Oct 21 - [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
+- Oct 21 - [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+- Oct 21 - [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
+- Oct 21 - [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
+- Oct 21 - [Claude Duet](https://claude.com/resources/articles/claude-duet)
+- Oct 21 - [Claude Duet](https://claude.com/product/claude-duet)
 <!--END_SECTION:hn-->
 
 <!--
