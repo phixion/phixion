@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 20 - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-- Oct 20 - [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
-- Oct 20 - [SimCity, but with Permits](https://permit.petercai.com/)
-- Oct 20 - [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)
-- Oct 20 - [What shall I teach my son?](https://stevekrouse.com/ends)
+- Oct 21 - [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+- Oct 21 - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- Oct 21 - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+- Oct 21 - [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird)
+- Oct 20 - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
 <!--END_SECTION:hn-->
 
 <!--
