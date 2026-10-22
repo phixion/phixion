@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Arc Is Sunsetting](https://arc.net/)
-- Oct 22 - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
-- Oct 22 - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
-- Oct 22 - [Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)
-- Oct 22 - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
+- Oct 22 - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
+- Oct 22 - [Railpass](https://train.samismith.com/)
+- Oct 22 - [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
+- Oct 22 - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+- Oct 22 - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
 <!--END_SECTION:hn-->
 
 <!--
