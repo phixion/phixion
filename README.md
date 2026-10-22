@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
-- Oct 22 - [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
-- Oct 22 - [OpenAI CLI](https://github.com/openai/openai-cli)
-- Oct 22 - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-- Oct 22 - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
+- Oct 22 - [Arc Is Sunsetting](https://arc.net/)
+- Oct 22 - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
+- Oct 22 - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
+- Oct 22 - [Google cleared 300 hectares of Finnish forest](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html)
+- Oct 22 - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 <!--END_SECTION:hn-->
 
 <!--
