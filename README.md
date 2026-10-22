@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 21 - [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-- Oct 21 - [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
-- Oct 21 - [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
-- Oct 21 - [Claude Duet](https://claude.com/resources/articles/claude-duet)
-- Oct 21 - [Claude Duet](https://claude.com/product/claude-duet)
+- Oct 22 - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- Oct 22 - [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
+- Oct 22 - [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+- Oct 21 - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+- Oct 21 - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 <!--END_SECTION:hn-->
 
 <!--
