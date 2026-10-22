@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 22 - [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+- Oct 22 - [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
+- Oct 22 - [OpenAI CLI](https://github.com/openai/openai-cli)
 - Oct 22 - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-- Oct 22 - [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
-- Oct 22 - [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
-- Oct 21 - [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-- Oct 21 - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+- Oct 22 - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 <!--END_SECTION:hn-->
 
 <!--
