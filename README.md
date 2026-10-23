@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
-- Oct 23 - ["Today, we hacked what we'd set out to hack: the iPhone."](https://blog.calif.io/p/iphone)
-- Oct 23 - [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
-- Oct 23 - [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
-- Oct 23 - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+- Oct 23 - [Google will pay people to use less electricity so its data centers can use more](https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html)
+- Oct 23 - [CVE Tracker](https://cve.0xosprey.com/)
+- Oct 23 - [No Source Code? No Problem](https://queue.acm.org/doi/10.1145/945131.945155)
+- Oct 23 - [A whirlwind tour of systemd-nspawn containers](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+- Oct 23 - [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
 <!--END_SECTION:hn-->
 
 <!--
