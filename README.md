@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 23 - [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
-- Oct 23 - [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468)
-- Oct 23 - [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- Oct 23 - [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
-- Oct 22 - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
+- Oct 23 - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
+- Oct 23 - ["Today, we hacked what we'd set out to hack: the iPhone."](https://blog.calif.io/p/iphone)
+- Oct 23 - [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
+- Oct 23 - [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
+- Oct 23 - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
 <!--END_SECTION:hn-->
 
 <!--
