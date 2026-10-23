@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
+- Oct 23 - [I Did This Without Your Knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
+- Oct 23 - [This I Believe (1952)](https://www.awakin.org/v2/read/view.php?tid=468)
 - Oct 23 - [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-- Oct 22 - [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
+- Oct 23 - [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)
 - Oct 22 - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
-- Oct 22 - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- Oct 22 - [AI compute is the new oil–and needs a new market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market)
 <!--END_SECTION:hn-->
 
 <!--
