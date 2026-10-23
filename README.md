@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 22 - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
-- Oct 22 - [Railpass](https://train.samismith.com/)
-- Oct 22 - [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
-- Oct 22 - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
-- Oct 22 - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+- Oct 23 - [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- Oct 22 - [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
+- Oct 22 - [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
+- Oct 22 - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- Oct 22 - [AI compute is the new oil–and needs a new market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market)
 <!--END_SECTION:hn-->
 
 <!--
