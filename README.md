@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
-- Oct 24 - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
-- Oct 24 - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-- Oct 24 - [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
-- Oct 24 - [Apple Security Research Device](https://security.apple.com/research-device/)
+- Oct 24 - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
+- Oct 24 - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+- Oct 24 - [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
+- Oct 24 - [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
+- Oct 24 - [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 <!--END_SECTION:hn-->
 
 <!--
