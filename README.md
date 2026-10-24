@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
-- Oct 24 - [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-- Oct 23 - [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
-- Oct 23 - [CVE Tracker](https://cve.0xosprey.com/)
-- Oct 23 - [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+- Oct 24 - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+- Oct 24 - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- Oct 24 - [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
+- Oct 24 - [How Block Blast harvests its players for ad money](https://ayoships.com/breakdowns/block-blast)
+- Oct 24 - [Apple Security Research Device](https://security.apple.com/research-device/)
 <!--END_SECTION:hn-->
 
 <!--
