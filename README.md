@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)
-- Oct 24 - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
-- Oct 24 - [Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
-- Oct 24 - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/)
-- Oct 24 - [FreeDNS](https://freedns.afraid.org/)
+- Oct 24 - [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
+- Oct 24 - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+- Oct 24 - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
+- Oct 24 - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
+- Oct 24 - [The Goose Programming Language](https://aardappel.github.io/goose/)
 <!--END_SECTION:hn-->
 
 <!--
