@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
-- Oct 25 - [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
-- Oct 25 - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
-- Oct 25 - [Samsung TVs look for microphones in your house via Bluetooth and then spy events](https://twitter.com/freddier/status/2114042326758867453)
-- Oct 25 - [Lego collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
+- Oct 25 - [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)
+- Oct 25 - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+- Oct 25 - [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
+- Oct 25 - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+- Oct 25 - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
 <!--END_SECTION:hn-->
 
 <!--
