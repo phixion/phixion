@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)
-- Oct 25 - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
-- Oct 25 - [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
-- Oct 25 - [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
-- Oct 25 - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+- Oct 25 - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+- Oct 25 - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+- Oct 25 - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
+- Oct 25 - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+- Oct 25 - [Focused Company Operating Principles](https://focused.io/operating-principles)
 <!--END_SECTION:hn-->
 
 <!--
