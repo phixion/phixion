@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 24 - [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
-- Oct 24 - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
-- Oct 24 - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
-- Oct 24 - [SpeedCrunch 1.1](https://www.speedcrunch.org/)
-- Oct 24 - [The Goose Programming Language](https://aardappel.github.io/goose/)
+- Oct 25 - [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
+- Oct 25 - [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
+- Oct 25 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+- Oct 24 - [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb)
+- Oct 24 - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
 <!--END_SECTION:hn-->
 
 <!--
