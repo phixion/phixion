@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
-- Oct 25 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
-- Oct 24 - [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
-- Oct 24 - [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
-- Oct 24 - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- Oct 25 - [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
+- Oct 25 - [A Few Thoughts on Intensity](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
+- Oct 25 - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
+- Oct 25 - [Samsung TVs look for microphones in your house via Bluetooth and then spy events](https://twitter.com/freddier/status/2114042326758867453)
+- Oct 25 - [Lego collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
 <!--END_SECTION:hn-->
 
 <!--
