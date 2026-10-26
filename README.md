@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 25 - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
-- Oct 25 - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
-- Oct 25 - [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
-- Oct 25 - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
-- Oct 25 - [Focused Company Operating Principles](https://focused.io/operating-principles)
+- Oct 26 - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+- Oct 26 - [Brazil elections: Lula secures fourth term after dramatic comeback](https://www.bbc.com/news/articles/cmvg7p001qj9o)
+- Oct 26 - [If AI displaces human workers, they will lose more than just pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
+- Oct 26 - [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
+- Oct 26 - [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown)
 <!--END_SECTION:hn-->
 
 <!--
