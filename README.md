@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
-- Oct 26 - [Brazil elections: Lula secures fourth term after dramatic comeback](https://www.bbc.com/news/articles/cmvg7p001qj9o)
-- Oct 26 - [If AI displaces human workers, they will lose more than just pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
-- Oct 26 - [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
-- Oct 26 - [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown)
+- Oct 26 - [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+- Oct 26 - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
+- Oct 26 - [Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management](https://proc-cli.com/)
+- Oct 26 - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
+- Oct 26 - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 <!--END_SECTION:hn-->
 
 <!--
