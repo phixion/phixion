@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 26 - [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
-- Oct 26 - [Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference)
-- Oct 26 - [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
-- Oct 26 - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
-- Oct 26 - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+- Oct 26 - [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
+- Oct 26 - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+- Oct 26 - [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
+- Oct 26 - [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+- Oct 26 - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 <!--END_SECTION:hn-->
 
 <!--
