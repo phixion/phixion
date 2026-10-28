@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 27 - [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
-- Oct 27 - [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
-- Oct 27 - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
-- Oct 27 - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
-- Oct 27 - [Introducing LFM3: Every Modality for Specialized Intelligence](https://www.liquid.ai/blog/lfm3)
+- Oct 28 - [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
+- Oct 27 - [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
+- Oct 27 - [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
+- Oct 27 - [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)
+- Oct 27 - [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
 <!--END_SECTION:hn-->
 
 <!--
