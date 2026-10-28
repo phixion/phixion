@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 28 - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
-- Oct 28 - [An architectural comparison of Obsidian Canvas and Heptabase](https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase)
-- Oct 28 - [The Agent SDK](https://cursor.com/blog/agent-sdk)
-- Oct 28 - [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
-- Oct 28 - [Show HN: Nasscad – local-first 3D CAD for browser and Windows](https://www.nasscad.com/NASSCAD_V4_7_0.htm)
+- Oct 28 - [Alphabet Announces Third Quarter 2026 Results [pdf]](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
+- Oct 28 - [Big Tech's thirst for water is sparking a global resistance](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
+- Oct 28 - [Spiders Spin 'Silk Dope' into Nature's Toughest Material](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
+- Oct 28 - [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+- Oct 28 - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
 <!--END_SECTION:hn-->
 
 <!--
