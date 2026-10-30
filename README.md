@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 30 - [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
-- Oct 30 - [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)
-- Oct 30 - [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
-- Oct 30 - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
-- Oct 30 - [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
+- Oct 30 - [Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It](https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no)
+- Oct 30 - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)
+- Oct 30 - [Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice](https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/)
+- Oct 30 - [Just Noting That Your Candy Corn Is Made of Bug Secretions](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
+- Oct 30 - [5-MeO-DMT sometimes cancels the Ebbinghaus illusion](https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus)
 <!--END_SECTION:hn-->
 
 <!--
