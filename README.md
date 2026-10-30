@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 29 - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
-- Oct 29 - [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
-- Oct 29 - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
-- Oct 29 - [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
-- Oct 29 - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
+- Oct 30 - [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
+- Oct 30 - [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)
+- Oct 30 - [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
+- Oct 30 - [Herdr has released native app](https://github.com/herdrdev/herdr-app)
+- Oct 30 - [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
 <!--END_SECTION:hn-->
 
 <!--
