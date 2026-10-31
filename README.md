@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
-- Oct 31 - [GPT-5.6 Sol can beat Factorio on peaceful mode](https://ryanmadden.net/gpt-56-beats-factorio/)
-- Oct 31 - [It's the Memory Latency, Stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
-- Oct 31 - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
-- Oct 31 - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](https://dl.acm.org/doi/full/10.1145/3706598.3713778)
+- Oct 31 - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- Oct 31 - [Distributed Proofreaders](https://www.pgdp.net/c/)
+- Oct 31 - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
+- Oct 31 - [Surviving "The Graduate"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
+- Oct 31 - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 <!--END_SECTION:hn-->
 
 <!--
