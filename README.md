@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
-- Nov 01 - [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
-- Nov 01 - [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
-- Nov 01 - [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)
-- Nov 01 - [The "Moon Trees"](https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html)
+- Nov 01 - [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
+- Nov 01 - [It wasn't AI that flipped Proton's charge](https://blog.raed.dev/posts/proton-loser-thinking/)
+- Nov 01 - [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
+- Nov 01 - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
+- Nov 01 - [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
 <!--END_SECTION:hn-->
 
 <!--
