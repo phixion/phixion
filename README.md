@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Oct 31 - [An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
-- Oct 31 - [Distributed Proofreaders](https://www.pgdp.net/c/)
-- Oct 31 - [With 86% of the words, you might understand only 38% of an anime's lines](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
-- Oct 31 - [Surviving "The Graduate"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
-- Oct 31 - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- Nov 01 - [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+- Nov 01 - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM](https://arxiv.org/abs/2409.02292)
+- Nov 01 - [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
+- Oct 31 - [Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/)
+- Oct 31 - [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
 <!--END_SECTION:hn-->
 
 <!--
