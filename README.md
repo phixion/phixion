@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 01 - [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
-- Nov 01 - [It wasn't AI that flipped Proton's charge](https://blog.raed.dev/posts/proton-loser-thinking/)
-- Nov 01 - [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
-- Nov 01 - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
-- Nov 01 - [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+- Nov 02 - [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+- Nov 02 - [AI fan wikis riddled with errors are muddying the waters of games culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
+- Nov 02 - [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
+- Nov 02 - [OccupySaaS](https://occupysaas.com/)
+- Nov 01 - [The Megadonors Who Have Poured $1.2B into the Midterms](https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html)
 <!--END_SECTION:hn-->
 
 <!--
