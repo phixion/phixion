@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-- Nov 02 - [AI fan wikis riddled with errors are muddying the waters of games culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
-- Nov 02 - [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
-- Nov 02 - [OccupySaaS](https://occupysaas.com/)
-- Nov 01 - [The Megadonors Who Have Poured $1.2B into the Midterms](https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html)
+- Nov 02 - [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/)
+- Nov 02 - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
+- Nov 02 - [Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)](https://bitmovin.com/careers/8660599002/)
+- Nov 02 - [My Favourite Laptop](https://blog.jsbarretto.com/post/laptop)
+- Nov 02 - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11)
 <!--END_SECTION:hn-->
 
 <!--
