@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 03 - [Harvard - 850,537 breached accounts](https://haveibeenpwned.com/Breach/Harvard)
 - Oct 27 - [AfD - 345,439 breached accounts](https://haveibeenpwned.com/Breach/AfD)
 - Oct 20 - [Assurance Retraite - 70,372 breached accounts](https://haveibeenpwned.com/Breach/AssuranceRetraite)
 - Oct 18 - [Gîtes de France - 117,574 breached accounts](https://haveibeenpwned.com/Breach/GitesDeFrance)
 - Oct 14 - [Crunchbase - 559,908 breached accounts](https://haveibeenpwned.com/Breach/Crunchbase)
-- Oct 12 - [Sharecare - 318,185 breached accounts](https://haveibeenpwned.com/Breach/Sharecare)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 03 - [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-- Nov 03 - [Ask HN: Does anyone have a contact with Cleveland-area Ham club?](https://news.ycombinator.com/item?id=50346164)
-- Nov 03 - [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
-- Nov 02 - [GUI64 – GUI for the Commodore 64 running on top of the built-in ROM](https://www.c64-wiki.com/wiki/GUI64)
-- Nov 02 - [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)
+- Nov 03 - [Revolut moves to self-hosted GLM](https://twitter.com/guilleflorvs/status/2117379073785696395)
+- Nov 03 - [Could a modern chess engine on a Pentium have defeated Kasparov in 1996?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html)
+- Nov 03 - [uBlock Origin filter to block autoplay videos in TechCrunch](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
+- Nov 03 - [Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)
+- Nov 03 - [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
 <!--END_SECTION:hn-->
 
 <!--
