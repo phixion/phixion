@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 02 - [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/)
-- Nov 02 - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
-- Nov 02 - [Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)](https://bitmovin.com/careers/8660599002/)
-- Nov 02 - [My Favourite Laptop](https://blog.jsbarretto.com/post/laptop)
-- Nov 02 - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11)
+- Nov 03 - [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+- Nov 03 - [Ask HN: Does anyone have a contact with Cleveland-area Ham club?](https://news.ycombinator.com/item?id=50346164)
+- Nov 03 - [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
+- Nov 02 - [GUI64 – GUI for the Commodore 64 running on top of the built-in ROM](https://www.c64-wiki.com/wiki/GUI64)
+- Nov 02 - [WorkOS reports security breach](https://news.ycombinator.com/item?id=50345712)
 <!--END_SECTION:hn-->
 
 <!--
