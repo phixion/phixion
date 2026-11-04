@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
-- Nov 04 - [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)
-- Nov 04 - [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
-- Nov 04 - [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
-- Nov 04 - [Milkman – The Better Alternative to Postman](https://milkman.dev/)
+- Nov 04 - [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)
+- Nov 04 - [Have I Befriended a Murderer?](https://longreads.com/2026/11/03/murder-friendship-doubt/)
+- Nov 04 - [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom)
+- Nov 04 - [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
+- Nov 04 - [This Month in Ladybird – October 2026](https://ladybird.org/newsletter/2026-10-31/)
 <!--END_SECTION:hn-->
 
 <!--
