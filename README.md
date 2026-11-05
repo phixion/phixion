@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Introducing Images 2.6](https://openai.com/index/introducing-images-2-6/)
-- Nov 04 - [Local privilege escalation vulnerabilities in Linux](https://openai.com/index/a-thousand-fewer-paths-to-root/)
-- Nov 04 - [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
-- Nov 04 - [Death Comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
-- Nov 04 - [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- Nov 05 - [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)
+- Nov 05 - [OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability](https://hachyderm.io/@damienmiller/117563026759098135)
+- Nov 05 - [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+- Nov 05 - [Being a kid making games in the early 2000s](https://jaytholen.net/teengamedev/)
+- Nov 05 - [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
 <!--END_SECTION:hn-->
 
 <!--
