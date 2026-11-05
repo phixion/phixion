@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 04 - [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)
-- Nov 04 - [Have I Befriended a Murderer?](https://longreads.com/2026/11/03/murder-friendship-doubt/)
-- Nov 04 - [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom)
-- Nov 04 - [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
-- Nov 04 - [This Month in Ladybird – October 2026](https://ladybird.org/newsletter/2026-10-31/)
+- Nov 04 - [Introducing Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- Nov 04 - [Local privilege escalation vulnerabilities in Linux](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- Nov 04 - [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
+- Nov 04 - [Death Comes for XSLT](https://dbushell.com/2026/11/03/xslt-rip/)
+- Nov 04 - [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
 <!--END_SECTION:hn-->
 
 <!--
