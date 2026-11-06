@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
-- Nov 05 - [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
-- Nov 05 - [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
-- Nov 05 - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
-- Nov 05 - [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- Nov 06 - [Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)](https://jhr.pensoft.net/articles.php?id=9096)
+- Nov 06 - [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+- Nov 06 - [Chomsky and the Two Cultures of Statistical Learning](https://www.norvig.com/chomsky.html)
+- Nov 06 - [App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)
+- Nov 06 - [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
 <!--END_SECTION:hn-->
 
 <!--
