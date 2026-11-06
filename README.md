@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 05 - [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf)
-- Nov 05 - [NTS: Authenticated Time at Meta](https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/)
-- Nov 05 - [Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026)
-- Nov 05 - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
-- Nov 05 - [Nasdaq plummets 4% into correction territory](https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html)
+- Nov 06 - [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
+- Nov 05 - [Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data](https://www.fgc.org.br/comunicado)
+- Nov 05 - [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
+- Nov 05 - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+- Nov 05 - [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 <!--END_SECTION:hn-->
 
 <!--
