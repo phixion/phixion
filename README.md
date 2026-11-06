@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)](https://jhr.pensoft.net/articles.php?id=9096)
-- Nov 06 - [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
-- Nov 06 - [Chomsky and the Two Cultures of Statistical Learning](https://www.norvig.com/chomsky.html)
-- Nov 06 - [App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)
-- Nov 06 - [Multiplayer tanks that demolish real buildings from OpenStreetMap](https://worldstrike.fun/)
+- Nov 06 - [We Know 15,579 Websites Are Infected. How Do We Tell Them?](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/)
+- Nov 06 - [Microsoft is winding down Oracle deal to rent AI cloud capacity](https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/)
+- Nov 06 - [Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375)
+- Nov 06 - [Kalshi court losses pile up as judges refuse to block state gambling laws](https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/)
+- Nov 06 - [Size-It-Up (Game)](https://magnitudle.com/size-it-up)
 <!--END_SECTION:hn-->
 
 <!--
