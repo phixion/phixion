@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 06 - [No CVE Today, Please](https://nocveday.com/)
-- Nov 06 - [Outbound SIP calling is now available to all organizations](https://developers.openai.com/api/docs/guides/voice-sip)
-- Nov 06 - [CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/)
-- Nov 06 - [ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053)
-- Nov 06 - [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+- Nov 07 - [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
+- Nov 07 - [Show HN: Did prediction markets do any predicting this midterms?](https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms)
+- Nov 07 - [Lighting the Skies](https://computer.rip/2026-10-25-searchlights.html)
+- Nov 07 - [The AI sell-off compared to well-known stock market crashes](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
+- Nov 07 - [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree)
 <!--END_SECTION:hn-->
 
 <!--
