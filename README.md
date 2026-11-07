@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-- Nov 07 - [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
-- Nov 07 - [Five memorable books about programming (2008)](https://prog21.dadgum.com/19.html)
-- Nov 07 - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
-- Nov 07 - [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)
+- Nov 07 - [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
+- Nov 07 - [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- Nov 07 - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
+- Nov 07 - [MeccanicOS](https://meccanicos.com/)
+- Nov 07 - [Shadow of the Sun (2021)](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
 <!--END_SECTION:hn-->
 
 <!--
