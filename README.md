@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
-- Nov 07 - [Upload Your RAM](https://uploadyourram.org)
-- Nov 07 - [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
-- Nov 07 - [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
-- Nov 07 - [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/)
+- Nov 07 - [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- Nov 07 - [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+- Nov 07 - [Five memorable books about programming (2008)](https://prog21.dadgum.com/19.html)
+- Nov 07 - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+- Nov 07 - [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)
 <!--END_SECTION:hn-->
 
 <!--
