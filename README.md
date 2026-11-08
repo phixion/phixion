@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 07 - [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
-- Nov 07 - [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- Nov 07 - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
-- Nov 07 - [MeccanicOS](https://meccanicos.com/)
-- Nov 07 - [Shadow of the Sun (2021)](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
+- Nov 08 - [I Use Development-Driven Specs, Not Spec-Driven Development](https://github.com/waywardgeek/ensemble)
+- Nov 08 - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
+- Nov 08 - [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
+- Nov 08 - [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
+- Nov 07 - [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
 <!--END_SECTION:hn-->
 
 <!--
