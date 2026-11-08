@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [I Use Development-Driven Specs, Not Spec-Driven Development](https://github.com/waywardgeek/ensemble)
-- Nov 08 - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
-- Nov 08 - [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
-- Nov 08 - [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
-- Nov 07 - [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
+- Nov 08 - [Person of Interest](https://krthr.co/person-of-interest/)
+- Nov 08 - [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
+- Nov 08 - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
+- Nov 08 - [Writing as a Thinking Tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
+- Nov 08 - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 <!--END_SECTION:hn-->
 
 <!--
