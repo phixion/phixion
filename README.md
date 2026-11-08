@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [Person of Interest](https://krthr.co/person-of-interest/)
-- Nov 08 - [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
-- Nov 08 - [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
-- Nov 08 - [Writing as a Thinking Tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
-- Nov 08 - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
+- Nov 08 - [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+- Nov 08 - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
+- Nov 08 - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
+- Nov 08 - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+- Nov 08 - [Playing Zork 1 on a CP/M emulator on Linux (2021)](https://kevinboone.me/cpmzork.html)
 <!--END_SECTION:hn-->
 
 <!--
