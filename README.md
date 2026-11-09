@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 08 - [How I Fight AI Brain Fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
-- Nov 08 - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
-- Nov 08 - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
-- Nov 08 - [Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
-- Nov 08 - [Playing Zork 1 on a CP/M emulator on Linux (2021)](https://kevinboone.me/cpmzork.html)
+- Nov 09 - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
+- Nov 09 - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
+- Nov 09 - [A Bit about Email](https://maurycyz.com/misc/email/)
+- Nov 09 - [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+- Nov 09 - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 <!--END_SECTION:hn-->
 
 <!--
