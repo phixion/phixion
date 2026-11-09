@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
-- Nov 09 - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
-- Nov 09 - [A Bit about Email](https://maurycyz.com/misc/email/)
-- Nov 09 - [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
-- Nov 09 - [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- Nov 09 - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
+- Nov 09 - [Going back two years on Hacker News is like entering another, better universe](https://news.ycombinator.com/front?day=2024-11-08)
+- Nov 09 - [Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer)
+- Nov 09 - [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934)
+- Nov 09 - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 <!--END_SECTION:hn-->
 
 <!--
