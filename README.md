@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
-- Nov 10 - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
-- Nov 09 - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
-- Nov 09 - [Exact – a new cross platform UI framework](https://github.com/expo/exact)
-- Nov 09 - [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
+- Nov 10 - [Merz: Google Cloud is sovereign enough for intelligence agencies](https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html)
+- Nov 10 - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
+- Nov 10 - ['C:\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
+- Nov 10 - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
+- Nov 10 - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
 <!--END_SECTION:hn-->
 
 <!--
