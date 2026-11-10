@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 10 - [Merz: Google Cloud is sovereign enough for intelligence agencies](https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html)
-- Nov 10 - [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/)
-- Nov 10 - ['C:\> FORMAT C:' – relax, it's just a screen saver](https://fakedos.com/)
-- Nov 10 - [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
-- Nov 10 - [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
+- Nov 10 - [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)
+- Nov 10 - [Sherman Anti-Trust Act (1890](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
+- Nov 10 - [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+- Nov 10 - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
+- Nov 10 - [A comprehensive study of how fingerprintable users are](https://fingerprinting.study/)
 <!--END_SECTION:hn-->
 
 <!--
