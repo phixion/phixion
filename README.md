@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 09 - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
-- Nov 09 - [Going back two years on Hacker News is like entering another, better universe](https://news.ycombinator.com/front?day=2024-11-08)
-- Nov 09 - [Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer)
-- Nov 09 - [Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI](https://news.ycombinator.com/item?id=50427934)
-- Nov 09 - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- Nov 10 - [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+- Nov 10 - [Horible public key tricks](https://maurycyz.com/projects/badcert/)
+- Nov 09 - [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+- Nov 09 - [Exact – a new cross platform UI framework](https://github.com/expo/exact)
+- Nov 09 - [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
 <!--END_SECTION:hn-->
 
 <!--
