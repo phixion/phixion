@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 11 - [YouHack - 7,160,849 breached accounts](https://haveibeenpwned.com/Breach/YouHack)
 - Nov 11 - [СберСпасибо (SberSpasibo) - 3,288,711 breached accounts](https://haveibeenpwned.com/Breach/SberSpasibo)
 - Nov 03 - [Harvard - 850,537 breached accounts](https://haveibeenpwned.com/Breach/Harvard)
 - Oct 27 - [AfD - 345,439 breached accounts](https://haveibeenpwned.com/Breach/AfD)
 - Oct 20 - [Assurance Retraite - 70,372 breached accounts](https://haveibeenpwned.com/Breach/AssuranceRetraite)
-- Oct 18 - [Gîtes de France - 117,574 breached accounts](https://haveibeenpwned.com/Breach/GitesDeFrance)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-- Nov 11 - [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-- Nov 11 - [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
-- Nov 11 - [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-- Nov 11 - [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
+- Nov 11 - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
+- Nov 11 - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+- Nov 11 - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
+- Nov 11 - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
+- Nov 11 - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
 <!--END_SECTION:hn-->
 
 <!--
