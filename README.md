@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
-- Nov 11 - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
-- Nov 11 - [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
-- Nov 11 - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
-- Nov 11 - [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
+- Nov 11 - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+- Nov 11 - [Jensen Huang Said to Have Had Relationship with Nvidia Executive](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
+- Nov 11 - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+- Nov 11 - [Play GTA5 on Browser](https://playgta5.com/)
+- Nov 11 - [GitHub Incident with Webhooks, Actions, etc.](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
 <!--END_SECTION:hn-->
 
 <!--
