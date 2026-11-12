@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 11 - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
-- Nov 11 - [Jensen Huang Said to Have Had Relationship with Nvidia Executive](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
-- Nov 11 - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-- Nov 11 - [Play GTA5 on Browser](https://playgta5.com/)
-- Nov 11 - [GitHub Incident with Webhooks, Actions, etc.](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
+- Nov 12 - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
+- Nov 12 - [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
+- Nov 12 - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
+- Nov 12 - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+- Nov 11 - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
 <!--END_SECTION:hn-->
 
 <!--
