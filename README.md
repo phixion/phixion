@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
-- Nov 12 - [Bad ideas that aren't bad anymore](https://devonestes.com/bad-ideas-that-arent-bad-anymore)
-- Nov 12 - [Lean Grimoire](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
-- Nov 12 - [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
-- Nov 11 - [A general purpose Apple Silicon layer for x86-64 PCs](https://github.com/tylertms/Stela)
+- Nov 12 - [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)
+- Nov 12 - [Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)
+- Nov 12 - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
+- Nov 12 - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
+- Nov 12 - [Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux](https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/)
 <!--END_SECTION:hn-->
 
 <!--
