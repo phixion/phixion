@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org)
-- Nov 12 - [Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)
-- Nov 12 - [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
-- Nov 12 - [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
-- Nov 12 - [Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux](https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/)
+- Nov 12 - [Richard Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
+- Nov 12 - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+- Nov 12 - [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)
+- Nov 12 - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
+- Nov 12 - [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
 <!--END_SECTION:hn-->
 
 <!--
