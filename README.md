@@ -6,11 +6,11 @@
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:haveibeenpwnd-->
+- Nov 13 - [CastleRAT - 179,745 breached accounts](https://haveibeenpwned.com/Breach/CastleRAT)
 - Nov 11 - [YouHack - 7,160,849 breached accounts](https://haveibeenpwned.com/Breach/YouHack)
 - Nov 11 - [СберСпасибо (SberSpasibo) - 3,288,711 breached accounts](https://haveibeenpwned.com/Breach/SberSpasibo)
 - Nov 03 - [Harvard - 850,537 breached accounts](https://haveibeenpwned.com/Breach/Harvard)
 - Oct 27 - [AfD - 345,439 breached accounts](https://haveibeenpwned.com/Breach/AfD)
-- Oct 20 - [Assurance Retraite - 70,372 breached accounts](https://haveibeenpwned.com/Breach/AssuranceRetraite)
 <!--END_SECTION:haveibeenpwnd-->
 
 ## hn
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 12 - [Richard Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
-- Nov 12 - [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
-- Nov 12 - [Outlook Down, Microsoft Teams and Office may be impacted](https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect)
-- Nov 12 - [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
-- Nov 12 - [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
+- Nov 13 - [Europe's electric car sales jump 49% as global EV sales grow](https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/)
+- Nov 13 - [Claude Is Down](https://status.claude.com/history)
+- Nov 13 - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+- Nov 13 - [Is there a 'right amount' of AI?](https://coyotetracks.org/blog/right-amount-of-ai/)
+- Nov 13 - [The Dawn of the Data Intelligence Engineer](https://motherduck.com/blog/the-data-intelligence-engineer/)
 <!--END_SECTION:hn-->
 
 <!--
