@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 14 - [First Strike](https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html)
-- Nov 13 - [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
-- Nov 13 - [Doc-foundry – AI writes Security detection rules, then proves they work](https://github.com/mjha-arya/DOC-foundry)
-- Nov 13 - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
-- Nov 13 - [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
+- Nov 14 - [Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)
+- Nov 14 - [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
+- Nov 14 - [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- Nov 14 - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+- Nov 14 - [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
 <!--END_SECTION:hn-->
 
 <!--
