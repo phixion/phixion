@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 15 - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
-- Nov 15 - [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
-- Nov 15 - [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies)
-- Nov 15 - [The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
-- Nov 15 - [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
+- Nov 15 - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+- Nov 15 - [The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
+- Nov 15 - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
+- Nov 15 - [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+- Nov 15 - [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
 <!--END_SECTION:hn-->
 
 <!--
