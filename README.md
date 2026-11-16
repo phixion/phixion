@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
-- Nov 16 - [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
-- Nov 16 - [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
-- Nov 16 - [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
-- Nov 16 - [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
+- Nov 16 - [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+- Nov 16 - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
+- Nov 16 - [Psychic: Like fzf but learns from your actions](https://klauria.tech/psychic/)
+- Nov 16 - [Nvidia was in trouble before the Jensen Huang mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
+- Nov 16 - [A 512 KiB binary message teaching chess without a shared language](https://artemlegotin.com/golden-board/)
 <!--END_SECTION:hn-->
 
 <!--
