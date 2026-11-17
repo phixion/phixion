@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 16 - [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
-- Nov 16 - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
-- Nov 16 - [Psychic: Like fzf but learns from your actions](https://klauria.tech/psychic/)
-- Nov 16 - [Nvidia was in trouble before the Jensen Huang mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
-- Nov 16 - [A 512 KiB binary message teaching chess without a shared language](https://artemlegotin.com/golden-board/)
+- Nov 17 - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
+- Nov 17 - [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
+- Nov 17 - [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)
+- Nov 17 - [The Weather at Home](https://alexhowells.com/writing/the-weather-at-home/)
+- Nov 17 - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
 <!--END_SECTION:hn-->
 
 <!--
