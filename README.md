@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
-- Nov 17 - [Show HN: A free interactive course on AI agent governance](https://studio.sinapsdata.com.br)
-- Nov 17 - [Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling](https://cwtractors.com)
-- Nov 17 - [The Weather at Home](https://alexhowells.com/writing/the-weather-at-home/)
-- Nov 17 - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
+- Nov 17 - [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+- Nov 17 - [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
+- Nov 17 - [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
+- Nov 17 - [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
+- Nov 16 - [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
 <!--END_SECTION:hn-->
 
 <!--
