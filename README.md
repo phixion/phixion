@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 17 - [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
-- Nov 17 - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
-- Nov 17 - [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)
-- Nov 17 - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-- Nov 17 - [Tencent Hy4 Flash](https://hy.tencent.ai/research/hy4-flash)
+- Nov 18 - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
+- Nov 18 - [Optimjack from the Outside: The Hijacked Script Was on Our Radar](https://blog.fortirix.com/blog/optimjack/)
+- Nov 18 - [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
+- Nov 18 - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
+- Nov 18 - [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
 <!--END_SECTION:hn-->
 
 <!--
