@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 18 - [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
-- Nov 18 - [Optimjack from the Outside: The Hijacked Script Was on Our Radar](https://blog.fortirix.com/blog/optimjack/)
-- Nov 18 - [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
-- Nov 18 - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
-- Nov 18 - [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
+- Nov 18 - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
+- Nov 18 - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
+- Nov 18 - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- Nov 18 - [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
+- Nov 18 - [Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365](https://exitpath-ruddy.vercel.app/)
 <!--END_SECTION:hn-->
 
 <!--
