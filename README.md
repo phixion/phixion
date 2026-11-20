@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
-- Nov 20 - [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084)
-- Nov 20 - [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
-- Nov 20 - [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/)
-- Nov 20 - [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
+- Nov 20 - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+- Nov 20 - [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
+- Nov 20 - [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
+- Nov 20 - [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/)
+- Nov 20 - [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
 <!--END_SECTION:hn-->
 
 <!--
