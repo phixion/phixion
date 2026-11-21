@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 20 - [Re: Riemann](https://borretti.me/article/re-riemann)
-- Nov 20 - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
-- Nov 20 - [AI may have solved the most important problem in mathematics](https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics)
-- Nov 20 - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
-- Nov 20 - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
+- Nov 21 - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
+- Nov 21 - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
+- Nov 21 - [Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
+- Nov 21 - [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
+- Nov 21 - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
 <!--END_SECTION:hn-->
 
 <!--
