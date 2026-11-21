@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)
-- Nov 21 - [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
-- Nov 21 - [Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
-- Nov 21 - [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
-- Nov 21 - [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
+- Nov 21 - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
+- Nov 21 - [Upload2Shell · CVE-2026-125396](https://pwn.ai/upload2shell)
+- Nov 21 - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
+- Nov 21 - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
+- Nov 21 - [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
 <!--END_SECTION:hn-->
 
 <!--
