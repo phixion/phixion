@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 21 - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
-- Nov 21 - [Upload2Shell · CVE-2026-125396](https://pwn.ai/upload2shell)
-- Nov 21 - [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-- Nov 21 - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
-- Nov 21 - [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
+- Nov 22 - [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- Nov 22 - [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
+- Nov 22 - [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)
+- Nov 22 - [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+- Nov 22 - [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
 <!--END_SECTION:hn-->
 
 <!--
