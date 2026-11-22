@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
-- Nov 22 - [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
-- Nov 22 - [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)
-- Nov 22 - [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
-- Nov 22 - [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
+- Nov 22 - [Norway to extend proposed under-16 social media ban to games and messaging apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
+- Nov 22 - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
+- Nov 22 - [A better internet for everyone is possible. Today](https://osw-alliance.net/en/)
+- Nov 22 - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+- Nov 22 - [U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
 <!--END_SECTION:hn-->
 
 <!--
