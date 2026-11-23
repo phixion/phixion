@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 22 - [Norway to extend proposed under-16 social media ban to games and messaging apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
-- Nov 22 - [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
-- Nov 22 - [A better internet for everyone is possible. Today](https://osw-alliance.net/en/)
-- Nov 22 - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
-- Nov 22 - [U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
+- Nov 22 - [FBI is having a mass hire for IT specialists](https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&)
+- Nov 22 - [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
+- Nov 22 - [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
+- Nov 22 - [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+- Nov 22 - [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
 <!--END_SECTION:hn-->
 
 <!--
