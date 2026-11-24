@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 23 - [Jensen Huang Reinstated as Nvidia CEO](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
-- Nov 23 - [Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](https://github.com/ruairidhflint/news-blocklist)
-- Nov 23 - [Win4wine – Run Windows Shell as the Linux Desktop on Wine](https://github.com/mikuta0407/win4wine)
-- Nov 23 - [The next circle of security hell](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
-- Nov 23 - [Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor](https://github.com/os6/nospeaker)
+- Nov 24 - [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)
+- Nov 24 - [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
+- Nov 23 - [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
+- Nov 23 - [Huang's Return Is the Biggest National Security Scandal in U.S. History](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/)
+- Nov 23 - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
 <!--END_SECTION:hn-->
 
 <!--
