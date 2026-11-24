@@ -9,7 +9,7 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 - Nov 23 - [Bromcom - 355,051 breached accounts](https://haveibeenpwned.com/Breach/Bromcom)
 - Nov 20 - [Too Lost - 724,323 breached accounts](https://haveibeenpwned.com/Breach/TooLost)
 - Nov 20 - [Careers360 - 3,609,421 breached accounts](https://haveibeenpwned.com/Breach/Careers360)
-- Nov 13 - [CastleRAT - 179,745 breached accounts](https://haveibeenpwned.com/Breach/CastleRAT)
+- Nov 13 - [CastleRAT - 430,557 breached accounts](https://haveibeenpwned.com/Breach/CastleRAT)
 - Nov 11 - [YouHack - 7,160,849 breached accounts](https://haveibeenpwned.com/Breach/YouHack)
 <!--END_SECTION:haveibeenpwnd-->
 
@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 24 - [Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)
-- Nov 24 - [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
-- Nov 23 - [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
-- Nov 23 - [Huang's Return Is the Biggest National Security Scandal in U.S. History](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/)
-- Nov 23 - [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
+- Nov 24 - [GTA 6 Running on Windows](https://twitter.com/raul_bs3/status/2125213756238291075)
+- Nov 24 - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
+- Nov 24 - [Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)
+- Nov 24 - [Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)
+- Nov 24 - [Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)
 <!--END_SECTION:hn-->
 
 <!--
