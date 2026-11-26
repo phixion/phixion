@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 25 - [Jev is (probably) Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
-- Nov 25 - [Duran Duran guitarist Andy Taylor dies aged 65](https://www.bbc.co.uk/news/articles/cmp3vk6vr44po)
-- Nov 25 - [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
-- Nov 25 - [Deploying a payphone on a tiny Pacific Island for fun and zero profit](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
-- Nov 25 - [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
+- Nov 26 - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
+- Nov 26 - [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
+- Nov 26 - [Intel One Mono font](https://github.com/intel/intel-one-mono)
+- Nov 26 - [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
+- Nov 26 - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
 <!--END_SECTION:hn-->
 
 <!--
