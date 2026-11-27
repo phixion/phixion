@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 26 - [Head of Software Engineering – NOX Metals](https://news.ycombinator.com/item?id=50654353)
-- Nov 26 - [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
-- Nov 26 - [Intel One Mono font](https://github.com/intel/intel-one-mono)
-- Nov 26 - [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
-- Nov 26 - [An algebraic quantization of gravity from the null cone](https://arxiv.org/abs/2611.34924)
+- Nov 26 - [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
+- Nov 26 - [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- Nov 26 - [Denver man traps Waymo robotaxis with cones, eggs them at least 30 times](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
+- Nov 26 - [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+- Nov 26 - [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 <!--END_SECTION:hn-->
 
 <!--
