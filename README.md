@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 27 - [Why drivers want cheap, dumb cars again](https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html)
+- Nov 28 - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+- Nov 28 - [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
+- Nov 27 - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
 - Nov 27 - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
 - Nov 27 - [Source Control from Hell](https://frantic.im/git/)
-- Nov 27 - [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
-- Nov 27 - [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
 <!--END_SECTION:hn-->
 
 <!--
