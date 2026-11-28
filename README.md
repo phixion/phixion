@@ -19,11 +19,11 @@ for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 for https://github.com/phixion/phixion/blob/main/.github/workflows/feeds.yml
 -->
 <!--START_SECTION:hn-->
-- Nov 28 - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
-- Nov 28 - [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
-- Nov 27 - [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
-- Nov 27 - [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
-- Nov 27 - [Source Control from Hell](https://frantic.im/git/)
+- Nov 28 - [If AI takes every job who will buy things?](https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things)
+- Nov 28 - [Silently degrading the model's capabilities IS sabotage](https://twitter.com/TimSweeneyEpic/status/2126682647862862063)
+- Nov 28 - [Physics Breakthrough Simulator](https://pages.ethanmdavidson.com/ai-physics-breakthrough)
+- Nov 28 - [Google will soon share Android developers' addresses publicly](https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/)
+- Nov 28 - [Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run](https://github.com/RiccardoSottini/AffrescoUI)
 <!--END_SECTION:hn-->
 
 <!--
